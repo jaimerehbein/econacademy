@@ -1,77 +1,211 @@
 import React from 'react';
-import { BookOpen, GraduationCap, TrendingUp, Users } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
+import { ArrowRight, BookOpen, GraduationCap, BarChart2, Cpu, Globe, TrendingUp, Layers, BookMarked } from 'lucide-react';
 import subjectsData from '../data.json';
 
+const PROGRAMS = [
+    {
+        key: 'Licenciatura en Economía',
+        label: 'Licenciatura en Economía',
+        level: 'Pregrado · 4 años',
+        description: 'Fundamentos sólidos de micro y macroeconomía, econometría y economía internacional. La base de toda carrera económica.',
+        Icon: GraduationCap,
+        from: 'from-indigo-600', to: 'to-purple-600',
+        glow: 'shadow-indigo-500/20',
+        accent: 'text-indigo-300',
+        accentBg: 'bg-indigo-500/10',
+        accentBorder: 'border-indigo-500/20',
+        dot: 'bg-indigo-400',
+    },
+    {
+        key: 'Maestría en Ciencias Económicas',
+        label: 'Maestría en Ciencias Económicas',
+        level: 'Posgrado · 2 años',
+        description: 'Modelos avanzados de equilibrio general, economía del bienestar y teoría de juegos aplicada a política económica.',
+        Icon: BarChart2,
+        from: 'from-emerald-600', to: 'to-teal-600',
+        glow: 'shadow-emerald-500/20',
+        accent: 'text-emerald-300',
+        accentBg: 'bg-emerald-500/10',
+        accentBorder: 'border-emerald-500/20',
+        dot: 'bg-emerald-400',
+    },
+    {
+        key: 'Master en Macroeconomía',
+        label: 'Master en Macroeconomía',
+        level: 'Especialización · 18 meses',
+        description: 'Política monetaria, modelos DSGE, análisis de ciclos económicos y gestión de crisis fiscales a nivel internacional.',
+        Icon: TrendingUp,
+        from: 'from-fuchsia-600', to: 'to-pink-600',
+        glow: 'shadow-fuchsia-500/20',
+        accent: 'text-fuchsia-300',
+        accentBg: 'bg-fuchsia-500/10',
+        accentBorder: 'border-fuchsia-500/20',
+        dot: 'bg-fuchsia-400',
+    },
+    {
+        key: 'Master en Microeconomía',
+        label: 'Master en Microeconomía',
+        level: 'Especialización · 18 meses',
+        description: 'Teoría del consumidor, producción, competencia imperfecta, información asimétrica y diseño de mecanismos.',
+        Icon: Layers,
+        from: 'from-amber-500', to: 'to-orange-500',
+        glow: 'shadow-amber-500/20',
+        accent: 'text-amber-300',
+        accentBg: 'bg-amber-500/10',
+        accentBorder: 'border-amber-500/20',
+        dot: 'bg-amber-400',
+    },
+    {
+        key: 'Master en Ingeniería Financiera',
+        label: 'Master en Ingeniería Financiera',
+        level: 'Especialización · 12 meses',
+        description: 'Derivados, valoración de activos, riesgo de crédito, MBS, modelos estocásticos y matemáticas financieras avanzadas.',
+        Icon: Cpu,
+        from: 'from-cyan-600', to: 'to-blue-600',
+        glow: 'shadow-cyan-500/20',
+        accent: 'text-cyan-300',
+        accentBg: 'bg-cyan-500/10',
+        accentBorder: 'border-cyan-500/20',
+        dot: 'bg-cyan-400',
+    },
+    {
+        key: 'Master en Economía Política',
+        label: 'Master en Economía Política',
+        level: 'Especialización · 12 meses',
+        description: 'Marxismo, imperialismo, ciclos de crisis capitalistas, economía política clásica y teoría del estado.',
+        Icon: Globe,
+        from: 'from-rose-600', to: 'to-red-700',
+        glow: 'shadow-rose-500/20',
+        accent: 'text-rose-300',
+        accentBg: 'bg-rose-500/10',
+        accentBorder: 'border-rose-500/20',
+        dot: 'bg-rose-400',
+    },
+    {
+        key: 'Master en Economía Básica',
+        label: 'Master en Economía Básica',
+        level: 'Especialización · 12 meses',
+        description: 'Pensamiento económico de Thomas Sowell, mitos del mercado, precios, incentivos y consecuencias no previstas.',
+        Icon: BookMarked,
+        from: 'from-orange-600', to: 'to-amber-700',
+        glow: 'shadow-orange-500/20',
+        accent: 'text-orange-300',
+        accentBg: 'bg-orange-500/10',
+        accentBorder: 'border-orange-500/20',
+        dot: 'bg-orange-400',
+    },
+];
+
 const Dashboard = () => {
-    const stats = [
-        { label: 'Asignaturas Totales', value: subjectsData.asignaturas.length, icon: BookOpen, color: 'text-indigo-400', bg: 'bg-indigo-500/20', border: 'border-indigo-500/30' },
-        { label: 'Créditos Estimados', value: subjectsData.asignaturas.length * 6, icon: GraduationCap, color: 'text-emerald-400', bg: 'bg-emerald-500/20', border: 'border-emerald-500/30' },
-        { label: 'Categorías Académicas', value: new Set(subjectsData.asignaturas.map(s => s.categoria)).size, icon: TrendingUp, color: 'text-cyan-400', bg: 'bg-cyan-500/20', border: 'border-cyan-500/30' },
-        { label: 'Perfil de Egresado', value: 'Economista Global', icon: Users, color: 'text-purple-400', bg: 'bg-purple-500/20', border: 'border-purple-500/30' },
-    ];
+    const navigate = useNavigate();
+    const subjects = subjectsData?.asignaturas || [];
+
+    const totalModules = subjects.length;
+    const totalPrograms = new Set(subjects.map(s => s.programa)).size;
 
     return (
-        <div className="space-y-12 animate-in fade-in slide-in-from-bottom-4 duration-700">
-            <header className="space-y-4">
-                <h2 className="text-4xl md:text-5xl font-extrabold text-white tracking-tight">Bienvenido al Portal de Licenciatura</h2>
-                <p className="text-lg text-slate-300 max-w-3xl leading-relaxed">
-                    Explora el currículo completo de Economía. Cada programa ha sido diseñado con estándares internacionales y un enfoque en análisis cuantitativo avanzado y estrategia global.
-                </p>
-            </header>
+        <div className="space-y-16 animate-in fade-in slide-in-from-bottom-4 duration-700">
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                {stats.map((stat) => (
-                    <div key={stat.label} className="glass-panel p-6 rounded-3xl hover:-translate-y-1 transition-all duration-300 group relative overflow-hidden">
-                        {/* Ambient glow effect inside card */}
-                        <div className={`absolute -top-10 -right-10 w-32 h-32 rounded-full blur-3xl opacity-20 transition-opacity duration-500 group-hover:opacity-40 ${stat.bg.replace('/20', '')}`}></div>
+            {/* ── Hero ── */}
+            <header className="relative overflow-hidden rounded-[2.5rem] border border-white/8 bg-gradient-to-br from-slate-900 via-slate-900 to-slate-800 p-10 md:p-16 shadow-2xl">
+                <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-emerald-500/5 rounded-full blur-[120px] -translate-y-1/3 translate-x-1/4 pointer-events-none" />
+                <div className="absolute bottom-0 left-0 w-[400px] h-[400px] bg-indigo-500/5 rounded-full blur-[100px] translate-y-1/3 -translate-x-1/4 pointer-events-none" />
 
-                        <div className={`${stat.bg} ${stat.color} ${stat.border} border w-12 h-12 rounded-2xl flex items-center justify-center mb-5 group-hover:scale-110 group-hover:rotate-3 transition-transform duration-300 shadow-lg`}>
-                            <stat.icon size={24} />
+                <div className="relative z-10 flex flex-col md:flex-row items-start md:items-end justify-between gap-8">
+                    <div className="space-y-5 max-w-2xl">
+                        <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-[10px] font-black tracking-[0.35em] uppercase">
+                            <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
+                            Formación de Élite en Economía
                         </div>
-                        <p className="text-sm font-semibold text-slate-300 tracking-wide uppercase">{stat.label}</p>
-                        <p className={`text-2xl font-bold text-white mt-1 group-hover:${stat.color} transition-colors duration-300`}>{stat.value}</p>
-                    </div>
-                ))}
-            </div>
-
-            <section className="bg-gradient-to-br from-indigo-900 via-purple-900 to-slate-900 rounded-[2.5rem] p-12 text-white shadow-[0_0_50px_rgba(79,70,229,0.2)] border border-white/10 relative overflow-hidden group">
-                {/* Animated Background Elements */}
-                <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-indigo-500/20 rounded-full blur-[100px] -translate-y-1/2 translate-x-1/3 group-hover:scale-110 transition-transform duration-700"></div>
-                <div className="absolute bottom-0 left-0 w-[300px] h-[300px] bg-purple-500/20 rounded-full blur-[80px] translate-y-1/3 -translate-x-1/4 group-hover:scale-110 transition-transform duration-700"></div>
-
-                <div className="relative z-10 flex flex-col md:flex-row justify-between items-center gap-12">
-                    <div className="space-y-6 max-w-xl">
-                        <div className="inline-block px-4 py-1.5 rounded-full bg-indigo-500/20 border border-indigo-500/30 text-indigo-300 text-xs font-bold tracking-widest uppercase mb-2 shadow-[0_0_15px_rgba(99,102,241,0.2)]">
-                            Visión 2026
-                        </div>
-                        <h3 className="text-4xl md:text-5xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-white to-slate-400">
-                            Plan de Estudios
-                        </h3>
-                        <p className="text-slate-300 text-lg leading-relaxed font-light">
-                            Nuestro programa integra las últimas tendencias en Econometría, Inteligencia Artificial aplicada a la economía y Gestión de Riesgos Globales. Haz clic en el menú lateral para sumergirte en cualquier asignatura.
+                        <h1 className="text-5xl md:text-7xl font-black text-white tracking-tighter leading-none">
+                            ECON<br />
+                            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-teal-400">ACADEMY</span>
+                        </h1>
+                        <p className="text-slate-400 text-lg leading-relaxed font-light max-w-xl">
+                            Un portal académico de élite con programas de Licenciatura, Maestría y Masters especializados en Economía, Finanzas y Política Económica.
                         </p>
-                        <div className="flex flex-wrap gap-4 pt-4">
-                            <span className="px-5 py-2.5 bg-white/5 backdrop-blur-md rounded-xl text-sm font-semibold border border-white/10 shadow-lg text-slate-200 hover:bg-white/10 transition-colors cursor-pointer flex items-center gap-2">
-                                <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse"></span>
-                                Economía Abierta
-                            </span>
-                            <span className="px-5 py-2.5 bg-white/5 backdrop-blur-md rounded-xl text-sm font-semibold border border-white/10 shadow-lg text-slate-200 hover:bg-white/10 transition-colors cursor-pointer flex items-center gap-2">
-                                <span className="w-2 h-2 rounded-full bg-purple-400 animate-pulse"></span>
-                                Análisis Cuantitativo
-                            </span>
-                        </div>
                     </div>
-                    <div className="w-full md:w-auto relative hidden md:block">
-                        <div className="w-64 h-64 border border-white/10 rounded-full flex items-center justify-center relative bg-white/5 backdrop-blur-sm shadow-2xl">
-                            <div className="w-48 h-48 border border-white/20 rounded-full border-dashed animate-[spin_20s_linear_infinite] flex items-center justify-center">
-                                <div className="w-32 h-32 bg-gradient-to-tr from-indigo-500 to-purple-500 rounded-full shadow-[0_0_40px_rgba(99,102,241,0.5)] flex items-center justify-center animate-pulse">
-                                    <BookOpen size={40} className="text-white" />
-                                </div>
-                            </div>
-                        </div>
+                    <div className="flex flex-col items-end gap-2 text-right shrink-0">
+                        <div className="text-5xl font-black text-white tabular-nums">{totalModules}</div>
+                        <div className="text-[10px] font-bold text-slate-500 uppercase tracking-widest">Módulos disponibles</div>
+                        <div className="text-2xl font-black text-slate-400 tabular-nums mt-2">{totalPrograms}</div>
+                        <div className="text-[10px] font-bold text-slate-600 uppercase tracking-widest">Programas</div>
                     </div>
                 </div>
+            </header>
+
+            {/* ── Program Grid ── */}
+            <section className="space-y-6">
+                <div className="flex items-center gap-3">
+                    <div className="w-8 h-0.5 bg-emerald-500 rounded-full" />
+                    <h2 className="text-slate-400 font-black text-[11px] uppercase tracking-[0.4em]">Programas Académicos</h2>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5">
+                    {PROGRAMS.map(prog => {
+                        const progSubjects = subjects.filter(s => s.programa === prog.key)
+                            .sort((a, b) => a.codigo.localeCompare(b.codigo, undefined, { numeric: true }));
+                        const firstModule = progSubjects[0];
+                        if (!progSubjects.length) return null;
+
+                        return (
+                            <div
+                                key={prog.key}
+                                onClick={() => firstModule && navigate(`/subject/${firstModule.codigo.toLowerCase()}`)}
+                                className={`group relative overflow-hidden rounded-[1.75rem] border border-white/8 bg-white/3 hover:bg-white/6 cursor-pointer transition-all duration-300 hover:-translate-y-1 hover:shadow-xl ${prog.glow} p-7 flex flex-col gap-5`}
+                            >
+                                {/* Gradient ambient glow */}
+                                <div className={`absolute -top-12 -right-12 w-36 h-36 rounded-full blur-3xl opacity-0 group-hover:opacity-30 transition-opacity duration-500 bg-gradient-to-br ${prog.from} ${prog.to}`} />
+
+                                {/* Icon + Level */}
+                                <div className="flex items-start justify-between">
+                                    <div className={`w-12 h-12 rounded-2xl bg-gradient-to-br ${prog.from} ${prog.to} flex items-center justify-center shadow-lg flex-shrink-0 group-hover:scale-110 transition-transform duration-300`}>
+                                        <prog.Icon size={22} className="text-white" />
+                                    </div>
+                                    <span className={`text-[9px] font-black uppercase tracking-widest ${prog.accentBg} ${prog.accentBorder} ${prog.accent} border px-2.5 py-1 rounded-full`}>
+                                        {progSubjects.length} módulos
+                                    </span>
+                                </div>
+
+                                {/* Text */}
+                                <div className="space-y-2 flex-1">
+                                    <p className={`text-[9px] font-bold uppercase tracking-widest ${prog.accent}`}>{prog.level}</p>
+                                    <h3 className="text-white font-black text-lg leading-tight tracking-tight">{prog.label}</h3>
+                                    <p className="text-slate-500 text-sm leading-relaxed">{prog.description}</p>
+                                </div>
+
+                                {/* Module preview tags */}
+                                <div className="flex flex-wrap gap-1.5">
+                                    {progSubjects.slice(0, 3).map(s => (
+                                        <span key={s.codigo} className="text-[9px] font-mono font-bold text-slate-600 bg-white/5 border border-white/8 px-2 py-0.5 rounded">
+                                            {s.codigo}
+                                        </span>
+                                    ))}
+                                    {progSubjects.length > 3 && (
+                                        <span className="text-[9px] font-mono font-bold text-slate-700 px-1">
+                                            +{progSubjects.length - 3}
+                                        </span>
+                                    )}
+                                </div>
+
+                                {/* CTA */}
+                                <div className={`flex items-center gap-2 ${prog.accent} text-[11px] font-black uppercase tracking-widest`}>
+                                    <span>Comenzar programa</span>
+                                    <ArrowRight size={12} className="group-hover:translate-x-1 transition-transform duration-300" />
+                                </div>
+                            </div>
+                        );
+                    })}
+                </div>
             </section>
+
+            {/* ── Footer tagline ── */}
+            <footer className="text-center py-4 border-t border-white/5">
+                <p className="text-[10px] font-bold text-slate-600 uppercase tracking-[0.4em]">
+                    EconAcademy · Formación de Élite en Economía
+                </p>
+            </footer>
         </div>
     );
 };
