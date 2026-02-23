@@ -1,18 +1,28 @@
 import React, { useState } from 'react';
+import { useLocation } from 'react-router-dom';
 import Sidebar from './Sidebar';
 import FloatingTools from './FloatingTools';
 import NotesPanel from './NotesPanel';
-import { Flame, BookOpen, Menu } from 'lucide-react';
+import { Flame, BookOpen, Menu, LayoutGrid } from 'lucide-react';
+import subjectsData from '../data.json';
 
 const Layout = ({ children }) => {
     const [isNotesOpen, setIsNotesOpen] = useState(false);
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+    const location = useLocation();
+
+    // Resolve current subject from URL
+    const subjects = subjectsData?.asignaturas || [];
+    const match = location.pathname.match(/^\/subject\/(.+)$/);
+    const activeSubject = match
+        ? subjects.find(s => s.codigo.toLowerCase() === match[1].toLowerCase())
+        : null;
 
     return (
         <div className="flex bg-study-bg min-h-screen text-study-text selection:bg-indigo-500/30 selection:text-white transition-colors duration-500">
             <Sidebar isOpen={isSidebarOpen} setIsOpen={setIsSidebarOpen} />
 
-            {/* Overlay for mobile sidebar */}
+            {/* Mobile overlay */}
             {isSidebarOpen && (
                 <div
                     className="fixed inset-0 bg-black/60 backdrop-blur-sm z-40 lg:hidden"
@@ -21,7 +31,7 @@ const Layout = ({ children }) => {
             )}
 
             <main className="flex-1 lg:ml-80 min-h-screen relative overflow-x-hidden flex flex-col w-full">
-                {/* Personal Progress Dashboard (Discrete Top Bar) - Glassmorphism */}
+                {/* Top bar */}
                 <header className="w-full bg-slate-900/60 backdrop-blur-2xl border-b border-white/10 px-4 md:px-8 py-4 sticky top-0 z-30 flex items-center justify-between shadow-xl shadow-black/20">
                     <div className="flex items-center gap-3">
                         <button
@@ -30,29 +40,39 @@ const Layout = ({ children }) => {
                         >
                             <Menu size={20} />
                         </button>
-                        <span className="font-semibold text-slate-200 tracking-wide text-xs md:text-sm hidden sm:inline-block">Hola, Estudiante</span>
+                        <span className="font-semibold text-slate-200 tracking-wide text-xs md:text-sm hidden sm:inline-block">
+                            EconAcademy
+                        </span>
                         <span className="text-slate-600 hidden sm:inline-block">•</span>
                         <div className="flex items-center gap-1.5 text-orange-400 bg-orange-500/10 border border-orange-500/20 px-2 md:px-3 py-1 rounded-full font-bold text-[10px] md:text-xs shadow-[0_0_10px_rgba(249,115,22,0.2)]">
                             <Flame size={14} fill="currentColor" className="animate-pulse" />
                             <span className="hidden sm:inline-block">12 días de racha</span>
-                            <span className="sm:hidden">12 días</span>
+                            <span className="sm:hidden">12</span>
                         </div>
                     </div>
-                    <div className="flex items-center gap-2 text-indigo-300 text-[10px] md:text-xs font-medium bg-indigo-500/10 px-2 md:px-3 py-1.5 rounded-lg border border-indigo-500/20 max-w-[50%] sm:max-w-none truncate shrink-0">
-                        <BookOpen size={14} className="text-indigo-400 shrink-0" />
-                        <span className="tracking-wide truncate">A40 Finanzas Corporativas</span>
-                    </div>
+
+                    {/* Active module indicator — dynamic */}
+                    {activeSubject ? (
+                        <div className="flex items-center gap-2 text-slate-300 text-[10px] md:text-xs font-medium bg-white/5 px-2 md:px-3 py-1.5 rounded-lg border border-white/10 max-w-[50%] sm:max-w-xs truncate shrink-0">
+                            <BookOpen size={14} className="text-slate-400 shrink-0" />
+                            <span className="text-slate-500 font-mono font-bold hidden sm:inline-block">{activeSubject.codigo}</span>
+                            <span className="truncate">{activeSubject.nombre}</span>
+                        </div>
+                    ) : (
+                        <div className="flex items-center gap-2 text-slate-500 text-[10px] font-medium px-3 py-1.5">
+                            <LayoutGrid size={14} />
+                            <span className="hidden sm:inline-block">Explorador</span>
+                        </div>
+                    )}
                 </header>
 
                 <div className="max-w-4xl mx-auto px-4 sm:px-8 md:px-12 py-8 md:py-16 w-full relative z-10">
                     {children}
                 </div>
 
-                {/* Global floating study tools */}
                 <FloatingTools onOpenNotes={() => setIsNotesOpen(true)} />
             </main>
 
-            {/* Slide-out Personal Notes Editor */}
             <NotesPanel isOpen={isNotesOpen} onClose={() => setIsNotesOpen(false)} />
         </div>
     );
