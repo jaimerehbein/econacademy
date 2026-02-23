@@ -1,0 +1,122 @@
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.0.2                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      notebooklm, 3.0.2                         │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[02/22/26 17:25:07] INFO     Starting MCP server 'notebooklm'   transport.py:183
+                             with transport 'stdio'                             
+  + Exception Group Traceback (most recent call last):
+  |   File "/Users/machd/.local/bin/notebooklm-mcp", line 7, in <module>
+  |     sys.exit(main())
+  |              ~~~~^^
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/notebooklm_mcp/server.py", line 2061, in main
+  |     mcp.run()
+  |     ~~~~~~~^^
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/fastmcp/server/mixins/transport.py", line 88, in run
+  |     anyio.run(
+  |     ~~~~~~~~~^
+  |         partial(
+  |         ^^^^^^^^
+  |     ...<4 lines>...
+  |         )
+  |         ^
+  |     )
+  |     ^
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/anyio/_core/_eventloop.py", line 77, in run
+  |     return async_backend.run(func, args, {}, backend_options)
+  |            ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 2342, in run
+  |     return runner.run(wrapper())
+  |            ~~~~~~~~~~^^^^^^^^^^^
+  |   File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/runners.py", line 127, in run
+  |     return self._loop.run_until_complete(task)
+  |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  |   File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/asyncio/base_events.py", line 719, in run_until_complete
+  |     return future.result()
+  |            ~~~~~~~~~~~~~^^
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 2325, in wrapper
+  |     return await func(*args)
+  |            ^^^^^^^^^^^^^^^^^
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/fastmcp/server/mixins/transport.py", line 61, in run_async
+  |     await self.run_stdio_async(
+  |     ...<2 lines>...
+  |     )
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/fastmcp/server/mixins/transport.py", line 181, in run_stdio_async
+  |     async with stdio_server() as (read_stream, write_stream):
+  |                ~~~~~~~~~~~~^^
+  |   File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 235, in __aexit__
+  |     await self.gen.athrow(value)
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/mcp/server/stdio.py", line 85, in stdio_server
+  |     async with anyio.create_task_group() as tg:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 783, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Exception Group Traceback (most recent call last):
+    |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/mcp/server/stdio.py", line 88, in stdio_server
+    |     yield read_stream, write_stream
+    |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/fastmcp/server/mixins/transport.py", line 187, in run_stdio_async
+    |     await self._mcp_server.run(
+    |     ...<8 lines>...
+    |     )
+    |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/fastmcp/server/low_level.py", line 233, in run
+    |     async with AsyncExitStack() as stack:
+    |                ~~~~~~~~~~~~~~^^
+    |   File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 768, in __aexit__
+    |     raise exc
+    |   File "/opt/homebrew/Cellar/python@3.14/3.14.3/Frameworks/Python.framework/Versions/3.14/lib/python3.14/contextlib.py", line 751, in __aexit__
+    |     cb_suppress = await cb(*exc_details)
+    |                   ^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/mcp/shared/session.py", line 238, in __aexit__
+    |     return await self._task_group.__aexit__(exc_type, exc_val, exc_tb)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 783, in __aexit__
+    |     raise BaseExceptionGroup(
+    |         "unhandled errors in a TaskGroup", self._exceptions
+    |     ) from None
+    | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+    +-+---------------- 1 ----------------
+      | Exception Group Traceback (most recent call last):
+      |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/fastmcp/server/low_level.py", line 245, in run
+      |     async with anyio.create_task_group() as tg:
+      |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+      |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/anyio/_backends/_asyncio.py", line 783, in __aexit__
+      |     raise BaseExceptionGroup(
+      |         "unhandled errors in a TaskGroup", self._exceptions
+      |     ) from None
+      | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+      +-+---------------- 1 ----------------
+        | Traceback (most recent call last):
+        |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/mcp/server/lowlevel/server.py", line 696, in _handle_message
+        |     await self._handle_request(message, req, session, lifespan_context, raise_exceptions)
+        |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/mcp/server/lowlevel/server.py", line 781, in _handle_request
+        |     await message.respond(response)
+        |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/mcp/shared/session.py", line 134, in respond
+        |     await self._session._send_response(  # type: ignore[reportPrivateUsage]
+        |         request_id=self.request_id, response=response
+        |     )
+        |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/mcp/shared/session.py", line 349, in _send_response
+        |     await self._write_stream.send(session_message)
+        |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/anyio/streams/memory.py", line 249, in send
+        |     self.send_nowait(item)
+        |     ~~~~~~~~~~~~~~~~^^^^^^
+        |   File "/Users/machd/.local/pipx/venvs/notebooklm-mcp-server/lib/python3.14/site-packages/anyio/streams/memory.py", line 218, in send_nowait
+        |     raise ClosedResourceError
+        | anyio.ClosedResourceError
+        +------------------------------------

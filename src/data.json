@@ -1,0 +1,918 @@
+{
+  "programa": "Licenciatura en Economía",
+  "institucion": "Tech Institute",
+  "asignaturas": [
+    {
+      "id": 1,
+      "codigo": "A1",
+      "nombre": "Administración de empresas",
+      "categoria": "Gestión",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 2,
+      "codigo": "A2",
+      "nombre": "Sociología general",
+      "categoria": "Sociales",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 3,
+      "codigo": "A3",
+      "nombre": "Introducción a la economía",
+      "categoria": "Básica",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 4,
+      "codigo": "A4",
+      "nombre": "Introducción al derecho",
+      "categoria": "Jurídica",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 5,
+      "codigo": "A5",
+      "nombre": "Matemáticas",
+      "categoria": "Cuantitativa",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 6,
+      "codigo": "A6",
+      "nombre": "Entorno económico y mercados financieros",
+      "categoria": "Finanzas",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 7,
+      "codigo": "A7",
+      "nombre": "Tecnología y gestión de la información",
+      "categoria": "Tecnología",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 8,
+      "codigo": "A8",
+      "nombre": "Introducción a la contabilidad",
+      "categoria": "Contable",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 9,
+      "codigo": "A9",
+      "nombre": "Matemáticas para economistas",
+      "categoria": "Cuantitativa",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 10,
+      "codigo": "A10",
+      "nombre": "Microeconomía",
+      "categoria": "Teoría Económica",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 1001,
+      "codigo": "A10_master",
+      "nombre": "Microeconomía (MASTER)",
+      "categoria": "Teoría Avanzada",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 11,
+      "codigo": "A11",
+      "nombre": "Derecho fiscal",
+      "categoria": "Jurídica",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 12,
+      "codigo": "A12",
+      "nombre": "Derecho mercantil",
+      "categoria": "Jurídica",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 13,
+      "codigo": "A13",
+      "nombre": "Estadística I",
+      "categoria": "Cuantitativa",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 14,
+      "codigo": "A14",
+      "nombre": "Derecho internacional público y privado",
+      "categoria": "Jurídica",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 15,
+      "codigo": "A15",
+      "nombre": "Macroeconomía I",
+      "categoria": "Teoría Económica",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 16,
+      "codigo": "A16",
+      "nombre": "Operaciones financieras",
+      "categoria": "Finanzas",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 17,
+      "codigo": "A17",
+      "nombre": "Contabilidad internacional",
+      "categoria": "Contable",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 18,
+      "codigo": "A18",
+      "nombre": "Fundamentos de mercadotecnia",
+      "categoria": "Gestión",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 19,
+      "codigo": "A19",
+      "nombre": "Econometría",
+      "categoria": "Cuantitativa",
+      "dificultad": "Muy Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 20,
+      "codigo": "A20",
+      "nombre": "Medio ambiente, RSC y deontología",
+      "categoria": "Ética",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 21,
+      "codigo": "A21",
+      "nombre": "Economía latinoamericana y mundial",
+      "categoria": "Contexto",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 22,
+      "codigo": "A22",
+      "nombre": "Gestión internacional de la empresa",
+      "categoria": "Internacional",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 23,
+      "codigo": "A23",
+      "nombre": "Gestión de operaciones internacionales",
+      "categoria": "Internacional",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 24,
+      "codigo": "A24",
+      "nombre": "Macroeconomía II",
+      "categoria": "Teoría Económica",
+      "dificultad": "Muy Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 25,
+      "codigo": "A25",
+      "nombre": "Fiscalidad internacional",
+      "categoria": "Jurídica",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 26,
+      "codigo": "A26",
+      "nombre": "Estadística II",
+      "categoria": "Cuantitativa",
+      "dificultad": "Muy Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 27,
+      "codigo": "A27",
+      "nombre": "Política económica",
+      "categoria": "Aplicada",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 28,
+      "codigo": "A28",
+      "nombre": "Mercadotecnia internacional",
+      "categoria": "Internacional",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 29,
+      "codigo": "A29",
+      "nombre": "Economía del comercio internacional",
+      "categoria": "Internacional",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 30,
+      "codigo": "A30",
+      "nombre": "Contratación internacional",
+      "categoria": "Jurídica",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 31,
+      "codigo": "A31",
+      "nombre": "Gestión de riesgos financieros",
+      "categoria": "Finanzas",
+      "dificultad": "Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 32,
+      "codigo": "A32",
+      "nombre": "Historia económica",
+      "categoria": "Contexto",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 33,
+      "codigo": "A33",
+      "nombre": "Economía de los países emergentes",
+      "categoria": "Contexto",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 34,
+      "codigo": "A34",
+      "nombre": "Dirección de personas y gestión del talento",
+      "categoria": "Gestión",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 35,
+      "codigo": "A35",
+      "nombre": "Organismos económicos internacionales",
+      "categoria": "Internacional",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 36,
+      "codigo": "A36",
+      "nombre": "Finanzas internacionales",
+      "categoria": "Finanzas",
+      "dificultad": "Muy Alta",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 37,
+      "codigo": "A37",
+      "nombre": "Contabilidad directiva",
+      "categoria": "Contable",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 38,
+      "codigo": "A38",
+      "nombre": "Planificación estratégica y control",
+      "categoria": "Gestión",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 39,
+      "codigo": "A39",
+      "nombre": "Habilidades directivas y liderazgo",
+      "categoria": "Gestión",
+      "dificultad": "Baja",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 40,
+      "codigo": "A40",
+      "nombre": "Inversión colectiva",
+      "categoria": "Finanzas",
+      "dificultad": "Media",
+      "programa": "Licenciatura en Economía"
+    },
+    {
+      "id": 41,
+      "codigo": "M1",
+      "nombre": "Fundamentos de la Economía",
+      "categoria": "Maestría · Teoría",
+      "dificultad": "Alta",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 42,
+      "codigo": "M2",
+      "nombre": "Investigación en Ciencias Sociales",
+      "categoria": "Maestría · Metodología",
+      "dificultad": "Alta",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 43,
+      "codigo": "M3",
+      "nombre": "Herramientas del investigador",
+      "categoria": "Maestría · Metodología",
+      "dificultad": "Media",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 44,
+      "codigo": "M4",
+      "nombre": "Economía de la empresa",
+      "categoria": "Maestría · Gestión",
+      "dificultad": "Alta",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 45,
+      "codigo": "M5",
+      "nombre": "Economía conductual",
+      "categoria": "Maestría · Teoría",
+      "dificultad": "Alta",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 46,
+      "codigo": "M6",
+      "nombre": "Economía financiera",
+      "categoria": "Maestría · Finanzas",
+      "dificultad": "Muy Alta",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 47,
+      "codigo": "M7",
+      "nombre": "Economía del comercio internacional",
+      "categoria": "Maestría · Internacional",
+      "dificultad": "Alta",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 48,
+      "codigo": "M8",
+      "nombre": "Economía industrial",
+      "categoria": "Maestría · Teoría",
+      "dificultad": "Alta",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 49,
+      "codigo": "M9",
+      "nombre": "Instrumentos y mercados financieros",
+      "categoria": "Maestría · Finanzas",
+      "dificultad": "Muy Alta",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 50,
+      "codigo": "M10",
+      "nombre": "Innovación e iniciativa emprendedora",
+      "categoria": "Maestría · Gestión",
+      "dificultad": "Media",
+      "programa": "Maestría en Ciencias Económicas"
+    },
+    {
+      "id": 2000,
+      "codigo": "mac_master",
+      "nombre": "Macroeconomía (MASTER)",
+      "categoria": "Master · Introducción",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2001,
+      "codigo": "MAC1",
+      "nombre": "La ciencia de la macroeconomía",
+      "categoria": "Master · Introducción",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2002,
+      "codigo": "MAC2",
+      "nombre": "Los datos macroeconómicos",
+      "categoria": "Master · Introducción",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2003,
+      "codigo": "MAC3",
+      "nombre": "La renta nacional: de dónde viene y adónde va",
+      "categoria": "Master · Teoría Clásica",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2004,
+      "codigo": "MAC4",
+      "nombre": "El sistema monetario: qué es y cómo funciona",
+      "categoria": "Master · Teoría Clásica",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2005,
+      "codigo": "MAC5",
+      "nombre": "La inflación: sus causas, sus efectos y sus costes sociales",
+      "categoria": "Master · Teoría Clásica",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2006,
+      "codigo": "MAC6",
+      "nombre": "La economía abierta",
+      "categoria": "Master · Teoría Clásica",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2007,
+      "codigo": "MAC7",
+      "nombre": "El paro",
+      "categoria": "Master · Teoría Clásica",
+      "dificultad": "Muy Alta",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2008,
+      "codigo": "MAC8",
+      "nombre": "El crecimiento económico I: la acumulación de capital y el crecimiento de la población",
+      "categoria": "Master · Teoría del Crecimiento",
+      "dificultad": "Extrema",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2009,
+      "codigo": "MAC9",
+      "nombre": "El crecimiento económico II: la tecnología, el análisis empírico y la política económica",
+      "categoria": "Master · Teoría del Crecimiento",
+      "dificultad": "Extrema",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 2010,
+      "codigo": "MAC10",
+      "nombre": "Introducción a las fluctuaciones económicas y la Demanda Agregada",
+      "categoria": "Master · Ciclos Económicos",
+      "dificultad": "Extrema",
+      "programa": "Master en Macroeconomía"
+    },
+    {
+      "id": 3001,
+      "codigo": "MIC1",
+      "nombre": "Teoría del Consumidor y Demanda Individual",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3002,
+      "codigo": "MIC2",
+      "nombre": "Elección Intertemporal e Incertidumbre",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3003,
+      "codigo": "MIC3",
+      "nombre": "Teoría de Juegos Estáticos y Dinámicos",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3004,
+      "codigo": "MIC4",
+      "nombre": "Monopolio, Bienestar y Poder de Mercado",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3005,
+      "codigo": "MIC5",
+      "nombre": "Competencia Monopolística y Diferenciación de Producto",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3006,
+      "codigo": "MIC6",
+      "nombre": "Modelos de Oligopolio",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3007,
+      "codigo": "MIC7",
+      "nombre": "El Sector Público y la Regulación",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3008,
+      "codigo": "MIC8",
+      "nombre": "Externalidades y Bienes Públicos",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3009,
+      "codigo": "MIC9",
+      "nombre": "Información Asimétrica",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 3010,
+      "codigo": "MIC10",
+      "nombre": "Equilibrio General y Eficiencia",
+      "categoria": "Master · Microeconomía",
+      "dificultad": "Extrema",
+      "programa": "Master en Microeconomía"
+    },
+    {
+      "id": 4000,
+      "codigo": "ECONOMIAB_MASTER",
+      "nombre": "Economía Básica (SOWELL)",
+      "categoria": "Master · Fundamentos",
+      "dificultad": "Media",
+      "programa": "Sowell Master Series"
+    },
+    {
+      "id": 4001,
+      "codigo": "EB1",
+      "nombre": "Precios y Mercados",
+      "categoria": "Sowell · Módulo 1",
+      "dificultad": "Media",
+      "programa": "Sowell Master Series"
+    },
+    {
+      "id": 4002,
+      "codigo": "EB2",
+      "nombre": "Industria y Comercio",
+      "categoria": "Sowell · Módulo 2",
+      "dificultad": "Media",
+      "programa": "Sowell Master Series"
+    },
+    {
+      "id": 4003,
+      "codigo": "EB3",
+      "nombre": "Trabajo y Remuneración",
+      "categoria": "Sowell · Módulo 3",
+      "dificultad": "Media",
+      "programa": "Sowell Master Series"
+    },
+    {
+      "id": 4004,
+      "codigo": "EB4",
+      "nombre": "Tiempo y Riesgo",
+      "categoria": "Sowell · Módulo 4",
+      "dificultad": "Media",
+      "programa": "Sowell Master Series"
+    },
+    {
+      "id": 4005,
+      "codigo": "EB5",
+      "nombre": "La Economía Nacional",
+      "categoria": "Sowell · Módulo 5",
+      "dificultad": "Media",
+      "programa": "Sowell Master Series"
+    },
+    {
+      "id": 4006,
+      "codigo": "EB6",
+      "nombre": "La Economía Internacional",
+      "categoria": "Sowell · Módulo 6",
+      "dificultad": "Media",
+      "programa": "Sowell Master Series"
+    },
+    {
+      "id": 4007,
+      "codigo": "EB7",
+      "nombre": "Mitos y Pensamiento",
+      "categoria": "Sowell · Módulo 7",
+      "dificultad": "Media",
+      "programa": "Sowell Master Series"
+    },
+    {
+      "id": 5000,
+      "codigo": "IF_MASTER",
+      "nombre": "Ingeniería Financiera (NEFTCI)",
+      "categoria": "Master · Quant",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5001,
+      "codigo": "IF1",
+      "nombre": "Fundamentos y Mercados",
+      "categoria": "Quant · Módulo 1",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5002,
+      "codigo": "IF2",
+      "nombre": "Forwards y Tasas",
+      "categoria": "Quant · Módulo 2",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5003,
+      "codigo": "IF3",
+      "nombre": "Swaps y Reportos",
+      "categoria": "Quant · Módulo 3",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5004,
+      "codigo": "IF4",
+      "nombre": "Replicación Dinámica",
+      "categoria": "Quant · Módulo 4",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5005,
+      "codigo": "IF5",
+      "nombre": "Mecánica de Opciones",
+      "categoria": "Quant · Módulo 5",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5006,
+      "codigo": "IF6",
+      "nombre": "Valuación y Martingalas",
+      "categoria": "Quant · Módulo 6",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5007,
+      "codigo": "IF7",
+      "nombre": "Renta Fija y Volatilidad",
+      "categoria": "Quant · Módulo 7",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5008,
+      "codigo": "IF8",
+      "nombre": "Derivados de Crédito",
+      "categoria": "Quant · Módulo 8",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 5009,
+      "codigo": "IF9",
+      "nombre": "Capital e Hipotecas",
+      "categoria": "Quant · Módulo 9",
+      "dificultad": "Extrema",
+      "programa": "Master en Ingeniería Financiera"
+    },
+    {
+      "id": 6000,
+      "codigo": "PE_MASTER",
+      "nombre": "Pensamiento Económico (HISTORIA)",
+      "categoria": "Master · Filosofía",
+      "dificultad": "Alta",
+      "programa": "Master en Pensamiento Económico"
+    },
+    {
+      "id": 6001,
+      "codigo": "PE1",
+      "nombre": "Pensamiento Preclásico",
+      "categoria": "Historia · Módulo 1",
+      "dificultad": "Alta",
+      "programa": "Master en Pensamiento Económico"
+    },
+    {
+      "id": 6002,
+      "codigo": "PE2",
+      "nombre": "Mercantilismo y Fisiocracia",
+      "categoria": "Historia · Módulo 2",
+      "dificultad": "Alta",
+      "programa": "Master en Pensamiento Económico"
+    },
+    {
+      "id": 6003,
+      "codigo": "PE3",
+      "nombre": "La Revolución Clásica",
+      "categoria": "Historia · Módulo 3",
+      "dificultad": "Alta",
+      "programa": "Master en Pensamiento Económico"
+    },
+    {
+      "id": 6004,
+      "codigo": "PE4",
+      "nombre": "Crítica al Capitalismo",
+      "categoria": "Historia · Módulo 4",
+      "dificultad": "Alta",
+      "programa": "Master en Pensamiento Económico"
+    },
+    {
+      "id": 6005,
+      "codigo": "PE5",
+      "nombre": "Marginalismo y Neoclasicismo",
+      "categoria": "Historia · Módulo 5",
+      "dificultad": "Alta",
+      "programa": "Master en Pensamiento Económico"
+    },
+    {
+      "id": 6006,
+      "codigo": "PE6",
+      "nombre": "La Revolución Keynesiana",
+      "categoria": "Historia · Módulo 6",
+      "dificultad": "Alta",
+      "programa": "Master en Pensamiento Económico"
+    },
+    {
+      "id": 6007,
+      "codigo": "PE7",
+      "nombre": "Corrientes Contemporáneas",
+      "categoria": "Historia · Módulo 7",
+      "dificultad": "Alta",
+      "programa": "Master en Pensamiento Económico"
+    },
+    {
+      "id": 7000,
+      "codigo": "ME_MASTER",
+      "nombre": "Modelos Económicos (MODELADO)",
+      "categoria": "Master · Ciencia",
+      "dificultad": "Extrema",
+      "programa": "Master en Modelos Económicos"
+    },
+    {
+      "id": 7001,
+      "codigo": "ME1",
+      "nombre": "Optimización Estática",
+      "categoria": "Modelado · Módulo 1",
+      "dificultad": "Extrema",
+      "programa": "Master en Modelos Económicos"
+    },
+    {
+      "id": 7002,
+      "codigo": "ME2",
+      "nombre": "Equilibrio General",
+      "categoria": "Modelado · Módulo 2",
+      "dificultad": "Extrema",
+      "programa": "Master en Modelos Económicos"
+    },
+    {
+      "id": 7003,
+      "codigo": "ME3",
+      "nombre": "Modelos Dinámicos",
+      "categoria": "Modelado · Módulo 3",
+      "dificultad": "Extrema",
+      "programa": "Master en Modelos Económicos"
+    },
+    {
+      "id": 7004,
+      "codigo": "ME4",
+      "nombre": "Teoría de Juegos",
+      "categoria": "Modelado · Módulo 4",
+      "dificultad": "Extrema",
+      "programa": "Master en Modelos Económicos"
+    },
+    {
+      "id": 7005,
+      "codigo": "ME5",
+      "nombre": "Modelos Macroeconométricos",
+      "categoria": "Modelado · Módulo 5",
+      "dificultad": "Extrema",
+      "programa": "Master en Modelos Económicos"
+    },
+    {
+      "id": 7006,
+      "codigo": "ME6",
+      "nombre": "Redes y Computación",
+      "categoria": "Modelado · Módulo 6",
+      "dificultad": "Extrema",
+      "programa": "Master en Modelos Económicos"
+    },
+    {
+      "id": 7007,
+      "codigo": "ME7",
+      "nombre": "Modelado Estocástico",
+      "categoria": "Modelado · Módulo 7",
+      "dificultad": "Extrema",
+      "programa": "Master en Modelos Económicos"
+    },
+    {
+      "id": 8000,
+      "codigo": "EP_MASTER",
+      "nombre": "Economía Política (LAGUNA)",
+      "categoria": "Master · Crítica",
+      "dificultad": "Alta",
+      "programa": "Master en Economía Política"
+    },
+    {
+      "id": 8001,
+      "codigo": "EP1",
+      "nombre": "Fundamentos y Riqueza",
+      "categoria": "Política · Módulo 1",
+      "dificultad": "Alta",
+      "programa": "Master en Economía Política"
+    },
+    {
+      "id": 8002,
+      "codigo": "EP2",
+      "nombre": "Modo de Producción",
+      "categoria": "Política · Módulo 2",
+      "dificultad": "Alta",
+      "programa": "Master en Economía Política"
+    },
+    {
+      "id": 8003,
+      "codigo": "EP3",
+      "nombre": "Mercancía y Dinero",
+      "categoria": "Política · Módulo 3",
+      "dificultad": "Alta",
+      "programa": "Master en Economía Política"
+    },
+    {
+      "id": 8004,
+      "codigo": "EP4",
+      "nombre": "Capital y Plusvalía",
+      "categoria": "Política · Módulo 4",
+      "dificultad": "Alta",
+      "programa": "Master en Economía Política"
+    },
+    {
+      "id": 8005,
+      "codigo": "EP5",
+      "nombre": "Acumulación y Sociedad",
+      "categoria": "Política · Módulo 5",
+      "dificultad": "Alta",
+      "programa": "Master en Economía Política"
+    },
+    {
+      "id": 8006,
+      "codigo": "EP6",
+      "nombre": "Teoría de las Crisis",
+      "categoria": "Política · Módulo 6",
+      "dificultad": "Alta",
+      "programa": "Master en Economía Política"
+    },
+    {
+      "id": 8007,
+      "codigo": "EP7",
+      "nombre": "Estado y Evolución",
+      "categoria": "Política · Módulo 7",
+      "dificultad": "Alta",
+      "programa": "Master en Economía Política"
+    }
+  ]
+}

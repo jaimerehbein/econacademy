@@ -1,0 +1,95 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+
+@theme {
+  --color-indigo-50: #eef2ff;
+  --color-indigo-100: #e0e7ff;
+  --color-indigo-400: #818cf8;
+  --color-indigo-500: #6366f1;
+  --color-indigo-600: #4f46e5;
+  --color-indigo-900: #312e81;
+  /* Ultra Premium Dark Theme */
+  --color-study-bg: #0B0F19; /* Deep futuristic navy/black */
+  --color-study-panel: #111827; /* Slightly lighter gray/blue for panels */
+  --color-study-text: #f8fafc;
+  --color-study-muted: #94a3b8;
+  --color-accent-cyan: #06b6d4;
+  --color-accent-purple: #8b5cf6;
+}
+
+@layer base {
+  body {
+    @apply bg-study-bg text-study-text antialiased;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', sans-serif;
+  }
+}
+
+/* Custom Glassmorphism Utilities */
+@layer utilities {
+  .glass-panel {
+    @apply bg-slate-900/40 backdrop-blur-xl border border-white/10 shadow-2xl;
+  }
+  .glass-button {
+    @apply bg-white/5 hover:bg-white/10 backdrop-blur-md border border-white/10 transition-all duration-300;
+  }
+  .neon-text {
+    text-shadow: 0 0 20px rgba(99, 102, 241, 0.5);
+  }
+}
+
+/* Custom Scrollbar Premium */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-700 rounded-full hover:bg-indigo-500 transition-colors;
+}
+
+/* Base Prose Override (Now Dark) */
+.prose {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #cbd5e1;
+}
+.prose h1, .prose h2, .prose h3, .prose h4 {
+    font-family: 'Outfit', sans-serif;
+    color: #f8fafc;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+}
+.prose strong {
+    color: #f8fafc;
+    font-weight: 600;
+}
+.prose blockquote {
+    border-left-color: #334155;
+    color: #94a3b8;
+    background: rgba(15, 23, 42, 0.5);
+    padding: 1rem;
+    border-radius: 0 0.5rem 0.5rem 0;
+    font-style: italic;
+}
+.prose a {
+    color: #818cf8;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(129, 140, 248, 0.3);
+    transition: all 0.2s ease-in-out;
+}
+.prose a:hover {
+    color: #a5b4fc;
+    border-bottom-color: #a5b4fc;
+    text-shadow: 0 0 8px rgba(165, 180, 252, 0.4);
+}
+.prose code {
+    @apply bg-slate-800 text-indigo-300 px-1.5 py-0.5 rounded font-mono text-sm border border-slate-700;
+}

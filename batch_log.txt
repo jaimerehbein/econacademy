@@ -1,0 +1,2360 @@
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                                                              │
+│                                FastMCP 3.0.2                                 │
+│                            https://gofastmcp.com                             │
+│                                                                              │
+│                    🖥  Server:      notebooklm, 3.0.2                         │
+│                    🚀 Deploy free: https://fastmcp.cloud                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[02/22/26 17:14:11] INFO     Starting MCP server 'notebooklm'   transport.py:183
+                             with transport 'stdio'                             
+=== Iniciando Procesamiento por Lotes (6 asignaturas) ===
+
+
+=======================================================
+=== Procesando: A5 - Matemáticas ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: 56957132-ff73-48d8-ad89-0097cf1cf8e5
+  [+] Task ID: 473b8363-136d-4321-babe-c9de3a3a39cd
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio Avanzada: Fundamentos y Aplicaciones en Matemáticas Superiores
+
+### Introducción
+Esta guía de estudio sintetiza conceptos matemáticos avanzados, abarcando desde los fundamentos lógic...
+[CONTINÚA]
+
+[✔] Asignatura A5 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a5_extended.md
+
+=======================================================
+=== Procesando: A6 - Entorno económico y mercados financieros ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: e4b7757d-e6b6-4520-bea5-363502623e8e
+  [+] Task ID: b70431a0-5eb9-45e3-9b74-1794436c94e1
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio: Entorno Económico y Mercados Financieros
+
+## 1. Introducción al Sistema Financiero y el Entorno Económico
+
+Esta guía tiene como objetivo proporcionar una visión estructurada sobre l...
+[CONTINÚA]
+
+[✔] Asignatura A6 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a6_extended.md
+
+=======================================================
+=== Procesando: A7 - Tecnología y gestión de la información ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: 13c430c3-6629-432c-8d06-6bd67e10bceb
+  [+] Task ID: fd4589ed-ae7f-4058-84a8-0bc7105dea82
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio: Tecnología y Gestión de la Información
+
+## 1. Introducción
+La gestión de la información y la tecnología constituyen hoy en día el núcleo operativo y estratégico de las organizacione...
+[CONTINÚA]
+
+[✔] Asignatura A7 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a7_extended.md
+
+=======================================================
+=== Procesando: A8 - Introducción a la contabilidad ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: e992930c-5862-4609-a3f9-1c394640e1a1
+  [+] Task ID: dd9446d1-cbf8-4ed6-b573-c94043476da0
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio: Fundamentos y Teoría General de la Contabilidad
+
+## 1. Introducción a la Disciplina Contable
+
+### 1.1. Conceptualización y Naturaleza
+La contabilidad se define como una disciplina d...
+[CONTINÚA]
+
+[✔] Asignatura A8 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a8_extended.md
+
+=======================================================
+=== Procesando: A9 - Matemáticas para economistas ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: 0d863378-2ae4-44ed-84fa-6159ecea84a8
+  [+] Task ID: 326cd1f3-b68a-4c6c-9d86-60e27aa56702
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio Académica: Matemáticas para Economistas
+
+## Introducción
+
+La presente guía sistematiza los fundamentos matemáticos necesarios para la formación universitaria en Economía. La matemáti...
+[CONTINÚA]
+
+[✔] Asignatura A9 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a9_extended.md
+
+=======================================================
+=== Procesando: A10 - Microeconomía ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: ddc8afa4-cdc1-4f6b-bc03-57d4c3964888
+  [+] Task ID: 16b25972-9dbf-4422-beda-9324b0753550
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio Integral: Fundamentos y Desarrollos Avanzados de la Microeconomía
+
+## 1. Introducción
+La microeconomía constituye la rama de la economía dedicada al estudio del comportamiento de los...
+[CONTINÚA]
+
+[✔] Asignatura A10 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a10_extended.md
+
+=== Procesamiento por Lotes Finalizado ===
+8a00eb64-5110-4ae9-b677-accc805612cf", "query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:14:12 - DEBUG - MCP Request: research_status({"notebook_id": "8a00eb64-5110-4ae9-b677-accc805612cf", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "66d892fa-ad62-4c18-84a5-a348bcb35da1"})
+2026-02-22 17:14:12 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_status({"notebook_id": "8a00eb64-5110-4ae9-b677-accc805612cf", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "66d892fa-ad62-4c18-84a5-a348bcb35da1"})
+2026-02-22 17:14:33 - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "66d892fa-ad62-4c18-84a5-a348bcb35da1", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://bibliotecadigital.ufro.cl/v2/files/original/5c5e3cd7132c354c8a0705106fd32faf9890cfbb.pdf", "title": "Fundamentos de Matem\u00e1tica: Apuntes de Curso - Biblioteca Digital UFRO", "description": "Iniciaci\u00f3n esencial a la l\u00f3gica, conjuntos y razonamiento abstracto universitario.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://webs.um.es/beca/Docencia/Doctorado/AnalisisDoctorado.pdf", "title": "Fundamentos de An\u00e1lisis Matem\u00e1tico - Universidad de Murcia", "description": "Tratamiento riguroso de an\u00e1lisis matem\u00e1tico, topolog\u00eda y teoremas de dualidad.", "resul...
+2026-02-22 17:14:33 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "66d892fa-ad62-4c18-84a5-a348bcb35da1", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://bibliotecadigital.ufro.cl/v2/files/original/5c5e3cd7132c354c8a0705106fd32faf9890cfbb.pdf", "title": "Fundamentos de Matem\u00e1tica: Apuntes de Curso - Biblioteca Digital UFRO", "description": "Iniciaci\u00f3n esencial a la l\u00f3gica, conjuntos y razonamiento abstracto universitario.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://webs.um.es/beca/Docencia/Doctorado/AnalisisDoctorado.pdf", "title": "Fundamentos de An\u00e1lisis Matem\u00e1tico - Universidad de Murcia", "description": "Tratamiento riguroso de an\u00e1lisis matem\u00e1tico, topolog\u00eda y teoremas de dualidad.", "resul...
+2026-02-22 17:14:33 - DEBUG - MCP Request: research_import({"notebook_id": "8a00eb64-5110-4ae9-b677-accc805612cf", "task_id": "66d892fa-ad62-4c18-84a5-a348bcb35da1"})
+2026-02-22 17:14:33 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_import({"notebook_id": "8a00eb64-5110-4ae9-b677-accc805612cf", "task_id": "66d892fa-ad62-4c18-84a5-a348bcb35da1"})
+2026-02-22 17:15:27 - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 9, "total_available": 10, "sources": [{"id": "cf1298f9-b308-4e39-9edf-74178ac0e626", "title": "Fundamentos de Matem\u00e1tica: Apuntes de Curso - Biblioteca Digital UFRO"}, {"id": "3aa55369-c22c-4364-8d91-b14a226bab3c", "title": "Fundamentos de An\u00e1lisis Matem\u00e1tico - Universidad de Murcia"}, {"id": "d1767ca6-83bc-490d-aa81-4bb6e047c5fc", "title": "\u00c1lgebra e Introducci\u00f3n al C\u00e1lculo - Pontificia Universidad Cat\u00f3lica de Chile"}, {"id": "e0b3c134-dc02-4d6b-87c7-7e1748889844", "title": "GRADO EN MATEM\u00c1TICAS"}, {"id": "997ed3b5-706b-41db-a358-6183b056ab91", "title": "PRESENTACI\u00d3N El presente curso tiene como prop\u00f3sito introducir las ideas b\u00e1sicas de la Teor\u00eda de Grupos, \u00e1rea de las matem"}, {"id": "8c990829-b927-4cf4-95e3-a808edd6981e", "title": "m\u00e9todos num\u00e9ricos avanzados - UNED"}, {"id": "ba8b84c6-05b3-4e84-8f0f-5f3ca8c24cc1", "title": "Aplicaciones Reales de la Teor\u00eda de N\u0...
+2026-02-22 17:15:27 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 9, "total_available": 10, "sources": [{"id": "cf1298f9-b308-4e39-9edf-74178ac0e626", "title": "Fundamentos de Matem\u00e1tica: Apuntes de Curso - Biblioteca Digital UFRO"}, {"id": "3aa55369-c22c-4364-8d91-b14a226bab3c", "title": "Fundamentos de An\u00e1lisis Matem\u00e1tico - Universidad de Murcia"}, {"id": "d1767ca6-83bc-490d-aa81-4bb6e047c5fc", "title": "\u00c1lgebra e Introducci\u00f3n al C\u00e1lculo - Pontificia Universidad Cat\u00f3lica de Chile"}, {"id": "e0b3c134-dc02-4d6b-87c7-7e1748889844", "title": "GRADO EN MATEM\u00c1TICAS"}, {"id": "997ed3b5-706b-41db-a358-6183b056ab91", "title": "PRESENTACI\u00d3N El presente curso tiene como prop\u00f3sito introducir las ideas b\u00e1sicas de la Teor\u00eda de Grupos, \u00e1rea de las matem"}, {"id": "8c990829-b927-4cf4-95e3-a808edd6981e", "title": "m\u00e9todos num\u00e9ricos avanzados - UNED"}, {"id": "ba8b84c6-05b3-4e84-8f0f-5f3ca8c24cc1", "title": "Aplicaciones Reales de la Teor\u00eda de N\u0...
+2026-02-22 17:15:27 - DEBUG - MCP Request: notebook_query({"notebook_id": "8a00eb64-5110-4ae9-b677-accc805612cf", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Matem\u00e1ticas. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:15:27 - notebooklm_mcp.mcp - DEBUG - MCP Request: notebook_query({"notebook_id": "8a00eb64-5110-4ae9-b677-accc805612cf", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Matem\u00e1ticas. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:15:27 - DEBUG - ======================================================================
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:15:27 - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:15:27 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:15:27 - DEBUG - URL Parameters:
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:15:27 - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:15:27 - DEBUG -   source-path: /notebook/8a00eb64-5110-4ae9-b677-accc805612cf
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG -   source-path: /notebook/8a00eb64-5110-4ae9-b677-accc805612cf
+2026-02-22 17:15:27 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:15:27 - DEBUG -   hl: en
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:15:27 - DEBUG -   rt: c
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:15:27 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:15:27 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:15:27 - DEBUG - Request Params:
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:15:27 - DEBUG - [
+  "8a00eb64-5110-4ae9-b677-accc805612cf",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:15:27 - notebooklm_mcp.api - DEBUG - [
+  "8a00eb64-5110-4ae9-b677-accc805612cf",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:15:28 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:15:28 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:15:28 - DEBUG - Response Status: 200
+2026-02-22 17:15:28 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:15:28 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:15:28 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:15:28 - DEBUG - Response Data:
+2026-02-22 17:15:28 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:15:28 - DEBUG - [
+  [
+    "Licecon: A5 - Matemáticas",
+    [
+      [
+        [
+          "af956d59-db62-4ec1-adcb-c5b88ef970b7"
+        ],
+        "ACTUALIDAD Y APLICACIONES DE LA TOPOLOGÍA Y EL ANÁLISIS FUNCIONAL - Docta Complutense",
+        [
+          null,
+          10619,
+          [
+            1771791274,
+            574073000
+          ],
+          [
+            "5557f6c4-6cc8-4e4d-94ef-3f55c4ffb4b1",
+            [
+              1771791274,
+              327096000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://docta.ucm.es/bitstreams/5f460cdc-7714-4054-a737-9e8c3046df62/download"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "ba8b84c6-05b3-4e84-8f0f-5f3ca8c24cc1"
+        ],
+        "Aplicaciones Reales de la Teoría de Números en la Vida Cotidiana",
+        [
+          null,
+          972,
+          [
+            1771791274,
+            574073000
+          ],
+          [
+            "9fa143f2-c9b3-4d03-ac2f-a3dc5bb3487a",
+            [
+              1771791274,
+              327096000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "https://clasesdematematicasenlinea.com/aplicaciones-reales-de-la-teoria-de-numeros-en-la-vida-cotidiana/"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "3aa55369-c22c-4364-8d91-b14a226bab3c"
+        ],
+        "Fundamentos de Análisis Matemático - Universidad de Murcia",
+        [
+          null,
+          91363,
+          [
+            1771791274,
+            574073000
+          ],
+          [
+            "d6b8d3c3-daf3-42da-a6c3-ac86143ff32a",
+            [
+              1771791274,
+              327096000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://webs.um.es/beca/Docencia/Doctorado/AnalisisDoctorado.pdf"
+          ]
+        ],
+        [
+          null,
+          2
+
+  ... (truncated)
+2026-02-22 17:15:28 - notebooklm_mcp.api - DEBUG - [
+  [
+    "Licecon: A5 - Matemáticas",
+    [
+      [
+        [
+          "af956d59-db62-4ec1-adcb-c5b88ef970b7"
+        ],
+        "ACTUALIDAD Y APLICACIONES DE LA TOPOLOGÍA Y EL ANÁLISIS FUNCIONAL - Docta Complutense",
+        [
+          null,
+          10619,
+          [
+            1771791274,
+            574073000
+          ],
+          [
+            "5557f6c4-6cc8-4e4d-94ef-3f55c4ffb4b1",
+            [
+              1771791274,
+              327096000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://docta.ucm.es/bitstreams/5f460cdc-7714-4054-a737-9e8c3046df62/download"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "ba8b84c6-05b3-4e84-8f0f-5f3ca8c24cc1"
+        ],
+        "Aplicaciones Reales de la Teoría de Números en la Vida Cotidiana",
+        [
+          null,
+          972,
+          [
+            1771791274,
+            574073000
+          ],
+          [
+            "9fa143f2-c9b3-4d03-ac2f-a3dc5bb3487a",
+            [
+              1771791274,
+              327096000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "https://clasesdematematicasenlinea.com/aplicaciones-reales-de-la-teoria-de-numeros-en-la-vida-cotidiana/"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "3aa55369-c22c-4364-8d91-b14a226bab3c"
+        ],
+        "Fundamentos de Análisis Matemático - Universidad de Murcia",
+        [
+          null,
+          91363,
+          [
+            1771791274,
+            574073000
+          ],
+          [
+            "d6b8d3c3-daf3-42da-a6c3-ac86143ff32a",
+            [
+              1771791274,
+              327096000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://webs.um.es/beca/Docencia/Doctorado/AnalisisDoctorado.pdf"
+          ]
+        ],
+        [
+          null,
+          2
+
+  ... (truncated)
+2026-02-22 17:15:28 - DEBUG - ======================================================================
+2026-02-22 17:15:28 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:16:16 - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio Avanzada: Fundamentos y Ramas Selectas de las Matem\u00e1ticas\n\n## 1. Introducci\u00f3n\nLa matem\u00e1tica constituye una disciplina formal que estudia las propiedades de objetos abstractos \u2014tales como n\u00fameros, conjuntos, funciones y estructuras algebraicas\u2014 y las relaciones entre ellos, utilizando un lenguaje preciso y un m\u00e9todo deductivo riguroso [1]. Esta gu\u00eda sintetiza conceptos fundamentales desde la l\u00f3gica b\u00e1sica hasta ramas avanzadas como el an\u00e1lisis funcional, la topolog\u00eda y la teor\u00eda de n\u00fameros, bas\u00e1ndose en la literatura acad\u00e9mica seleccionada. El objetivo es proporcionar una visi\u00f3n estructurada de las definiciones, teoremas y aplicaciones que configuran el conocimiento matem\u00e1tico universitario.\n\n## 2. Fundamentos: L\u00f3gica, Conjuntos y Sistemas Num\u00e9ricos\n\nEl edificio matem\u00e1tico se construye sobre la base de la l\u00f3gica prop...
+2026-02-22 17:16:16 - notebooklm_mcp.mcp - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio Avanzada: Fundamentos y Ramas Selectas de las Matem\u00e1ticas\n\n## 1. Introducci\u00f3n\nLa matem\u00e1tica constituye una disciplina formal que estudia las propiedades de objetos abstractos \u2014tales como n\u00fameros, conjuntos, funciones y estructuras algebraicas\u2014 y las relaciones entre ellos, utilizando un lenguaje preciso y un m\u00e9todo deductivo riguroso [1]. Esta gu\u00eda sintetiza conceptos fundamentales desde la l\u00f3gica b\u00e1sica hasta ramas avanzadas como el an\u00e1lisis funcional, la topolog\u00eda y la teor\u00eda de n\u00fameros, bas\u00e1ndose en la literatura acad\u00e9mica seleccionada. El objetivo es proporcionar una visi\u00f3n estructurada de las definiciones, teoremas y aplicaciones que configuran el conocimiento matem\u00e1tico universitario.\n\n## 2. Fundamentos: L\u00f3gica, Conjuntos y Sistemas Num\u00e9ricos\n\nEl edificio matem\u00e1tico se construye sobre la base de la l\u00f3gica prop...
+2026-02-22 17:16:21 - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Entorno econ\u00f3mico y mercados financieros' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A6 - Entorno econ\u00f3mico y mercados financieros"})
+2026-02-22 17:16:21 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Entorno econ\u00f3mico y mercados financieros' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A6 - Entorno econ\u00f3mico y mercados financieros"})
+2026-02-22 17:16:21 - DEBUG - ======================================================================
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:16:21 - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:16:21 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:16:21 - DEBUG - URL Parameters:
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:16:21 - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:16:21 - DEBUG -   source-path: /
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG -   source-path: /
+2026-02-22 17:16:21 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:16:21 - DEBUG -   hl: en
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:16:21 - DEBUG -   rt: c
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:16:21 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:16:21 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:16:21 - DEBUG - Request Params:
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:16:21 - DEBUG - [
+  "Licecon: A6 - Entorno económico y mercados financieros",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:16:21 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A6 - Entorno económico y mercados financieros",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:16:22 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:16:22 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:16:22 - DEBUG - Response Status: 200
+2026-02-22 17:16:22 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:16:22 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:16:22 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:16:22 - DEBUG - Response Data:
+2026-02-22 17:16:22 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:16:22 - DEBUG - [
+  "Licecon: A6 - Entorno económico y mercados financieros",
+  null,
+  "92c5575b-b229-4e61-a71f-a2c85c2df7a7",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "2e26196a-6804-4898-9cd3-a2991db016e6"
+    ]
+  ]
+]
+2026-02-22 17:16:22 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A6 - Entorno económico y mercados financieros",
+  null,
+  "92c5575b-b229-4e61-a71f-a2c85c2df7a7",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "2e26196a-6804-4898-9cd3-a2991db016e6"
+    ]
+  ]
+]
+2026-02-22 17:16:22 - DEBUG - ======================================================================
+2026-02-22 17:16:22 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:16:22 - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "7e4f72f4-4ca4-450f-a5b2-0be653015187", "notebook_id": "92c5575b-b229-4e61-a71f-a2c85c2df7a7", "notebook_url": "https://notebooklm.google.com/notebook/92c5575b-b229-4e61-a71f-a2c85c2df7a7", "query": "University level curriculum, academic papers, and detailed theories regarding 'Entorno econ\u00f3mico y mercados financieros' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:16:22 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "7e4f72f4-4ca4-450f-a5b2-0be653015187", "notebook_id": "92c5575b-b229-4e61-a71f-a2c85c2df7a7", "notebook_url": "https://notebooklm.google.com/notebook/92c5575b-b229-4e61-a71f-a2c85c2df7a7", "query": "University level curriculum, academic papers, and detailed theories regarding 'Entorno econ\u00f3mico y mercados financieros' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:16:22 - DEBUG - MCP Request: research_status({"notebook_id": "92c5575b-b229-4e61-a71f-a2c85c2df7a7", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "7e4f72f4-4ca4-450f-a5b2-0be653015187"})
+2026-02-22 17:16:22 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_status({"notebook_id": "92c5575b-b229-4e61-a71f-a2c85c2df7a7", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "7e4f72f4-4ca4-450f-a5b2-0be653015187"})
+2026-02-22 17:16:43 - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "7e4f72f4-4ca4-450f-a5b2-0be653015187", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Entorno econ\u00f3mico y mercados financieros' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://servicios.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=624202&txtTitulacion=6242&txtCursoAcademico=2024-25", "title": "GU\u00cdA DOCENTE AN\u00c1LISIS DEL ENTORNO ECON\u00d3MICO Y MERCADOS FINANCIEROS M\u00c1STER U. EN ASESORAMIENTO Y PLANIFICACI\u00d3N FINANCIERA CU", "description": "Proporciona una visi\u00f3n conjunta y actual del sistema financiero.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://facultades.unab.cl/economiaynegocios/wp-content/uploads/2023/02/UEM-202320V1-Finanzas.pdf", "title": "DOBLE T\u00cdTULACION UNIVERSIDAD EUROPEA - UNAB", "des...
+2026-02-22 17:16:43 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "7e4f72f4-4ca4-450f-a5b2-0be653015187", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Entorno econ\u00f3mico y mercados financieros' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://servicios.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=624202&txtTitulacion=6242&txtCursoAcademico=2024-25", "title": "GU\u00cdA DOCENTE AN\u00c1LISIS DEL ENTORNO ECON\u00d3MICO Y MERCADOS FINANCIEROS M\u00c1STER U. EN ASESORAMIENTO Y PLANIFICACI\u00d3N FINANCIERA CU", "description": "Proporciona una visi\u00f3n conjunta y actual del sistema financiero.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://facultades.unab.cl/economiaynegocios/wp-content/uploads/2023/02/UEM-202320V1-Finanzas.pdf", "title": "DOBLE T\u00cdTULACION UNIVERSIDAD EUROPEA - UNAB", "des...
+2026-02-22 17:16:43 - DEBUG - MCP Request: research_import({"notebook_id": "92c5575b-b229-4e61-a71f-a2c85c2df7a7", "task_id": "7e4f72f4-4ca4-450f-a5b2-0be653015187"})
+2026-02-22 17:16:43 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_import({"notebook_id": "92c5575b-b229-4e61-a71f-a2c85c2df7a7", "task_id": "7e4f72f4-4ca4-450f-a5b2-0be653015187"})
+2026-02-22 17:17:00 - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 10, "total_available": 10, "sources": [{"id": "ce61d00a-0582-4e4d-8221-c4f9c4b6ff95", "title": "GU\u00cdA DOCENTE AN\u00c1LISIS DEL ENTORNO ECON\u00d3MICO Y MERCADOS FINANCIEROS M\u00c1STER U. EN ASESORAMIENTO Y PLANIFICACI\u00d3N FINANCIERA CU"}, {"id": "da5adb3b-6130-44d9-95d9-d728801875c7", "title": "DOBLE T\u00cdTULACION UNIVERSIDAD EUROPEA - UNAB"}, {"id": "f00acab9-42a5-4649-b3ef-6a30cf4fe910", "title": "las modernas teor\u00edas financieras. examen de su aplicaci\u00f3n a la valoraci\u00f3n de sociedades an\u00f3nimas que cotizan en bolsa - Dialnet"}, {"id": "df0ed124-c092-4671-b054-3b967b01f02b", "title": "departamento de econom\u00eda - PUCP"}, {"id": "3c742c8f-2c1a-4d65-b49f-e29c649051af", "title": "Las Finanzas Conductuales, el rol de las emociones en las decisiones financieras."}, {"id": "10beef92-ae1c-4e8a-8eff-7f38611dedf4", "title": "IMPACTO DE LA POLITICA MONETARIA EN LOS MERCADOS FINANCIEROS EVIDENCIA PARA RENTA FIJA Y VARIABLE E...
+2026-02-22 17:17:00 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 10, "total_available": 10, "sources": [{"id": "ce61d00a-0582-4e4d-8221-c4f9c4b6ff95", "title": "GU\u00cdA DOCENTE AN\u00c1LISIS DEL ENTORNO ECON\u00d3MICO Y MERCADOS FINANCIEROS M\u00c1STER U. EN ASESORAMIENTO Y PLANIFICACI\u00d3N FINANCIERA CU"}, {"id": "da5adb3b-6130-44d9-95d9-d728801875c7", "title": "DOBLE T\u00cdTULACION UNIVERSIDAD EUROPEA - UNAB"}, {"id": "f00acab9-42a5-4649-b3ef-6a30cf4fe910", "title": "las modernas teor\u00edas financieras. examen de su aplicaci\u00f3n a la valoraci\u00f3n de sociedades an\u00f3nimas que cotizan en bolsa - Dialnet"}, {"id": "df0ed124-c092-4671-b054-3b967b01f02b", "title": "departamento de econom\u00eda - PUCP"}, {"id": "3c742c8f-2c1a-4d65-b49f-e29c649051af", "title": "Las Finanzas Conductuales, el rol de las emociones en las decisiones financieras."}, {"id": "10beef92-ae1c-4e8a-8eff-7f38611dedf4", "title": "IMPACTO DE LA POLITICA MONETARIA EN LOS MERCADOS FINANCIEROS EVIDENCIA PARA RENTA FIJA Y VARIABLE E...
+2026-02-22 17:17:00 - DEBUG - MCP Request: notebook_query({"notebook_id": "92c5575b-b229-4e61-a71f-a2c85c2df7a7", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Entorno econ\u00f3mico y mercados financieros. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:17:00 - notebooklm_mcp.mcp - DEBUG - MCP Request: notebook_query({"notebook_id": "92c5575b-b229-4e61-a71f-a2c85c2df7a7", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Entorno econ\u00f3mico y mercados financieros. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:17:00 - DEBUG - ======================================================================
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:17:00 - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:17:00 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:00 - DEBUG - URL Parameters:
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:17:00 - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:17:00 - DEBUG -   source-path: /notebook/92c5575b-b229-4e61-a71f-a2c85c2df7a7
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG -   source-path: /notebook/92c5575b-b229-4e61-a71f-a2c85c2df7a7
+2026-02-22 17:17:00 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:17:00 - DEBUG -   hl: en
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:17:00 - DEBUG -   rt: c
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:17:00 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:17:00 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:00 - DEBUG - Request Params:
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:17:00 - DEBUG - [
+  "92c5575b-b229-4e61-a71f-a2c85c2df7a7",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - [
+  "92c5575b-b229-4e61-a71f-a2c85c2df7a7",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:17:00 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:00 - DEBUG - Response Status: 200
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:17:00 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:00 - DEBUG - Response Data:
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:17:00 - DEBUG - [
+  [
+    "Licecon: A6 - Entorno económico y mercados financieros",
+    [
+      [
+        [
+          "da5adb3b-6130-44d9-95d9-d728801875c7"
+        ],
+        "DOBLE TÍTULACION UNIVERSIDAD EUROPEA - UNAB",
+        [
+          null,
+          1229,
+          [
+            1771791404,
+            757478000
+          ],
+          [
+            "cbe6dfb0-8030-4fff-992b-4ec105335280",
+            [
+              1771791404,
+              509490000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://facultades.unab.cl/economiaynegocios/wp-content/uploads/2023/02/UEM-202320V1-Finanzas.pdf"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "ce61d00a-0582-4e4d-8221-c4f9c4b6ff95"
+        ],
+        "GUÍA DOCENTE ANÁLISIS DEL ENTORNO ECONÓMICO Y MERCADOS FINANCIEROS MÁSTER U. EN ASESORAMIENTO Y PLANIFICACIÓN FINANCIERA CU",
+        [
+          null,
+          3067,
+          [
+            1771791404,
+            757478000
+          ],
+          [
+            "87f88321-5938-4cd3-aab9-5375c9c7e486",
+            [
+              1771791404,
+              509490000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://servicios.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=624202&txtTitulacion=6242&txtCursoAcademico=2024-25"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "10beef92-ae1c-4e8a-8eff-7f38611dedf4"
+        ],
+        "IMPACTO DE LA POLITICA MONETARIA EN LOS MERCADOS FINANCIEROS EVIDENCIA PARA RENTA FIJA Y VARIABLE EEUU – COLOMBIA",
+        [
+          null,
+          22309,
+          [
+            1771791404,
+            757478000
+          ],
+          [
+            "24ace2b6-57de-4eca-974a-58c7142ba6cb",
+            [
+              1771791404,
+              509490000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+      
+  ... (truncated)
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - [
+  [
+    "Licecon: A6 - Entorno económico y mercados financieros",
+    [
+      [
+        [
+          "da5adb3b-6130-44d9-95d9-d728801875c7"
+        ],
+        "DOBLE TÍTULACION UNIVERSIDAD EUROPEA - UNAB",
+        [
+          null,
+          1229,
+          [
+            1771791404,
+            757478000
+          ],
+          [
+            "cbe6dfb0-8030-4fff-992b-4ec105335280",
+            [
+              1771791404,
+              509490000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://facultades.unab.cl/economiaynegocios/wp-content/uploads/2023/02/UEM-202320V1-Finanzas.pdf"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "ce61d00a-0582-4e4d-8221-c4f9c4b6ff95"
+        ],
+        "GUÍA DOCENTE ANÁLISIS DEL ENTORNO ECONÓMICO Y MERCADOS FINANCIEROS MÁSTER U. EN ASESORAMIENTO Y PLANIFICACIÓN FINANCIERA CU",
+        [
+          null,
+          3067,
+          [
+            1771791404,
+            757478000
+          ],
+          [
+            "87f88321-5938-4cd3-aab9-5375c9c7e486",
+            [
+              1771791404,
+              509490000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://servicios.urjc.es/guiasdocentes/pdfGuia.jsp?txtAsignatura=624202&txtTitulacion=6242&txtCursoAcademico=2024-25"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "10beef92-ae1c-4e8a-8eff-7f38611dedf4"
+        ],
+        "IMPACTO DE LA POLITICA MONETARIA EN LOS MERCADOS FINANCIEROS EVIDENCIA PARA RENTA FIJA Y VARIABLE EEUU – COLOMBIA",
+        [
+          null,
+          22309,
+          [
+            1771791404,
+            757478000
+          ],
+          [
+            "24ace2b6-57de-4eca-974a-58c7142ba6cb",
+            [
+              1771791404,
+              509490000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+      
+  ... (truncated)
+2026-02-22 17:17:00 - DEBUG - ======================================================================
+2026-02-22 17:17:00 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:17:51 - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio: Entorno Econ\u00f3mico y Mercados Financieros\n\n## I. Introducci\u00f3n\n\nEl estudio del entorno econ\u00f3mico y los mercados financieros requiere una comprensi\u00f3n integral de c\u00f3mo las variables macroecon\u00f3micas interact\u00faan con las decisiones de inversi\u00f3n, financiaci\u00f3n y la valoraci\u00f3n de activos. Esta gu\u00eda sintetiza los fundamentos te\u00f3ricos y pr\u00e1cticos necesarios para analizar la coyuntura econ\u00f3mica, la estructura de los sistemas financieros y el comportamiento de los agentes econ\u00f3micos, bas\u00e1ndose en la evoluci\u00f3n de la teor\u00eda financiera desde sus enfoques tradicionales hasta las perspectivas conductuales modernas.\n\nEl objetivo es proporcionar un marco anal\u00edtico para comprender la determinaci\u00f3n de precios, tasas de inter\u00e9s y el impacto de las pol\u00edticas p\u00fablicas en la riqueza y el bienestar econ\u00f3mico.\n\n## II. Fundamentos de...
+2026-02-22 17:17:51 - notebooklm_mcp.mcp - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio: Entorno Econ\u00f3mico y Mercados Financieros\n\n## I. Introducci\u00f3n\n\nEl estudio del entorno econ\u00f3mico y los mercados financieros requiere una comprensi\u00f3n integral de c\u00f3mo las variables macroecon\u00f3micas interact\u00faan con las decisiones de inversi\u00f3n, financiaci\u00f3n y la valoraci\u00f3n de activos. Esta gu\u00eda sintetiza los fundamentos te\u00f3ricos y pr\u00e1cticos necesarios para analizar la coyuntura econ\u00f3mica, la estructura de los sistemas financieros y el comportamiento de los agentes econ\u00f3micos, bas\u00e1ndose en la evoluci\u00f3n de la teor\u00eda financiera desde sus enfoques tradicionales hasta las perspectivas conductuales modernas.\n\nEl objetivo es proporcionar un marco anal\u00edtico para comprender la determinaci\u00f3n de precios, tasas de inter\u00e9s y el impacto de las pol\u00edticas p\u00fablicas en la riqueza y el bienestar econ\u00f3mico.\n\n## II. Fundamentos de...
+2026-02-22 17:17:56 - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A7 - Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n"})
+2026-02-22 17:17:56 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A7 - Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n"})
+2026-02-22 17:17:56 - DEBUG - ======================================================================
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:17:56 - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:17:56 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:56 - DEBUG - URL Parameters:
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:17:56 - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:17:56 - DEBUG -   source-path: /
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG -   source-path: /
+2026-02-22 17:17:56 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:17:56 - DEBUG -   hl: en
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:17:56 - DEBUG -   rt: c
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:17:56 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:17:56 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:56 - DEBUG - Request Params:
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:17:56 - DEBUG - [
+  "Licecon: A7 - Tecnología y gestión de la información",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:17:56 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A7 - Tecnología y gestión de la información",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:17:57 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:57 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:57 - DEBUG - Response Status: 200
+2026-02-22 17:17:57 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:17:57 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:57 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:17:57 - DEBUG - Response Data:
+2026-02-22 17:17:57 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:17:57 - DEBUG - [
+  "Licecon: A7 - Tecnología y gestión de la información",
+  null,
+  "d5702165-42dd-441e-8264-acbfb910422e",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "6b2d7b97-6313-4097-9c8c-e0009b3ea147"
+    ]
+  ]
+]
+2026-02-22 17:17:57 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A7 - Tecnología y gestión de la información",
+  null,
+  "d5702165-42dd-441e-8264-acbfb910422e",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "6b2d7b97-6313-4097-9c8c-e0009b3ea147"
+    ]
+  ]
+]
+2026-02-22 17:17:57 - DEBUG - ======================================================================
+2026-02-22 17:17:57 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:17:57 - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "1ac59845-ae05-4afb-9de1-906983880587", "notebook_id": "d5702165-42dd-441e-8264-acbfb910422e", "notebook_url": "https://notebooklm.google.com/notebook/d5702165-42dd-441e-8264-acbfb910422e", "query": "University level curriculum, academic papers, and detailed theories regarding 'Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:17:57 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "1ac59845-ae05-4afb-9de1-906983880587", "notebook_id": "d5702165-42dd-441e-8264-acbfb910422e", "notebook_url": "https://notebooklm.google.com/notebook/d5702165-42dd-441e-8264-acbfb910422e", "query": "University level curriculum, academic papers, and detailed theories regarding 'Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:17:57 - DEBUG - MCP Request: research_status({"notebook_id": "d5702165-42dd-441e-8264-acbfb910422e", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "1ac59845-ae05-4afb-9de1-906983880587"})
+2026-02-22 17:17:57 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_status({"notebook_id": "d5702165-42dd-441e-8264-acbfb910422e", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "1ac59845-ae05-4afb-9de1-906983880587"})
+2026-02-22 17:18:08 - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "1ac59845-ae05-4afb-9de1-906983880587", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://repositorio.uchile.cl/bitstream/handle/2250/122268/La_teoria_general_de_sistemas_y_su_aporte.pdf", "title": "La Teor\u00eda General de Sistemas y su aporte conceptual a las ciencias sociales - Repositorio Acad\u00e9mico - Universidad de Chile", "description": "Establece los cimientos te\u00f3ricos esenciales mediante la Teor\u00eda General de Sistemas.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://www.ferrovial.com/es/stem/teoria-de-la-informacion/", "title": "Teor\u00eda de la informaci\u00f3n: qu\u00e9 es, c\u00f3mo surge, elementos y aplicacione...
+2026-02-22 17:18:08 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "1ac59845-ae05-4afb-9de1-906983880587", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://repositorio.uchile.cl/bitstream/handle/2250/122268/La_teoria_general_de_sistemas_y_su_aporte.pdf", "title": "La Teor\u00eda General de Sistemas y su aporte conceptual a las ciencias sociales - Repositorio Acad\u00e9mico - Universidad de Chile", "description": "Establece los cimientos te\u00f3ricos esenciales mediante la Teor\u00eda General de Sistemas.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://www.ferrovial.com/es/stem/teoria-de-la-informacion/", "title": "Teor\u00eda de la informaci\u00f3n: qu\u00e9 es, c\u00f3mo surge, elementos y aplicacione...
+2026-02-22 17:18:08 - DEBUG - MCP Request: research_import({"notebook_id": "d5702165-42dd-441e-8264-acbfb910422e", "task_id": "1ac59845-ae05-4afb-9de1-906983880587"})
+2026-02-22 17:18:08 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_import({"notebook_id": "d5702165-42dd-441e-8264-acbfb910422e", "task_id": "1ac59845-ae05-4afb-9de1-906983880587"})
+2026-02-22 17:19:27 - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 10, "total_available": 10, "sources": [{"id": "1e8bcee0-1a8c-47ec-aa04-94e33f7214b9", "title": "La Teor\u00eda General de Sistemas y su aporte conceptual a las ciencias sociales - Repositorio Acad\u00e9mico - Universidad de Chile"}, {"id": "8fe4112e-8a26-4365-8ce2-8bf3db061a6e", "title": "Teor\u00eda de la informaci\u00f3n: qu\u00e9 es, c\u00f3mo surge, elementos y aplicaciones - Ferrovial"}, {"id": "740d58fe-cdca-4836-b220-2f9bcabbbff6", "title": "La gesti\u00f3n de la informaci\u00f3n: Herramienta esencial para el desarrollo de habilidades en la comunidad estudiantil universitaria - SciELO Cuba"}, {"id": "fe5df3df-472b-4919-ae52-4c3e11835c92", "title": "Teor\u00eda general de los sistemas aplicada a modelos de gesti\u00f3n General systems theory applied to management models Enrique Peral - CORE"}, {"id": "313ec918-02eb-4ea7-98f4-d1c79fc8fe20", "title": "Sistemas de informaci\u00f3n gerencial - Cat\u00e1logo de recursos SCALA"}, {"id": "273dd5c4...
+2026-02-22 17:19:27 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 10, "total_available": 10, "sources": [{"id": "1e8bcee0-1a8c-47ec-aa04-94e33f7214b9", "title": "La Teor\u00eda General de Sistemas y su aporte conceptual a las ciencias sociales - Repositorio Acad\u00e9mico - Universidad de Chile"}, {"id": "8fe4112e-8a26-4365-8ce2-8bf3db061a6e", "title": "Teor\u00eda de la informaci\u00f3n: qu\u00e9 es, c\u00f3mo surge, elementos y aplicaciones - Ferrovial"}, {"id": "740d58fe-cdca-4836-b220-2f9bcabbbff6", "title": "La gesti\u00f3n de la informaci\u00f3n: Herramienta esencial para el desarrollo de habilidades en la comunidad estudiantil universitaria - SciELO Cuba"}, {"id": "fe5df3df-472b-4919-ae52-4c3e11835c92", "title": "Teor\u00eda general de los sistemas aplicada a modelos de gesti\u00f3n General systems theory applied to management models Enrique Peral - CORE"}, {"id": "313ec918-02eb-4ea7-98f4-d1c79fc8fe20", "title": "Sistemas de informaci\u00f3n gerencial - Cat\u00e1logo de recursos SCALA"}, {"id": "273dd5c4...
+2026-02-22 17:19:27 - DEBUG - MCP Request: notebook_query({"notebook_id": "d5702165-42dd-441e-8264-acbfb910422e", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:19:27 - notebooklm_mcp.mcp - DEBUG - MCP Request: notebook_query({"notebook_id": "d5702165-42dd-441e-8264-acbfb910422e", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Tecnolog\u00eda y gesti\u00f3n de la informaci\u00f3n. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:19:27 - DEBUG - ======================================================================
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:19:27 - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:19:27 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:19:27 - DEBUG - URL Parameters:
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:19:27 - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:19:27 - DEBUG -   source-path: /notebook/d5702165-42dd-441e-8264-acbfb910422e
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG -   source-path: /notebook/d5702165-42dd-441e-8264-acbfb910422e
+2026-02-22 17:19:27 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:19:27 - DEBUG -   hl: en
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:19:27 - DEBUG -   rt: c
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:19:27 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:19:27 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:19:27 - DEBUG - Request Params:
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:19:27 - DEBUG - [
+  "d5702165-42dd-441e-8264-acbfb910422e",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - [
+  "d5702165-42dd-441e-8264-acbfb910422e",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:19:27 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:19:27 - DEBUG - Response Status: 200
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:19:27 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:19:27 - DEBUG - Response Data:
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:19:27 - DEBUG - [
+  [
+    "Licecon: A7 - Tecnología y gestión de la información",
+    [
+      [
+        [
+          "d8d0f163-e60e-4f25-aba9-02da637db9d1"
+        ],
+        "Gobierno de datos para las administraciones tributarias - CIAT",
+        [
+          null,
+          58868,
+          [
+            1771791489,
+            571753000
+          ],
+          [
+            "09a8cda3-ff2a-4afb-ba0f-e59449bbc122",
+            [
+              1771791489,
+              267016000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://www.ciat.org/Biblioteca/DocumentosTecnicos/Espanol/2024_gobierno_datos.pdf"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "c9c0f985-cd30-46ef-9198-62e1f2b5e911"
+        ],
+        "Grado en Ingeniería Informática - Oferta de estudios oficiales universitarios",
+        [
+          null,
+          2311,
+          [
+            1771791489,
+            571753000
+          ],
+          [
+            "31853d3a-10c0-41a5-b394-5f31c3979afe",
+            [
+              1771791489,
+              267016000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "https://estudios.unizar.es/estudio/ver?id=148"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "6fc2c9a6-78ea-41a2-af4d-37464c264758"
+        ],
+        "La Economía de la Información - El Poder de los Datos - Colibri",
+        [
+          null,
+          23724,
+          [
+            1771791489,
+            571753000
+          ],
+          [
+            "6053e4ec-242e-4068-b65a-7aac17958e0d",
+            [
+              1771791489,
+              267016000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/31722/1/MG.Billeci%20ALza%2C%20Gabriela%20Maril.pdf"
+          ]
+        ],
+        [
+         
+  ... (truncated)
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - [
+  [
+    "Licecon: A7 - Tecnología y gestión de la información",
+    [
+      [
+        [
+          "d8d0f163-e60e-4f25-aba9-02da637db9d1"
+        ],
+        "Gobierno de datos para las administraciones tributarias - CIAT",
+        [
+          null,
+          58868,
+          [
+            1771791489,
+            571753000
+          ],
+          [
+            "09a8cda3-ff2a-4afb-ba0f-e59449bbc122",
+            [
+              1771791489,
+              267016000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://www.ciat.org/Biblioteca/DocumentosTecnicos/Espanol/2024_gobierno_datos.pdf"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "c9c0f985-cd30-46ef-9198-62e1f2b5e911"
+        ],
+        "Grado en Ingeniería Informática - Oferta de estudios oficiales universitarios",
+        [
+          null,
+          2311,
+          [
+            1771791489,
+            571753000
+          ],
+          [
+            "31853d3a-10c0-41a5-b394-5f31c3979afe",
+            [
+              1771791489,
+              267016000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "https://estudios.unizar.es/estudio/ver?id=148"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "6fc2c9a6-78ea-41a2-af4d-37464c264758"
+        ],
+        "La Economía de la Información - El Poder de los Datos - Colibri",
+        [
+          null,
+          23724,
+          [
+            1771791489,
+            571753000
+          ],
+          [
+            "6053e4ec-242e-4068-b65a-7aac17958e0d",
+            [
+              1771791489,
+              267016000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/31722/1/MG.Billeci%20ALza%2C%20Gabriela%20Maril.pdf"
+          ]
+        ],
+        [
+         
+  ... (truncated)
+2026-02-22 17:19:27 - DEBUG - ======================================================================
+2026-02-22 17:19:27 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:20:13 - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio: Tecnolog\u00eda y Gesti\u00f3n de la Informaci\u00f3n\n\n## 1. Introducci\u00f3n\n\nLa gesti\u00f3n de la informaci\u00f3n y la tecnolog\u00eda se han convertido en pilares fundamentales para el funcionamiento, la competitividad y la supervivencia de las organizaciones modernas, tanto p\u00fablicas como privadas. Esta gu\u00eda de estudio sistematiza los conceptos clave, modelos te\u00f3ricos y aplicaciones pr\u00e1cticas derivados de la literatura acad\u00e9mica sobre sistemas de informaci\u00f3n, gobernanza de datos, inteligencia competitiva y transformaci\u00f3n digital.\n\nEl prop\u00f3sito de este documento es proporcionar un marco conceptual riguroso que permita al estudiante comprender c\u00f3mo los datos se transforman en sabidur\u00eda organizacional, c\u00f3mo se estructuran los sistemas para apoyar la toma de decisiones y c\u00f3mo la tecnolog\u00eda act\u00faa como un habilitador cr\u00edtico para la innovaci\u00f3n y...
+2026-02-22 17:20:13 - notebooklm_mcp.mcp - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio: Tecnolog\u00eda y Gesti\u00f3n de la Informaci\u00f3n\n\n## 1. Introducci\u00f3n\n\nLa gesti\u00f3n de la informaci\u00f3n y la tecnolog\u00eda se han convertido en pilares fundamentales para el funcionamiento, la competitividad y la supervivencia de las organizaciones modernas, tanto p\u00fablicas como privadas. Esta gu\u00eda de estudio sistematiza los conceptos clave, modelos te\u00f3ricos y aplicaciones pr\u00e1cticas derivados de la literatura acad\u00e9mica sobre sistemas de informaci\u00f3n, gobernanza de datos, inteligencia competitiva y transformaci\u00f3n digital.\n\nEl prop\u00f3sito de este documento es proporcionar un marco conceptual riguroso que permita al estudiante comprender c\u00f3mo los datos se transforman en sabidur\u00eda organizacional, c\u00f3mo se estructuran los sistemas para apoyar la toma de decisiones y c\u00f3mo la tecnolog\u00eda act\u00faa como un habilitador cr\u00edtico para la innovaci\u00f3n y...
+2026-02-22 17:20:18 - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Introducci\u00f3n a la contabilidad' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A8 - Introducci\u00f3n a la contabilidad"})
+2026-02-22 17:20:18 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Introducci\u00f3n a la contabilidad' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A8 - Introducci\u00f3n a la contabilidad"})
+2026-02-22 17:20:18 - DEBUG - ======================================================================
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:20:18 - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:20:18 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:20:18 - DEBUG - URL Parameters:
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:20:18 - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:20:18 - DEBUG -   source-path: /
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG -   source-path: /
+2026-02-22 17:20:18 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:20:18 - DEBUG -   hl: en
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:20:18 - DEBUG -   rt: c
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:20:18 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:20:18 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:20:18 - DEBUG - Request Params:
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:20:18 - DEBUG - [
+  "Licecon: A8 - Introducción a la contabilidad",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A8 - Introducción a la contabilidad",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:20:18 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:20:18 - DEBUG - Response Status: 200
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:20:18 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:20:18 - DEBUG - Response Data:
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:20:18 - DEBUG - [
+  "Licecon: A8 - Introducción a la contabilidad",
+  null,
+  "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "7cb90ec6-a0c0-491c-a349-5895a97792e2"
+    ]
+  ]
+]
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A8 - Introducción a la contabilidad",
+  null,
+  "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "7cb90ec6-a0c0-491c-a349-5895a97792e2"
+    ]
+  ]
+]
+2026-02-22 17:20:18 - DEBUG - ======================================================================
+2026-02-22 17:20:18 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:20:19 - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "8a0a6490-2f11-443a-a644-d5ee5791b7ac", "notebook_id": "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "notebook_url": "https://notebooklm.google.com/notebook/1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "query": "University level curriculum, academic papers, and detailed theories regarding 'Introducci\u00f3n a la contabilidad' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:20:19 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "8a0a6490-2f11-443a-a644-d5ee5791b7ac", "notebook_id": "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "notebook_url": "https://notebooklm.google.com/notebook/1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "query": "University level curriculum, academic papers, and detailed theories regarding 'Introducci\u00f3n a la contabilidad' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:20:19 - DEBUG - MCP Request: research_status({"notebook_id": "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "8a0a6490-2f11-443a-a644-d5ee5791b7ac"})
+2026-02-22 17:20:19 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_status({"notebook_id": "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "8a0a6490-2f11-443a-a644-d5ee5791b7ac"})
+2026-02-22 17:20:40 - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "8a0a6490-2f11-443a-a644-d5ee5791b7ac", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Introducci\u00f3n a la contabilidad' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://ocw.unican.es/pluginfile.php/1460/course/section/982/PPT%20tema%203_GADE-GE.pdf", "title": "PARTE I: TEOR\u00cdA GENERAL DE LA CONTABILIDAD Tema 3: EL RESULTADO Y EL M\u00c9TODO CONTABLE", "description": "Estructura acad\u00e9mica ideal para comprender el flujo de renta y el m\u00e9todo contable.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://addi.ehu.es/bitstream/handle/10810/10375/IC-Ap-addi.pdf?sequence=1", "title": "INTRODUCCI\u00d3N A LA CONTABILIDAD MATERIAL DE APOYO - ADDI", "description": "Gu\u00eda pr\u00e1ctica sobre el m\u00e9todo de la partida doble y eje...
+2026-02-22 17:20:40 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "8a0a6490-2f11-443a-a644-d5ee5791b7ac", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Introducci\u00f3n a la contabilidad' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://ocw.unican.es/pluginfile.php/1460/course/section/982/PPT%20tema%203_GADE-GE.pdf", "title": "PARTE I: TEOR\u00cdA GENERAL DE LA CONTABILIDAD Tema 3: EL RESULTADO Y EL M\u00c9TODO CONTABLE", "description": "Estructura acad\u00e9mica ideal para comprender el flujo de renta y el m\u00e9todo contable.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://addi.ehu.es/bitstream/handle/10810/10375/IC-Ap-addi.pdf?sequence=1", "title": "INTRODUCCI\u00d3N A LA CONTABILIDAD MATERIAL DE APOYO - ADDI", "description": "Gu\u00eda pr\u00e1ctica sobre el m\u00e9todo de la partida doble y eje...
+2026-02-22 17:20:40 - DEBUG - MCP Request: research_import({"notebook_id": "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "task_id": "8a0a6490-2f11-443a-a644-d5ee5791b7ac"})
+2026-02-22 17:20:40 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_import({"notebook_id": "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "task_id": "8a0a6490-2f11-443a-a644-d5ee5791b7ac"})
+2026-02-22 17:22:25 - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 9, "total_available": 10, "sources": [{"id": "1dd48d02-2263-4bc0-8155-0d4a01f1f599", "title": "PARTE I: TEOR\u00cdA GENERAL DE LA CONTABILIDAD Tema 3: EL RESULTADO Y EL M\u00c9TODO CONTABLE"}, {"id": "e161bb26-273c-43c8-882e-881bb21dc4b9", "title": "INTRODUCCI\u00d3N A LA CONTABILIDAD MATERIAL DE APOYO - ADDI"}, {"id": "a60020ea-eb54-4042-a835-f351507ab8e5", "title": "Introducci\u00f3n a la propuesta contable de Garc\u00eda-Casella - SciELO Colombia"}, {"id": "45b58e3c-5482-4301-9dba-45c048e54b79", "title": "plan de estudios 2020 - programa acad\u00e9mico de contabilidad y finanzas - PORTAL UNAB"}, {"id": "39a26627-60de-476d-9c59-d8022bd04c0e", "title": "El Marco Conceptual para la Informaci\u00f3n Financiera"}, {"id": "1bf87c91-059c-4fe9-87ff-9d56134020af", "title": "Fundamentos de la contabilidad financiera: teor\u00eda y pr\u00e1ctica - SciELO Colombia"}, {"id": "e1713835-479a-41e5-ab04-00efb224731c", "title": "sist\u00e9mica contable - Biblio...
+2026-02-22 17:22:25 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 9, "total_available": 10, "sources": [{"id": "1dd48d02-2263-4bc0-8155-0d4a01f1f599", "title": "PARTE I: TEOR\u00cdA GENERAL DE LA CONTABILIDAD Tema 3: EL RESULTADO Y EL M\u00c9TODO CONTABLE"}, {"id": "e161bb26-273c-43c8-882e-881bb21dc4b9", "title": "INTRODUCCI\u00d3N A LA CONTABILIDAD MATERIAL DE APOYO - ADDI"}, {"id": "a60020ea-eb54-4042-a835-f351507ab8e5", "title": "Introducci\u00f3n a la propuesta contable de Garc\u00eda-Casella - SciELO Colombia"}, {"id": "45b58e3c-5482-4301-9dba-45c048e54b79", "title": "plan de estudios 2020 - programa acad\u00e9mico de contabilidad y finanzas - PORTAL UNAB"}, {"id": "39a26627-60de-476d-9c59-d8022bd04c0e", "title": "El Marco Conceptual para la Informaci\u00f3n Financiera"}, {"id": "1bf87c91-059c-4fe9-87ff-9d56134020af", "title": "Fundamentos de la contabilidad financiera: teor\u00eda y pr\u00e1ctica - SciELO Colombia"}, {"id": "e1713835-479a-41e5-ab04-00efb224731c", "title": "sist\u00e9mica contable - Biblio...
+2026-02-22 17:22:26 - DEBUG - MCP Request: notebook_query({"notebook_id": "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Introducci\u00f3n a la contabilidad. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:22:26 - notebooklm_mcp.mcp - DEBUG - MCP Request: notebook_query({"notebook_id": "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Introducci\u00f3n a la contabilidad. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:22:26 - DEBUG - ======================================================================
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:22:26 - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:22:26 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:22:26 - DEBUG - URL Parameters:
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:22:26 - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:22:26 - DEBUG -   source-path: /notebook/1a0ad1c0-07dd-443f-9d44-4e57e6f5c845
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG -   source-path: /notebook/1a0ad1c0-07dd-443f-9d44-4e57e6f5c845
+2026-02-22 17:22:26 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:22:26 - DEBUG -   hl: en
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:22:26 - DEBUG -   rt: c
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:22:26 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:22:26 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:22:26 - DEBUG - Request Params:
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:22:26 - DEBUG - [
+  "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - [
+  "1a0ad1c0-07dd-443f-9d44-4e57e6f5c845",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:22:26 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:22:26 - DEBUG - Response Status: 200
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:22:26 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:22:26 - DEBUG - Response Data:
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:22:26 - DEBUG - [
+  [
+    "Licecon: A8 - Introducción a la contabilidad",
+    [
+      [
+        [
+          "39a26627-60de-476d-9c59-d8022bd04c0e"
+        ],
+        "El Marco Conceptual para la Información Financiera",
+        [
+          null,
+          33526,
+          [
+            1771791641,
+            774972000
+          ],
+          [
+            "81fee8a9-1e83-46c2-9488-dec41fd50798",
+            [
+              1771791641,
+              513271000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://www.contach.cl/pdf/normas-NIIF/Normas%20NIIF%20Full/2025/NIC/el-marco-conceptual-para-la-informacion-financiera.pdf"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "1bf87c91-059c-4fe9-87ff-9d56134020af"
+        ],
+        "Fundamentos de la contabilidad financiera: teoría y práctica - SciELO Colombia",
+        [
+          null,
+          1415,
+          [
+            1771791641,
+            774972000
+          ],
+          [
+            "53a1aebc-e674-456a-8d69-5aa84973cef5",
+            [
+              1771791641,
+              513271000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "http://www.scielo.org.co/scielo.php?pid=S0121-50512008000100011&script=sci_arttext&tlng=es"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "e161bb26-273c-43c8-882e-881bb21dc4b9"
+        ],
+        "INTRODUCCIÓN A LA CONTABILIDAD MATERIAL DE APOYO - ADDI",
+        [
+          null,
+          21455,
+          [
+            1771791641,
+            774972000
+          ],
+          [
+            "ac707136-7e77-4c26-a3a6-ca22ebac61bf",
+            [
+              1771791641,
+              513271000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://addi.ehu.es/bitstream/handle/10810/10375/IC-Ap-addi.pdf?sequence=1"
+          ]
+        ],
+
+  ... (truncated)
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - [
+  [
+    "Licecon: A8 - Introducción a la contabilidad",
+    [
+      [
+        [
+          "39a26627-60de-476d-9c59-d8022bd04c0e"
+        ],
+        "El Marco Conceptual para la Información Financiera",
+        [
+          null,
+          33526,
+          [
+            1771791641,
+            774972000
+          ],
+          [
+            "81fee8a9-1e83-46c2-9488-dec41fd50798",
+            [
+              1771791641,
+              513271000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://www.contach.cl/pdf/normas-NIIF/Normas%20NIIF%20Full/2025/NIC/el-marco-conceptual-para-la-informacion-financiera.pdf"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "1bf87c91-059c-4fe9-87ff-9d56134020af"
+        ],
+        "Fundamentos de la contabilidad financiera: teoría y práctica - SciELO Colombia",
+        [
+          null,
+          1415,
+          [
+            1771791641,
+            774972000
+          ],
+          [
+            "53a1aebc-e674-456a-8d69-5aa84973cef5",
+            [
+              1771791641,
+              513271000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "http://www.scielo.org.co/scielo.php?pid=S0121-50512008000100011&script=sci_arttext&tlng=es"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "e161bb26-273c-43c8-882e-881bb21dc4b9"
+        ],
+        "INTRODUCCIÓN A LA CONTABILIDAD MATERIAL DE APOYO - ADDI",
+        [
+          null,
+          21455,
+          [
+            1771791641,
+            774972000
+          ],
+          [
+            "ac707136-7e77-4c26-a3a6-ca22ebac61bf",
+            [
+              1771791641,
+              513271000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://addi.ehu.es/bitstream/handle/10810/10375/IC-Ap-addi.pdf?sequence=1"
+          ]
+        ],
+
+  ... (truncated)
+2026-02-22 17:22:26 - DEBUG - ======================================================================
+2026-02-22 17:22:26 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:23:14 - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio: Fundamentos y Teor\u00eda General de la Contabilidad\n\n## 1. Introducci\u00f3n a la Ciencia Contable\n\nLa contabilidad es una disciplina que trasciende la mera t\u00e9cnica de registro. Se define como una ciencia de naturaleza econ\u00f3mica cuyo objeto es el conocimiento pasado, presente y futuro de la realidad econ\u00f3mica en t\u00e9rminos cuantitativos, utilizando un m\u00e9todo espec\u00edfico para facilitar la toma de decisiones financieras externas y de planificaci\u00f3n interna [1].\n\n### 1.1 Naturaleza y Estatus Epistemol\u00f3gico\nContrario a concepciones antiguas que la limitaban a un \"arte\" o una \"t\u00e9cnica\", la contabilidad se posiciona contempor\u00e1neamente como una **ciencia factual, cultural y aplicada** [2, 3].\n*   **Factual:** Se ocupa de hechos y objetos reales (tangibles o intangibles) [4].\n*   **Cultural:** Sus conceptos est\u00e1n arraigados en el sistema de valores de la sociedad y son soci...
+2026-02-22 17:23:14 - notebooklm_mcp.mcp - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio: Fundamentos y Teor\u00eda General de la Contabilidad\n\n## 1. Introducci\u00f3n a la Ciencia Contable\n\nLa contabilidad es una disciplina que trasciende la mera t\u00e9cnica de registro. Se define como una ciencia de naturaleza econ\u00f3mica cuyo objeto es el conocimiento pasado, presente y futuro de la realidad econ\u00f3mica en t\u00e9rminos cuantitativos, utilizando un m\u00e9todo espec\u00edfico para facilitar la toma de decisiones financieras externas y de planificaci\u00f3n interna [1].\n\n### 1.1 Naturaleza y Estatus Epistemol\u00f3gico\nContrario a concepciones antiguas que la limitaban a un \"arte\" o una \"t\u00e9cnica\", la contabilidad se posiciona contempor\u00e1neamente como una **ciencia factual, cultural y aplicada** [2, 3].\n*   **Factual:** Se ocupa de hechos y objetos reales (tangibles o intangibles) [4].\n*   **Cultural:** Sus conceptos est\u00e1n arraigados en el sistema de valores de la sociedad y son soci...
+2026-02-22 17:23:19 - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas para economistas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A9 - Matem\u00e1ticas para economistas"})
+2026-02-22 17:23:19 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas para economistas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A9 - Matem\u00e1ticas para economistas"})
+2026-02-22 17:23:19 - DEBUG - ======================================================================
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:23:19 - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:23:19 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:23:19 - DEBUG - URL Parameters:
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:23:19 - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:23:19 - DEBUG -   source-path: /
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG -   source-path: /
+2026-02-22 17:23:19 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:23:19 - DEBUG -   hl: en
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:23:19 - DEBUG -   rt: c
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:23:19 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:23:19 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:23:19 - DEBUG - Request Params:
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:23:19 - DEBUG - [
+  "Licecon: A9 - Matemáticas para economistas",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:23:19 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A9 - Matemáticas para economistas",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:23:20 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:23:20 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:23:20 - DEBUG - Response Status: 200
+2026-02-22 17:23:20 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:23:20 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:23:20 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:23:20 - DEBUG - Response Data:
+2026-02-22 17:23:20 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:23:20 - DEBUG - [
+  "Licecon: A9 - Matemáticas para economistas",
+  null,
+  "44420984-ff54-4009-ad8a-a5fab720f5c1",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "2940f2d5-4c50-4863-bfae-047e17928257"
+    ]
+  ]
+]
+2026-02-22 17:23:20 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A9 - Matemáticas para economistas",
+  null,
+  "44420984-ff54-4009-ad8a-a5fab720f5c1",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "2940f2d5-4c50-4863-bfae-047e17928257"
+    ]
+  ]
+]
+2026-02-22 17:23:20 - DEBUG - ======================================================================
+2026-02-22 17:23:20 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:23:20 - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "285649c2-2a5e-4a4a-98d5-d1cfd21818f7", "notebook_id": "44420984-ff54-4009-ad8a-a5fab720f5c1", "notebook_url": "https://notebooklm.google.com/notebook/44420984-ff54-4009-ad8a-a5fab720f5c1", "query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas para economistas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:23:20 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "285649c2-2a5e-4a4a-98d5-d1cfd21818f7", "notebook_id": "44420984-ff54-4009-ad8a-a5fab720f5c1", "notebook_url": "https://notebooklm.google.com/notebook/44420984-ff54-4009-ad8a-a5fab720f5c1", "query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas para economistas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:23:20 - DEBUG - MCP Request: research_status({"notebook_id": "44420984-ff54-4009-ad8a-a5fab720f5c1", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "285649c2-2a5e-4a4a-98d5-d1cfd21818f7"})
+2026-02-22 17:23:20 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_status({"notebook_id": "44420984-ff54-4009-ad8a-a5fab720f5c1", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "285649c2-2a5e-4a4a-98d5-d1cfd21818f7"})
+2026-02-22 17:23:41 - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "285649c2-2a5e-4a4a-98d5-d1cfd21818f7", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas para economistas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://www.udima.es/matematicas-economistas-108", "title": "Matem\u00e1ticas para economistas - UDIMA", "description": "Proporciona el curr\u00edculo universitario completo integrando an\u00e1lisis multivariable, optimizaci\u00f3n y sistemas din\u00e1micos.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://www.icees.org.bo/wp-content/uploads/2019/12/percontari-n23-laeconomia.pdf", "title": "Revista Percontari 1 - Fundaci\u00f3n ICEES", "description": "Analiza las teor\u00edas de autores fundamentales como Allen, Hicks y Samuelson.", "result_type": 1, "result_type_name": "web"}, ...
+2026-02-22 17:23:41 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "285649c2-2a5e-4a4a-98d5-d1cfd21818f7", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Matem\u00e1ticas para economistas' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://www.udima.es/matematicas-economistas-108", "title": "Matem\u00e1ticas para economistas - UDIMA", "description": "Proporciona el curr\u00edculo universitario completo integrando an\u00e1lisis multivariable, optimizaci\u00f3n y sistemas din\u00e1micos.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://www.icees.org.bo/wp-content/uploads/2019/12/percontari-n23-laeconomia.pdf", "title": "Revista Percontari 1 - Fundaci\u00f3n ICEES", "description": "Analiza las teor\u00edas de autores fundamentales como Allen, Hicks y Samuelson.", "result_type": 1, "result_type_name": "web"}, ...
+2026-02-22 17:23:41 - DEBUG - MCP Request: research_import({"notebook_id": "44420984-ff54-4009-ad8a-a5fab720f5c1", "task_id": "285649c2-2a5e-4a4a-98d5-d1cfd21818f7"})
+2026-02-22 17:23:41 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_import({"notebook_id": "44420984-ff54-4009-ad8a-a5fab720f5c1", "task_id": "285649c2-2a5e-4a4a-98d5-d1cfd21818f7"})
+2026-02-22 17:24:12 - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 10, "total_available": 10, "sources": [{"id": "0ebbeb5b-968f-45f6-90b7-8e58163a7d06", "title": "Matem\u00e1ticas para economistas - UDIMA"}, {"id": "aa2b2730-33d9-49f7-b8b9-0c7c1d78f028", "title": "Revista Percontari 1 - Fundaci\u00f3n ICEES"}, {"id": "a17a4fb8-08fb-4a46-b4d1-61853cc7cf51", "title": "Revista Electr\u00f3nica de Comunicaciones y Trabajos de ASEPUMA: Rect@ - Dialnet"}, {"id": "c8514b2f-2dcc-48db-96f6-4f169755761b", "title": "Programaci\u00f3n Din\u00e1mica"}, {"id": "7a8012b7-5321-432a-a291-d631b6991092", "title": "Gerard Debreu y el equilibrio general - Fundaci\u00f3n Civismo |"}, {"id": "49952965-356b-4045-bb2a-ce428546e524", "title": "Una generalizaci\u00f3n del Teorema de los multiplicadores de Lagrange: condiciones de Karush-Kuhn-Tucker en Programaci\u00f3n no lineal - Universidad de Granada"}, {"id": "d66a09c6-0c37-49be-bef8-d6643f58a179", "title": "ecuaciones diferenciales ordinarias, teor\u00eda y ejercicios resueltos - Rep...
+2026-02-22 17:24:12 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_import -> {"status": "success", "imported_count": 10, "total_available": 10, "sources": [{"id": "0ebbeb5b-968f-45f6-90b7-8e58163a7d06", "title": "Matem\u00e1ticas para economistas - UDIMA"}, {"id": "aa2b2730-33d9-49f7-b8b9-0c7c1d78f028", "title": "Revista Percontari 1 - Fundaci\u00f3n ICEES"}, {"id": "a17a4fb8-08fb-4a46-b4d1-61853cc7cf51", "title": "Revista Electr\u00f3nica de Comunicaciones y Trabajos de ASEPUMA: Rect@ - Dialnet"}, {"id": "c8514b2f-2dcc-48db-96f6-4f169755761b", "title": "Programaci\u00f3n Din\u00e1mica"}, {"id": "7a8012b7-5321-432a-a291-d631b6991092", "title": "Gerard Debreu y el equilibrio general - Fundaci\u00f3n Civismo |"}, {"id": "49952965-356b-4045-bb2a-ce428546e524", "title": "Una generalizaci\u00f3n del Teorema de los multiplicadores de Lagrange: condiciones de Karush-Kuhn-Tucker en Programaci\u00f3n no lineal - Universidad de Granada"}, {"id": "d66a09c6-0c37-49be-bef8-d6643f58a179", "title": "ecuaciones diferenciales ordinarias, teor\u00eda y ejercicios resueltos - Rep...
+2026-02-22 17:24:12 - DEBUG - MCP Request: notebook_query({"notebook_id": "44420984-ff54-4009-ad8a-a5fab720f5c1", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Matem\u00e1ticas para economistas. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:24:12 - notebooklm_mcp.mcp - DEBUG - MCP Request: notebook_query({"notebook_id": "44420984-ff54-4009-ad8a-a5fab720f5c1", "query": "Escribe una 'Gu\u00eda de Estudio' exhaustiva, de nivel universitario, sobre Matem\u00e1ticas para economistas. \nB\u00e1sate estrictamente en las fuentes acad\u00e9micas que acabamos de investigar e importar a esta libreta.\nFormato requerido:\n- Usa Markdown puro sin encapsular en bloques de c\u00f3digo json.\n- T\u00edtulo principal con #\n- Incluye secciones l\u00f3gicas de introducci\u00f3n, desarrollo de teor\u00edas, y conclusi\u00f3n.\n- S\u00e9 extremadamente profesional, objetivo y acad\u00e9mico. Evita lenguaje de marketing.\n- Usa listas numeradas y vi\u00f1etas para desglosar conceptos complejos.\n- Al final, incluye un resumen de 3 puntos clave.", "timeout": 180.0})
+2026-02-22 17:24:12 - DEBUG - ======================================================================
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:24:12 - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG - RPC Call: rLM1Ne (get_notebook)
+2026-02-22 17:24:12 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:24:12 - DEBUG - URL Parameters:
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:24:12 - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG -   rpcids: rLM1Ne
+2026-02-22 17:24:12 - DEBUG -   source-path: /notebook/44420984-ff54-4009-ad8a-a5fab720f5c1
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG -   source-path: /notebook/44420984-ff54-4009-ad8a-a5fab720f5c1
+2026-02-22 17:24:12 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:24:12 - DEBUG -   hl: en
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:24:12 - DEBUG -   rt: c
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:24:12 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:24:12 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:24:12 - DEBUG - Request Params:
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:24:12 - DEBUG - [
+  "44420984-ff54-4009-ad8a-a5fab720f5c1",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:24:12 - notebooklm_mcp.api - DEBUG - [
+  "44420984-ff54-4009-ad8a-a5fab720f5c1",
+  null,
+  [
+    2
+  ],
+  null,
+  0
+]
+2026-02-22 17:24:13 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:24:13 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:24:13 - DEBUG - Response Status: 200
+2026-02-22 17:24:13 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:24:13 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:24:13 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:24:13 - DEBUG - Response Data:
+2026-02-22 17:24:13 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:24:13 - DEBUG - [
+  [
+    "Licecon: A9 - Matemáticas para economistas",
+    [
+      [
+        [
+          "a9894602-1415-4391-aae6-f8bf16dcc0d9"
+        ],
+        "ACTUALIDAD Y APLICACIONES DE LA TOPOLOGÍA Y EL ANÁLISIS FUNCIONAL - Docta Complutense",
+        [
+          null,
+          10619,
+          [
+            1771791822,
+            476318000
+          ],
+          [
+            "37f9cd51-89fa-4de9-96d7-dfc1054901fe",
+            [
+              1771791822,
+              229414000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://docta.ucm.es/bitstreams/5f460cdc-7714-4054-a737-9e8c3046df62/download"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "7a8012b7-5321-432a-a291-d631b6991092"
+        ],
+        "Gerard Debreu y el equilibrio general - Fundación Civismo |",
+        [
+          null,
+          1549,
+          [
+            1771791822,
+            476318000
+          ],
+          [
+            "7d1bba1a-971e-4964-8a6a-24ffaadc66a6",
+            [
+              1771791822,
+              229414000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "https://civismo.org/pensamiento-politico/libertad/gerard-debreu-y-el-equilibrio-general/"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "0ebbeb5b-968f-45f6-90b7-8e58163a7d06"
+        ],
+        "Matemáticas para economistas - UDIMA",
+        [
+          null,
+          2522,
+          [
+            1771791822,
+            476318000
+          ],
+          [
+            "14521494-6bec-4607-aa8c-a2e39155329e",
+            [
+              1771791822,
+              229414000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "https://www.udima.es/matematicas-economistas-108"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+     
+  ... (truncated)
+2026-02-22 17:24:13 - notebooklm_mcp.api - DEBUG - [
+  [
+    "Licecon: A9 - Matemáticas para economistas",
+    [
+      [
+        [
+          "a9894602-1415-4391-aae6-f8bf16dcc0d9"
+        ],
+        "ACTUALIDAD Y APLICACIONES DE LA TOPOLOGÍA Y EL ANÁLISIS FUNCIONAL - Docta Complutense",
+        [
+          null,
+          10619,
+          [
+            1771791822,
+            476318000
+          ],
+          [
+            "37f9cd51-89fa-4de9-96d7-dfc1054901fe",
+            [
+              1771791822,
+              229414000
+            ]
+          ],
+          3,
+          null,
+          2,
+          [
+            "https://docta.ucm.es/bitstreams/5f460cdc-7714-4054-a737-9e8c3046df62/download"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "7a8012b7-5321-432a-a291-d631b6991092"
+        ],
+        "Gerard Debreu y el equilibrio general - Fundación Civismo |",
+        [
+          null,
+          1549,
+          [
+            1771791822,
+            476318000
+          ],
+          [
+            "7d1bba1a-971e-4964-8a6a-24ffaadc66a6",
+            [
+              1771791822,
+              229414000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "https://civismo.org/pensamiento-politico/libertad/gerard-debreu-y-el-equilibrio-general/"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+          "0ebbeb5b-968f-45f6-90b7-8e58163a7d06"
+        ],
+        "Matemáticas para economistas - UDIMA",
+        [
+          null,
+          2522,
+          [
+            1771791822,
+            476318000
+          ],
+          [
+            "14521494-6bec-4607-aa8c-a2e39155329e",
+            [
+              1771791822,
+              229414000
+            ]
+          ],
+          5,
+          null,
+          2,
+          [
+            "https://www.udima.es/matematicas-economistas-108"
+          ]
+        ],
+        [
+          null,
+          2
+        ]
+      ],
+      [
+        [
+     
+  ... (truncated)
+2026-02-22 17:24:13 - DEBUG - ======================================================================
+2026-02-22 17:24:13 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:25:27 - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio Avanzada: Matem\u00e1ticas para el An\u00e1lisis Econ\u00f3mico\n\n## 1. Introducci\u00f3n\nLa econom\u00eda moderna se fundamenta en una estructura cuantitativa rigurosa que permite modelar el comportamiento de los agentes, la asignaci\u00f3n de recursos escasos y la din\u00e1mica de los mercados. Esta gu\u00eda sintetiza los pilares matem\u00e1ticos esenciales para el economista, desde la optimizaci\u00f3n est\u00e1tica hasta la din\u00e1mica compleja, bas\u00e1ndose en la evoluci\u00f3n hist\u00f3rica de la disciplina desde la econom\u00eda pol\u00edtica cl\u00e1sica hasta la axiomatizaci\u00f3n de la teor\u00eda del equilibrio general [1, 2].\n\nEl objetivo de esta gu\u00eda es proporcionar un marco conceptual que vincule las herramientas matem\u00e1ticas abstractas (topolog\u00eda, an\u00e1lisis funcional, ecuaciones diferenciales) con sus aplicaciones econ\u00f3micas directas (teor\u00eda del consumidor, crecimiento econ\u00...
+2026-02-22 17:25:27 - notebooklm_mcp.mcp - DEBUG - MCP Response: notebook_query -> {"status": "success", "answer": "# Gu\u00eda de Estudio Avanzada: Matem\u00e1ticas para el An\u00e1lisis Econ\u00f3mico\n\n## 1. Introducci\u00f3n\nLa econom\u00eda moderna se fundamenta en una estructura cuantitativa rigurosa que permite modelar el comportamiento de los agentes, la asignaci\u00f3n de recursos escasos y la din\u00e1mica de los mercados. Esta gu\u00eda sintetiza los pilares matem\u00e1ticos esenciales para el economista, desde la optimizaci\u00f3n est\u00e1tica hasta la din\u00e1mica compleja, bas\u00e1ndose en la evoluci\u00f3n hist\u00f3rica de la disciplina desde la econom\u00eda pol\u00edtica cl\u00e1sica hasta la axiomatizaci\u00f3n de la teor\u00eda del equilibrio general [1, 2].\n\nEl objetivo de esta gu\u00eda es proporcionar un marco conceptual que vincule las herramientas matem\u00e1ticas abstractas (topolog\u00eda, an\u00e1lisis funcional, ecuaciones diferenciales) con sus aplicaciones econ\u00f3micas directas (teor\u00eda del consumidor, crecimiento econ\u00...
+2026-02-22 17:25:32 - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Microeconom\u00eda' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A10 - Microeconom\u00eda"})
+2026-02-22 17:25:32 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_start({"query": "University level curriculum, academic papers, and detailed theories regarding 'Microeconom\u00eda' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "title": "Licecon: A10 - Microeconom\u00eda"})
+2026-02-22 17:25:32 - DEBUG - ======================================================================
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:25:32 - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - RPC Call: CCqFvf (create_notebook)
+2026-02-22 17:25:32 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:25:32 - DEBUG - URL Parameters:
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - URL Parameters:
+2026-02-22 17:25:32 - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG -   rpcids: CCqFvf
+2026-02-22 17:25:32 - DEBUG -   source-path: /
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG -   source-path: /
+2026-02-22 17:25:32 - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG -   bl: boq_labs-tailwind-frontend_20260108.06_p0
+2026-02-22 17:25:32 - DEBUG -   hl: en
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG -   hl: en
+2026-02-22 17:25:32 - DEBUG -   rt: c
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG -   rt: c
+2026-02-22 17:25:32 - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG -   f.sid: 3395298735881050531
+2026-02-22 17:25:32 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:25:32 - DEBUG - Request Params:
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - Request Params:
+2026-02-22 17:25:32 - DEBUG - [
+  "Licecon: A10 - Microeconomía",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A10 - Microeconomía",
+  null,
+  null,
+  [
+    2
+  ],
+  [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      1
+    ]
+  ]
+]
+2026-02-22 17:25:32 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:25:32 - DEBUG - Response Status: 200
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - Response Status: 200
+2026-02-22 17:25:32 - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - ----------------------------------------------------------------------
+2026-02-22 17:25:32 - DEBUG - Response Data:
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - Response Data:
+2026-02-22 17:25:32 - DEBUG - [
+  "Licecon: A10 - Microeconomía",
+  null,
+  "360195ee-3a2d-4531-94d5-cfb94e1dfa8f",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "9c71e668-5332-43c0-8653-377355df4220"
+    ]
+  ]
+]
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - [
+  "Licecon: A10 - Microeconomía",
+  null,
+  "360195ee-3a2d-4531-94d5-cfb94e1dfa8f",
+  null,
+  null,
+  [
+    1,
+    false,
+    true,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    false
+  ],
+  null,
+  null,
+  null,
+  null,
+  null,
+  [
+    [
+      "9c71e668-5332-43c0-8653-377355df4220"
+    ]
+  ]
+]
+2026-02-22 17:25:32 - DEBUG - ======================================================================
+2026-02-22 17:25:32 - notebooklm_mcp.api - DEBUG - ======================================================================
+2026-02-22 17:25:33 - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "ee689045-a685-4dcd-8aad-44a892a0799c", "notebook_id": "360195ee-3a2d-4531-94d5-cfb94e1dfa8f", "notebook_url": "https://notebooklm.google.com/notebook/360195ee-3a2d-4531-94d5-cfb94e1dfa8f", "query": "University level curriculum, academic papers, and detailed theories regarding 'Microeconom\u00eda' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:25:33 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_start -> {"status": "success", "task_id": "ee689045-a685-4dcd-8aad-44a892a0799c", "notebook_id": "360195ee-3a2d-4531-94d5-cfb94e1dfa8f", "notebook_url": "https://notebooklm.google.com/notebook/360195ee-3a2d-4531-94d5-cfb94e1dfa8f", "query": "University level curriculum, academic papers, and detailed theories regarding 'Microeconom\u00eda' in Spanish. Focus on foundational principles, modern theories, and applications.", "source": "web", "mode": "fast", "created_notebook": true, "message": "Fast Research started. This takes about 30 seconds. Call research_status to check progress."}
+2026-02-22 17:25:33 - DEBUG - MCP Request: research_status({"notebook_id": "360195ee-3a2d-4531-94d5-cfb94e1dfa8f", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "ee689045-a685-4dcd-8aad-44a892a0799c"})
+2026-02-22 17:25:33 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_status({"notebook_id": "360195ee-3a2d-4531-94d5-cfb94e1dfa8f", "poll_interval": 10, "max_wait": 180, "compact": true, "task_id": "ee689045-a685-4dcd-8aad-44a892a0799c"})
+2026-02-22 17:25:44 - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "ee689045-a685-4dcd-8aad-44a892a0799c", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Microeconom\u00eda' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://doctoradofilosofia.uc.cl/wp-content/uploads/2025/06/Arancibia-Analisis-Economico-y-Filosofia-Moral-programa-curso.pdf", "title": "MODELO DE PROGRAMA DE CURSO UC ESTRUCTURA Y CONTENIDO - Doctorado en Filosof\u00eda de la UC", "description": "Estructura curricular completa para entender los fundamentos microecon\u00f3micos universitarios.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://api.pageplace.de/preview/DT0400.9789587781205_A43776792/preview-9789587781205_A43776792.pdf", "title": "Microeconom\u00eda intermedia", "description": "Manual de nivel intermedio sobre principios de elecc...
+2026-02-22 17:25:44 - notebooklm_mcp.mcp - DEBUG - MCP Response: research_status -> {"status": "success", "research": {"task_id": "ee689045-a685-4dcd-8aad-44a892a0799c", "status": "completed", "query": "University level curriculum, academic papers, and detailed theories regarding 'Microeconom\u00eda' in Spanish. Focus on foundational principles, modern theories, and applications.", "source_type": "web", "mode": "fast", "sources": [{"index": 0, "url": "https://doctoradofilosofia.uc.cl/wp-content/uploads/2025/06/Arancibia-Analisis-Economico-y-Filosofia-Moral-programa-curso.pdf", "title": "MODELO DE PROGRAMA DE CURSO UC ESTRUCTURA Y CONTENIDO - Doctorado en Filosof\u00eda de la UC", "description": "Estructura curricular completa para entender los fundamentos microecon\u00f3micos universitarios.", "result_type": 1, "result_type_name": "web"}, {"index": 1, "url": "https://api.pageplace.de/preview/DT0400.9789587781205_A43776792/preview-9789587781205_A43776792.pdf", "title": "Microeconom\u00eda intermedia", "description": "Manual de nivel intermedio sobre principios de elecc...
+2026-02-22 17:25:44 - DEBUG - MCP Request: research_import({"notebook_id": "360195ee-3a2d-4531-94d5-cfb94e1dfa8f", "task_id": "ee689045-a685-4dcd-8aad-44a892a0799c"})
+2026-02-22 17:25:44 - notebooklm_mcp.mcp - DEBUG - MCP Request: research_import({"notebook_id": "360195ee-3a2d-4531-94d5-cfb94e1dfa8f", "task_id": "ee689045-a685-4dcd-8aad-44a892a0799c"})
+=== Iniciando Procesamiento por Lotes (6 asignaturas) ===
+
+
+=======================================================
+=== Procesando: A5 - Matemáticas ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: 8a00eb64-5110-4ae9-b677-accc805612cf
+  [+] Task ID: 66d892fa-ad62-4c18-84a5-a348bcb35da1
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio Avanzada: Fundamentos y Ramas Selectas de las Matemáticas
+
+## 1. Introducción
+La matemática constituye una disciplina formal que estudia las propiedades de objetos abstractos —tales ...
+[CONTINÚA]
+
+[✔] Asignatura A5 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a5_extended.md
+
+=======================================================
+=== Procesando: A6 - Entorno económico y mercados financieros ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: 92c5575b-b229-4e61-a71f-a2c85c2df7a7
+  [+] Task ID: 7e4f72f4-4ca4-450f-a5b2-0be653015187
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio: Entorno Económico y Mercados Financieros
+
+## I. Introducción
+
+El estudio del entorno económico y los mercados financieros requiere una comprensión integral de cómo las variables mac...
+[CONTINÚA]
+
+[✔] Asignatura A6 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a6_extended.md
+
+=======================================================
+=== Procesando: A7 - Tecnología y gestión de la información ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: d5702165-42dd-441e-8264-acbfb910422e
+  [+] Task ID: 1ac59845-ae05-4afb-9de1-906983880587
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio: Tecnología y Gestión de la Información
+
+## 1. Introducción
+
+La gestión de la información y la tecnología se han convertido en pilares fundamentales para el funcionamiento, la compet...
+[CONTINÚA]
+
+[✔] Asignatura A7 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a7_extended.md
+
+=======================================================
+=== Procesando: A8 - Introducción a la contabilidad ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: 1a0ad1c0-07dd-443f-9d44-4e57e6f5c845
+  [+] Task ID: 8a0a6490-2f11-443a-a644-d5ee5791b7ac
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio: Fundamentos y Teoría General de la Contabilidad
+
+## 1. Introducción a la Ciencia Contable
+
+La contabilidad es una disciplina que trasciende la mera técnica de registro. Se define co...
+[CONTINÚA]
+
+[✔] Asignatura A8 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a8_extended.md
+
+=======================================================
+=== Procesando: A9 - Matemáticas para economistas ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: 44420984-ff54-4009-ad8a-a5fab720f5c1
+  [+] Task ID: 285649c2-2a5e-4a4a-98d5-d1cfd21818f7
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+Fuentes Importadas.
+
+4. Generando Guía de Estudio (Synthesis)...
+
+=== GUÍA GENERADA ===
+
+# Guía de Estudio Avanzada: Matemáticas para el Análisis Económico
+
+## 1. Introducción
+La economía moderna se fundamenta en una estructura cuantitativa rigurosa que permite modelar el comportamiento d...
+[CONTINÚA]
+
+[✔] Asignatura A9 procesada exitosamente. Guardado en /Users/machd/Desktop/licecon/web-portal/public/program/a9_extended.md
+
+=======================================================
+=== Procesando: A10 - Microeconomía ===
+=======================================================
+
+1. Lanzando Deep Research (Búsqueda Académica Avanzada)...
+  [+] Notebook ID: 360195ee-3a2d-4531-94d5-cfb94e1dfa8f
+  [+] Task ID: ee689045-a685-4dcd-8aad-44a892a0799c
+
+2. Esperando a que termine el Deep Research...
+Research completado!
+
+3. Importando fuentes descubiertas a la libreta...
+
+[!] Error crítico procesando A10: Connection closed
+[-] Fallo reportado para A10. Continuando con el siguiente...
+
+=== Procesamiento por Lotes Finalizado ===
