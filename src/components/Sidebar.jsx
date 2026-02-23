@@ -264,17 +264,13 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
         <aside className={`w-80 h-screen bg-study-panel/95 backdrop-blur-3xl text-slate-300 flex flex-col fixed left-0 top-0 z-50 border-r border-white/5 overflow-hidden shadow-2xl transition-transform duration-300 ease-in-out ${isOpen ? 'translate-x-0' : '-translate-x-full lg:translate-x-0'}`}>
             {/* Logo */}
             <div className="p-4 md:p-6 border-b border-white/5 flex items-center justify-between gap-4 relative overflow-hidden flex-shrink-0">
-                <div className="flex items-center gap-4">
-                    <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-indigo-500/10 to-transparent pointer-events-none" />
-                    <div className="w-11 h-11 rounded-xl flex items-center justify-center text-white bg-gradient-to-br from-indigo-500 via-purple-500 to-indigo-600 shadow-lg shadow-indigo-500/30 relative z-10 border border-white/20 flex-shrink-0">
-                        <GraduationCap size={24} />
-                    </div>
-                    <div className="relative z-10">
-                        <h1 className="font-extrabold text-xl leading-tight tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-indigo-300 to-cyan-300">
-                            TECH ECONOMICS
-                        </h1>
-                        <p className="text-[9px] text-indigo-400/80 font-bold tracking-[0.3em] uppercase mt-0.5">Study Portal</p>
-                    </div>
+                <div className="flex items-center">
+                    <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-emerald-500/5 to-transparent pointer-events-none" />
+                    <img
+                        src="/assets/logo.png"
+                        alt="EconAcademy"
+                        className="relative z-10 h-16 w-auto object-contain drop-shadow-lg"
+                    />
                 </div>
                 <button
                     onClick={() => setIsOpen(false)}
