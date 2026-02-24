@@ -367,32 +367,95 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Equilibrio General</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Cúspide inmaculada paramétrica euclídea y arquitectura suprema holística y totalizante cénit de Walras donde la infinidad inescrutable astronómica incesante colosal multiplicidad atomizada interdependiente de millones de ecosistemas subyacentes mercantiles plazas laberínticas se concatenan vaciándose inelásticas e irreductiblemente purificadas simultánea y milimétricamente plenas intersectando estáticas vaciadoras sinérgicas simbióticas de compensaciones P y Q interconectadas unánimes globalizadas estabilizadas absolutistas eximiendo dislocaciones residuales.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Caja de Edgeworth</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Recinto gráfico claustro y mapa topográfico cuadrangular bidimensional inmaculado analógico para diagramar la colisión simbiótica bilateral cruda y la arena resolutiva de dos agentes exógenos canjeando una dotación fija finita inelástica amurallada prefabricada inalterable estática y agotable de dos puros bienes, interceptándose en laberintos topográficos de compensaciones hicksianas y revelando ineludibles negociaciones.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Óptimo de Pareto</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Estado celestial clímax supremo intocable e irreductible resolutivo y distributivo dictaminador dogmático paralizador donde ya cualquier ingeniería de transmutación mudanza o expropiatoria recanalización asimétrica de riquezas o cuotas redistributivas expoliadoras transaccionales que ose engrosar u optimizar compensaciones a un ciudadano enaltecido derivará forzosa punitiva trágica letal e ineluctablemente inexorable y sin resguardo en el hundimiento merma destitución pauperización amputación y flagelo expropiador devorador asfixiante irremediable del bienestar utilitarista del vecino marginado adyacente en la red.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Contrato</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Cordillera topográfica y espina dorsal estática inamovible de la Caja de Edgeworth engarce aglutinando e interconectando tangencial resolutiva todas plenas incontables inifinitas asignaciones eficientes inmaculadas óptimas supremas paretianas donde las laderas cóncavas RMS de los bandos litigantes en la arena empatan plenas asintóticas clónicas neutralizantes compensadoras matemáticas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teoremas del Bienestar</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Dogmas capitales y epifanías matemáticas subyacentes cardinales inescrutables de la economía teorética puros: 1° Que toda arcadia competitiva libre de impurezas y opacidades encabrita ineludiblemente resolviéndose empíricamente decantando arrastrada de mercado decantándose invariablemente un clímax Pareto Eficiente absoluto puro e incondicionado; y 2° Que si re-orquestas expropiantemente dictatorial las herencias dotacionales originarias, un mercado puro libre puede re-vaciarse encauzándose a estabilizar milagrosamente asintótico empíricamente cualquier deseado anhelo equitativo punto paretiano social utópico dictaminado.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Externalidad
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Efecto no compensado de las acciones de un agente sobre el bienestar de terceros, sin que exista un mecanismo de precios que regule dicha interacción.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Bienes Públicos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Bienes caracterizados por la no rivalidad en el consumo y la imposibilidad de exclusión, lo que impide al mercado una provisión eficiente mediante el sistema de precios.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Eficiencia de Pareto
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Asignación de recursos en la cual es imposible mejorar el bienestar de un individuo sin perjudicar simultáneamente la utilidad de al menos otro agente económico.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Impuesto Pigouviano
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Gravamen unitario equivalente al coste marginal externo, diseñado para que los agentes internalicen las externalidades negativas y alcancen el nivel de producción socialmente óptimo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Teorema de Coase
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Proposición que establece que, ante derechos de propiedad bien definidos y costes de transacción nulos, la negociación privada garantiza una asignación eficiente de recursos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Costes de Transacción
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Gastos asociados a la búsqueda de información, negociación y vigilancia del cumplimiento necesarios para realizar un intercambio o acuerdo económico entre agentes.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Rivalidad
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Propiedad de un bien según la cual el consumo realizado por un individuo disminuye la cantidad o calidad disponible para otros consumidores potenciales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Excluibilidad
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Atributo de un bien que permite, mediante mecanismos legales o tecnológicos, impedir el acceso al consumo a aquellos individuos que no pagan por él.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Problema del Polizón
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Incentivo estratégico de los agentes para no revelar su disposición a pagar por bienes no excluyentes, beneficiándose de la provisión financiada por terceros.
+                </p>
+            </div>
         </div>
     </div>
 </section>
