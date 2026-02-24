@@ -117,85 +117,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Interacción estratégica
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso donde los resultados de las decisiones de los individuos dependen de las acciones de los demás.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Equilibrio de Nash
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Situación en la cual ningún jugador puede mejorar su utilidad mediante un cambio unilateral de estrategia, dadas las estrategias de los demás participantes.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Competencia de Bertrand
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Modelo de oligopolio donde las empresas compiten fijando precios. En equilibrio, el precio iguala al coste marginal, eliminando los beneficios económicos extraordinarios.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Modelo de Stackelberg
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Juego secuencial donde una empresa líder elige su nivel de producción primero, condicionando la respuesta de las empresas seguidoras en el mercado.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Inducción hacia atrás
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Procedimiento de resolución de juegos dinámicos que consiste en determinar las acciones óptimas desde el último periodo hacia el inicio para hallar equilibrios creíbles.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Diseño de mecanismos
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Rama de la teoría de juegos que busca crear reglas e instituciones que incentiven a los agentes a revelar información privada para alcanzar objetivos sociales.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Compatibilidad de incentivos
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Condición que asegura que los agentes maximicen su propia utilidad al actuar de acuerdo con los objetivos previstos por el diseñador del mecanismo.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Racionalidad individual
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Requisito de participación que garantiza que los agentes obtengan una utilidad al menos tan alta como su mejor alternativa externa al aceptar un contrato o mecanismo.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Equilibrio perfecto en subjuegos
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Refinamiento del equilibrio de Nash aplicable a juegos dinámicos, que exige que las estrategias constituyan un equilibrio de Nash en cada etapa o subjuego posible.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Equilibrio de Nash
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Situación en la que ningún jugador tiene incentivos para desviarse unilateralmente de su estrategia, dada la estrategia de los demás.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Competencia de Bertrand
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelo de competencia empresarial donde las empresas fijan precios, llevando en el equilibrio básico a precios iguales al coste marginal y beneficios nulos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Modelo de Stackelberg
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Juego secuencial en el que una empresa líder se compromete con una cantidad antes que su competidor seguidor, obteniendo una ventaja.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Juego secuencial
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Tipo de juego donde los jugadores toman decisiones en un orden preestablecido, como se ilustra en el Modelo de Stackelberg.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Inducción Hacia Atrás
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Método de resolución para juegos de información perfecta que opera desde el último periodo hacia el inicio para identificar el Equilibrio Perfecto en Subjuegos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Juegos de información perfecta
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Clase de juegos donde todos los movimientos previos son conocidos por los jugadores, permitiendo su resolución mediante inducción hacia atrás.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Estrategias de castigo (Grit-Trigger)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Estrategias empleadas en juegos repetidos infinitamente para mantener cualquier asignación individualmente racional como un equilibrio.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Juegos repetidos infinitamente
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Juegos que se juegan un número ilimitado de veces, permitiendo que asignaciones individualmente racionales se mantengan como equilibrio a través de estrategias de castigo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Diseño de Mecanismos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Enfoque de 'ingeniería inversa' en economía que busca establecer reglas e incentivos para que los agentes revelen su verdadera información, con el fin de alcanzar un objetivo social.
+            </p>
         </div>
     </div>
 </section>

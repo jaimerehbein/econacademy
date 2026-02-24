@@ -240,6 +240,8 @@ mindmap
       Alienación
       Anomia (Durkheim)
 </pre>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

@@ -428,6 +428,8 @@ Utilizado para definir el valor promedio de una función y en la demostración d
         </div>
     </div>
 </div>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

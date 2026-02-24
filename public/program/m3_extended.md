@@ -173,6 +173,8 @@ graph LR
     classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
     class C decision
         </pre>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

@@ -213,6 +213,8 @@ mindmap
       Fuga de Ganancias
       Rentabilidad Asimétrica
 </pre>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

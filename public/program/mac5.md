@@ -564,6 +564,7 @@ graph LR
     </div>
 </section>
 
+<!-- GLOSARIO -->
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

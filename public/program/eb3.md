@@ -104,55 +104,112 @@ graph LR
     </div>
 </div>
 
+
+
 <!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-amber-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-red-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
     </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Lucha Contra la Ignorancia</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Reconocer en toda transacción empresarial sujeta a precios su trasfondo real invisible oculto operante resolutivo: la disipación vertiginosa masiva colosal iterativa perpetua de neblinas operativas ciegamente abisales paralizantes informativas mediante y estricto prueba y rectificación mercantil empírica y deslocalizada subyacente.</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Productividad real
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El valor objetivo y cuantificable que un trabajador genera a través de su labor en un contexto económico.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Especulador Profesional</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Agente menospreciado por la moralina vulgar pero inestimable para suavizaciones e inmunizaciones macrológicas y temporalidades del bienestar masivas civil. Contribuye amortiguando oscilaciones pendulares trágicas e intemperies mediante apuestas audaces redistributivas trasladando insumos virtualmente abundates (actuales) a escaseces futuras letales asfixiantes (crisis).</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Productividad Marginal
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El valor adicional que un trabajador individual aporta a la producción total de una empresa o sistema económico.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Asimetría de Riesgo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Condición inherente y asimétrica de la propiedad corporativa e impulsos e ideaciones emprendizajes donde las ganancias posibles colindana exponenciales astronómicas celestiales perennes coadyuvadas irrestrictas simultaneadas simbiótica irrevocablemente a extinciones absolutas lapidarias de patrimonio aportado íntegramente por innovaciones disruptivas abortadas de rechazo general o fallidos.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Capital Humano
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El conjunto de habilidades, conocimientos, experiencia y atributos de un individuo que contribuyen a su capacidad productiva y valor económico.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Mortalidad Empresarial</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Filtro implacable ciego e imparcial del veredicto social darwinista higienista para deficiencias en el albedrío manufacturero, asegurando y forzando reciclajes e integraciones de piezas a nuevos cauces productivos, tras la expurgación higiénica correctísima liquidando e inmolando compañías inadaptadas caducas letárgicamente fósiles.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Excedente de mano de obra
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Situación en la que la oferta de trabajadores supera la demanda de empleo a un nivel salarial determinado, resultando en desempleo.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Distribución Predictiva</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Función estabilizadora en los futuros y forwards para el aseguramiento material físico existencial general resguardando a granjeros cosecheros operantes e industriólogos de manufacturaciones blindando insumos crudos erradicando volatilidades para anclajes garantizados funcionales inamovibles proyectivos.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Salario Mínimo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La remuneración monetaria más baja legalmente permitida que un empleador puede pagar a sus trabajadores por unidad de tiempo o producción.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Stock Inventory</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Acumulación deliberada de colchones tácticos y parachoques productivos que en el sector marxista se consideraban acaparamiento especulativo amoral reprochable parasitario criminal del empresario de abasto general transitorio o estacionario local.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Seguridad Laboral
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El conjunto de normativas y políticas que buscan proteger la estabilidad del empleo de los trabajadores, dificultando su despido.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Ciego Subjetivo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Criterios heterogéneos dispares irreconciliables ante futuros inciertos en valorizaciones o proyectos disonantes; donde un magnate desprecia una innovación riesgosa, otro invierte audazmente en su capitalización en semilla floreciente originaria arriesgada exótica atípica.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Outsourcing
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La práctica de contratar a terceros externos para realizar funciones o servicios que tradicionalmente se manejaban internamente dentro de una organización.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Destrucción Creativa (Schumpeteriana)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Lógica inquebrantable de purificación perenne asfixiante descrita y popularizada en fases industriales donde innovaciones letales pulverizan anacronísmos consolidados o monopolios anquilosados preteritos disolviendo estancamientos e injertando eclosiones pujantes revitalizantes irrefrenables contemporáneas a perpetuidad inexorables.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Automatización
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La implementación de tecnología y sistemas para realizar tareas o procesos de forma autónoma, reduciendo la necesidad de intervención humana directa.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costo de Agencias</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Problemas y fallos burocratizados latentes en macroestructuras donde gerentes asalariados difieren e intencionalmente boicotean maximizaciones en fricciones al estar escindidos separadísimos estructural e inherentemente corporativamente irremisiblemente del inversor originario accionista principal capitalizado dueño.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Salario Neto
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La cantidad de dinero que un empleado recibe después de que se han deducido todos los impuestos, contribuciones y otros descuentos obligatorios de su salario bruto.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Liquidez de Salida</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La posibilidad instantánea providencial resguardadora para pequeños mortales inversionistas fraccionarios abandonando ruinas empresarias al desinvertir nominalmente su paquete e irrupir irrestrictamente hacia pujanzas externas liberadoras resguardándose desasociados de ineficiencias atómicas detectables expost tempranamente rápidas.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Capital (productivo)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Los bienes duraderos, como maquinaria, herramientas e infraestructura, utilizados en el proceso de producción para generar otros bienes y servicios, incrementando la productividad del trabajo.
+            </p>
         </div>
     </div>
 </section>
+
+
+
+
 
 </div>
 

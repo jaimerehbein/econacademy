@@ -100,85 +100,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Ciencia de redes
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Disciplina que estudia las conexiones y estructuras de sistemas complejos, aplicando métodos computacionales para analizar fenómenos como el contagio financiero, la difusión de innovación y las interacciones sociales.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Ciencia de redes
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Estudio interdisciplinario de sistemas complejos representados como grafos, analizando las propiedades estructurales y dinámicas de las interacciones entre sus componentes interdependientes.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Contagio financiero
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Transmisión de choques económicos o crisis entre instituciones interconectadas, resultando en una propagación de insolvencia a través de vínculos financieros directos o indirectos.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Matriz de adyacencia
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Representación matemática de un grafo mediante una matriz cuadrada, cuyos elementos indican la existencia y magnitud de conexiones entre los pares de nodos.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Algoritmo Gale-Shapley
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Procedimiento algorítmico diseñado para resolver problemas de emparejamiento estable entre dos conjuntos de agentes basándose en sus respectivas jerarquías de preferencias.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Mecanismo VCG
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Protocolo de diseño de mecanismos que garantiza la eficiencia económica al incentivar a los agentes a revelar sus verdaderas valoraciones mediante pagos compensatorios.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Centralidad de PageRank
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Métrica de importancia que cuantifica la influencia de un nodo en una red basándose en la cantidad y calidad de los enlaces recibidos.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Topología de redes
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Configuración estructural de los nodos y enlaces en un sistema, la cual determina la capacidad de difusión y la vulnerabilidad ante choques externos.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Grafo dirigido
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Estructura matemática compuesta por nodos conectados por aristas con una orientación definida, representando flujos unidireccionales de recursos o información.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Métodos computacionales
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Herramientas y técnicas basadas en la computación utilizadas para analizar y modelar sistemas complejos, como las interacciones económicas y la propagación de fenómenos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Contagio financiero
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Propagación de crisis o inestabilidad financiera a través de las conexiones de una red económica, donde la falla de un componente puede afectar a otros, desencadenando una cascada de insolvencia.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Difusión de innovación
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso mediante el cual las nuevas ideas, tecnologías o prácticas se propagan a través de las conexiones dentro de un sistema o red.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Topología de Redes Económicas
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Estudio de la estructura y organización de las conexiones dentro de sistemas económicos, como las redes de suministro o interbancarias.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Redes de Suministro
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelado de la producción global como un grafo dirigido, donde los choques pueden propagarse a través de sus nodos críticos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Grafo dirigido
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Estructura matemática utilizada para modelar sistemas, donde las conexiones entre nodos tienen una dirección específica, indicando un flujo o relación unidireccional.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Matriz de Adyacencia
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Representación matricial que describe la conectividad entre los nodos de un grafo, capturando la arquitectura de las interacciones económicas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Estabilidad sistémica
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Capacidad de un sistema económico para resistir choques y evitar la propagación de fallas, como la quiebra de un nodo central que desencadena una cascada de insolvencia.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Algoritmos en Economía
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Conjunto de reglas computacionales utilizadas para resolver problemas económicos, optimizar procesos o analizar interacciones, como el emparejamiento (Gale-Shapley), la revelación de preferencias (VCG) o la evaluación de influencia (PageRank).
+            </p>
         </div>
     </div>
 </section>

@@ -326,85 +326,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Teoría de Juegos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Marco analítico fundamental para modelar situaciones de interdependencia estratégica, donde el bienestar de un agente económico no depende exclusivamente de sus propias acciones, sino también de las decisiones adoptadas por otros agentes.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Interdependencia Estratégica
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Situación analítica donde el bienestar de un agente económico depende no solo de sus decisiones individuales, sino también de las acciones adoptadas por el resto de los participantes.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Equilibrio de Nash
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Perfil de estrategias en el cual la acción de cada jugador es la mejor respuesta ante las estrategias de los demás, eliminando incentivos para desviarse unilateralmente.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Estrategia Dominante
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Acción que proporciona al jugador el mayor pago posible, independientemente de las estrategias o decisiones que elijan el resto de los agentes involucrados en el juego.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Forma Extensiva
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Representación de un juego mediante un árbol de decisión que especifica la secuencialidad, los nodos de decisión, los conjuntos de información y los pagos finales de los agentes.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Racionalidad Secuencial
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Principio que exige que la estrategia de un jugador sea óptima en cada nodo de decisión, independientemente de la historia previa que condujo a dicho punto del juego.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Equilibrio de Nash Perfecto en Subjuegos
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Refinamiento del equilibrio de Nash que requiere que las estrategias constituyan un equilibrio en cada subjuego, eliminando así soluciones basadas en amenazas no creíbles.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Inducción Hacia Atrás
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Algoritmo de resolución para juegos dinámicos que consiste en determinar las acciones óptimas desde los nodos finales hacia el inicio para asegurar la consistencia temporal.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Modelo de Stackelberg
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Modelo de competencia oligopólica en cantidades donde existe una jerarquía temporal, permitiendo que una empresa líder mueva primero y las seguidoras reaccionen a dicha acción.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Forma Normal
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Representación de un juego utilizada predominantemente para juegos estáticos con información imperfecta sobre las acciones simultáneas de los rivales, que especifica el conjunto de jugadores, sus espacios de estrategias y sus funciones de pagos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Forma Extensiva
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Representación de un juego idónea para modelar la secuencialidad, la información asimétrica y la credibilidad de las amenazas en el tiempo, especificando el orden de los movimientos, los conjuntos de información, las acciones factibles y los pagos finales.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Estrategia Dominante
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una estrategia para un jugador es estrictamente dominante si produce un pago estrictamente mayor que cualquier otra estrategia para ese jugador, independientemente de las estrategias elegidas por los demás oponentes.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Equilibrio de Nash (EN)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un perfil de estrategias en el que la estrategia de cada jugador es la mejor respuesta a las estrategias de equilibrio de los demás, de modo que ningún agente tiene incentivos unilaterales para desviarse.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Estrategias Mixtas
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Estrategias donde los jugadores asignan una distribución de probabilidad sobre su espacio de acciones puras, utilizadas para encontrar equilibrios en juegos que no tienen equilibrio en estrategias puras.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Racionalidad Secuencial
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Principio que exige que el comportamiento de los jugadores sea óptimo no solo al inicio del juego, sino en cualquier punto en el que se encuentren, independientemente de cómo se haya llegado a ese punto.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Equilibrio de Nash Perfecto en Subjuegos (ENPS)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un perfil de estrategias que induce un equilibrio de Nash en cada subjuego del juego original, eliminando los equilibrios basados en amenazas no creíbles.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Inducción Hacia Atrás
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Algoritmo utilizado para hallar el Equilibrio de Nash Perfecto en Subjuegos en juegos finitos de información perfecta, que implica resolver el juego desde los nodos de decisión finales hacia el nodo inicial.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Información Perfecta
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Característica de un juego dinámico donde cada conjunto de información contiene un solo nodo, lo que implica que el jugador conoce toda la historia previa del juego al tomar una decisión.
+            </p>
         </div>
     </div>
 </section>

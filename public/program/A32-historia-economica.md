@@ -103,6 +103,121 @@ graph LR
     classDef decision fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
     class C decision
         </pre>
+<!-- GLOSARIO -->
+
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-amber-500 rounded-full shadow-[0_0_15px_rgba(var(--color-rgb),0.5)]"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Revolución Neolítica
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Transición fundamental en la historia humana caracterizada por el paso de la caza-recolección a la agricultura y la consecuente generación de excedentes.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Feudalismo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Sistema socioeconómico medieval basado en la propiedad de la tierra y la servidumbre.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Capitalismo Mercantil
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fase del capitalismo impulsada por el descubrimiento de América y la afluencia de metales preciosos.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Pax Romana
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La primera gran red de comercio globalizado establecida en el Mediterráneo.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                La Gran Peste
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Evento de colapso demográfico que forzó el fin del feudalismo europeo.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Ruta de la Seda
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una de las primeras redes de interdependencia económica que prefiguraron la globalización actual.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Teoría Cuantitativa del Dinero
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelo económico (M · V = P · Y) que explica la inflación, ejemplificado por el flujo de plata americana.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Economía Extractiva
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelo productivo dependiente de la metrópoli, orientado a la extracción de recursos, como el implementado en América Latina tras la conquista española.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Mita
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Sistema de organización económica utilizado por los incas.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Tributos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Sistema de organización económica utilizado por los aztecas.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+
+
 
     </div>
 </div>

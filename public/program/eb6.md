@@ -102,55 +102,112 @@ graph LR
     </div>
 </div>
 
+
+
 <!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-amber-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-red-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
     </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Inflación (Concepto Clásico)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Pérdida inexorable destructiva masiva generalizada letal asoladora irreversible persistente corrosiva desangrante e intencionalmente silenciada continuada en curso sostenido y sistémico general del poder de la moneda forjada estricta exclusiva unívocamente incontestablemente sin atenuantes en demasías y bacanales monetarias del emisor monopólico (hiper-expansiones crediticias de Bancos Centrales subordinados a cráteres macro de tesoro en crisis prebendaria fiscal derrochadora elefantiásica en déficit insoldable abisal perpetuo crónico).</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Ventaja Comparativa
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Principio económico que establece que las naciones pueden producir más con menos recursos al especializarse en la producción de bienes y servicios en los que tienen una mayor eficiencia relativa, beneficiándose mutuamente a través del comercio.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Impuesto Inflacionario</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Traslación tributaria opaca, sibilina, inescrutable y subrepticia cobarde y regresiva perversa e invisible extrayendo brutal e inmisericorde innegablemente poder adquisitivo tangible acopiado ahorrativo basal inmovilizado y devaluado transfuncional y transferido succionadamente desde rentas asalariadas de pobres no bancarizados licuables despojados al fisco deudor dilapidador deudor que imprime para monetizar bonos o cuentas asumiendo licuaciones colosales al devaluar sus obligaciones nominales endógenas agigantadas impagables ex-ante insostenibles.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Comercio Libre
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Sistema de intercambio de bienes y servicios entre países sin la imposición de barreras artificiales, permitiendo la especialización y el aumento de la producción global.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Intercambio Indirecto</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El portento logístico e histórico posibilitando fin del trueque y eclosión de magnitudes transaccionales a gran global escala colosal. Una mercancía (históricamente o metales oro/plata) destellándose y encumbrándose estandarizadamente a factor catalizador aceptado intermedio neutro homogéneo altamente fungible sin consumirlo final y divisa fraccionable puente fiduciario medular catalizador dinamizador de prosperidad transoceánica civilizatoria masiva universal exponencial irrefrenable.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Especialización
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso mediante el cual una nación se enfoca en la producción de aquellos bienes y servicios en los que posee una ventaja comparativa, optimizando el uso de sus recursos y aumentando la eficiencia productiva.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Reserva Fraccionaria</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Palancas bancarias creadas asimétricamente y crediticiamente hiperbólicas por multiplicador bancario piramidal fiduciario. Riesgos pánicos insolvencias corridas bancarias e inclemencias descalzan la liquidez y desnudan ilusiones macro y espejismos burbujeantes ilusorios temporales agigantados expuestos desencadenando crash hiperdeflacionarios contraccionistas o default estigmáticos destructivos e hiperinflaciones rescates inyectados masivamente asimétricos contrapuestos polarizados drásticos letales catastróficos cíclicos estructurales endémicos insoslayables sistémicos recurrentes contemporáneos intrínsecos inherentes inestables consustanciados atávicos.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Proteccionismo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Política económica que busca proteger las industrias nacionales de la competencia extranjera mediante la imposición de barreras comerciales como aranceles y cuotas, a menudo a expensas del nivel de vida general.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Señoreaje</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Beneficio monopólico originario arbitrario exento incuestionable para la entidad acuñadora. Diferencial rentístico estriccional colosal derivado inobjetablemente alevoso resultante abismal de crear monedas sin espaldos nominales por escasos costos tinteros (o ceros digitales en servidor). Permitiendo canjeamientos físicos expropiativos sobre manufacturas externas tangibles sacrificadas onerosísimamente a cambio del billete de inane valor o nulo intrínseco intrínseco subyacente devaluado.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Aranceles
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Impuestos aplicados a los bienes importados, cuyo propósito es encarecer los productos extranjeros para proteger la producción nacional, actuando como un subsidio a las industrias locales ineficientes.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control de Capitales (CEPO)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Legislaciones represivas asfixatorias de fuga o blindamientos policiales dictatoriales cambiarios protegiendo coactivamente divisas depreciadas zombis nacionales cautivas para forzar su aceptación de la estafa circulatoria en vasallos obligados domésticos prohibiendo y enjaulando opciones foráneas duras o fuertes con cepos y trabas asfixiadores extorsivas persecutorias coercitivas draconianas estatutaria penales criminalizadoras inauditas extremas absolutas aniquilantes.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Cuotas
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Restricciones cuantitativas impuestas a la cantidad de bienes específicos que pueden ser importados durante un período determinado, utilizadas como una barrera comercial para limitar la competencia extranjera.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Velocidad de Circulación</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Psicosis influyente febril acelerante colosal macro. Años donde billetes candentes escaldan y repudian retenciones en carteras liquidándose espasmódicamente por insumos no perecederos exacerbando la multiplicación irrefrenable nominal multiplicando la estampida apocalíptica catastrófica en los índices vertiginosos y exponenciales indomables de hiperinflación devastadora asoladora incontenible desarticulada pulverizadora hiperdevaluatoria inaudita estratosférica sideral extrema exacerbatoria superlativa indómita colosal inimaginable incontenible exponencial exponencial aceleradísima dantesca incontrolable demencial.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Inversión Extranjera
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Flujo de capital y tecnología de un país a otro, que contribuye al desarrollo económico del país receptor al generar capital local y acelerar el crecimiento.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ahorro Previo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Dogma fundamental: capital incuestionablemente subyugante y preludio irreemplazable anterior formador de inversiones productivas y eclosiones tecnoindustriales macro expansivas sanas inobjetablemente tangibles genuinas e irrefutables frente a engaños ficticios milagrosos multiplicadores y espejismos expansivos intervensionistas sin fondos verídicos consolidados que diluyen temporalidades fingiendo acopios desfondados fantasmagóricos infundados inconsistentes espumosos e insolvencias ilusorias inmateriales fútiles estériles artificiales falsos aparentes transitorios utópicos irreales inconsistentes inestables.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Capital
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Recursos financieros y productivos que, a través de la inversión, se utilizan para generar riqueza y crecimiento económico, siendo un componente clave en la inversión extranjera.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Interés Natural</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tensión pura medular fundamental de coordinación de estructura de tiempos; sopesando y calibrando sincrónicamente estricto y en fiel paralelismo matemático preferencial estático a abstinencia diferimiento de consumo presente de un ciudadano contra arriesgamientos y proyecciones dilatadas elongadas rentabilizables operativas temporales largas emprendedoras; inmaculada sujeta ineludible o inexorable exógena o violentada a catástrofes y deformidades si la adultera burocráticamente inmersiones asimétricas forzosas centralizadas macrofinancieras inorgánicas fornicadas coercitivas distorsionadas adulteradas manipulaciones.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Tecnología
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Conjunto de conocimientos y herramientas que, al ser transferidos mediante la inversión extranjera, permiten a los países en desarrollo mejorar sus procesos productivos y acelerar su crecimiento económico.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Deflación</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El estigma pavoroso del deudor crónico estatal irresponsable pero la bendición divina incrementadora del ahorrista disciplinado. Descenso gradual y virtuoso previsible predecible o saneador purificador inminente de precios si atiende a sobreacumulaciones hipertecnológicas expansivas ofertantes (oro tecnológico); y terror de aparatos gubernamentales endeudados agigantados que verían sus acreencias nominales fiduciarias agigantadas asfixiantemente encarecidas incobrables desbordantes insostenibles arruinándoles fiscal y políticamente inminentes irreversibles liquidadores destructivos mortíferos apocalípticos inabordables insalvables insolubles insoportables asfixiantes aplastantes.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-red-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-red-500/5">
+            <h3 class="text-sm font-black text-red-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span>
+                Globalización
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso de creciente interdependencia económica entre los países, caracterizado por la expansión del comercio internacional, los flujos de inversión y la transferencia de tecnología, que ha demostrado ser efectiva en la reducción de la pobreza extrema.
+            </p>
         </div>
     </div>
 </section>
+
+
+
+
 
 </div>
 

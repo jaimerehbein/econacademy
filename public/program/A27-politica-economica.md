@@ -103,6 +103,121 @@ graph LR
     classDef decision fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
     class C decision
         </pre>
+<!-- GLOSARIO -->
+
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-orange-500 rounded-full shadow-[0_0_15px_rgba(var(--color-rgb),0.5)]"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Política Económica
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La intervención del Estado en la economía, justificada por la existencia de fallos de mercado, que utiliza instrumentos como impuestos, gasto público y tipos de interés para incidir en variables macroeconómicas como el crecimiento del PIB, la tasa de desempleo y la inflación, con el fin de alcanzar objetivos macroeconómicos y sociales.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Fallos de Mercado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Situaciones en las que el mercado por sí solo no logra una asignación eficiente de los recursos, lo que justifica la intervención del sector público a través de la política económica.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Política Monetaria
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un instrumento de la política económica utilizado por el sector público, que se coordina con la política fiscal, para influir en variables macroeconómicas y alcanzar objetivos económicos.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Política Fiscal
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un instrumento de la política económica utilizado por el sector público, que se coordina con la política monetaria, para influir en variables macroeconómicas y alcanzar objetivos económicos.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Crecimiento del PIB
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una variable macroeconómica fundamental sobre la cual la política económica busca incidir, representando la expansión de la producción de bienes y servicios de una economía.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Tasa de Desempleo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una variable macroeconómica clave que la política económica busca influenciar, reflejando la proporción de la fuerza laboral que está sin empleo y buscando activamente trabajo.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Inflación
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una variable macroeconómica que la política económica busca controlar, siendo un objetivo central de la estabilidad de precios y refiriéndose al aumento generalizado y sostenido de los precios de bienes y servicios.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Pleno Empleo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un objetivo de la política económica que implica la utilización óptima de los recursos laborales, con teorías keynesianas y neoclásicas que abordan su dinámica en el mercado laboral, incluyendo el digitalizado.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Estabilidad de Precios
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un objetivo de la política económica que se enfoca en el control de la inflación y en la gestión de los efectos de la deflación en el consumo, buscando mantener un nivel de precios consistente.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-orange-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-orange-500/5">
+            <h3 class="text-sm font-black text-orange-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-orange-500 animate-pulse"></span>
+                Redistribución de la Renta
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un objetivo de la política económica que implica la medición de la desigualdad y la implementación de políticas de transferencias para modificar la distribución de la riqueza y los ingresos en la sociedad.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+
+
 
     </div>
 </div>

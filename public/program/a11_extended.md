@@ -253,6 +253,8 @@ mindmap
       Hecho Imponible
       Alicuota (Tasa %)
 </pre>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

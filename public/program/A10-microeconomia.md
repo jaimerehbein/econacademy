@@ -127,6 +127,125 @@ graph LR
     classDef decision fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff
     class C decision
         </pre>
+<!-- GLOSARIO -->
+
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full shadow-[0_0_15px_rgba(var(--color-rgb),0.5)]"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Microeconomía
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Rama de la ciencia económica que se ocupa del estudio del comportamiento de los agentes individuales y de la asignación de recursos escasos en mercados específicos a través del mecanismo de precios.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Teoría de Juegos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Marco analítico formal utilizado para modelar la interdependencia estratégica entre agentes, donde el resultado para cada participante depende no solo de sus propias acciones, sino también de las decisiones de los demás.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Equilibrio de Nash
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Perfil de estrategias en el cual ningún jugador tiene incentivos para desviarse unilateralmente, dado que cada agente está maximizando su utilidad o beneficio en función de las estrategias adoptadas por el resto.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Oligopolio
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Estructura de mercado caracterizada por la presencia de un número reducido de oferentes con capacidad de influir en el precio, lo que genera una interdependencia mutua en la toma de decisiones estratégicas.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Modelo de Cournot
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelo de competencia oligopólica en el cual las empresas deciden simultáneamente la cantidad de producto que ofrecerán, asumiendo como dada la producción de sus competidores.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Modelo de Stackelberg
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelo de competencia estratégica secuencial donde una empresa actúa como líder, fijando su nivel de producción primero, mientras que la empresa seguidora optimiza su respuesta tras observar la decisión de la líder.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Relación Marginal de Sustitución (RMS)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Tasa a la cual un consumidor está dispuesto a intercambiar un bien por otro manteniendo constante su nivel de utilidad; matemáticamente equivale al cociente de las utilidades marginales y a la pendiente de la curva de indiferencia.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Fallos de Mercado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Situaciones en las que el mecanismo de mercado no logra una asignación eficiente de los recursos en el sentido de Pareto, frecuentemente debido a la presencia de externalidades, bienes públicos o información asimétrica.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Información Asimétrica
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Falla de mercado que ocurre cuando una de las partes involucradas en una transacción posee un conocimiento superior o privado sobre las características del bien o el comportamiento del agente, respecto a la otra parte.
+            </p>
+        </div>
+
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Selección Adversa
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Problema de información asimétrica previo a la contratación, donde la falta de observabilidad de la calidad de los bienes o el riesgo de los agentes provoca que los productos o individuos de 'baja calidad' desplacen a los de 'alta calidad'.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
+
+
 
     </div>
 </div>

@@ -165,52 +165,104 @@ graph LR
     </div>
 </div>
 
+
 <!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-emerald-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-rose-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
     </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teoría de las Crisis</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Análisis de las contradicciones inherentes al capitalismo que generan ciclos recurrentes de expansión y recesión, resultando en rupturas sistémicas y reestructuraciones económicas.</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Producción Social
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso productivo en el cual múltiples individuos cooperan en la creación de un bien o servicio, caracterizado por la interdependencia laboral.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Contradicción Fundamental</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La disparidad entre la producción social de bienes y servicios, donde muchos cooperan, y la apropiación privada de los beneficios por parte de unos pocos individuos o entidades.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Apropiación Privada
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Régimen económico donde la propiedad de los medios de producción y los beneficios derivados de la actividad económica recaen en manos de un individuo o entidad privada, separada de los productores directos.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Crisis de Sobreproducción</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Fenómeno económico donde la oferta de bienes excede la demanda efectiva, no por escasez, sino por la incapacidad de la población para adquirir productos debido a su empobrecimiento.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Crisis de Sobreproducción
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fenómeno económico caracterizado por la existencia de una oferta de bienes y servicios que excede la capacidad de compra efectiva de la demanda agregada, resultando en un excedente no absorbido por el mercado.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ciclo Económico Capitalista</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La secuencia recurrente de fases de expansión (auge), desaceleración (estancamiento), contracción (crack, depresión) y recuperación que caracteriza la dinámica de las economías de mercado.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Auge
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fase del ciclo económico que representa un período de expansión acelerada, caracterizado por un crecimiento robusto de la producción, la inversión, el empleo y la demanda.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Caída de la Tasa de Ganancia</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tendencia a largo plazo, según Marx, donde la acumulación de capital y la sustitución de trabajo vivo por maquinaria disminuyen la rentabilidad relativa del capital invertido.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Estancamiento
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fase del ciclo económico donde el ritmo de crecimiento se desacelera significativamente o se detiene, a menudo asociado con una acumulación de capital excedente y una reducción de las oportunidades de inversión rentable.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Plusvalía</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Valor creado por el trabajo del obrero por encima del valor de su fuerza de trabajo, apropiado gratuitamente por el capitalista en el proceso de producción.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Crack
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Caída abrupta y severa de los precios de los activos financieros en un mercado, impulsada por ventas masivas y una pérdida generalizada de confianza, que puede desencadenar una crisis económica más amplia.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estancamiento Secular</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Período prolongado de crecimiento económico lento o nulo, acompañado de baja inflación y bajas tasas de interés, persistente a pesar de las medidas de estímulo monetario o fiscal.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Depresión
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fase más severa y prolongada de contracción económica, caracterizada por una drástica disminución de la producción, el empleo, la inversión, el consumo y una liquidación masiva de inventarios.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Globalización del Riesgo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La intensificación de la interconexión entre mercados productivos y financieros a escala mundial, que facilita la rápida propagación de crisis económicas y financieras entre países.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Caída de la Tasa de Ganancia
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Tendencia inherente al capitalismo, según la teoría marxista, donde la rentabilidad del capital invertido disminuye a largo plazo debido al aumento de la composición orgánica del capital (proporción de capital constante sobre capital variable) en relación con la plusvalía generada.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Ficticio</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Activos financieros (deuda, derivados) cuyo valor no se basa directamente en la producción real o la generación de plusvalía, sino en expectativas futuras, generando inestabilidad estructural.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Plusvalía
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Valor excedente generado por el trabajo no remunerado del trabajador por encima del valor de su fuerza de trabajo, apropiado por el capitalista en el proceso de producción.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Financiarización</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Proceso por el cual las finanzas y los motivos financieros permean la economía en su conjunto, aumentando el rol de los mercados financieros, instituciones y actores en la actividad económica.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Estancamiento Secular
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Hipótesis económica que describe un período prolongado de bajo crecimiento económico, baja inflación y tasas de interés cercanas a cero, atribuido a factores estructurales como el envejecimiento demográfico, la baja productividad o la insuficiencia de la demanda agregada.
+            </p>
         </div>
     </div>
 </section>

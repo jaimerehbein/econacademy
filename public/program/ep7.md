@@ -138,40 +138,104 @@ graph LR
     </div>
 </div>
 
+
 <!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-emerald-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-rose-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
     </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estado Capitalista</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Institución cuya función primordial es garantizar las condiciones estructurales para la acumulación y reproducción del capital, incluyendo la protección de la propiedad privada y regulación del mercado.</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Estado Capitalista
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Institución encargada de garantizar las condiciones de existencia del capital, incluyendo la protección de la propiedad privada, la regulación del mercado laboral y la gestión de la infraestructura común. Interviene para salvar al sistema de sus propias crisis, utilizando el gasto público y la deuda.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capitalismo Monopolista/Financiero</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Fase del capitalismo caracterizada por la fusión del capital industrial y bancario, el dominio de grandes corporaciones transnacionales y la centralización del capital en oligopolios.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Capitalismo Comercial / Mercantil
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fase del capitalismo caracterizada por la acumulación de capital mediante el comercio colonial y el mercantilismo estatal.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Imperialismo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Fase superior del capitalismo donde la exportación de capital prevalece sobre la exportación de mercancías, llevando a la división global del territorio y la explotación de naciones periféricas.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Capitalismo Industrial / Competencia
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fase del capitalismo definida por la mecanización masiva y el surgimiento de la fábrica moderna.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Exportación de Capital</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Estrategia de las naciones centrales durante el imperialismo para invertir capital excedente en países periféricos, buscando mayores tasas de ganancia y control económico.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Capitalismo Monopolista / Financiero
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fase del capitalismo donde ocurre la fusión del capital industrial con el bancario, dominado por grandes corporaciones transnacionales.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Oligarquía Financiera</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Grupo reducido de élites y grandes corporaciones bancarias e industriales que ejercen un control significativo sobre la economía y la política en la fase monopolista.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Imperialismo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fase superior del capitalismo donde la exportación de capital sustituye a la exportación de mercancías, y el dominio de los monopolios y la oligarquía financiera lleva a una división territorial y económica del mundo.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Financiarización</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Fenómeno económico donde las ganancias se obtienen principalmente a través de operaciones financieras, desligándose de la producción real, generando una desconexión entre valor bursátil y economía material.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Exportación de Capital
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso característico del Imperialismo donde el capital es enviado a otras naciones, reemplazando la exportación de mercancías como principal vía de acumulación.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Plusvalía</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Valor creado por el trabajo asalariado por encima de su propio costo de reproducción, apropiado por el capitalista sin remuneración, fundamental en la extracción económica imperialista.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Oligarquía Financiera
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Grupo de poder resultante del dominio de los monopolios y el capital bancario, que lleva a una división territorial y económica del mundo en la fase del Imperialismo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Plusvalía
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Valor excedente que las naciones centrales extraen de la periferia en el contexto del Imperialismo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Financiarización
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fenómeno contemporáneo donde las ganancias se obtienen cada vez más a través de canales financieros en lugar de la producción real, generando burbujas y una desconexión entre el valor bursátil y la base material de la economía.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-rose-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-rose-500/5">
+            <h3 class="text-sm font-black text-rose-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-rose-500 animate-pulse"></span>
+                Economía Política
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Campo de estudio que permite analizar el mundo y proponer formas de organización social que prioricen la vida y el trabajo humano sobre la lógica abstracta del capital.
+            </p>
         </div>
     </div>
 </section>

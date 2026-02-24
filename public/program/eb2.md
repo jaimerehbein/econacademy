@@ -108,55 +108,93 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-amber-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sistema de Precios</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La red neurálgica invisible de semáforos o radares dinámicos y sinfonías comunicativas mudas. Revela lo inexpresable en tiempo real disipando neblinas y racionando en pacífica eficiencia incontestables apetitos y faltantes geográficos distantes al instante.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-amber-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio Funcional</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Rechazo contundente e impecable moral a catalogar precios como avaricias inmorales fijadas unilateral extorsionadoramente egoístas perversas, reivindicándolos termómetros urgentes imparciales y puros equilibradores pragmáticos del déficit circundante local urgente demandante real constatable.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Mensajero de Escasez</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Visión del precio que no fija castigos siniestros abstractos clasistas prefabricados ideológicos ficticios arbitrariamente maliciosos, sino que transmite alertas asépticas de emergencias o superávits de abundancias desbordadas logísticas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Racionamiento Pasivo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Fenómeno naturalísimo auto-impuesto exógenamente al consumidor medio mediante alzas preventivas transitorias mitigantes disuasorias disuadiendo y refrenando caprichos extravagantes para redistribuir materiales a nichos medulares hiper-críticos de extrema supervivencia o capitalización profunda urgente requerida existencial salvadora.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Señal de Inversión</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Alza abrupta coyuntural efímera atractiva en lucros que atrae fulminantemente éxodos e inyecciones masivas acortadoras del tiempo de innovaciones de reabastecedores competidores externos seducidos hambrientamente, los cuales convergen inundando e incidentalmente re-derumbando las cotizaciones originarias coyunturales.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sustitución Marginal</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Efecto inmediato reflejado cuando precios avisan alteraciones geográficas. El comprador gira, adaptando y modulando compras en reemplazos alternantes análogos protegiendo presupuestos personales sin directrices ni regulaciones coercitivas policiales forzosas impositivas directivas externas imperativas autoritarias.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Leyes de Ganancias</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Cicatrización equilibrante auto-limitante inescrutable y disciplinaria para industrias rentables monopólicamente circunstanciales. Exuberancias y esplendores efímeros incitan el calco imitativo masivo ajeno derruyendo sin excepciones perrrogativas iniciales transicionales lucrativas exageradísimas prolongadas eternamente.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Soberanía del Consumidor</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El voto unánime irrefutable plebiscitario cotidiano de la polis ciudadana depositando fracciones ínfimas fraccionarias de sus jornadas en sufragios de monedas sobre manufacturas aprobadas aniquilando silenciosamente empresarios displicentes o productos de inferior obsolescencias y calidades relativas subóptimas perjudiciales.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costes Hundidos (Sunk Cost)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Trampas e inversiones espectaculares irreversibles históricas preteritas fenecidas y ya incurablemente inyectadas ciegamente a pasados, irrelevantes lógicamente y estricto y sin incidencias reales operativas a futuras tomas y revaluaciones puras proyectivas decisionales continuas e inminentes contemporáneas frías utilitarista matemáticas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia Asignativa</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Idealización empíricamente aproximada constante iterativa donde recursos vírgenes convergen inexorablemente a los portafolios, tecnologías, capitales ingenieriles e insdustrialistas de máximo potencial intrínseco destilado y redituable desintegrándose manos inútiles derrochadoras inexpertamente despilfarradoras preasignadas históricas.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Escasez
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición fundamental de la economía donde los recursos limitados resultan insuficientes para satisfacer necesidades humanas ilimitadas, obligando a la asignación eficiente de factores productivos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Pérdida Económica
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Situación financiera donde los costos totales exceden a los ingresos, funcionando como una señal de mercado que indica la destrucción de valor y el desperdicio de recursos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Eficiencia
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación técnica y económica que describe la maximización de la producción o el valor generado mediante el uso óptimo y mínimo de insumos escasos disponibles.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Barreras de Entrada
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Obstáculos de naturaleza económica, legal o regulatoria que dificultan el ingreso de nuevos competidores a un mercado, protegiendo a las empresas establecidas de la presión competitiva.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Monopolio
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estructura de mercado donde un único oferente controla la provisión de un bien o servicio, frecuentemente consolidada mediante privilegios legales o restricciones gubernamentales a la competencia.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Asignación de Recursos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Distribución de los factores de producción entre distintos usos alternativos, guiada por el sistema de precios para satisfacer las demandas más valoradas por los consumidores.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Economía Planificada
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Sistema económico donde las decisiones sobre producción, inversión y asignación de recursos son determinadas por una autoridad central en lugar de por la interacción del mercado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Saneamiento del Mercado
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Proceso dinámico mediante el cual la quiebra de firmas ineficientes permite la reasignación de capital y trabajo hacia sectores y empresas con mayor productividad y valor social.
+                </p>
+            </div>
         </div>
     </div>
 </section>
+<!-- GLOSARIO -->
+
+
+
 
 </div>
 

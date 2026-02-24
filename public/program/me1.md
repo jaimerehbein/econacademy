@@ -116,85 +116,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Optimización bajo restricciones
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso de encontrar el valor óptimo (máximo o mínimo) de una función objetivo, sujeto a un conjunto de limitaciones o condiciones.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Optimización Estática
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Proceso de encontrar los valores óptimos de variables en un sistema en un momento dado, maximizando o minimizando una función objetivo sujeta a restricciones.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Decisión Económica
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Elección de agentes (consumidores, firmas) para asignar recursos escasos, intrínsecamente un problema de optimización bajo restricciones presupuestarias o tecnológicas.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Método de Lagrange
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Técnica para resolver problemas de optimización con restricciones de igualdad, transformándolos en un problema sin restricciones mediante un multiplicador.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Multiplicador de Lagrange
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Parámetro introducido en el Lagrangiano que mide la sensibilidad del valor óptimo de la función objetivo ante un cambio marginal en la restricción.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Valor Sombra
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Cambio marginal en el valor óptimo de la función objetivo por un cambio unitario en el lado derecho de una restricción. Representado por el multiplicador.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Condiciones de Kuhn-Tucker
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Conjunto de condiciones necesarias para la optimalidad en problemas de optimización con restricciones de desigualdad, extendiendo el método de Lagrange.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Holgura Complementaria
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Condición dentro de Kuhn-Tucker que establece que si una restricción de desigualdad no es activa en el óptimo, su multiplicador debe ser cero.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Dualidad
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Relación entre un problema de optimización (primal) y otro (dual) donde la solución de uno proporciona información sobre el otro, típicamente sobre los multiplicadores.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Cálculo multivariado avanzado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Rama de las matemáticas que extiende el cálculo diferencial e integral a funciones de múltiples variables, fundamental para el análisis de problemas de optimización complejos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Economía Positiva
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Enfoque económico que describe y explica los fenómenos económicos tal como son, basándose en hechos y análisis empíricos, sin emitir juicios de valor.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Economía Normativa
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Enfoque económico que se ocupa de cómo deberían ser los fenómenos económicos, incorporando juicios de valor y proponiendo políticas o acciones.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Método de Lagrange
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Técnica matemática utilizada para encontrar los extremos de una función multivariable sujeta a una o más restricciones de igualdad, mediante la introducción de un multiplicador.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Multiplicador de Lagrange
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Variable auxiliar introducida en el método de Lagrange que cuantifica la sensibilidad del valor óptimo de la función objetivo ante un cambio marginal en la restricción.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Valor sombra
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Medida del cambio en el valor óptimo de la función objetivo por unidad de relajación de una restricción, indicando el costo o beneficio marginal de dicha restricción.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Condiciones de Kuhn-Tucker
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Conjunto de condiciones necesarias para la solución óptima de un problema de optimización no lineal con restricciones de desigualdad, extendiendo el método de Lagrange.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Holgura complementaria
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Condición dentro de las Condiciones de Kuhn-Tucker que establece que el producto del multiplicador de una restricción de desigualdad y la holgura de esa restricción debe ser cero en el óptimo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Dualidad
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Principio en optimización que relaciona un problema de maximización (primal) con un problema de minimización (dual), donde la solución de uno proporciona información sobre el otro.
+            </p>
         </div>
     </div>
 </section>

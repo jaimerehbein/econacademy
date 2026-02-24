@@ -109,6 +109,7 @@ graph LR
     </div>
 </div>
 
+<!-- GLOSARIO -->
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Marginalismo y Neoclasicismo PE5</p>

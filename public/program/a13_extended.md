@@ -202,6 +202,8 @@ La **Distribución Normal** (Campana de Gauss) es la más importante. Definida p
         </div>
     </div>
 </div>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

@@ -79,6 +79,7 @@
     </p>
 </div>
 
+<!-- GLOSARIO -->
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-6">
     <div class="flex items-center gap-4">

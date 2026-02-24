@@ -332,85 +332,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Elección Intertemporal
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modela la toma de decisiones de los agentes económicos considerando que el consumo presente y el consumo futuro son bienes distintos, vinculados a través de los mercados de capitales.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Elección Intertemporal
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Marco analítico que modela las decisiones de consumo y ahorro de los agentes económicos considerando que los bienes en distintos periodos son bienes distintos vinculados temporalmente.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Restricción Presupuestaria Intertemporal
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Ecuación que establece que el valor presente del consumo total de un agente debe ser igual al valor presente de su dotación de ingresos a lo largo del tiempo.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Relación Marginal de Sustitución Intertemporal
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Tasa subjetiva a la cual un individuo está dispuesto a intercambiar consumo presente por futuro, manteniendo constante su nivel de utilidad total.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Teoría de la Utilidad Esperada
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Marco de decisión bajo incertidumbre donde las preferencias se representan maximizando la esperanza matemática de la utilidad de los resultados posibles, según los axiomas de von Neumann-Morgenstern.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Aversión al Riesgo
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Preferencia de un agente por recibir el valor esperado de una lotería con certeza frente a jugar la lotería, asociada matemáticamente a una función de utilidad cóncava.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Equivalente Cierto
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Cantidad de riqueza garantizada que proporciona al individuo el mismo nivel de utilidad que la esperanza matemática de la utilidad derivada de un escenario con riesgo.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Prima de Riesgo
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Monto máximo de riqueza que un individuo está dispuesto a pagar para evitar el riesgo y asegurar el valor esperado de una lotería con total certeza.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Factor de Descuento Subjetivo
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Parámetro que mide la valoración relativa de la utilidad futura respecto a la presente, reflejando la preferencia temporal o impaciencia del consumidor.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Restricción Presupuestaria Intertemporal
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una ecuación que relaciona el consumo presente y futuro con los ingresos presentes y futuros, descontados a una tasa de interés, representando la limitación de recursos a lo largo del tiempo para un agente económico.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Valor Descontado (o Valor Presente)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Representa el valor actual de la riqueza total futura de un individuo, calculando el equivalente presente de flujos de ingresos futuros mediante una tasa de descuento.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Relación Marginal de Sustitución Intertemporal (RMPT)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La pendiente de la curva de indiferencia en el espacio intertemporal, que mide la tasa a la que un consumidor está dispuesto a intercambiar consumo presente por consumo futuro, manteniendo el mismo nivel de utilidad.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Teoría de la Utilidad Esperada (VNM)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Marco analítico riguroso para modelar la elección de los agentes económicos en situaciones de riesgo, postulando que los individuos maximizan la esperanza matemática de la utilidad de los resultados inciertos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Lotería
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una formalización de una situación de riesgo, definida como una distribución de probabilidad sobre un conjunto de resultados o premios posibles, donde cada resultado tiene una probabilidad asociada.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Valor Esperado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La suma ponderada de los posibles resultados monetarios de una lotería, donde cada resultado se multiplica por su probabilidad de ocurrencia.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Utilidad Esperada
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La esperanza matemática de la utilidad de los resultados de una lotería, calculada como la suma de las utilidades de cada resultado ponderadas por sus respectivas probabilidades, utilizada para representar las preferencias de un agente bajo incertidumbre.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Aversión al Riesgo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una actitud ante el riesgo donde un agente prefiere recibir el valor esperado de una lotería con certeza que participar en la lotería misma, lo que se refleja en una función de utilidad estrictamente cóncava.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Prima de Riesgo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La cantidad máxima de riqueza que un individuo averso al riesgo está dispuesto a sacrificar o pagar para evitar la incertidumbre y obtener el valor esperado de una lotería con certeza.
+            </p>
         </div>
     </div>
 </section>

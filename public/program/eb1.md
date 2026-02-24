@@ -115,55 +115,93 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-amber-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Economía</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El estudio de la asignación de recursos escasos para necesidades ilimitadas, analizando los incentivos y el intercambio y sus consecuencias, más que de procesos o contabilidad pura.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-amber-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Escasez Natural</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Restricción inherente infranqueable fundamental. El mundo natural no alberga infinitas cuotas de aire, comida o tierra; demandando metodologías selectivas sistemáticamente forzadas discriminatorias racionales.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Trade-Off (Sacrificio)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">En EB: la cruda certeza inerradicable de la ciencia y el vivir racional general pragmático; nunca hay resoluciones a la utopía irrestricta sino intercambios incoloros permanentes de cosas tolerablemente mejores por cosas dolorosamente peores pero descartables.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sistemas de Coordinación</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mecanismos macroestructurales formales para organizar divisiones del conocimiento: Planificaciones dictatoriales (Estado) o arquitecturas horizontales difusas subyacentes libres (Mercado).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Conocimiento Disperso</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Postulado capital hayekiano base asumida por Sowell. Es la constatación rotunda epistemológica a que datos incesantes productivos e intangibles temporo-espaciales no habitan cabezas privilegiadas planificadas nunca, residiendo únicamente a pie de agentes fragmentariamente.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Asignación Centralizada</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Peligro histórico que asume en demagogias e irresoluciones absolutas centralizar decisiones de qué y cuánto cultivar mediante paneles jerárquicos dogmáticos desestabilizados al abismo dislocado real careciendo métricas inmediatas innegables verosímiles de incentivos locales micro.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Lógica de Mando vs Lógica de Intercambio</span>
-            <p class="text-slate-400 text-sm leading-relaxed">O se ejerce fuerza estatal monolítica burocratizada para arrancar conformaciones estáticas sociales o se delega dinamo-transacciones sinérgicas en red descentralizada recíprocamente beneficiosa al unísono.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Visión Tragica Constrained</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Perspectiva analítica estipulada como columna de honestidad insobornable por T. Sowell. Advirtiendo a no prescribir quimeras legislativas ilusas si contravienen regularidades y flaquezas intrínsecamente psicológicas probadas repetidamente fallidamente crónicas perennes inalterables.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Intenciones vs Consecuencias</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La principal lejanía que divide el buenismo emocional popular del intelecto analítico empírico duro perito, enfocándose excluyentísimamente en efectos medibles expost reales en contraste al espíritu utópico inspirador promulgado ingenuamente original exante.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Más allá de termodinámicas ingenieriles llanas o cronometradas superficiales físicas, la valoración estricta inalcanzable de ensambles óptimos sociológicamente y en capitalización evaluando las jerarquizaciones máximas anheladas del soberano consumidor insustituible final del mercado.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Escasez
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición fundamental donde los recursos limitados son insuficientes para satisfacer necesidades humanas ilimitadas, obligando a los agentes económicos a priorizar y elegir entre usos alternativos competitivos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Eficiencia
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Asignación óptima de recursos hacia sus usos más valorados, minimizando el desperdicio y maximizando la utilidad total dentro de un sistema económico determinado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Sistema de Precios
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Mecanismo descentralizado de comunicación que transmite información sobre la escasez relativa y las preferencias sociales, coordinando las decisiones de millones de agentes de manera automática.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Incentivos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estímulos económicos que influyen en el comportamiento de los agentes, motivando a los consumidores a economizar recursos y a los productores a invertir en sectores de alta demanda.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Control de Precios
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Intervenciones gubernamentales coercitivas que fijan niveles obligatorios por encima o debajo del equilibrio de mercado, distorsionando las señales de oferta y demanda.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Precio Máximo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Límite legal superior impuesto a los precios que, al situarse por debajo del equilibrio, provoca escasez, reducción de la oferta y asignación ineficiente de recursos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Precio Mínimo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Nivel legal inferior aplicado a los precios que, al superar el punto de equilibrio, genera un excedente del bien o servicio, como ocurre con el desempleo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-amber-500/50 hover:shadow-2xl hover:shadow-amber-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-amber-500 transition-colors">
+                    Trade-off
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación de costo de oportunidad donde la elección de una opción implica necesariamente la renuncia a los beneficios de la mejor alternativa posible.
+                </p>
+            </div>
         </div>
     </div>
 </section>
+<!-- GLOSARIO -->
+
+
+
 
 </div>
 

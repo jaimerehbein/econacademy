@@ -378,6 +378,8 @@ graph TD
     class IS,LM,DA,OA curve
     class EQ,EQ2 eq
 </pre>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

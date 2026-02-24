@@ -367,85 +367,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Conjunto de consumo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El espacio de todas las canastas de bienes física y legalmente posibles que el agente puede consumir.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Conjunto de consumo
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Subconjunto del espacio euclidiano que comprende todas las combinaciones de bienes física y legalmente posibles que un agente puede elegir para su consumo.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Función de utilidad
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Asignación numérica a las cestas de consumo que permite representar analíticamente el orden de preferencias ordinal de un agente económico sobre dichas combinaciones.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Tasa Marginal de Sustitución
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Proporción a la que un consumidor está dispuesto a intercambiar un bien por otro, manteniendo constante su nivel de bienestar o utilidad.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Demanda Marshalliana
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Funciones que determinan la elección óptima de bienes para maximizar la utilidad del consumidor, dadas las restricciones de precios de mercado e ingreso nominal.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Demanda Hicksiana
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Funciones que especifican las cantidades demandadas que minimizan el gasto necesario para alcanzar un nivel de utilidad predeterminado, considerando variaciones en los precios.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Ecuación de Slutsky
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Expresión matemática que descompone el cambio en la cantidad demandada ante variaciones de precios en los componentes de efecto sustitución y efecto ingreso.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Identidad de Roy
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Relación analítica que permite obtener las funciones de demanda ordinaria derivando la función de utilidad indirecta respecto a los precios y el ingreso.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
-                    Lema de Shephard
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Principio que establece que la derivada de la función de gasto respecto al precio de un bien es igual a la función de demanda hicksiana correspondiente.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Relaciones de preferencia
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una relación binaria sobre el conjunto de consumo que indica que una cesta de bienes es 'al menos tan preferida como' otra.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Completitud
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Axioma que establece que para todo par de cestas, el consumidor es capaz de comparar y ordenar todas las canastas posibles, eliminando la indecisión.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Transitividad
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Axioma que impone coherencia en las elecciones del consumidor, estableciendo que si una cesta x es preferida a y, y y es preferida a z, entonces x es preferida a z, eliminando ciclos de preferencias.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Función de Utilidad
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un concepto ordinal que permite asignar un número real a cada cesta de consumo tal que se respete el orden de preferencias establecido.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Curvas de indiferencia
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El lugar geométrico de los puntos que representan cestas de consumo que otorgan el mismo nivel de utilidad.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Restricción presupuestaria
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Define el conjunto de cestas de bienes factibles que un consumidor puede adquirir dado un vector de precios y una riqueza o ingreso.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Tasa Marginal de Sustitución (TMS)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La cantidad del bien 2 a la que un individuo está dispuesto a renunciar para obtener una unidad adicional del bien 1, manteniendo constante su nivel de utilidad.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Funciones de Demanda Marshallianas
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Funciones que indican la cantidad óptima demandada de cada bien dados los precios y el ingreso del consumidor.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Efecto Sustitución
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Mide el cambio en la cantidad demandada de un bien debido al cambio en los precios relativos, manteniendo la utilidad del consumidor constante.
+            </p>
         </div>
     </div>
 </section>

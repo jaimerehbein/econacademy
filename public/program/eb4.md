@@ -102,55 +102,112 @@ graph LR
     </div>
 </div>
 
+
+
 <!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-amber-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-amber-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
     </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bienes Complementarios</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Artículos hermanados por uso, la penalización fiscal o distorsión arancelaria artificial impositiva de uno devasta colateral e insensible colateralmente la proyección productiva demanda estructural del otro (ej. gasolina y automóviles de alta cilindrada expansivos).</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Interés
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Precio que compensa la renuncia al consumo presente en favor de la inversión futura, equilibrando la oferta y demanda de capital a lo largo del tiempo.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bienes Sustitutos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Reemplazos dinámicos competentes. Intervencionismos torpes en encarecimientos inducidos regulatoriamente estatizados precipitan refugios a fugas masivas elásticas predecibles rebasando y sobrecalentando el canal vicario alternativo colindante auxiliar.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Inversión
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Acto de destinar recursos presentes a la creación o mejora de bienes de capital con el objetivo de incrementar la capacidad productiva y generar rendimientos futuros.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Incidencia Subterránea Fiscal (Tax Incidence)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Falsedad teórica de la politización burocrática del gravamen o contribución de equidad fingida popular. Tributos y puniciones estatizadas impuestas jurídicamente en industrias pesadas transustan sin obstáculos irónica indirecta ineludiblemente invisibles escurridas a precios subidas consumidor o precarizando obreros sin elásticos poderíos contractuales y nulos escudos.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Valor Presente
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Concepto financiero que establece que una cantidad de dinero disponible en el momento actual posee un valor superior a la misma cantidad recibida en el futuro, debido al potencial de generación de rendimientos y la inflación.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Externalidad Regulada</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Ceguera perniciosa legislativa que omite asimilar en panoramas y cuadros abarcadores holísticos totales sistémicos inter-industriales e imprevistos, donde las directivas hiperfocalizadas de ministerios ahogan asfixiantes a colosales engranajes ajenos foráneos en derrame dominó de burocracias colaterales estrafalarias.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Especulación
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Actividad económica que implica la asunción de riesgos de mercado con el fin de obtener ganancias a partir de las fluctuaciones de precios de activos, contribuyendo a la liquidez y la formación de precios.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Elusión y Evasión Adaptativa</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Plasticidad y resiliencia humana frente y reaccionario evasor instintiva ante gravámenes asfixiatorios. Se metamorfosean estructuras en jurisdicciones, offshore, transmutando el dinero transaccional contramercados y trueques soterrados grises desmaterializados evadiéndose e invisibilizándose opacos fugaces.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Riesgo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La probabilidad de que un evento adverso ocurra, generando una pérdida o un resultado no deseado. En finanzas, se refiere a la incertidumbre sobre los rendimientos futuros de una inversión.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Laffer</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Representación conceptual fundamental teórica irrebatible donde incrementos salvajes draconianos y expoliaciones impositivas en tasas tributarias desangran la recaudación total global deprimida absoluta final, desencentivando e invalidando la inversión extinguiendo producciones por agotamientos absolutos abdicables huelgales.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Seguro
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Mecanismo de transferencia de riesgo mediante el cual una entidad (aseguradora) asume el riesgo de un evento futuro a cambio de una prima, compensando al asegurado en caso de siniestro.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Proteccionismo y Aranceles</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tributo invisible a la ineficiencia subsidiando la caducidad y retraso monopólico vernáculo y local oligopólico interno en franco desmedro del ciudadano de a pie encareciendo inalterable inexorablemente su cesta basal castigándolo para salvar empleos moribundos en sectores zombis decadentes apañados y enclavados estatizados.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Prima (de seguro)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Cantidad de dinero que el asegurado paga periódicamente a la compañía de seguros a cambio de la cobertura de un riesgo específico.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rent-Seeking (Búsqueda de Rentas)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Patología o enfermedad de camarillas y cárteles industriales extorsionando parasitariamente a parlamentos y comités coaccionando subsidios, exenciones, protecciones u óbolos succionadores redistributivos expoliando inmerecidamente presupuestos en cabildeos nulos y estériles en productividad real innovadora tangibilizada aportable competitiva.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Riesgo Moral
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fenómeno económico que surge cuando una de las partes de un contrato tiene la posibilidad de alterar su comportamiento después de la firma del mismo, debido a que los costos de sus acciones recaen, total o parcialmente, sobre la otra parte.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Leyes Antimonopolio (Antitrust Contradiction)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Supuestas defenzas al competidor que se degradan trágicamente mutando y degenerando para amparar castigadoramente en parodia punitiva las ineficiencias crónicas de corporaciones desplazadas y resentidas arremetiendo estatalmente contra eficiencias abrumadoras, caídas dramáticas benéficas de precios de vanguardias invictas competentes arrolladoras superiores triunfales aplastantes.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Tiempo (como recurso económico)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Recurso escaso y valioso en economía, cuyo 'precio' (interés) refleja la preferencia por el consumo presente frente al futuro y la productividad del capital a lo largo del tiempo.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Cobra</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La apoteosis metafórica suprema de la consecuencia inintencionada estrafalaria ex-post funesta estigmatizada desbordada de los estamentos de política y legislación central. Subsidios creados y pagados para menguar plagas venenosas inducen intencionalmente la cría intensiva masiva exarcerbada en granjas clandestinas de las mismas plagas agravando inintencionadamente exacerbadamente el saldo desfasado originario agudizado.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Estabilización del Mercado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso por el cual las acciones de los agentes económicos, como los especuladores, contribuyen a reducir la volatilidad de los precios y asegurar la disponibilidad de bienes al comprar en momentos de abundancia y vender en momentos de escasez.
+            </p>
         </div>
     </div>
 </section>
+
+
+
+
 
 </div>
 

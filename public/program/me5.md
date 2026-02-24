@@ -114,85 +114,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Vectores Autorregresivos (VAR)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelos introducidos por Christopher Sims que tratan todas las variables como endógenas, utilizados para el pronóstico económico y el análisis de interacciones dinámicas.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Modelos DSGE
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Sistemas macroeconómicos basados en microfundamentos que analizan el comportamiento agregado mediante la optimización intertemporal de agentes sujetos a choques estocásticos y fricciones de mercado.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Vectores Autorregresivos (VAR)
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Modelos econométricos de series temporales que capturan las interdependencias dinámicas entre múltiples variables, tratándolas todas como endógenas y basándose en sus valores rezagados.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Modelo IS-LM
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Marco macroeconómico de síntesis neoclásica que representa el equilibrio simultáneo en los mercados de bienes y servicios (IS) y de activos financieros (LM).
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Cointegración
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Relación estadística de largo plazo entre variables no estacionarias cuyas series temporales comparten una tendencia común, evitando regresiones espurias en el análisis econométrico.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Funciones de Impulso-Respuesta
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Herramientas que trazan la reacción de las variables endógenas de un sistema ante un choque exógeno transitorio en una de las innovaciones del modelo.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    VECM
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Modelo de Corrección de Errores de Vector que permite estimar la dinámica de corto plazo y el ajuste hacia el equilibrio de largo plazo en sistemas cointegrados.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Regla de Taylor
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Ecuación de política monetaria que prescribe ajustes en la tasa de interés nominal basándose en las desviaciones de la inflación y el producto respecto a sus objetivos.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Microfundamentos
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Bases teóricas que sustentan los modelos macroeconómicos en el comportamiento individual y las decisiones de optimización de hogares y empresas.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Modelos de Equilibrio General Dinámico Estocástico (DSGE)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelos macroeconómicos basados en microfundamentos, donde los agentes optimizan su comportamiento sujetos a choques estocásticos y fricciones de mercado, siendo el estado del arte en el análisis de bancos centrales.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Modelo IS-LM
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelo fundamental que integra el mercado de bienes y servicios con el mercado de activos financieros (dinero), representando el punto de partida del modelado macroeconómico agregado.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Microfundamentos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Principios que establecen que los modelos macroeconómicos deben derivarse del comportamiento optimizador de agentes económicos individuales (hogares, empresas).
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Choques Estocásticos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Perturbaciones aleatorias e impredecibles que afectan las variables económicas y el comportamiento de los agentes en los modelos dinámicos, como los DSGE.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Fricciones de Mercado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Imperfecciones o restricciones en el funcionamiento de los mercados, como los precios rígidos, que impiden el ajuste instantáneo de las variables económicas y afectan la optimización de los agentes.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Funciones de Impulso-Respuesta
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Herramienta analítica que ilustra cómo un choque inesperado en una variable se propaga y afecta a otras variables dentro de un sistema económico a lo largo del tiempo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Cointegración
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Técnica econométrica para identificar relaciones de equilibrio de largo plazo entre variables no estacionarias que se mueven conjuntamente en el tiempo, separando la dinámica de corto plazo del equilibrio de largo plazo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                VECM (Vector Error Correction Model)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Modelo que permite analizar la dinámica de corto plazo y la convergencia hacia el equilibrio de largo plazo entre variables que han sido identificadas como cointegradas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Regla de Taylor
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un componente estructural de los modelos DSGE que describe cómo un banco central ajusta la tasa de interés nominal en respuesta a desviaciones de la inflación y la producción respecto a sus objetivos.
+            </p>
         </div>
     </div>
 </section>

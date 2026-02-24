@@ -95,85 +95,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Modelado Estocástico
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Enfoque que aborda la complejidad emergente mediante la simulación de agentes heterogéneos y el uso de métodos numéricos para resolver modelos sin solución analítica cerrada, incorporando el azar inherente al mundo real.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Modelado Estocástico
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Marco matemático que incorpora variables aleatorias para representar la incertidumbre y predecir la distribución de resultados posibles en sistemas económicos y financieros complejos.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Modelos de Agentes (ABM)
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Simulación computacional que analiza las interacciones de individuos autónomos y heterogéneos para observar el surgimiento de fenómenos macroeconómicos globales a partir de reglas locales.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Heterogeneidad
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Propiedad que describe la diversidad entre agentes económicos respecto a sus niveles de riqueza, acceso a la información, dotaciones y grados de racionalidad operativa.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Emergencia
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Aparición de patrones macroscópicos complejos y no lineales que resultan de las interacciones descentralizadas de agentes individuales, no explicables únicamente por la suma de sus partes.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Simulación de Monte Carlo
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Técnica numérica que utiliza el muestreo aleatorio masivo para estimar distribuciones de probabilidad y resolver problemas matemáticos que carecen de una solución analítica cerrada.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Cadenas de Markov
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Procesos estocásticos donde la transición a un estado futuro depende exclusivamente del estado actual, asumiendo independencia de los eventos ocurridos en el pasado del sistema.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Métodos Numéricos
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Algoritmos y procedimientos matemáticos empleados para obtener aproximaciones cuantitativas precisas en modelos financieros cuya complejidad impide una resolución algebraica directa.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Caminos Aleatorios
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Modelos matemáticos que describen trayectorias compuestas por una sucesión de pasos estocásticos, fundamentales para la modelización del movimiento de precios en mercados financieros.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Modelos de Agentes (ABM)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Paradigma de simulación que modela sistemas complejos mediante la interacción de múltiples agentes individuales con reglas de comportamiento locales, permitiendo la observación de fenómenos macroeconómicos emergentes.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Agente Representativo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Concepto en modelado económico donde un único agente idealizado encapsula las características promedio o agregadas de todos los individuos en un sistema, a menudo simplificando la heterogeneidad y las interacciones.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Heterogeneidad (en ABM)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Característica de los Modelos de Agentes que permite a los individuos poseer diferentes atributos, como niveles de riqueza, información o grados de racionalidad, reflejando la diversidad del mundo real.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Interacción (en ABM)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Mecanismo fundamental en los Modelos de Agentes que describe cómo los individuos influyen mutuamente a través de comportamientos como el aprendizaje social o la imitación de estrategias exitosas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Emergencia (en ABM)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Propiedad de los sistemas complejos modelados con ABM donde patrones o fenómenos macro a nivel del sistema surgen de las interacciones locales de los agentes, sin ser directamente programados o predecibles a partir de las partes individuales.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Métodos Numéricos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Conjunto de técnicas algorítmicas utilizadas para encontrar soluciones aproximadas a problemas matemáticos que no pueden resolverse de forma analítica o cerrada, especialmente en modelos complejos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Simulación Monte Carlo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Técnica computacional que emplea muestreos aleatorios repetidos para obtener resultados numéricos, utilizada para estimar distribuciones de probabilidad complejas y calcular integrales o expectativas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Cadenas de Markov
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso estocástico que describe una secuencia de eventos en la que la probabilidad de cada estado futuro depende únicamente del estado actual, y no de la secuencia de eventos que lo precedieron.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Distribuciones de Probabilidad Complejas
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Funciones matemáticas que describen la probabilidad de ocurrencia de diferentes resultados para una variable aleatoria, caracterizadas por formas o dependencias intrincadas que dificultan su análisis analítico directo.
+            </p>
         </div>
     </div>
 </section>

@@ -138,40 +138,105 @@ graph LR
     </div>
 </div>
 
+
+
 <!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-amber-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-amber-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
     </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Falacia de la Tarta Fija</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Creencia de que la riqueza económica es una cantidad estática, implicando que la ganancia de uno es la pérdida de otro, ignorando la creación de riqueza.</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Falacia de la Tarta Fija
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Creencia económica errónea que postula que la riqueza total es una cantidad estática y finita, implicando que el enriquecimiento de un sector solo puede ocurrir a expensas de otro, ignorando la capacidad de creación de riqueza mediante la producción y el intercambio.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Creación de Riqueza</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Proceso de generar bienes y servicios de valor a través de la producción y el intercambio, lo que aumenta la prosperidad económica total de una sociedad.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Distribución de la Riqueza
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Mecanismo o patrón mediante el cual la riqueza económica existente se reparte entre los diferentes individuos o grupos dentro de una sociedad, diferenciándose del proceso de creación de dicha riqueza.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Humano</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Conjunto de conocimientos, habilidades, experiencia y disciplina que poseen los individuos, considerado un factor crucial para la productividad y el desarrollo económico.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Creación de Riqueza
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Proceso económico fundamental que implica la generación de nuevos bienes y servicios, y el valor añadido a través de la producción, la innovación y el intercambio, en contraposición a la mera redistribución de la riqueza existente.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control de Precios</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Intervención gubernamental que establece límites máximos o mínimos a los precios de bienes o servicios, pudiendo distorsionar los mercados y generar escasez.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Quintil de Ingresos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una de las cinco divisiones estadísticas que agrupan a la población según su nivel de ingresos, donde cada quintil representa el 20% de la población, utilizado para analizar la desigualdad económica y la movilidad social.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salario Mínimo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Precio mínimo legal por hora para el trabajo. Puede impactar la contratación, eliminando oportunidades para trabajadores con menor productividad.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Capital Humano
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Conjunto de conocimientos, habilidades, capacidades, experiencia y disciplina que poseen los individuos y que contribuyen a su productividad y al desarrollo económico de una nación, siendo un factor más determinante que los recursos naturales.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Incentivos Sistémicos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mecanismos dentro de un sistema económico que motivan o desmotivan ciertas acciones o comportamientos de los agentes económicos, determinando los resultados.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Control de Rentas
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Regulación gubernamental que impone límites máximos a los precios de alquiler de viviendas. Sus consecuencias incluyen la reducción de la oferta, el deterioro de la calidad de las propiedades y la proliferación de mercados informales.
+            </p>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Desempleo Estructural</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tipo de desempleo causado por un desajuste entre las habilidades de los trabajadores y las demandas del mercado laboral, frecuentemente agravado por regulaciones.</p>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Salario Mínimo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Precio mínimo legal establecido por la autoridad para la remuneración del trabajo. Su implementación puede actuar como una barrera para la empleabilidad de individuos con menor productividad, especialmente jóvenes y personas menos capacitadas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Control de Precios
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Intervención gubernamental que establece límites máximos o mínimos a los precios de bienes o servicios en un mercado. Puede generar escasez, mercados negros y distorsiones en la oferta y la demanda.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Incentivos Sistémicos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Estímulos o desestímulos inherentes a la estructura de un sistema económico o político que dirigen el comportamiento de los agentes económicos, siendo un factor clave en la determinación de los resultados reales de las políticas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-amber-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-amber-500/5">
+            <h3 class="text-sm font-black text-amber-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse"></span>
+                Desempleo Estructural
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Tipo de desempleo de larga duración que resulta de desajustes fundamentales entre las habilidades de la fuerza laboral y las demandas del mercado de trabajo, o de rigideces institucionales como la legislación laboral excesiva.
+            </p>
         </div>
     </div>
 </section>

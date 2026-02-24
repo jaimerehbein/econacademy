@@ -114,6 +114,7 @@
     </a>
 </div>
 
+<!-- GLOSARIO -->
 <!-- FOOTER -->
 <footer class="border-t border-white/10 pt-16">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-16">

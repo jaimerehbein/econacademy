@@ -162,6 +162,8 @@ stateDiagram-v2
     Cúspide --> Contracción : Fricción Fáctica
     Contracción --> Génesis : Depuración
 </pre>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

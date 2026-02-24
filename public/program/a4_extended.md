@@ -222,6 +222,8 @@ graph TD
     class REG,RES_SUP,RES_MIN,RES_DIR level3
     class SENT level4
 </pre>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

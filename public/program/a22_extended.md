@@ -172,6 +172,8 @@ graph TD
     class K,L,A main
     class Y output
 </pre>
+<!-- GLOSARIO -->
+
 
     </div>
 </div>

@@ -99,85 +99,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Modelos Dinámicos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Herramientas analíticas utilizadas para estudiar cómo las decisiones económicas actuales influyen en las posibilidades futuras y para modelar la evolución del crecimiento económico y la acumulación de capital a lo largo del tiempo.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Control Óptimo
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Técnica matemática empleada para maximizar una funcional sujeta a restricciones dinámicas, representadas mediante ecuaciones diferenciales que describen la evolución de variables de estado en el tiempo.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Hamiltoniano
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Función escalar utilizada en problemas de control óptimo que integra la función de utilidad instantánea y las restricciones dinámicas multiplicadas por variables de co-estado.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Variable de Estado
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Magnitud que representa la condición o stock de un sistema en un momento dado, cuya evolución temporal está determinada por las decisiones de control y parámetros exógenos.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Variable de Co-estado
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Multiplicador dinámico que indica el precio sombra o valor marginal de una unidad adicional de la variable de estado en el bienestar total del sistema.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Ecuación de Euler
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Condición necesaria para la optimización intertemporal que describe la trayectoria del consumo óptimo, igualando la tasa marginal de sustitución temporal con el rendimiento marginal del capital.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Crecimiento Endógeno
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Teoría económica que sostiene que el crecimiento sostenido surge de factores internos como el capital humano y la innovación, evitando los rendimientos decrecientes del capital físico.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Utilidad Intertemporal
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Suma descontada de los niveles de satisfacción obtenidos por un agente a lo largo de un horizonte temporal, ponderada por una tasa de preferencia por el consumo presente.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    Capital Humano
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Conjunto de habilidades, conocimientos y experiencias de los trabajadores que incrementan su productividad y permiten el crecimiento económico sostenido mediante la generación de ideas.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Cálculo Variacional
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Rama de las matemáticas que se ocupa de encontrar funciones que maximizan o minimizan funcionales, a menudo integrales, y es fundamental en la resolución de problemas de optimización dinámica.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Control Óptimo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Metodología para maximizar una funcional integral (como la utilidad intertemporal) sujeta a una ley de movimiento que rige la evolución de una variable de estado (como el capital) a lo largo del tiempo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Funcional Integral
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una función de funciones, típicamente una integral que evalúa una trayectoria o secuencia de decisiones a lo largo del tiempo, cuyo valor se busca maximizar o minimizar en problemas de optimización dinámica.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Variable de Estado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una variable que describe el estado de un sistema en un momento dado (ej. capital físico) y cuya evolución a lo largo del tiempo está sujeta a una ley de movimiento o ecuación diferencial.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Hamiltoniano
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                En control óptimo, es una función auxiliar que combina la función objetivo instantánea (utilidad) con la ley de movimiento de la variable de estado, ponderada por una variable de co-estado, para facilitar la optimización intertemporal.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Variable de Co-estado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                En el contexto del Hamiltoniano, representa el valor marginal de la variable de estado en el tiempo, o el precio sombra del capital, indicando cuánto aumentaría el valor total de la funcional si la variable de estado aumentara marginalmente.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Modelo Ramsey-Cass-Koopmans
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un modelo de crecimiento económico neoclásico donde los agentes económicos optimizan su consumo a lo largo del tiempo, determinando endógenamente la tasa de ahorro y la acumulación de capital.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Ecuación de Euler
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una condición necesaria para la optimización intertemporal en problemas de cálculo variacional y control óptimo, que describe la trayectoria óptima de una variable de control (ej. consumo) a lo largo del tiempo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Crecimiento Endógeno
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Teoría económica que explica el crecimiento económico sostenido a través de factores internos al sistema, como la acumulación de capital humano y el progreso tecnológico (ideas), que contrarrestan los rendimientos decrecientes del capital físico.
+            </p>
         </div>
     </div>
 </section>

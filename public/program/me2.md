@@ -93,76 +93,104 @@ graph LR
 </div>
 
 
-<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
-    <div class="container mx-auto px-6">
-        <div class="flex items-center gap-4 mb-12">
-            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
-            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
+
+<!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Equilibrio General
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Análisis de la interacción simultánea de todos los mercados en una economía.
+            </p>
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    EQUILIBRIO GENERAL
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Analiza la interacción simultánea de todos los mercados interconectados en una economía, donde los precios ajustan las ofertas y demandas hasta su compatibilidad mutua.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    EQUILIBRIO PARCIAL
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Estudia un mercado aislado, asumiendo que los precios y cantidades en otros mercados permanecen constantes o no influyen significativamente.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    ÓPTIMO DE PARETO
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Una asignación de recursos es óptima si no es posible mejorar el bienestar de ningún individuo sin empeorar el de al menos otro.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    EQUILIBRIO COMPETITIVO
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Un estado de mercado donde los precios y asignaciones son tales que los agentes maximizan su utilidad o beneficio, y todos los mercados se vacían simultáneamente.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    TEOREMAS FUNDAMENTALES DEL BIENESTAR
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Dos proposiciones que vinculan los equilibrios competitivos con la eficiencia de Pareto, siendo la base normativa de la microeconomía.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    LEY DE WALRAS
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    Establece que si N-1 mercados están en equilibrio, el N-ésimo mercado también lo estará, pues la suma de los excesos de demanda valorados es idénticamente nula.
-                </p>
-            </div>
-
-            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
-                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
-                    NÚCLEO (CORE) DE LA ECONOMÍA
-                </h3>
-                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-                    El conjunto de asignaciones de recursos que no puede ser mejorado por ninguna coalición de agentes actuando de manera independiente.
-                </p>
-            </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Óptimo de Pareto
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una asignación de recursos donde el mercado agota todas las ganancias del intercambio bajo competencia perfecta.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Equilibrio Competitivo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un estado de mercado que es un Óptimo de Pareto y que puede alcanzarse a partir de cualquier Óptimo de Pareto mediante una redistribución inicial de los recursos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Primer Teorema del Bienestar
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Establece que todo equilibrio competitivo es un Óptimo de Pareto, indicando que el mercado agota todas las ganancias del intercambio bajo competencia perfecta.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Segundo Teorema del Bienestar
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Afirma que cualquier Óptimo de Pareto puede alcanzarse como un equilibrio competitivo mediante una redistribución inicial de los recursos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Ley de Walras
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Principio que establece que si n-1 mercados están en equilibrio, el mercado n también debe estarlo, y que la suma de los excesos de demanda valorados a precios de equilibrio es idénticamente nula.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Vaciado de Mercados
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Condición de mercado donde la suma de los excesos de demanda valorados a precios de equilibrio es idénticamente nula, implicando que los mercados están en equilibrio.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Núcleo (Core) de la Economía
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El conjunto de asignaciones que ninguna coalición de agentes puede mejorar por sí misma.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Competencia Perfecta
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Un estado de mercado bajo el cual se agotan todas las ganancias del intercambio y que representa el límite asintótico de la negociación estratégica entre múltiples agentes.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
+            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
+                Redistribución Inicial de los Recursos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Mecanismo mediante el cual cualquier Óptimo de Pareto puede alcanzarse como un equilibrio competitivo, según el Segundo Teorema del Bienestar.
+            </p>
         </div>
     </div>
 </section>

@@ -85,6 +85,7 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
 <!-- FOOTER -->
 <footer class="pt-20 border-t border-white/10">
     <div class="grid grid-cols-1 md:grid-cols-3 gap-12 text-slate-500">
