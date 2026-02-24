@@ -146,44 +146,32 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sistema de Precios</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mecanismo descentralizado de coordinación económica. Los precios transmiten información dispersa sobre escasez relativa y preferencias con una eficiencia que ningún planificador central puede replicar.</p>
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Falacia de la Tarta Fija</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Creencia de que la riqueza económica es una cantidad estática, implicando que la ganancia de uno es la pérdida de otro, ignorando la creación de riqueza.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Incentivos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Fuerzas que moldean el comportamiento económico. Sowell enfatiza que los agentes responden a incentivos reales, no a intenciones declaradas. Las políticas bien intencionadas con malos incentivos fracasan siempre.</p>
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Creación de Riqueza</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso de generar bienes y servicios de valor a través de la producción y el intercambio, lo que aumenta la prosperidad económica total de una sociedad.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Escasez</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Principio fundamental: los recursos son limitados frente a necesidades ilimitadas. Toda decisión económica implica un trade-off. El precio es la señal que raciona los recursos escasos entre usos alternativos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costo de Oportunidad</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El verdadero costo de una decisión es lo que se sacrifica al no elegir la mejor alternativa disponible. No aparece en ninguna factura, pero es el costo más real de la economía.</p>
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Humano</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Conjunto de conocimientos, habilidades, experiencia y disciplina que poseen los individuos, considerado un factor crucial para la productividad y el desarrollo económico.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
             <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control de Precios</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Regulación gubernamental que fija precios por debajo (precio máximo) o por encima (precio mínimo) del equilibrio de mercado. Genera escasez o excedentes respectivamente, y distorsiona la asignación de recursos.</p>
+            <p class="text-slate-400 text-sm leading-relaxed">Intervención gubernamental que establece límites máximos o mínimos a los precios de bienes o servicios, pudiendo distorsionar los mercados y generar escasez.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
             <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salario Mínimo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Precio mínimo del trabajo. Si se fija por encima del salario de equilibrio, reduce la cantidad demandada de trabajo (desempleo) y puede sustituir mano de obra joven/poco calificada por automatización.</p>
+            <p class="text-slate-400 text-sm leading-relaxed">Precio mínimo legal por hora para el trabajo. Puede impactar la contratación, eliminando oportunidades para trabajadores con menor productividad.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control de Rentas</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Precio máximo para el alquiler de viviendas. Beneficia a los inquilinos actuales pero reduce la oferta futura, deteriora el mantenimiento de inmuebles y crea mercados negros. Historia universal de fracaso documentado.</p>
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Incentivos Sistémicos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Mecanismos dentro de un sistema económico que motivan o desmotivan ciertas acciones o comportamientos de los agentes económicos, determinando los resultados.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Consecuencias No Previstas</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Efectos no intencionados de las intervenciones, frecuentemente contrarios al objetivo buscado. Principio central de Sowell: juzgar las políticas por sus resultados, no por sus intenciones.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Visión Constrained</span>
-            <p class="text-slate-400 text-sm leading-relaxed">En "A Conflict of Visions" de Sowell: perspectiva que reconoce las limitaciones inherentes de la naturaleza humana. Las instituciones (mercado, derecho, tradición) canalizan intereses egoístas hacia resultados sociales positivos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Conocimiento Disperso</span>
-            <p class="text-slate-400 text-sm leading-relaxed">En Hayek: el conocimiento económico relevante está disperso entre millones de individuos y no puede ser centralizado. El mercado lo agrega eficientemente a través de precios; la planificación central no puede reemplazarlo.</p>
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Desempleo Estructural</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tipo de desempleo causado por un desajuste entre las habilidades de los trabajadores y las demandas del mercado laboral, frecuentemente agravado por regulaciones.</p>
         </div>
     </div>
 </section>

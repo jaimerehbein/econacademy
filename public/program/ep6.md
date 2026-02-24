@@ -173,44 +173,44 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Plusvalía</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Valor creado por el trabajador más allá del valor de su fuerza de trabajo. Fuente del beneficio capitalista. Puede ser absoluta (jornada más larga) o relativa (mayor productividad).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teoría de las Crisis</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Análisis de las contradicciones inherentes al capitalismo que generan ciclos recurrentes de expansión y recesión, resultando en rupturas sistémicas y reestructuraciones económicas.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Plusvalía</span>
-            <p class="text-slate-400 text-sm leading-relaxed">$m' = \frac{pv}{v}$ donde $pv$ es plusvalía y $v$ capital variable (salarios). Mide el grado de explotación del trabajo. Tasa alta supone jornadas largas o baja remuneración relativa.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Contradicción Fundamental</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La disparidad entre la producción social de bienes y servicios, donde muchos cooperan, y la apropiación privada de los beneficios por parte de unos pocos individuos o entidades.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Composición Orgánica</span>
-            <p class="text-slate-400 text-sm leading-relaxed">$q = \frac{c}{v}$: relación entre capital constante (maquinaria/materias primas) y capital variable (salarios). La tendencia al alza de $q$ es la clave de la caída tendencial de la tasa de ganancia.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Crisis de Sobreproducción</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Fenómeno económico donde la oferta de bienes excede la demanda efectiva, no por escasez, sino por la incapacidad de la población para adquirir productos debido a su empobrecimiento.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Ganancia</span>
-            <p class="text-slate-400 text-sm leading-relaxed">$r = \frac{pv}{c+v} = \frac{m'}{1+q}$. Tendencia secular a caer debido al aumento de la composición orgánica. La caída de $r$ genera presiones de sobreacumulación y crisis periódicas.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ciclo Económico Capitalista</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La secuencia recurrente de fases de expansión (auge), desaceleración (estancamiento), contracción (crack, depresión) y recuperación que caracteriza la dinámica de las economías de mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sobreproducción</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Crisis donde se produce más de lo que el mercado puede absorber a precios rentables. No implica exceso respecto a necesidades reales sino ausencia de poder de compra (demanda efectiva insuficiente).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Caída de la Tasa de Ganancia</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tendencia a largo plazo, según Marx, donde la acumulación de capital y la sustitución de trabajo vivo por maquinaria disminuyen la rentabilidad relativa del capital invertido.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Contradicción Fundamental</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tensión entre la producción socializada y la apropiación privada del excedente. Los capitalistas maximizan ganancias comprimiendo salarios, reduciendo a largo plazo la demanda que necesitan para realizarlas.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Plusvalía</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Valor creado por el trabajo del obrero por encima del valor de su fuerza de trabajo, apropiado gratuitamente por el capitalista en el proceso de producción.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ciclo Económico</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Secuencia recurrente: expansión → sobreacumulación → crisis → depresión → saneamiento → nueva expansión. En el marxismo, el ciclo no es accidental sino estructuralmente necesario para el capitalismo.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estancamiento Secular</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Período prolongado de crecimiento económico lento o nulo, acompañado de baja inflación y bajas tasas de interés, persistente a pesar de las medidas de estímulo monetario o fiscal.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Ficticio</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Capital presente en forma de títulos financieros (acciones, bonos) que representa una demanda sobre la plusvalía futura pero no constituye capital real productivo. Su expansión genera fragilidad sistémica.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Globalización del Riesgo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La intensificación de la interconexión entre mercados productivos y financieros a escala mundial, que facilita la rápida propagación de crisis económicas y financieras entre países.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Financiarización</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Proceso por el cual el sector financiero crece desproporcionadamente respecto a la economía real, subordinando la inversión productiva a los rendimientos de los mercados de capitales.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Ficticio</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Activos financieros (deuda, derivados) cuyo valor no se basa directamente en la producción real o la generación de plusvalía, sino en expectativas futuras, generando inestabilidad estructural.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Minsky Moment</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Punto en el ciclo financiero donde la deuda acumulada en fases especulativas se vuelve insostenible, detonando un colapso de precios de activos y una contracción crediticia abrupta.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Financiarización</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso por el cual las finanzas y los motivos financieros permean la economía en su conjunto, aumentando el rol de los mercados financieros, instituciones y actores en la actividad económica.</p>
         </div>
     </div>
 </section>

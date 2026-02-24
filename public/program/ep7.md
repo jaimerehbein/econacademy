@@ -146,44 +146,32 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Imperialismo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">En Lenin: fase superior del capitalismo caracterizada por la exportación de capital, monopolios, fusión del capital bancario e industrial y reparto del mundo entre potencias. Va más allá del colonialismo tradicional.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estado Capitalista</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Institución cuya función primordial es garantizar las condiciones estructurales para la acumulación y reproducción del capital, incluyendo la protección de la propiedad privada y regulación del mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Exportación de Capital</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Inversión directa extranjera (IDE) o préstamos de las economías centrales hacia la periferia. Extrae plusvalía donde los salarios son bajos y la tasa de ganancia más alta, agudizando la dependencia.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capitalismo Monopolista/Financiero</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Fase del capitalismo caracterizada por la fusión del capital industrial y bancario, el dominio de grandes corporaciones transnacionales y la centralización del capital en oligopolios.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Monopolista</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Concentración del capital en megacorporaciones que controlan precios y mercados. Las ganancias monopólicas no provienen solo de la explotación del trabajo sino del control de la cadena de valor global.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Imperialismo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Fase superior del capitalismo donde la exportación de capital prevalece sobre la exportación de mercancías, llevando a la división global del territorio y la explotación de naciones periféricas.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Intercambio Desigual</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mecanismo por el cual los países centrales obtienen más valor del que transfieren en el comercio internacional: intercambian bienes intensivos en tecnología por bienes intensivos en trabajo barato.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Exportación de Capital</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estrategia de las naciones centrales durante el imperialismo para invertir capital excedente en países periféricos, buscando mayores tasas de ganancia y control económico.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Financiero</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Fusión del capital bancario y el capital industrial. En Hilferding y Lenin, el capital financiero controla tanto la producción como la circulación, articulando el imperialismo desde los grandes bancos.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Oligarquía Financiera</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Grupo reducido de élites y grandes corporaciones bancarias e industriales que ejercen un control significativo sobre la economía y la política en la fase monopolista.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Renta Diferencial</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Ingreso extraordinario que capturan países/empresas con acceso privilegiado a recursos naturales, tecnología o posición monopolística. Base de la dependencia periférica de economías extractivistas.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Financiarización</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Fenómeno económico donde las ganancias se obtienen principalmente a través de operaciones financieras, desligándose de la producción real, generando una desconexión entre valor bursátil y economía material.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Financiarización Global</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Proceso postfordista donde la acumulación se realiza principalmente a través de canales financieros (derivados, fondos, deuda) y no mediante la producción. Asociado a la hegemonía del capital anglosajón post-1975.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Deuda Soberana</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mecanismo de control imperialista postcolonial. Los préstamos del FMI/Banco Mundial condicionan ajustes estructurales (privatizaciones, apertura comercial) que benefician al capital externo a expensas del bienestar local.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Hegemonía</span>
-            <p class="text-slate-400 text-sm leading-relaxed">En Gramsci: dominio que combina coerción y consenso cultural. En economía política internacional: la potencia hegemónica define el régimen monetario global (dólar como moneda de reserva), fijando los términos del intercambio.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Acumulación por Desposesión</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Concepto de David Harvey: el capitalismo contemporáneo genera ganancias no solo produciendo sino expropiando bienes comunes, privatizando servicios públicos y financiarizando la vida cotidiana.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Plusvalía</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Valor creado por el trabajo asalariado por encima de su propio costo de reproducción, apropiado por el capitalista sin remuneración, fundamental en la extracción económica imperialista.</p>
         </div>
     </div>
 </section>
