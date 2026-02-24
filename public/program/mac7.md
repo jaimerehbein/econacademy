@@ -373,52 +373,104 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Natural de Paro</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Umbral sistémico crónico promedio empírico persistente normativo fluctuante subyacente de la desocupación. Rango gravitacional e inercial donde colapsa o retorna predeterminadamente secular el desempleo en largos horizontes, eludiendo transitoriedades ilusorias efímeras cíclicas pasajeras o coyunturas sobrecalentadas.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-fuchsia-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Paro Friccional</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Desocupación efímera o inercial coyuntural innegable transicional y temporal o inevitable natural intrínseco resultante e injertada en los retrasos y lentitudes y asimetrías de tiempo entre dimisiones y búsqueda acopladora relocalizadora y emparejamientos en rotaciones demográficas puras entre ofertantes aptos laborales y nuevas eclosiones corporativas de rubros dinámicos nacientes incipientes productivos incesantes recambios.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Paro Estructural</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Rigidez o cristalización sistémica irreductible del desempleo crónico cuando coaccionadas imposiciones de legisladores inflexibles distópicos fijan los tabuladores de remuneraciones de salarios base coactivos artificiales autoritarios y prebendarios draconianos sustancialmente y dictatorialmente elevadísimos inalcanzables inaccesible excluyentemente colosales superadores en exorbitancias del mercado del equilibrio asintótico del vaciado pleno salarial productivo demandante excluyendo en el ostracismo excluyente letal legal general forzosamente a inoperantes o masas obreras primarias originarias sin formación técnica demandable insertable rentabilizable.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salarios de Eficiencia</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Racionalidad e ingenieril e intrínseca e imperativa de los capitalistas optando libre, unilateral y deliberadamente de abonar y encumbrar de propia voluntad sueldos exuberantes sobrepromedios al margen basal para forjar, incentivar e inmunizar y atar lealtades operarias en salud laboral y repeler sangrías de rotaciones inestabilidades y maximizar rendimientos leales esforzados óptimos atrincherados funcionales en sus obreros dependientes fidelizados optimizados selectos insobornables alineando estímulos puros preventivos productivistas directos disuasorios motivacionales.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rigidez Salarial</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Inflexibilidades perversas nominales paralizantes, resistencias inamovibles gremiales sindicalizadas atávicas o contratos estáticos fosilizados impidiendo reajustes deflacionarios lógicos correctivos ante mermas productivas recesivas, originando desempleos colosales y marginando y cesando o expidiendo a operarios por asfixia en la carga insostenida inviable estructural invendible incosteable imposibilitando reabastecidas absorciones flexibles reactivadoras salivadoras asimétricas de reactivaciones elásticas sanadoras orgánicas reequilibradoras puras.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Phillips de Corto Plazo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Un trade-off temporal empírico fraccionado o encrucijada y disyuntiva macro transitoria efímera perversa donde políticas inyectoras o calentamientos recalentadores espasmódicos expansionarios consiguen engañosamente o fiduciariamente disminuir los desocupados fugazmente, asumiendo o cobrando inflaciones encarecedoras impositivas y destructivas asimétricas generalizadas en contraprestación compensatoria letal engañosa distorsionadora inestable fútil aparente temporal.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Seguro de Desempleo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Asistencia amortiguadora provista centralmente por colectas fiscales a desempleados, que si bien suaviza letalidades de subsistencia temporal humanas, empíricamente engendra y magnifica el paro friccional exacerbándolo en morosidades selectivas o holgazanerías transicionales mermando desesperaciones urgentes de inmediata abdicadora desesperada reinsercional en salarios base disminuidos forzosos de reencauzamientos subóptimos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Leyes de Salario Mínimo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Intervencionismo puro en techos artificiales garantizados en imposiciones punitivas para el empleo y contrataciones formales basales exógenas en legalidades. Causa y acentúa estructural y endémicamente de forzada exclusión de desempleo excluyente absoluto cruel asimétrico para estratos jóvenes inexpertos crónicos estigmatizantes formales si la cuantía supera su valor productivo real aportable originario productivista medible utilitario marginal compensador directo subyacente.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Población Inactiva</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Demografías civiles excluidas o auto-abdicadas disueltas o sin incursiones ni en el renglón operario laboral ocupado actual ni en el padrón desesperante y contable activo de peticionantes insistentes rastreadores en búsqueda de empleos formales en encuestas (ej: estudiantes crónicos, amas, pensionados o dimitentes rendidos inactivos exiliados frustrados desistidos).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Demanda Insatisfecha Oculta</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Necesidades corporativas latentes reprimidas paralizadas o vacantes sin ofertante de postulantes o que corporaciones renuncian o retiran forzosamente sus aperturas en plazas asfixiantes o paralizadas ante cargas colosales asfixiatorias laborales o arriesgamientos asimétricos despido-penas judiciales o inusitadas disfuncionales imposiciones formales rigorisadas exentas paralizadas inviables en encarecimientos directos inoportunos irracionales perversos castigadores preventivos de inacción conservadora defensiva paralizadora del empresariado precavido.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tasa natural de paro
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La tasa media de desempleo a largo plazo, en torno a la cual fluctúa la economía real. Representa el nivel de desempleo cuando el mercado laboral está en equilibrio dinámico.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Paro friccional
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Desempleo causado por el tiempo que tardan los trabajadores en encontrar un empleo que se ajuste a sus cualificaciones y preferencias, debido a la imperfección de la información y los desplazamientos sectoriales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Paro estructural
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Desempleo resultante de salarios reales rígidamente por encima del nivel de equilibrio del mercado, lo que provoca un excedente de oferta laboral (trabajadores que esperan vacantes).
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Rigidez salarial
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Fenómeno económico donde los salarios reales no se ajustan a la baja hasta el nivel de equilibrio, impidiendo que la oferta y demanda laboral coincidan y generando desempleo estructural.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Estado estacionario (steady state)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición de equilibrio dinámico a largo plazo en el mercado laboral, donde el número de personas que encuentran empleo es igual al número de personas que lo pierden, manteniendo la tasa de paro constante.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tasa de destrucción de empleo (d)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Proporción de trabajadores empleados que pierden su trabajo y pasan al desempleo en un periodo determinado. Es un parámetro clave en la determinación de la tasa natural de paro.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tasa de creación de empleo (c)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Proporción de trabajadores desempleados que encuentran un nuevo empleo en un periodo determinado. Este parámetro influye inversamente en la tasa natural de paro.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Salarios de eficiencia
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Salarios que las empresas pagan voluntariamente por encima del nivel de equilibrio del mercado para aumentar la productividad de los trabajadores, reducir la rotación y mejorar la selección adversa.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Parados (U)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Individuos sin empleo, disponibles para trabajar y que han buscado activamente trabajo en un periodo reciente. Incluye a quienes esperan ser readmitidos tras suspensión temporal.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Trabajadores desanimados
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Personas que desean trabajar pero han dejado de buscar empleo activamente debido a la percepción de escasas oportunidades laborales. Se clasifican como inactivos.
+                </p>
+            </div>
         </div>
     </div>
 </section>
