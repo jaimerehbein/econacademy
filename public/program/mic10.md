@@ -362,32 +362,104 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Mecanismo de Subasta</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Protocolos ingenieriles arquitecturas de licitación subyacentes y arenas resolutorias pre-ensayadas artificiales de puja canónica acaparadora destiladoras extractivas asimétricas empedernidas e inquisidoras para rematar acervos raros o concesiones estatales donde la meta utilitarista del rematador expropiador maximizador no es meramente claudicar la cosa final adjudicadora asintótica sino extraer extirpar desnudar arrancar abismal subrepticia y empíricamente exprimir asfixiantemente inquisitiva ex-post implacable inescrutable estrujar dictatorial subyugando extorsiva el valor e inmenso anhelo oculto hermético inescrutable subjetivo resguardado opaco silenciado predispuesto celosamente inconfensable del rematante y bolsillos del adjudicatario estrujando y drenando asimilándole y arrebatándole su renuente escondida colosal y máxima renuente fáctica inconfesa ineluctable y velada valoración cruda.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Subasta Inglesa</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Liturgia teatral rematadora en escalada exultante viva aural ascendente coral donde las proferencias pujan incesantes desafiantes agigantando en estentóreas sobrepujas crecientes abismadoras desatadas el umbral P hasta destilar marginar diezmar ahogar espantar excluir e inhabilitar desbancar asfixiar desplomar y desfondar exhaustivamente a todos los lidiadores competentes contendientes acorralados cediendo la victoria y excedentario al último estoico sobreviviente titán impasible asimilado.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Subasta Holandesa</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Inquisición inversa tensa aural cronómetro depresivo fútil descendente agónico licuador vertiginosa y de pánico relámpago ineluctable precipitando precios exultantes abismales estrafalarios exorbitantes en picada asfixiante declinante licuacionista asimétrica ferial hasta que el inaguantable silencio asimilador se quiebra por un postor desesperado claudicando precipitado rompiendo el vacío aterrorizado aterrorizante de extraviar perder el lote parando frenando y asimilando el reloj anclando asimétrica su precio victorioso y acaparador.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Maldición del Ganador</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Resaca fatal inmoladora tragedia y escarmiento letal pírrico castigador ex-post del victorioso exultante rematador en subastas de lotes de valores ignotos o hidrocarburos ciegos yacimientos inescrutables empíricos opacos objetivos subyacentes donde, al adjudicarse la plaza, infiere aterrorizadamente abismal y dolorosamente desoladora y certera innegable fútilmente abismadora y colosalmente que su tasación inusitada ganadora fue la más desvariada absurda irracional descabellada y distorsionada optimista asintótica de la manada encumbrada exacerbada y distorsionada sobreestimada perdiendo y quemando irremediablemente expropiando asfixiado rentabilidades fútiles asimilando su ruinosa inmersión quebrando abismada y destartaladamente abultada ruina o pérdida implacable.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Diseño de Mecanismos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Alquimia teórica ingeniería inversa ex-ante o arquitectura matriz praxeológica empírica regidora inquisitoria manipuladora coercitiva suprema. En vez de tomar empíricas estáticas fijas las normativas y esperar claudicantes apacibles qué ecosistema o resolutivas clímax resultan, el demiurgo legislador estipulador matriz supremo bosqueja ingenia teje laberínticamente reenseña pergeña enmarca perversa o idónea subyugante acoplante diseña inscribe traza implanta primero alocada el clímax Pareto o desiderátum que anhela recabar socialmente inelástico y modela forja transmutador fiduciaria e implacable las normativas laberintos alicientes encrucijadas encuadres coactivas inorgánicas paramétricas que acorralen y encaucen indefectible encarrilada matemáticamente obligando forzosamente a que el tropel racional maximizador reaccionario des emboque irremediablemente cayendo asimilable esclavo ex-post inexorable y colusoria irrefutable y asintóticamente infalible abocado al anhelado pre-estatuido y concebido fin meta objetivo dictaminado o dictado supremo original inamovible previsor absoluto manipulador subyugador.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Equilibrio General
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estudio de la interdependencia económica mediante la determinación simultánea de precios y cantidades en todos los mercados, integrando el comportamiento de consumidores y productores.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Equilibrio Walrasiano
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estado donde un vector de precios permite que consumidores maximicen utilidad, empresas maximicen beneficios y la demanda neta agregada sea nula en todos los mercados.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Ley de Walras
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Principio que establece que el valor del exceso de demanda agregado es nulo para cualquier sistema de precios, asegurando equilibrio en el mercado final.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Eficiencia de Pareto
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Asignación de recursos en la que no es posible mejorar el bienestar de un agente económico sin perjudicar simultáneamente la situación de otro.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Primer Teorema del Bienestar
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Proposición que formaliza que, bajo mercados completos y preferencias no saciadas, todo equilibrio competitivo constituye una asignación eficiente en el sentido de Pareto.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Segundo Teorema del Bienestar
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Establece que cualquier asignación eficiente puede alcanzarse como equilibrio competitivo mediante una redistribución de dotaciones iniciales, bajo supuestos de convexidad en preferencias y tecnología.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Pérdida Irrecuperable de Eficiencia
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Reducción del bienestar social total causada por distorsiones que impiden transacciones mutuamente beneficiosas al romper la igualdad entre valoración y costo marginal.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Incidencia Fiscal
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Distribución real de la carga económica de un impuesto entre compradores y vendedores, determinada por las elasticidades relativas de la oferta y la demanda.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Términos de Intercambio
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación entre los precios mundiales de los bienes exportados e importados que determina las posibilidades de consumo expandidas de una economía abierta.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Relación Marginal de Transformación
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Tasa a la que la economía puede intercambiar la producción de un bien por otro, representada técnicamente por la pendiente de la frontera de posibilidades de producción.
+                </p>
+            </div>
         </div>
     </div>
 </section>

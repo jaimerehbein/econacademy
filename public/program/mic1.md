@@ -366,32 +366,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Escasez</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El axioma base. Disyuntiva y limitante o déficit originario perenne que acorrala irrestrictamente forzosamente las opulencias o inmensidades deseos insaciables inagotables del individuo constringiéndolos a chocarse ineludibles fatales inexorables barreras y cuotas presupuestarias linitantes excluyentes de disponibilidades o materiales acervos físicos finitos asfixiantes restrictivos exigiéndoles discriminaciones marginales incesantes renunciamientos y priorizaciones.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costo de Oportunidad</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El destilado y purgado verdadero valor puro económico inmenso no del tributo físico adquirido sino de la rentabilidad disfrute utilitario y goces cumbres más eximios jerarquizados dolorosamente sacrificados descartados y sepultados invariablemente abortados intencionalmente y excluidos asimétrica ciegamente o desechados para materializar irrestrictamente consumar resolverse unilateralmente una dicotómica selección resolutiva marginal o acción excluyente de un camino decisivo de opción acaparadora prioritaria preferencial optante elegida escogida excluyente restrictiva.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Racionalidad Económica</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Arquetipo utilitarista homogeneizado axiomático de consistencia pura modelando a los seres sopesando calculadoramente asimétrica maximizador fríamente en el análisis perenne de utilidades vs tributos marginados marginalistas evaluando incrementos asintotales de beneficios colindantes o adyacentes de variaciones relativas transaccionales sin claudicaciones afectivas subyugadas o externalidades románticas pasionales caprichosas erráticas irracionales o alucinadas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Equilibrio de Mercado</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Reposo matemático intersecto y clímax compensatorio y colofón resolutorio entre pujas traccionales excluyentes e inconciliables asimétricas de fuerzas e intereses disparejos y contradictorias diametrales contrapuestas (compras-ganancias) estabilizándose de liquidaciones o excedencias purificantes en el cuadrante P y Q de vaciamiento donde intenciones acaparadoras igualan empates y complacencias asintóticas totales plenas de los oferentes complaciendo las aspiracionales compradoras inelásticas exactas o precisas previsoras calibradas o mutuas simétricas equivalentes convergentes complacidas mutuas plenas de resoluciones exactas asimiladas congruentes en el vaciado pleno constante.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Demanda</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El sendero inverso correlacional exento o radiografía previsor estadística estipuladora psicológica de los menguantes o abismales sacrificios de renuncias y cuotas monetarias que muchedumbre consumidoras accederían o condescenderían y estipularían destilar abdicar escalonadamente decrecientes en precios ceteris paribus perdiendo e inclinándose marginalmente inelásticos al disponerse de dosis excedentarias adicionales decrecientes de bienes marginales escalonados redundantes atiborradores subyacentes descendentes decrecientes marginales abismales adicionales y redundantes en asimilaciones decadentes iteradas perennes continuadas iterativas sumadas.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Conjunto de consumo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Subconjunto del espacio euclidiano que comprende todas las combinaciones de bienes física y legalmente posibles que un agente puede elegir para su consumo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Función de utilidad
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Asignación numérica a las cestas de consumo que permite representar analíticamente el orden de preferencias ordinal de un agente económico sobre dichas combinaciones.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Tasa Marginal de Sustitución
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Proporción a la que un consumidor está dispuesto a intercambiar un bien por otro, manteniendo constante su nivel de bienestar o utilidad.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Demanda Marshalliana
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Funciones que determinan la elección óptima de bienes para maximizar la utilidad del consumidor, dadas las restricciones de precios de mercado e ingreso nominal.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Demanda Hicksiana
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Funciones que especifican las cantidades demandadas que minimizan el gasto necesario para alcanzar un nivel de utilidad predeterminado, considerando variaciones en los precios.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Ecuación de Slutsky
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Expresión matemática que descompone el cambio en la cantidad demandada ante variaciones de precios en los componentes de efecto sustitución y efecto ingreso.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Identidad de Roy
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación analítica que permite obtener las funciones de demanda ordinaria derivando la función de utilidad indirecta respecto a los precios y el ingreso.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Lema de Shephard
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Principio que establece que la derivada de la función de gasto respecto al precio de un bien es igual a la función de demanda hicksiana correspondiente.
+                </p>
+            </div>
         </div>
     </div>
 </section>

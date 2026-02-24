@@ -331,32 +331,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Preferencia Revelada</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Axioma praxeológico purista empirico destilado y sin asunciones utópicas metafísicas intangibles interiores neuropsicológicas inescrutables de cerebros ciegos dictaminando e infiriendo consistencias lógicas ordinales o rankings de jerarquizaciones inamovibles inescrutables basándose exclusivamente asimétrica rigurosa observablemente empírica o fáctica y contundentemente decodificable y rastreable empíricamente en las liquidaciones tangibles y billeteras de acciones facturadas transadas ejecutadas palpablemente innegables evidentes manifestadas o exhibidas o plasmadas accionales irrefutables materializadas operativas externas reales expuestas exteriorizadas o manifestadas fácticamente palpables.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Indiferencia</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Lugar geométrico o valle de nivel isocuántico isotensional sopesando combinatorias interrelacionadas compensatorias transaccionales de dos fungibles $x,y$ delineando e igualando o atemperando unívocamente empíricamente o conceptualmente idénticos colmados exultantes techos absolutos inestables inasibles idénticos escalafones o mesetas topográficas de goces orgánicos y utilidades y asimilables cumbres de euforia simétricas psicológicas constantes inmutables empáticas o satisfactores homólogos subyacentes de utilitarismos neutras para acaparadores y hedonismos puros estables inmutables del consumidor resolutivo neutral frente a permutaciones mutables compensatorias interinas equilibrantes asimilativas transitorias compensables asintóticas simétricas neutras.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Relación Marginal de Sustitución (RMS)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Inclinación matemática y ratio fraccional o tangente de disposición claudicante compensable del dolor sustitutorio sopesable subjetiva sacrificable dictaminadora de la curva delineando exactamente cuántas e irrisorias o asimétricas fraccionales o enteras unidades fútiles de un satisfactor secundario $y$ condesciende claudicantemente y exige irrenunciable asintóticamente o compensante resignativo abdicar por acaparar marginal interfecto o inyectivo infinitesimal adicional del factor central predilecto unitario primario $x$ sin trastocar o devaluar su umbral empírico topográfico orgánico absoluto y estandar inamovible de idéntica plenitud isotópica incesante neutral inmutable idéntica preestablecida utilitaria o goce inestable basal pre-fijado neutral inafectado inalteable conservando invariable clímax.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Restricción Presupuestaria</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Muro inescrutable y arista aritmética de contención o clausura de fronteras infranqueables del vector dictatorial opresor excluyente contable de posibilidades de billetera anclando e inexorable delimitante cercenante y tajante estipulado asimétricamente de adquisiciones tangibles asumiendo e invirtiendo limitadas incondicionales rentas preasignadas deudoras finitas o bolsillos ingresos preestablecidos dados enfrentadas forzosamente en las combinatorias aditivas tasables transaccionales imponderables unitarias fraccionales por el régimen de etiquetados pre-asignados o escalafones del sistema mercado inelásticos exógenamente determinantes coercitivos limitantes dictaminados abisales nominalizados transables coartadores tasadores externos inobjetables objetivos fríos invariables restrictivos infranqueables inamovibles asintóticos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Óptimo del Consumidor</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Intersección clímax euclídeo y cenit utilitarista tangente de coincidencia suprema de vaciamiento equilibrador donde el ratio de sacrificio sopesable individual asimétrico inmutable caprichoso y anhelo biológico (RMS) acopla matemáticamente clona irrestrictamente abraza comulgando y empatando milimétricamente el ratio inflexible de canje dictatorial o tasa marginal objetiva exógena inescrutable exterior transmutatoria de precios impuestos subyugador del mercado $(P_x/P_y)$ maximizando en tope eclosión coronada asintótica plena el límite superior máximo inelástico coronador factible del contorno adquisitivo fraccional delimitado presupuesto basal de frontera disponible estricta fraccional totalizante absoluta suprema alcanzable cumbre resolutiva.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Elección Intertemporal
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco analítico que modela las decisiones de consumo y ahorro de los agentes económicos considerando que los bienes en distintos periodos son bienes distintos vinculados temporalmente.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Restricción Presupuestaria Intertemporal
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Ecuación que establece que el valor presente del consumo total de un agente debe ser igual al valor presente de su dotación de ingresos a lo largo del tiempo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Relación Marginal de Sustitución Intertemporal
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Tasa subjetiva a la cual un individuo está dispuesto a intercambiar consumo presente por futuro, manteniendo constante su nivel de utilidad total.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Teoría de la Utilidad Esperada
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco de decisión bajo incertidumbre donde las preferencias se representan maximizando la esperanza matemática de la utilidad de los resultados posibles, según los axiomas de von Neumann-Morgenstern.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Aversión al Riesgo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Preferencia de un agente por recibir el valor esperado de una lotería con certeza frente a jugar la lotería, asociada matemáticamente a una función de utilidad cóncava.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Equivalente Cierto
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Cantidad de riqueza garantizada que proporciona al individuo el mismo nivel de utilidad que la esperanza matemática de la utilidad derivada de un escenario con riesgo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Prima de Riesgo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Monto máximo de riqueza que un individuo está dispuesto a pagar para evitar el riesgo y asegurar el valor esperado de una lotería con total certeza.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Factor de Descuento Subjetivo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Parámetro que mide la valoración relativa de la utilidad futura respecto a la presente, reflejando la preferencia temporal o impaciencia del consumidor.
+                </p>
+            </div>
         </div>
     </div>
 </section>
