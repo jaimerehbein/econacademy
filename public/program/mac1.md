@@ -490,52 +490,104 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Macroeconomía</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El estudio de la economía en su conjunto. Examina fenómenos que afectan a toda la economía, como el desempleo, la inflación y el crecimiento económico general, desde una perspectiva agregada.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-fuchsia-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Microeconomía</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Estudio de las decisiones que toman los hogares y las empresas, y de cómo interactúan en mercados específicos. Base micro-fundacional de gran parte de la macroeconomía moderna.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Modelos Económicos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Representaciones simplificadas de la realidad matemática o gráfica utilizadas por economistas para explicar variables económicas, prediciendo cómo cambios exógenos afectan variables endógenas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variables Endógenas</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Aquellas variables que el modelo económico intenta explicar; su valor se determina dentro del propio sistema del modelo al alcanzar el equilibrio (ej. el precio de equilibrio del mercado).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variables Exógenas</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Variables cuyos valores se toman como dados desde fuera del modelo. Actúan como causas o choques que alteran el equilibrio del modelo, induciendo cambios en las variables endógenas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Limpieza de Mercado (Market Clearing)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Supuesto analítico central donde los precios y los salarios son completamente flexibles y se ajustan rápidamente para igualar la cantidad ofrecida con la cantidad demandada de manera continua.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rigidez de Precios (Sticky Prices)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Imperfección o fricción del mercado a corto plazo donde precios y salarios tardan en reaccionar a choques de oferta o demanda, dando origen al ciclo económico y al desempleo temporal.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Enfoque de Largo Plazo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Perspectiva clásica donde se asume flexibilidad total de precios (market clearing). Permite que el producto converja a su nivel natural dictado por factores reales de la oferta.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Enfoque de Corto Plazo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Perspectiva keynesiana aplicable cuando los precios son pegajosos. La demanda agregada puede desviarse de la oferta agregada, provocando recesiones o expansiones sobrecalentadas transitorias.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Agregación</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El proceso de sumar y condensar millones de decisiones microeconómicas individuales en indicadores estadísticos amplios y únicos como el PIB o el IPC, diluyendo particularidades en pro de tendencias.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Macroeconomía
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Disciplina científica que explica el funcionamiento de la economía en su conjunto, mediante la interacción entre teoría y observación de datos agregados.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Producto Interior Bruto (PIB) Real
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Medida de la renta total de la economía, ajustada por el nivel de precios. Su crecimiento determina el nivel de vida a largo plazo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tasa de Inflación
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Mide el ritmo al que suben los precios promedio de los bienes y servicios en una economía. La estabilidad es un objetivo central de política monetaria.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tasa de Paro
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Proporción de la fuerza laboral que carece de empleo, estando disponible y habiendo buscado trabajo activamente. Indicador clave del mercado laboral.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Modelo Económico
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Simplificación deliberada de la realidad, destinada a revelar relaciones subyacentes entre variables económicas y facilitar el análisis de sus interacciones.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Variables Exógenas
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Variables cuyos valores son determinados fuera del modelo económico. Se toman como dados para el análisis de cómo afectan a las variables endógenas.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Variables Endógenas
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Variables cuyos valores son determinados dentro del modelo económico. Son el resultado de las interacciones internas y las variables exógenas.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Condición de Equilibrio (Market Clearing)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Supuesto fundamental en modelos económicos donde la cantidad demandada de un bien o factor iguala exactamente la cantidad ofrecida, vaciando el mercado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Deflactor del PIB
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Medida del nivel general de precios de todos los bienes y servicios producidos internamente, calculada como el cociente entre el PIB Nominal y el PIB Real.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Teoría Clásica
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco macroeconómico que asume precios flexibles y pleno empleo de los recursos, utilizado para analizar el comportamiento de la economía a largo plazo.
+                </p>
+            </div>
         </div>
     </div>
 </section>

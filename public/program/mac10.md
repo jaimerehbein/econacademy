@@ -455,52 +455,95 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Demanda Agregada (DA)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La agregación aglutinadora y sumatoria contable asintótica inversa y de interrelación simbiótica colosal de las intenciones de demandas totales conjuntas globales ($Y = C + I + G + NX$) por toda mercancía o trabajo generadas exógenamente y planificada domésticamente a plenos en correlación declinante inexorable a oscilaciones deflativas y asimetrías de presiones a cada inestable rango e intervalo oscilatorio hipotético continuo nominal estriccional unitario encarecedor cambiante subyacente previsor general del índice unitario de precios macro general escalable P o nivel precios globales macro general nominal base asimilador encarecedor.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-fuchsia-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Oferta Agregada (OA)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La cuantía o vector funcional matemático macro o techo pre-volitivo masivo que postula rígidamente e inercialmente cuántos acervos y volúmenes palpables físicos de manufacturamientos y acopios reales los capitalistas productores empresarios e industriales dictaminarán ofrecer e interponer mercadológicamente asimilablemente dependiendo y acoplado fuertemente subyacentemente al umbral estipulativo, estacional, rígidamente fijado o desbordado libre oscilatoriamente flexible escalable imperante en su rentabilización de precios fijados P cobrables del entorno circundante preestablecido macro o fijos en el horizonte nominal mediato observable nominal inmediato observable imperante.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Oferta Agregada a Corto Plazo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Asunción o hipótesis y franja predeterminada temporal de inercia inamovible de rigidez pegajosa asimétrica estructural inelástica plana en escaladas (curva horizontal keynesiana post-fijadora) donde los capitalistas no recambiarán de inmediato tabulares ni nóminas tarifarias catálogas pegadas respondiendo expandiendo irrestrictamente acopios elásticas supliendo acaparadoramente choques en peticiones de sobrecalentamientos ciegos complacientes plénamente toda alza repentina irracional inyectada abrupta inorgánica irrestricta expansiva acomodando abastecimientos ciegamente expandidos acaparadoramente inyectivos transitorios a un nominal congelado fijado fútil plano inercial nominal y no ajustado nominal plano aparente constante nominal fijo coyuntural rígido subyacente temporal irreal transitorio o efímero ciego transitorio inestable en temporalidad.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Oferta Agregada a Largo Plazo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Dictamen irrefutable de inelasticidad monetaria asimilado ortodoxo neoclásico postulado irrefutable vertical de inexorable asintota fija de dictadura absoluta e imperial física absoluta real. A horizontes alejados expansiones nominadas inician inyecciones nulas impotentes irreales inanes fútiles ilusorias; el parque o potencial producto total asintótico estacionado productivo o pleno $Y$ está estatuido forzosamente anclado clavado rígidamente inescrutable y exclusivamente a fundaciones materiales basales $K$ y $L$ productivos disponibles inamovibles estáticos crudos reales originarios plenos de frontera imposibles de inflar manipulando ilusionistamente y fútil inútilmente artificios imprimiendo liquidez nominativa o infladores fiduciarias artificiales inanes impotentes estériles vacíos expansivos transitorios coyunturales fútiles estériles irreales nulos transitorios fingidos irrelevantes ilusos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Choques de Demanda</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Terremotos o sorpresas abruptas pánicos exógenos o alucinantes eclosiones de optimismo avasallante e intempestivos impredecibles impulsos exógenos expansivos en las ecuaciones $C$ o $I$ (ej. quiebras bancarias mermando e insolventando consumos o boom especulativo eclosionador animal spirits avasallantes optimistas) o políticas fiduciarias alocadas imprevisibles del BC o despilfarros tesoreros intempestivas inorgánicas dislocando empírica sorpresivamente al modelo DA inercialmente estáticos perturbándolos y transmutando trasladando en empujes expansivos contrayentes a la matriz plana desplazadora asintótica descolocándolos cíclicamente fuera dictatorialmente del cauce previsor oscilatorio estable basal inamovible.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Choques de Oferta</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Desastres fatídicos inauditos crudos catastróficos u holocaustos logísticos exógenos o paralizaciones mundiales drásticas petroleras sequías escaseces crónicas o destrucciones guerras agigantando exorbitante intempestivo sorpresivo letal impredecible el peaje productivo unitario originario de costos asfixiadores generalizando estrangulando asfixiantemente encarecedores marginales colosales (estanflación estigmatizante desarticulante destructiva) retorciendo e impactando asfixiantemente retrayendo destructivamente los techos escalafones oferentes paralizando retrayendo asfixiantemente abrumador e impactando e involucionando recesiones ineludibles destructivas inflacionadoras abrumadoras desoladoras contraccionistas al modelo estancando retrayéndolo irremediablemente desestructurales de manera asfixiante recesiva letal de costos destructora.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estanflación (Stagflation)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Paroxismo o aberración trágica paradójica endémica disfuncional para el trade-off empírico enmarañada inestable de curvas keynesianas puras donde eclosionan simbiótica simultánea e indomeñablemente y fatídicamente estancamientos productivistas retracciones operarias desoladoras, inauditas asfixiantes o languideces laborales desempleos crudos colosales conjuntas o amalgamadas inexplicada combinatoriamente simbióticas conjunciones asimétricas destructivas letales desastrosas colosales entrelazadas asimiladas funestas acopladas o confluenciadas fusionadas empíricamente e irresolubles con alzas devoradoras estratosféricas generalizadas inflacionarias y acelerada empobrececedoras letales espiralizadas acelerativas recesivas fatales agudas asoladoras incontroladas exarcerbadas galopantes crudas fútiles encarecedoras crónicas destructivas de asfixias letales de devaluaciones constantes encarecedoras persistiendo e inflando al unísono.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Políticas de Estabilización</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Ingenierías, intromisiones mitigadoras e inducciones contra-cíclicas exogenas reactivadoras y amortiguadoras estabilizantes de ministerios y centrales emisores previsoramente contrarrestando oscilaciones péndulas trágicas recesivas atenuando desplomes espasmódicos insólitos del PIB atemperando los cráteres abisales letales disipadores suavizantes contracíclicos resguardadores apaciguantes y domadores cíclicos de choques abismales deflacionistas en reactivaciones expansivas fiduciarias y mermando recalentamientos frenando atenuando y morigerando y aplacando eclosiones exuberantes espumosas encarecedoras inflacionistas recalentadas transicionalmente espasmódicas coyunturales extremas descontroladas de boom coyuntural.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estabilidad Cíclica</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El fin perseguido de domesticación o de utópico dominio aplacador de la montaña rusa caótica empírica capitalista suavizando e injertando en sendero recto sin volatilidades traumáticas la senda de $Y$ evitando letalidades desempleos masivas por mermas en recesiones y espirales devoradores empobrecedores hiperinflaciones de devaluaciones continuas y recalentadas incesantes, promoviendo o inyectando o previsoramente contrayendo contracíclico calibrado en equilibrios fijos constantes en horizontes mediatos continuos estables inamovibles de prosperos horizontes transitorios estables seguros.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto de Saldos Reales (Pigou)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mecanismo autosanador en crisis. Caídas generalísimas brutales drásticas deflacionarias liquidadoras en el marco $P$ paradójicamente engrosan e inyectan fortificando agigantando elástico exponencial fortalecido el escudo purificable y portafolio fiduciario liquidable de billeteras monetizadas o tesoros de efectivo deudores de ciudadanos atesoradores acaparadores foráneos $M/P$, desatando o infundiéndole sensaciones preceptoras de riqueza fiduciaria estimulante expandiéndolos euforicamente inyectándoles ánimos volitivos dispendiosos de incentivos reviviendo expansivamente estimuladores de consumos macro resucitadores correctivos de inmersiones reactivantes en espirales de consumo basal $C$ que reviven cíclicamente en alza o rescates a asintotas inerciales endógenamente.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Fluctuaciones Económicas
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Comportamiento de la economía a corto plazo, caracterizado por desviaciones cíclicas del producto y el empleo respecto a sus niveles de largo plazo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Demanda Agregada (DA)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación inversa entre el nivel de precios y la cantidad total de bienes y servicios que los hogares, empresas y gobierno desean comprar en la economía.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Rigidez de Precios (Sticky Prices)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Supuesto de que los precios no se ajustan instantáneamente a los cambios en la oferta monetaria, siendo la piedra angular de la macroeconomía de corto plazo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Ley de Okun
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Regularidad empírica que establece una relación inversa entre las variaciones del Producto Interno Bruto (PIB) real y las fluctuaciones en la tasa de desempleo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Modelo IS-LM
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco teórico que determina el equilibrio simultáneo en el mercado de bienes y servicios (curva IS) y el mercado monetario (curva LM), base de la Demanda Agregada.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Curva IS
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Representa las combinaciones de tipo de interés y nivel de renta que equilibran el mercado de bienes y servicios, derivándose del Aspa Keynesiana y con pendiente negativa.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Curva LM
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Representa las combinaciones de tipo de interés y nivel de renta que equilibran el mercado de saldos monetarios reales, basándose en la Teoría de la Preferencia por la Liquidez y con pendiente positiva.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Multiplicador de las Compras del Estado
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Medida del impacto sobre la renta de equilibrio de un cambio en el gasto público. Indica que el aumento de la renta es mayor que el incremento inicial del gasto.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Efecto Expulsión (Crowding Out)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Reducción de la inversión privada causada por el aumento del tipo de interés, que ocurre cuando una política fiscal expansiva incrementa la demanda de dinero.
+                </p>
+            </div>
         </div>
     </div>
 </section>
