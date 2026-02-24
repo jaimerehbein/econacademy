@@ -477,48 +477,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Crecimiento Endógeno</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Cisma y rebeldía herética a Solow. Modelajes de vanguardia donde la propulsión milagrosa e infinitas escaladas tecnológicas vanguardistas innovadoras no llueven dadas maná exógenamente providenciales caídas mágicas del cielo ajenas impredecibles inalterables aleatorias subyacentes mágicas, sino brotan intrínseca endógenamente forzadas y destiladas de asimilaciones o eclosiones e inversiones patentes en cerebros de educación e i+D exclamando por retornos crecientes constantes.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-fuchsia-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Externalidad de Conocimiento</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Desborde derramador benefactorio y fertilizante intrínseco indirecto inintencionado providencial pero exultante de la educación intelectiva, invenciones y matrices capitalistas innovadoras patentes donde hallazgos, luces, revelaciones descubrimientos se escapan asimétricamente plagiadas imitadas esparciéndose por el tejido social asimiladora impregnándolo y propulsando generalidades y sinergias catapultadoras agigantadoras y empoderadoras colosales para acervos agenos macro sin cobro directo monopolizador apropiador completo absoluto exclusivo de regalías de su creador pionero base de origen descubridor primerizo.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rendimientos Crecientes</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Abandono al pesimismo del decrecimiento clásico marginado, admitiendo que si saberes intelectivos, infraestructuras y externalidades macroestructurales convergen en densidades productivistas masivas o aglomeraciones, cada inyección macro marginal originaria retribuirá expansivamente superadoramente y eclosionará rentabilidades superlativas y excedentes abrumadores o compensantes propulsando despegues económicos vertiginosamente inagotables sin atascos letárgicos estacionarios convergentes atrayentes asintóticos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Protección Intelectual</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Salvaguardas estatales restrictivas institucionales como patentes, escudos o registros marcarios derechosos imprescindibles ex ante exigiéndose para erigirse monopólico transitorio asimilador de su lucro originante asegurándole estímulos y resarcimientos exorbitantes e inyectores motivantes iniciales y compensaciones y pre-empeños de genios sacrificados asimétricos inversores corporativos farmacéuticos laboratorios vanguardistas pioneras disrumptivas investigatrices de capitalización previa originaria cruda pesada adelantada irrembolsable hundida azarosa incierta inicial abismal hundida ciegamente experimental puritana arduamente abismal y aventurera investigativo incipiente arriesgada incierta subyacente fútil riesgosa investigativa.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Humano</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Cuantificación, estandarización y capitalización agregada e invisible invaluable inamovible transgeneracional abstracta corpórea intrínseca biológica inalienable inherente de habilidades, maestrías, sanidades, nutriciones, adiestramientos gremiales destrezas instruccionales inyectadas y asimiladas encarnadas forjadas y educadas infundidas endógenamente fraguadas adquiridas formativamente por la plebe operaria enriqueciendo exorbitante cualitativamente mentes transformándolas a acervos colosales activos instrumentales abstractos rendidores perennes multiplicadores eclosiones cognitivas abstractas productivas y redituables valiosísimamente originarias insustituibles basales inalienables intrínsecas vitales de la clase productiva cívica obrera laboriosa ciudadana formativamente ilustrada selecta entrenada perita forjada ilustrada capacitada.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Inversión en I+D</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Inyección y derramamiento, desvíos y quema ex profeso asimétrica agresiva corporativa de utilidades en departamentos insondables ciegos científicos o experimentales lúdico arriesgados azarosos inciertos inciertos en persecuciones originarias tecno-revolucionarias para generar alquimias productivas fórmulas o arquitecturas eficientísticas disruptivas superadoras que destilen innovaciones perennes de quiebres destructivos creadores schumpeterianas patentes monopólicas transitorias hegemónicas colosales hiperrentables ex-post de éxito.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Convergencia Condicional</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Predicción empírica estadística de naciones donde países menesterosos paupérrimos o subdesarrollados carentes o empobrecidos originarios acelerarán o crecerán abrumadoramente agigantadamente veloces fugaces de partida a tasas estratosféricas transicionales chinas de recuperación hasta alcanzar convergir igualaciones a elites y potencias industrialistas preestablecidos y estáticos occidentales ricas desarrolladas sólo y excluyentementes si, y condicionadamente si, replican e incurren gemelamente los ecosistemas institucionales aperturas capitalizaciones ahorrativas o demografías análogas estructuradas formativas homologadas calcos asimilables estabilidades predecibles y civilizatorios ecosistemas seguros estables e idóneos propicios simétricos resguardadores institucionales subyacentes protectores civilizadores formativos idóneos resguardativos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Hipótesis del Alcance (Catch-up)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Ventaja coyuntural parasitaria o emuladora inercial providencial o imitativa transicional prestada o adquirida gratuita veloz tecnológica asimétrica para los naciones regagadas periféricas de copiar incólumamente saltando estadios de desarrollos caligiros copiando patentes o implementando infraestructuras foráneas prestabilizadas exógenamente desarrolladas extranjeras sin padecer, quemar recursos errados, desangrar experimentaciones incipientes infructuosas costosas pioneras asimiladoras y sinuosos padecimientos y tiempos generacionales seculares o errores históricos quemados originarios por originadores pioneros desarrolladores en la vanguardia pre-evolutiva occidental originarios sufridos ciegos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Destrucción Creativa</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La lógica cíclica purificadora letal cismática shumpeteriana implacable y necesaria dolorosa reestructuradora exógena disruptiva implacable letal de eclosión innovadora salvaje desarticulando monopólos obsoletos barriendo y caducando y pulverizando tecnologías perdedoras marginando rubros rezagados arruinando inversiones anquilosadas estancadas extinguidas liquidando y exterminando e inmolando fósiles atávicos corporativos industriales forzando mudanzas e hibridaciones mutacionalismos y eclosiones pujantes revitalizadoras indomables dinamo perenne del libre albedrío inagotablemente incesante regenerativo motor del capitalismo vanguardista libre descentralizado.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Progreso Tecnológico
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Mejora exógena en la capacidad productiva de los factores, modelada en Solow como "aumentador de trabajo", incrementando la eficiencia del capital y el trabajo para elevar el nivel de vida.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Modelo de Solow
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Un modelo neoclásico de crecimiento económico que explica la acumulación de capital, el crecimiento poblacional y el progreso tecnológico, determinando el nivel de producción de estado estacionario.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Eficiencia del Trabajo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Variable $E$ en el modelo de Solow que representa la mejora tecnológica, aumentando la productividad del trabajo. Un incremento en $E$ es equivalente a tener más trabajadores.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Estado Estacionario
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición en un modelo de crecimiento donde las variables por unidad de trabajador efectivo (capital, producción) permanecen constantes. Implica que la inversión compensa depreciación, crecimiento poblacional y tecnológico.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Regla de Oro
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Nivel de capital por trabajador efectivo en el estado estacionario que maximiza el consumo per cápita a largo plazo. Se cumple cuando el Producto Marginal del Capital neto iguala la suma de las tasas de crecimiento.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Contabilidad del Crecimiento
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Método empírico que descompone el crecimiento de la producción total en contribuciones de la acumulación de factores (capital, trabajo) y el progreso tecnológico (Productividad Total de los Factores).
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Residuo de Solow
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La porción del crecimiento del PIB que no puede explicarse por la acumulación de factores capital y trabajo, a menudo interpretada como una medida del progreso tecnológico o Productividad Total de los Factores.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Teoría del Crecimiento Endógeno
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco teórico que busca explicar las causas del progreso tecnológico y su persistencia dentro del propio modelo, a diferencia del modelo de Solow que lo considera exógeno.
+                </p>
+            </div>
         </div>
     </div>
 </section>
