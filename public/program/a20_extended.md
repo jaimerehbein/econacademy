@@ -172,9 +172,9 @@ La Declaración tripartita de la Organización Internacional del Trabajo (OIT) e
 Este instrumento busca maximizar la contribución positiva de las empresas al progreso económico y social, y minimizar las dificultades que pueden derivarse de sus operaciones. Se alinea con los principios fundamentales de la RSC, exigiendo el respeto a la libertad de asociación, la negociación colectiva, la abolición del trabajo forzoso e infantil y la no discriminación en el empleo [72][73]. Es un pilar normativo internacional que guía el comportamiento ético en el ámbito laboral global.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A20</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo A20</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

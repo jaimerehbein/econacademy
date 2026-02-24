@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -87,9 +87,9 @@
 
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-amber-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo EB2</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-amber-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo EB2</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
@@ -110,9 +110,9 @@ graph LR
 
 <!-- GLOSARIO -->
 <section class="mb-24">
-    <div class="flex items-center gap-3 mb-10">
-        <span class="text-amber-500 font-mono text-xs">[GL]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
+        <span class="text-amber-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
+        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">

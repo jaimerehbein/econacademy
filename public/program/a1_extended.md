@@ -145,9 +145,9 @@ Es el armazón formal de la empresa. Define cómo se dividen, agrupan y coordina
 3.  **Herramientas Estratégicas:** Para la toma de decisiones efectiva, es vital el uso de herramientas de análisis (como DAFO) y de control (como el **Cuadro de Mando Integral**), que permiten alinear las operaciones diarias con la visión estratégica a largo plazo [2].
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Estructura Organizacional y Cadena de Valor</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Estructura Organizacional y Cadena de Valor</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

@@ -148,9 +148,9 @@ Un consorcio de exportación es una forma de cooperación donde varias empresas 
 3.  **Importancia del Entorno y la Investigación:** El éxito en los mercados internacionales depende de un análisis profundo del entorno PEST (Político, Económico, Social, Tecnológico) y de una investigación de mercados rigurosa para evitar la miopía cultural. Esto incluye entender las barreras arancelarias y no arancelarias, las normativas de calidad (como el marcado CE) y la correcta aplicación de los Incoterms para la logística y fijación de precios.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Modelo Conceptual A28</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Modelo Conceptual A28</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

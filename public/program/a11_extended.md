@@ -224,9 +224,9 @@ Es la revisión de la Cuenta Pública realizada por la Cámara de Diputados a tr
 3.  **Defensa del Contribuyente:** Frente al poder fiscal, el contribuyente cuenta con derechos fundamentales (audiencia, legalidad) y medios de defensa específicos: el recurso administrativo (revocación), el juicio contencioso administrativo (nulidad ante el TFJA) y, en última instancia, el Juicio de Amparo ante el Poder Judicial Federal [60], [76].
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Estructura del Sistema Tributario</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Estructura del Sistema Tributario</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

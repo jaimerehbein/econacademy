@@ -184,9 +184,9 @@ Un subconjunto del riesgo país. Se refiere específicamente al riesgo de que el
 3.  **Inversión y Financiación Global:** La expansión internacional requiere una gestión compleja del **presupuesto de capital** y fuentes de financiación (mercados de crédito y renta fija internacionales), considerando factores únicos como la exposición operativa, el riesgo país/soberano y la fiscalidad internacional.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A36</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Modelo Analítico de la Asignatura A36</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

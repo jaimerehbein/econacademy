@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -18,7 +18,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm">02.1</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">La Transición Histórica</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">La Transición Histórica</h2>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
         <p class="text-slate-400 text-sm leading-relaxed">
@@ -35,7 +35,7 @@
 <section class="mb-24 px-12 py-16 bg-white/5 border border-white/10 rounded-[4rem]">
     <div class="flex items-center gap-3 mb-10 text-center justify-center">
         <span class="text-rose-500 font-mono text-sm uppercase">Focus</span>
-        <h2 class="text-white text-4xl font-black tracking-tighter">Acumulación Originaria</h2>
+        <h2 class="text-white text-3xl sm:text-4xl font-black tracking-tighter break-words leading-tight">Acumulación Originaria</h2>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div class="space-y-4">
@@ -57,7 +57,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm">02.2</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Estructura de Clases</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Estructura de Clases</h2>
     </div>
     <div class="space-y-4 max-w-2xl">
         <div class="flex items-start gap-4 p-6 bg-white/5 rounded-2xl border border-white/10">
@@ -81,9 +81,9 @@
 
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-rose-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo EP2</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-rose-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo EP2</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

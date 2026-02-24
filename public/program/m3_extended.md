@@ -156,9 +156,9 @@ Se aborda la dinámica de los seminarios académicos en economía: cómo respond
 5.  **Ética y Comunicación:** La excelencia técnica debe ir acompañada de integridad ética en el manejo de datos y citación fuentes. Asimismo, la capacidad de comunicar hallazgos de forma clara, escrita y oral, es determinante para que la investigación tenga impacto real en la política económica y la sociedad.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M3</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo M3</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

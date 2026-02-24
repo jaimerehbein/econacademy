@@ -167,9 +167,9 @@ A diferencia de otros países que privatizaron agresivamente, Brasil mantuvo un 
 3.  **Reformas Inconclusas y Desigualdad:** A pesar de periodos de bonanza y reformas de mercado (apertura comercial en México, privatizaciones en Chile), la región mantiene altos niveles de desigualdad y sistemas de protección social segmentados. El éxito futuro depende de construir consensos políticos para reformas de "segunda generación" que mejoren la competitividad, la innovación y la cohesión social.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A33</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Modelo Analítico de la Asignatura A33</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

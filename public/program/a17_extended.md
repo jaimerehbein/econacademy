@@ -204,9 +204,9 @@ La valoración posterior al cierre del ejercicio depende del tipo de partida:
 3.  **Moneda Extranjera:** La distinción entre partidas monetarias y no monetarias es crítica para el tratamiento de las diferencias de cambio; las monetarias ajustan sus saldos al tipo de cierre impactando en resultados, mientras que las no monetarias a costo histórico mantienen su valoración original, protegiendo el balance de la volatilidad cambiaria no realizada.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A17</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo A17</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -6,7 +6,7 @@
         <div class="w-8 h-0.5 bg-amber-500 rounded-full"></div>
         <span class="text-amber-400 font-black text-[10px] uppercase tracking-[0.4em]">Sowell Master Series</span>
     </div>
-    <h1 class="text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8 uppercase">
+    <h1 class="text-4xl sm:text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8 uppercase break-words hyphens-auto">
         Economía Básica
     </h1>
     <div class="flex flex-wrap gap-3">

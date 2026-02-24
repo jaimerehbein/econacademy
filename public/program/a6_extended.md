@@ -209,9 +209,9 @@ Los paraísos fiscales jugaron un rol en la crisis al proporcionar opacidad y pe
 La existencia de estos "agujeros negros" financieros dificulta la supervisión global y la trazabilidad de los flujos de capital, facilitando también el lavado de dinero. Tras la crisis, ha habido una presión internacional creciente (liderada por el G20 y la OCDE) para aumentar la transparencia, el intercambio de información fiscal y reducir el uso de paraísos fiscales como refugio para prácticas financieras desestabilizadoras [82].
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A6</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo A6</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

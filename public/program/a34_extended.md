@@ -197,9 +197,9 @@ A pesar de las herramientas disponibles, existen barreras persistentes que dific
 Superar estas barreras requiere un esfuerzo consciente de la dirección. Implica simplificar estructuras, fomentar una cultura de transparencia y formar a los empleados en habilidades comunicativas. La tecnología puede ayudar a derribar barreras físicas, pero las barreras culturales y psicológicas requieren liderazgo, empatía y una voluntad constante de construir puentes entre los diferentes niveles y áreas de la organización.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A34</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Modelo Analítico de la Asignatura A34</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -6,7 +6,7 @@
         <div class="w-8 h-0.5 bg-indigo-500 rounded-full"></div>
         <span class="text-indigo-400 font-black text-[10px] uppercase tracking-[0.4em]">Economics Master Series</span>
     </div>
-    <h1 class="text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8">
+    <h1 class="text-4xl sm:text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8 break-words hyphens-auto">
         MAC3
     </h1>
     <div class="flex flex-wrap gap-3">
@@ -20,7 +20,7 @@
 
 <div class="flex items-center gap-3 md:gap-4 mt-12 md:mt-20 mb-6">
     <span class="text-3xl md:text-4xl drop-shadow-lg">🏦</span>
-    <h2 class="text-2xl md:text-4xl font-black tracking-tight leading-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">GUÍA DE ESTUDIO : LA RENTA NACIONAL (MODELO CLÁSICO DE LARGO PLAZO)</h2>
+    <h2 class="text-2xl md:text-3xl sm:text-4xl font-black tracking-tight leading-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">GUÍA DE ESTUDIO : LA RENTA NACIONAL (MODELO CLÁSICO DE LARGO PLAZO)</h2>
 </div>
 
 <section class="mb-16 last:mb-0">
@@ -28,7 +28,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">INTRODUCCIÓN Y MARCO CONCEPTUAL</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">INTRODUCCIÓN Y MARCO CONCEPTUAL</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -55,7 +55,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">EL LADO DE LA OFERTA: PRODUCCIÓN Y DISTRIBUCIÓN</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">EL LADO DE LA OFERTA: PRODUCCIÓN Y DISTRIBUCIÓN</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -91,7 +91,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">MERCADO DE FACTORES Y DISTRIBUCIÓN DE LA RENTA</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">MERCADO DE FACTORES Y DISTRIBUCIÓN DE LA RENTA</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -153,7 +153,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">LA FUNCIÓN DE PRODUCCIÓN COBB-DOUGLAS</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">LA FUNCIÓN DE PRODUCCIÓN COBB-DOUGLAS</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -197,7 +197,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">EL LADO DE LA DEMANDA: COMPONENTES DEL PIB</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">EL LADO DE LA DEMANDA: COMPONENTES DEL PIB</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -232,7 +232,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">EL EQUILIBRIO GENERAL</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">EL EQUILIBRIO GENERAL</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -262,7 +262,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">IMPLICACIONES DE POLÍTICA Y ESTÁTICA COMPARATIVA</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">IMPLICACIONES DE POLÍTICA Y ESTÁTICA COMPARATIVA</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -294,7 +294,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">CASOS PRÁCTICOS Y EVIDENCIA EMPÍRICA (TEXTO DE MANKIW)</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">CASOS PRÁCTICOS Y EVIDENCIA EMPÍRICA (TEXTO DE MANKIW)</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -332,7 +332,7 @@
 <div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
     <span class="text-2xl md:text-3xl drop-shadow-md">📖</span>
     <div>
-        <h2 class="text-xl md:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent">CONCLUSIÓN DEL MÓDULO</h2>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-indigo-300 to-violet-400 bg-clip-text text-transparent break-words leading-tight">CONCLUSIÓN DEL MÓDULO</h2>
         <div class="w-10 md:w-14 h-1 bg-indigo-500 rounded-full mt-2 opacity-80"></div>
     </div>
 </div>
@@ -366,9 +366,9 @@
 
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-cyan-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo MAC3</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-cyan-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo MAC3</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
@@ -389,9 +389,9 @@ graph LR
 
 <!-- GLOSARIO -->
 <section class="mb-24">
-    <div class="flex items-center gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
+        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">

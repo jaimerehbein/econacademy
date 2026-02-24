@@ -145,9 +145,9 @@ La gestión tradicional de expatriados (asignaciones de largo plazo para control
 3.  **Gestión del Talento Global:** La administración de recursos humanos es crítica y estratégica, evolucionando desde la simple reubicación de expatriados hacia una gestión flexible de la movilidad, el desarrollo de líderes globales y la subcontratación de servicios especializados (impuestos, inmigración) para manejar la complejidad regulatoria.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Diagrama del Crecimiento de Solow-Swan</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Diagrama del Crecimiento de Solow-Swan</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

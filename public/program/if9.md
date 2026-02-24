@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -6,7 +6,7 @@
         <div class="w-8 h-0.5 bg-emerald-500 rounded-full"></div>
         <span class="text-emerald-400 font-black text-[10px] uppercase tracking-[0.4em]">IF9 · Productos Estructurados</span>
     </div>
-    <h1 class="text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8">
+    <h1 class="text-4xl sm:text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8 break-words hyphens-auto">
         CAPITAL E<br/>HIPOTECAS
     </h1>
     <div class="flex flex-wrap gap-3">
@@ -101,7 +101,7 @@
 <section class="mb-24 px-12 py-16 bg-white/5 border border-white/10 rounded-[3.5rem]">
     <div class="flex items-center gap-3 mb-10">
         <span class="text-emerald-500 font-mono text-sm uppercase">Cascada de Pagos</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Tranche Hierarchy (CMO)</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Tranche Hierarchy (CMO)</h2>
     </div>
     <p class="text-slate-300 text-sm leading-relaxed mb-8">
         Para gestionar los riesgos, los MBS se estructuran en <strong>Collateralized Mortgage Obligations (CMO)</strong> con diferentes tramos (Tranches). Esto permite redistribuir el riesgo de prepago y crédito según el perfil del inversor.
@@ -143,9 +143,9 @@ graph TD
 
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-emerald-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo IF9</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-emerald-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo IF9</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
@@ -166,9 +166,9 @@ graph LR
 
 <!-- GLOSARIO -->
 <section class="mb-24">
-    <div class="flex items-center gap-3 mb-10">
-        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
+        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">

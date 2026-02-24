@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -18,7 +18,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm">04.1</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">La Transformación del Dinero</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">La Transformación del Dinero</h2>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12 text-sm">
         <div class="p-8 border border-white/10 rounded-3xl bg-white/5">
@@ -38,7 +38,7 @@
 <section class="mb-24 px-12 py-16 bg-white/5 border border-white/10 rounded-[3.5rem]">
     <div class="flex items-center gap-3 mb-10">
         <span class="text-rose-500 font-mono text-sm uppercase">Insight</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter text-center w-full">La Fuerza de Trabajo</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter text-center w-full break-words leading-tight">La Fuerza de Trabajo</h2>
     </div>
     <p class="text-slate-300 text-sm leading-relaxed mb-8 text-center max-w-2xl mx-auto">
         La única mercancía cuyo valor de uso es <strong>crear valor</strong>. El capitalista compra la capacidad de trabajar por su valor (lo necesario para vivir) y la pone a producir más de lo que cuesta.
@@ -49,7 +49,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm uppercase text-sm">Theory</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Plusvalía: El Secreto de la Ganancia</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Plusvalía: El Secreto de la Ganancia</h2>
     </div>
     <div class="space-y-6">
         <div class="p-8 border-l-4 border-rose-500 bg-white/5 rounded-r-3xl">
@@ -66,7 +66,7 @@
 <!-- SECTION 4 -->
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8 text-center justify-center">
-        <h2 class="text-white text-3xl font-black tracking-tighter uppercase tracking-[0.2em] text-[12px]">Formas de Incremento</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter uppercase tracking-[0.2em] text-[12px] break-words leading-tight">Formas de Incremento</h2>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div class="p-8 bg-white/5 border border-white/10 rounded-3xl">
@@ -84,9 +84,9 @@
 
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-rose-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo EP4</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-rose-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo EP4</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

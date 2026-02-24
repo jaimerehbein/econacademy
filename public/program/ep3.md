@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -18,7 +18,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm">03.1</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Dualidad de la Mercancía</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Dualidad de la Mercancía</h2>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
         <div class="p-10 bg-white/5 border border-white/10 rounded-[2.5rem]">
@@ -36,7 +36,7 @@
 <section class="mb-24 bg-rose-600/10 border border-rose-500/20 p-12 rounded-[3.5rem]">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm uppercase">Theory</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Valor-Trabajo</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Valor-Trabajo</h2>
     </div>
     <p class="text-slate-300 text-sm leading-relaxed mb-8">
         El valor de una mercancía no lo determina el deseo, sino el <strong>tiempo de trabajo socialmente necesario</strong> para su producción bajo condiciones técnicas medias.
@@ -57,7 +57,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm">03.2</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Fetichismo de la Mercancía</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Fetichismo de la Mercancía</h2>
     </div>
     <p class="text-slate-400 text-sm leading-relaxed mb-8">
         En el mercado, las relaciones entre personas aparecen como <strong>relaciones entre cosas</strong>. Olvidamos que detrás del precio de un objeto hay horas de vida y esfuerzo de otros seres humanos.
@@ -71,7 +71,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm">03.3</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">El Dinero como Equivalente</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">El Dinero como Equivalente</h2>
     </div>
     <p class="text-slate-400 text-sm leading-relaxed mb-8">
         El dinero es la "mercancía universal". Es la forma suprema de valor que permite comparar y circular todas las demás mercancías, facilitando la despersonalización del intercambio.
@@ -88,9 +88,9 @@
 
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-rose-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo EP3</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-rose-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo EP3</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

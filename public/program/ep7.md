@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -18,7 +18,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm uppercase tracking-widest">Naturaleza</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">El Estado Capitalista</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">El Estado Capitalista</h2>
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
         <p class="text-slate-400 text-sm leading-relaxed">
@@ -35,7 +35,7 @@
 <section class="mb-24 bg-white/5 border border-white/10 p-12 rounded-[4rem]">
     <div class="flex items-center gap-3 mb-10 text-center justify-center">
         <span class="text-rose-500 font-mono text-sm">ETYMOLOGY OF POWER</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter uppercase tracking-[0.1em]">Fases del Capitalismo</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter uppercase tracking-[0.1em] break-words leading-tight">Fases del Capitalismo</h2>
     </div>
     <div class="space-y-12 max-w-2xl mx-auto">
         <div class="flex items-start gap-8">
@@ -68,7 +68,7 @@
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm uppercase">Global</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Imperialismo y Capital Financiero</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Imperialismo y Capital Financiero</h2>
     </div>
     
     <div class="space-y-6 text-slate-400 leading-relaxed mb-12">
@@ -117,9 +117,9 @@ graph TD
 
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-rose-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo EP7</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-rose-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo EP7</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
@@ -140,9 +140,9 @@ graph LR
 
 <!-- GLOSARIO -->
 <section class="mb-24">
-    <div class="flex items-center gap-3 mb-10">
-        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
+        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">

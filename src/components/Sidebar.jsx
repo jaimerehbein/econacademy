@@ -150,13 +150,13 @@ const SubjectLink = ({ sub, onClick }) => (
                     ? 'bg-gradient-to-r from-indigo-600/90 to-purple-600/90 text-white shadow-lg shadow-indigo-500/25 border-white/10 translate-x-1'
                     : 'border-transparent hover:bg-white/5 hover:text-slate-100 hover:translate-x-1'}
             `}>
-                <div className="flex items-center gap-3 overflow-hidden">
-                    <span className={`text-[10px] font-mono font-bold px-1.5 py-0.5 rounded transition-colors ${isActive ? 'bg-white/20 text-white' : 'bg-slate-800/80 text-slate-500 group-hover:bg-slate-700/80 group-hover:text-slate-300'}`}>
+                <div className="flex items-center gap-3 overflow-hidden flex-1 min-w-0 mr-2">
+                    <span className={`text-[10px] flex-shrink-0 font-mono font-bold px-1.5 py-0.5 rounded transition-colors ${isActive ? 'bg-white/20 text-white' : 'bg-slate-800/80 text-slate-500 group-hover:bg-slate-700/80 group-hover:text-slate-300'}`}>
                         {sub.codigo}
                     </span>
                     <span className="truncate font-medium tracking-wide">{sub.nombre}</span>
                 </div>
-                <ChevronRight size={14} className={`transition-all duration-300 ${isActive ? 'rotate-90 opacity-100 text-white' : 'opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 text-slate-400'}`} />
+                <ChevronRight size={14} className={`flex-shrink-0 transition-all duration-300 ${isActive ? 'rotate-90 opacity-100 text-white' : 'opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 text-slate-400'}`} />
             </div>
         )}
     </NavLink>
@@ -183,13 +183,13 @@ const ProgramBlock = ({ prog, subjects, onLinkClick }) => {
                 onClick={() => setOpen(o => !o)}
                 className={`w-full flex items-center justify-between px-3 py-2 rounded-xl mb-2 transition-all duration-200 ${prog.accentBg} border ${prog.accentBorder} hover:brightness-110`}
             >
-                <div className="flex items-center gap-2.5">
+                <div className="flex items-center gap-2.5 flex-1 min-w-0">
                     <div className={`bg-gradient-to-br ${prog.from} ${prog.to} w-6 h-6 rounded-md flex items-center justify-center flex-shrink-0`}>
                         <span className="text-[9px] font-black text-white">{prog.badge}</span>
                     </div>
-                    <div className="text-left">
-                        <p className={`text-[11px] font-black ${prog.accent} leading-none`}>{prog.label}</p>
-                        <p className="text-[9px] text-slate-500 leading-none mt-0.5 truncate max-w-[160px]">{prog.sublabel}</p>
+                    <div className="text-left overflow-hidden w-full">
+                        <p className={`text-[11px] font-black ${prog.accent} leading-none truncate`}>{prog.label}</p>
+                        <p className="text-[9px] text-slate-500 leading-none mt-0.5 truncate">{prog.sublabel}</p>
                     </div>
                 </div>
                 <div className="flex items-center gap-2">

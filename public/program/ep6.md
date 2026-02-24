@@ -1,4 +1,4 @@
-<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans">
+<div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
@@ -35,7 +35,7 @@
 <section class="mb-24 px-12 py-16 bg-white/5 border border-white/10 rounded-[3.5rem]">
     <div class="flex items-center gap-3 mb-10">
         <span class="text-rose-500 font-mono text-sm uppercase">Crisis</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Crisis de Sobreproducción</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Crisis de Sobreproducción</h2>
     </div>
     <p class="text-slate-400 text-sm leading-relaxed mb-10">
         Lo absurdo del sistema: No hay crisis por falta de bienes, sino porque hay <strong>demasiados</strong> bienes que la población (empobrecida por los bajos salarios) no puede comprar.
@@ -83,7 +83,7 @@ stateDiagram-v2
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8 font-black">
         <span class="text-rose-500 font-mono text-sm">TENDENCIA</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Caída de la Tasa de Ganancia</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Caída de la Tasa de Ganancia</h2>
     </div>
     <div class="p-10 border border-white/10 rounded-3xl bg-white/5">
         <p class="text-slate-400 text-sm leading-relaxed mb-6">
@@ -101,7 +101,7 @@ stateDiagram-v2
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-8">
         <span class="text-rose-500 font-mono text-sm uppercase">Actualidad</span>
-        <h2 class="text-white text-3xl font-black tracking-tighter">Crisis Contemporáneas</h2>
+        <h2 class="text-white text-2xl sm:text-3xl font-black tracking-tighter break-words leading-tight">Crisis Contemporáneas</h2>
     </div>
     
     <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
@@ -144,9 +144,9 @@ stateDiagram-v2
 
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-rose-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo EP6</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-rose-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo EP6</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
@@ -167,9 +167,9 @@ graph LR
 
 <!-- GLOSARIO -->
 <section class="mb-24">
-    <div class="flex items-center gap-3 mb-10">
-        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
+        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario del Módulo</h2>
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">

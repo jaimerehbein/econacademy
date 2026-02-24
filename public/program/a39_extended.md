@@ -115,9 +115,9 @@ En un entorno globalizado, la negociación intercultural se ha convertido en una
 Factores como el protocolo, el uso del espacio, el significado del silencio, la importancia de las relaciones personales frente a los contratos escritos, y la percepción del tiempo (monocrónico vs. policrónico) son variables que pueden hacer fracasar una negociación si no se comprenden. El directivo debe desarrollar habilidades de interacción bicultural, aprender a reconocer las diferencias éticas y culturales, y poseer la flexibilidad para ajustar su estrategia de negociación para construir puentes de entendimiento y lograr acuerdos beneficiosos en contextos diversos [66], [67], [65].
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A39</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Modelo Analítico de la Asignatura A39</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

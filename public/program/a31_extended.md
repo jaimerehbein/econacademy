@@ -229,9 +229,9 @@ Es un concepto central en la teoría del riesgo clásica (modelo de Cramér-Lund
 La política de dividendos afecta directamente la solvencia. Distribuir beneficios reduce el superávit disponible para absorber pérdidas futuras. Los modelos de solvencia optimizan esta decisión: buscan maximizar los dividendos entregados a los accionistas sujeto a la restricción de mantener la probabilidad de ruina por debajo de un umbral regulatorio o de apetito de riesgo interno. En regímenes modernos, el reparto de dividendos suele estar condicionado al cumplimiento de ratios de cobertura de capital de solvencia obligatorio (SCR).
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Balanza de Pagos y Tipo de Cambio</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Balanza de Pagos y Tipo de Cambio</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

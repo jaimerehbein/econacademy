@@ -237,9 +237,9 @@ Las iniciativas de integración regional no son estáticas y tienden a expandirs
 En otras regiones, destacan la **ASEAN** en el sudeste asiático, que ha creado una Comunidad Económica basada en el "estilo ASEAN" de no injerencia y consenso. En África, el lanzamiento reciente de la Zona de Libre Comercio Continental Africana (AfCFTA) busca crear el mayor mercado único del mundo en número de países, intentando replicar el éxito integrador europeo para fomentar la industrialización intraafricana. Estas dinámicas demuestran que el regionalismo sigue siendo una fuerza vital en la economía global [5].
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A35</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Modelo Analítico de la Asignatura A35</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

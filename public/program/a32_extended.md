@@ -241,9 +241,9 @@ Desde finales del siglo XX, la economía mundial ha experimentado una integraci�
 3.  **Integración Global:** Se evidencia una tendencia secular hacia la integración de mercados globales, desde las antiguas rutas comerciales hasta la moderna globalización financiera y comercial, proceso interrumpido solo por grandes conflictos bélicos que reconfiguran el orden internacional.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Fallas del Mercado e Intervención Pública</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Fallas del Mercado e Intervención Pública</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

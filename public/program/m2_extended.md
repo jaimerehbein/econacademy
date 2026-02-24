@@ -105,9 +105,9 @@ Es vital considerar la vulnerabilidad de ciertos grupos y las relaciones de pode
 5.  **Rigor y Ética:** La calidad científica se evalúa mediante criterios de validez/confiabilidad (cuantitativa) o credibilidad/transferencia (cualitativa). Sin embargo, el rigor técnico carece de valor sin un compromiso ético que proteja a los participantes y asegure la integridad y utilidad social del conocimiento producido [110, 112].
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M2</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo M2</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         

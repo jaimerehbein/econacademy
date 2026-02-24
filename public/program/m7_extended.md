@@ -104,9 +104,9 @@ Esto implica que para acelerar el crecimiento sin crisis de balanza de pagos, lo
 5.  **Desarrollo y Restricción Externa:** Para los países en desarrollo, la estructura de las exportaciones y la elasticidad ingreso de la demanda (Ley de Thirlwall) determinan el techo del crecimiento a largo plazo. La mejora en los términos de intercambio es un motor crucial de crecimiento al relajar la restricción de la balanza de pagos.
 <!-- VISUAL_ENRICHMENT -->
 <div class="my-16">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M7</h3>
+    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo M7</h3>
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
