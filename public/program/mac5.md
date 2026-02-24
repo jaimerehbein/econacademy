@@ -471,24 +471,95 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ecuación Cuantitativa</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Identidad: $M \\cdot V = P \\cdot Y$. En el fondo de la ortodoxia dice que aumentos inyeccionales nominales irrestrictos en dineros inyectados $M$ (si la velocidad e impulsividad es constante estable empírica e inamovible transaccional $V$) inexorablemente derivan correlativamente ex-post puramente en precios e inflados asfixiantes simétricos $P$ de toda mercancía y costo basal transaccional real productivos no incrementando el caudal irreal productivo basal o neutral inelástico verdadero absoluto material o físico subyacente global real macro-estructural originario real estable basal natural puro originario constante de manufacturación absoluta total incoloro fijo total constante transable irreal o ilusión óptica fiduciaria irreal o crecimiento falaz apócrifo de valores de cuentas expansivos o ilusión agregativa fiduciaria nominalizada puramente del desdoble unitario monetario medidor del factor multiplicador distorsionador.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-fuchsia-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Señoreaje</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Financiamiento o recaudación expropiatoria y subrepticia furtiva que percibe la Tesorería o Casa al acuñar o imprimir papel despojado emisor subyugando, asimilándose al tributo y canibalización macro inflacionaria en perjuicio expropiador devaluador absoluto inclemente cobarde encubierta solapada indirecta o subrepticia furtiva sibilina exaccionador confiscador letal del ahorrista y despojos ahorrativo del ciudadano inerte acaparador monetizado sin resguardos elásticos blindados no indexados indefensos cautivos forzados sumisos atrapados fiduciariamente perdiendo valor y liquado absoluto deudor y drenantes a la máquina emisora rectora privilegiada prebendarista dictatorial macro originaria asimétrica de origen expoliadora monopolista creadora de la merma encarecedora distributiva destructora abismal destructiva de masa de recursos absolutos tangibles fijos totales global de deudores expoliatoria confiscatoria regresiva extrema empobrecedora expoliadora letal recesiva asimétrica brutal inmisericorde recesiva de exacción sistemáticas recurrentes colosales agudas o dramáticas crónicas fiduciario fútiles prebendaria destructivas y dramáticas catastróficas agigantadas masivas subrepticias dramáticas endógenas asimétricas crónicas estructurales cíclicas recurrentes letales absolutas devastadoras asfixiadores implacables encubiertas brutales asoladoras implacables sibilinas peredadas devaluadoras opacas abismal encubiertas silenciosa expropiatorias masivas regresivas abisales exaccionatorias confiscaciones aniquilantes colosales de purgas exaccionistas encubiertas crónicas regresivas aniquiladoras sibilinas</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Fisher</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Postulado que iguala tasa nominal $i$ integrando a la adición estricta premonitorial pura cruda macro: tasa y real fundamental o real $r$ aunada íntimamente indivisible e indomeñable previsoramente sumando expectativas anticipatorias inflacionarias plenas $\\pi_e$. La derivación $i = r + \\pi_e$ predice un ajuste alzado 1:1 o simétrico encarecedor anticipado y precautelatorio prestamista para salvaguardajes prestatistas o escudos amortiguadores plenos indexadoramente autoajustados del acreedor ante el terror expoliador desvalorizador y licuente de devoramiento y quita impositiva subrepticio erosionadora o desangrante previsible o merma futura anticipable erosiva desvalorizante anticipadamente futura inflacionista endémica colosal previsible futura destructiva y abismal letal licuatoria encubierta fútil inflacionarla transmigratoria desestabilizadora nominal.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Inflación
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Aumento sostenido y generalizado del nivel promedio de precios de bienes y servicios en una economía, reduciendo el poder adquisitivo del dinero.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Teoría Clásica
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco macroeconómico que asume precios flexibles y salarios nominales, explicando la economía a largo plazo y la neutralidad del dinero en variables reales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Teoría Cuantitativa del Dinero
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Postula una relación directa entre la cantidad de dinero en circulación, el nivel de precios y el valor nominal de las transacciones, asumiendo velocidad constante.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Oferta Monetaria
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Cantidad total de dinero disponible en una economía, que incluye efectivo y depósitos bancarios. Es controlada por el Banco Central e influye en los precios.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Señoriaje
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Ingresos que un gobierno obtiene mediante la emisión de nueva moneda. Es una fuente de financiación que se relaciona directamente con la oferta monetaria.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Impuesto Inflacionario
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Pérdida de poder adquisitivo del dinero en manos de los agentes económicos, causada por la inflación generada al imprimir dinero para financiar gasto público.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Efecto Fisher
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación económica que establece un ajuste uno a uno entre el tipo de interés nominal y la tasa de inflación esperada, manteniendo constante el tipo real.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tipo de Interés Nominal
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La tasa declarada de interés sobre un préstamo o inversión, sin ajustar por la inflación. Representa el coste monetario de pedir prestado dinero.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Inflación Esperada
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La tasa de aumento futuro de los precios que los agentes económicos anticipan. Influye en decisiones financieras y el tipo de interés nominal.
+                </p>
+            </div>
         </div>
     </div>
 </section>

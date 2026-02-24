@@ -464,52 +464,104 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Economía Abierta</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Sistema interconectado sin autarquías, interactuando irrestrictamente y fluidamente con el resto de geografías mundiales mediante intensos transfronterizos tráficos de exportaciones, importaciones e incesantes radicaciones e inyecciones o fugas de portafolios de flujos internacionales de capitales.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-fuchsia-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Exportaciones Netas (NX)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El saldo arrojado riguroso por la Balanza Comercial de una nación (Exportaciones restadas de Importaciones). Determina si un país gasta o financia globalmente o acumula rentas superavitarias.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salida Neta de Capitales (SNC)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Aquisiciones e inyecciones de activos físicos o papel extranjero domiciliado en exterior ejecutada y abonada por residentes nacionales neteada contra y menos las adquisiciones de activos domésticos detraída a foráneos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Identidad S - I = NX</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Igualación macro contable universal de economías abiertas vinculando indisolublemente y hermanadamente los ahorros nacionales excedentes canalizados al exterior frente al saldo o cuenta comercial gemela paralela idéntica.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tipo de Cambio Nominal</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Precio relativo nominal, fraccionario o multiplicado, estableciendo y acordando empíricamente la pura conversión fiduciaria y proporción neta permutable o ratio exacto de transacciones entre dos divisas físicas de dos naciones distintas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tipo de Cambio Real</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tasa y radar fidedigno del valor y competitividad transfronteriza subyugante, expresando rigurosamente a qué ratio los bienes físicos palpables y canastas mercantiles originarias equivalentes de un país se trocan paritariamente frente a idéntica foránea.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Paridad de Poder Adquisitivo (PPP)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Teoría tendencial fundamental indicando que, expurgadas las trabas formales logísticas, una unidad monetaria unívoca idéntica detentará universal y mundialmente el mismo potencial y vigor poder adquisitivo homologado a la red de igualaciones de arbitraje de la ley de un solo precio total.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ventaja Comercial Absoluta</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Potencialidad logística u operaria de una entidad de fabricar genérica unídireccionalmente un bien final invirtiendo y quemando intrínsecamente inferiores sumas de factores horas o dotaciones que rivales extranjeros geográficos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Déficit Gemelos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Incidencia fatal asimétrica y empírica comprobada donde irresponsables dilapidaciones y socavones de cuentas tesoreras Estatales (Déficit presupuestario originario) traccionan irremediablemente al país a devorar forzosamente financiaciones capitales externas hundiendo (Déficits de Cuenta Corriente asociados paralelos).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Apreciación / Depreciación</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Alzas o encarecimientos unitarios del valor convalidado cambiario o recortes relativos y depreciativos de una moneda frente a sus pares flotantes extranjeras puras en los regímenes desregulados y transables y cruzados internacionales de forex mundiales continuos.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Economía Abierta
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Un sistema económico que interactúa con otras economías del mundo, permitiendo el comercio internacional de bienes y servicios, así como los flujos de capitales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Economía Cerrada
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Un sistema económico que no tiene interacción alguna con otras economías, operando bajo el supuesto de autarquía, sin comercio internacional de bienes, servicios ni capitales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Exportaciones Netas (Balanza Comercial)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La diferencia entre el valor total de las exportaciones de bienes y servicios de un país y el valor total de sus importaciones. Representa el saldo de su comercio exterior.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Ahorro Nacional
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La porción del ingreso total de una nación que no se consume ni se destina a gasto público. En una economía abierta, es la suma del ahorro privado y público.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Salida Neta de Capital (Inversión Exterior Neta)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La diferencia entre el ahorro nacional y la inversión doméstica. Representa la adquisición neta de activos extranjeros por residentes nacionales menos la adquisición neta de activos nacionales por extranjeros.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Pequeña Economía Abierta (PEA)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Un modelo económico donde la economía doméstica es insignificante en el mercado mundial, incapaz de afectar la tasa de interés mundial, con movilidad perfecta de capital.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Movilidad Perfecta de Capital
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición en la que los inversores pueden comprar y vender activos financieros entre países sin restricciones significativas, garantizando que la tasa de interés doméstica iguale a la mundial.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tasa de Interés Mundial (r*)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La tasa de interés real que prevalece en los mercados financieros internacionales, determinada por la oferta y demanda global de fondos prestables, y tomada como dada por una PEA.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tipo de Cambio Real (ε)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    El precio relativo al que los bienes y servicios de un país se pueden intercambiar por los de otro país. Refleja la competitividad internacional de los bienes.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Déficits Gemelos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Fenómeno donde un déficit presupuestario gubernamental (ahorro público negativo) coincide con un déficit en la balanza comercial, explicado por la reducción del ahorro nacional en una PEA.
+                </p>
+            </div>
         </div>
     </div>
 </section>
