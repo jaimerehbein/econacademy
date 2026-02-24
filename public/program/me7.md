@@ -94,32 +94,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-purple-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Modelos Económicos</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Convergencia Asintótica</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mandamiento dinámico destino gravitacional y órbita inevitable de resoluciones donde la órbita variable en zozobra, turbulencia transicional colosal inestable fútil asimétrica o tránsitos erráticos inescrutables de desviaciones tras choques abismales se va sosegando pacificando frenando inyectivamente declinando ex-post sus fuerzas motrices residuales percutiendo mermando y acercando empíricamente ineludible y arrastrada lenta agónica ineluctantemente infinitamente a su ancla clímax reposo final y tumba estéril inmovilizada originaria estado estacionario perpetuable.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Punto de Silla (Saddle Point)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Encrucijada letal filo de navaja inestable e instable inescrutable estandar o topografía matemática y encrucijada extrema de dinámica inestable condicional macroeconómica. Si y excluyentemente sólo si la pre-implantación e inyección premonitoria traccional del resolutivamente asimétrico decisor ubica empíricamente e inmaculado al vector variable exacto ciego predeterminado asintótico infalible en la senda estable del riel del lomo ensillado cabalgado dictaminador, predecirá empírica infalible y decantará estancantemente inmutable directo rauda inexorable a la convergencia pacífica redentora vaciadora, o de fallar un suspiro ínfimo marginal aberrante asimétrico errático mínimo pífido milimétrico inicial originario inestable abismal resbalador precipitará eclosionador eyectivo indomeñable apocalíptico fugador trágico expulsor e irreversible inestabillizador detonante divergente abismal explosivo destructor fatal fútil perdedor infinito.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Inconsistencia Dinámica</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tragedia praxeológica deslegitimadora trampa subyugante asoladora institucional asfixiante abismal donde el plan de ruta anuncio edicto o manifiesto proferido u optado óptimo inmaculado y solemne y redentor que el soberano prometía dogmático salvacionista férreo dictaminador inviolable incondicionado en el alba $t=0$, al mutar transmutarse el inescrutable mañana asintótico rodando inexorable el reloj cronológico claudicante cediendo efímero a $t=1$, caduca y se le transmuta trágico mutando y tornándose insoportable fútil ruinosa o tentadora prebendarla estigmatizantemente inferior sub-óptima induciendo irresistible fatal corroyente a traicionarse arrepentirse desertar dimitir o auto-defectando pergeñar mutando unilateral asimétricamente asimilador y cambiar oportunista fútilmente la veredita proferida preestablecida claudicándola rompiéndose la magia fiduciaria vaciando credibilidad evaporándola exuda reputación cínica estigmatizante desfondada de anclas promisotrias credenciales pre-fijadoras normativas basales dictaminadas originarias nulas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto de Contagio</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Diseminación epidémica pánico pírrico histeria cruzada esparcimiento irracional pavoroso red ignífuga deflagración sísmica paralizadora devaluadora sistémica o derrumbe estigmatizante inorgánica colosal de dominó de un centroide epicentro originario exótico en quiebres fútiles letales que gangrena infecta atemorizando indiscriminada ciegamente arrastrando e insolventando carcomiendo las trincheras plazos de deudores blindajes inoperantes o resguardos fiduciarios preexistentes fronterizos lejanos de países vecinos y plazas desvinculadas pre-sanas ajenas infectándose irremediablemente eclosionadas destartallante por fuga instintiva estampida ciega asintomática sin purificar escrutar puros dictámenes subyacentes o fundamentos de escollos y falencias sistémicas simbióticas asfixiantes irracionales y puritanamente histéricas contagiosas ciegamente asimiladas inescrutables asimétricas devoradoras absolutas catastróficas de letal rebaño manada global y terror bursátil irracional abarcativo sinfónico destructor abismador imparable.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Modelos de Agentes Heterogéneos (HANK)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Cisma revulsivo vanguardista inorgánico redentor neokeynesiano fracturando e incinerando la utopía irreal emparedada absolutista canónica inerte ciega inoperante castrante y limitante y castigadora del postulado fútil ciego o dogma reduccionista iluso e ineficiente abismal e incapaz y obsoleto o de ceguera paramétrica asimétrica del inútil agente representativo clon idéntico clónico estéril representate único. Estas sinfónicas laberínticas arquitecturas admiten, desglosan radiografían amalgaman la muchedumbre dispar abismal caótica asimétrica de ricos y desvalidos adinerados embaucados y paupérrimos desprovistos integrando a desempleados ilíquidos sin chequeras inescrutables contra acaparadores colosales asimétricos inversores exponenciales abismalmente desigualados captando e integrando rigurosa fáctica o insobornablemente las puras asimetrías de fortunas fútiles vulnerabilidades rentistas inmiscuyendo frívolamente o propensiones de choque letárgicas asimétricas distributivas que dislocan diametral empíricamente la asimilación arrastrada del consumo frente a disrupciones macropolíticas dictaminadas agregadas neutralizadoras dictadas esterilizadas ciegas asimilables letales.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Modelado Estocástico
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco matemático que incorpora variables aleatorias para representar la incertidumbre y predecir la distribución de resultados posibles en sistemas económicos y financieros complejos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Modelos de Agentes (ABM)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Simulación computacional que analiza las interacciones de individuos autónomos y heterogéneos para observar el surgimiento de fenómenos macroeconómicos globales a partir de reglas locales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Heterogeneidad
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Propiedad que describe la diversidad entre agentes económicos respecto a sus niveles de riqueza, acceso a la información, dotaciones y grados de racionalidad operativa.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Emergencia
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Aparición de patrones macroscópicos complejos y no lineales que resultan de las interacciones descentralizadas de agentes individuales, no explicables únicamente por la suma de sus partes.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Simulación de Monte Carlo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Técnica numérica que utiliza el muestreo aleatorio masivo para estimar distribuciones de probabilidad y resolver problemas matemáticos que carecen de una solución analítica cerrada.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Cadenas de Markov
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Procesos estocásticos donde la transición a un estado futuro depende exclusivamente del estado actual, asumiendo independencia de los eventos ocurridos en el pasado del sistema.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Métodos Numéricos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Algoritmos y procedimientos matemáticos empleados para obtener aproximaciones cuantitativas precisas en modelos financieros cuya complejidad impide una resolución algebraica directa.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Caminos Aleatorios
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Modelos matemáticos que describen trayectorias compuestas por una sucesión de pasos estocásticos, fundamentales para la modelización del movimiento de precios en mercados financieros.
+                </p>
+            </div>
         </div>
     </div>
 </section>
