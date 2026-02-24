@@ -431,6 +431,30 @@ $$
     <div class="text-slate-200 text-base leading-snug pt-1"><strong>Lección Histórica:</strong> La Gran Depresión enseña que dejar caer la oferta monetaria en presencia de shocks negativos de demanda es desastroso, y que la deflación puede ser desestabilizadora a través del canal de deuda-deflación, superando el efecto riqueza de Pigou.</div>
 </div>
 
+
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-cyan-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo MAC10</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#06b6d4,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#164e63,stroke:#06b6d4,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>
+
 <!-- GLOSARIO -->
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-10">

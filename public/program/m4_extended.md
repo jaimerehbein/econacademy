@@ -123,3 +123,25 @@ Las teorías evolutivas de la firma (Nelson & Winter) complementan este análisi
 3.  **Interacción Estratégica:** En mercados imperfectos, las decisiones no se toman en el vacío. La teoría de juegos demuestra que precios, cantidades, integración vertical y contratos gerenciales son herramientas estratégicas utilizadas para influir en el comportamiento de los rivales y alterar el equilibrio del mercado.
 4.  **Límites de la Firma:** La frontera de la empresa es fluida y depende del grado de especificidad de los activos y la incertidumbre. La integración vertical es una solución al problema del "hold-up" y la doble marginalización, pero debe balancearse contra los costos burocráticos y la pérdida de incentivos de mercado.
 5.  **Regulación e Incentivos:** La regulación óptima en presencia de poder de mercado debe considerar las restricciones de información. Los esquemas regulatorios modernos abandonan el control de costos directos en favor de sistemas de incentivos que simulan la competencia, promoviendo la eficiencia sin sacrificar el bienestar social.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M4</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#14b8a6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>

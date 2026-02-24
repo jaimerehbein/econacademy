@@ -131,3 +131,25 @@ La crisis financiera de 2008 evidenció la necesidad de integrar la ética en la
 3.  **Transmisión Monetaria:** La política monetaria no es neutral para los mercados financieros; sus efectos se transmiten a través de canales complejos (tasas, precios de activos, crédito). Sin embargo, la reacción del mercado depende fundamentalmente del componente "sorpresa" de las decisiones y de la credibilidad del Banco Central.
 4.  **Innovación Metodológica:** La teoría financiera de vanguardia, impulsada por autores como Sharpe, se está alejando de los supuestos restrictivos de distribución normal (media-varianza) hacia la Teoría de Preferencia de Estados (SPT) y la simulación computacional, permitiendo modelar escenarios de incertidumbre más realistas y complejos.
 5.  **Integralidad Financiera:** La economía financiera moderna es interdisciplinaria, exigiendo no solo el dominio de modelos de valoración (flujos descontados, Black-Scholes), sino también competencias en regulación (MiFID, NIIF), tecnología (Fintech, Big Data) y ética, para gestionar riesgos y activos en un entorno globalizado.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M6</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#14b8a6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>

@@ -102,3 +102,25 @@ Esto implica que para acelerar el crecimiento sin crisis de balanza de pagos, lo
 3.  **Más allá de la Competencia Perfecta:** Una gran parte del comercio mundial (especialmente entre países ricos) es intraindustrial y se explica por economías de escala y diferenciación de productos (Nueva Teoría), no por diferencias de recursos. Las empresas heterogéneas y su selección hacia la exportación (New New Trade Theory) son claves para la productividad agregada.
 4.  **Gravedad y Empirismo:** El modelo de gravedad es la herramienta empírica más robusta para predecir flujos comerciales, destacando el papel central del tamaño económico y la distancia. La estimación correcta requiere controlar la heterogeneidad no observada y la dinámica temporal.
 5.  **Desarrollo y Restricción Externa:** Para los países en desarrollo, la estructura de las exportaciones y la elasticidad ingreso de la demanda (Ley de Thirlwall) determinan el techo del crecimiento a largo plazo. La mejora en los términos de intercambio es un motor crucial de crecimiento al relajar la restricción de la balanza de pagos.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M7</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#14b8a6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>

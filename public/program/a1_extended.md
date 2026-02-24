@@ -151,7 +151,7 @@ Es el armazón formal de la empresa. Define cómo se dividen, agrupan y coordina
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 graph TD
     %% Estructura Organizacional
     subgraph Jerarquía Corporativa
@@ -186,7 +186,7 @@ graph TD
     classDef accent fill:#8b5cf6,stroke:#a78bfa,stroke-width:2px,color:#fff,font-weight:bold
     class CEO,MARGEN accent
     class DIR_FIN,DIR_OP,DIR_MKT main
-```
+</pre>
 
     </div>
 </div>

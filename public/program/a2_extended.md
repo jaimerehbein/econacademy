@@ -207,7 +207,7 @@ Ha transitado desde el análisis de la formación del Estado posrevolucionario y
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 mindmap
   root((Sociedad))
     Estratificación
@@ -239,7 +239,7 @@ mindmap
         Horizontal
       Alienación
       Anomia (Durkheim)
-```
+</pre>
 
     </div>
 </div>

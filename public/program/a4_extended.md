@@ -189,7 +189,7 @@ En el derecho mexicano, la interpretación debe buscar el sentido propio de las 
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 graph TD
     classDef level1 fill:#4c1d95,stroke:#a78bfa,stroke-width:2px,color:#fff,font-weight:bold
     classDef level2 fill:#312e81,stroke:#818cf8,stroke-width:1px,color:#e2e8f0
@@ -221,7 +221,7 @@ graph TD
     class LEY,D_LEGISLATIVOS,L_ORGANICAS,L_ORDINARIAS level2
     class REG,RES_SUP,RES_MIN,RES_DIR level3
     class SENT level4
-```
+</pre>
 
     </div>
 </div>

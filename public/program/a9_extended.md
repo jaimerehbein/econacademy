@@ -224,7 +224,7 @@ Tienen la forma $y_{t+1} + ay_t = c$. Su solución general consta de una soluci�
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 graph LR
     A[Concepto Base] --> B(Aplicación Empírica)
     B --> C{Resolución Analítica}
@@ -234,7 +234,7 @@ graph LR
     classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
     classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
     class C decision
-```
+</pre>
 
     </div>
 </div>

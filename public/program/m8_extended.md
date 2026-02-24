@@ -122,3 +122,25 @@ Se evalúan los efectos unilaterales (la empresa fusionada sube precios unilater
 3.  **Barreras y Disuasión:** La estructura de mercado no es estática; las empresas establecidas pueden manipularla estratégicamente creando barreras endógenas (publicidad, capacidad excedente, proliferación de marcas) o utilizando precios límite y predatorios para disuadir la entrada y proteger sus rentas monopólicas.
 4.  **Problemas de Información y Regulación:** La regulación de monopolios naturales enfrenta asimetrías de información fundamentales; mecanismos modernos como el *Price-Cap* o la competencia por el mercado (subastas de franquicias) buscan alinear los incentivos de la empresa con el bienestar social, mitigando ineficiencias como el efecto Averch-Johnson.
 5.  **Identificación Empírica:** La NEIO permite medir el poder de mercado real ($\theta$) mediante la estimación estructural de oferta y demanda, superando las limitaciones del paradigma ECD al no inferir conducta directamente de la concentración, sino estimando parámetros de comportamiento a partir de datos observables.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M8</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#14b8a6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>

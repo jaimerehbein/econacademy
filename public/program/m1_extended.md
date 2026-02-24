@@ -119,3 +119,25 @@ Se estudiarán las violaciones a los supuestos clásicos (heterocedasticidad, au
 3.  **Equilibrio General como Marco de Referencia:** El equilibrio general walrasiano y los teoremas del bienestar proporcionan el *benchmark* de eficiencia contra el cual se evalúan todas las distorsiones (monopolios, externalidades, impuestos) y políticas públicas.
 4.  **Dinámica y Crecimiento:** La distinción entre ciclos económicos (corto plazo, rigideces) y crecimiento (largo plazo, tecnología, capital humano) es crucial, utilizando herramientas de optimización dinámica para modelar la evolución de las economías.
 5.  **Validación Empírica:** La teoría económica sin contrastación empírica es insuficiente. El dominio de la econometría y los métodos cuantitativos es obligatorio para testear hipótesis, evaluar políticas y realizar pronósticos fundamentados.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M1</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#14b8a6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>

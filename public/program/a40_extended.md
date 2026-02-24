@@ -203,14 +203,14 @@ Este régimen fiscal especial es fundamental para la competitividad de la indust
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 stateDiagram-v2
     [*] --> Génesis
     Génesis --> Expansión : Inyección Empírica
     Expansión --> Cúspide : Maximización Asintótica
     Cúspide --> Contracción : Fricción Fáctica
     Contracción --> Génesis : Depuración
-```
+</pre>
 
     </div>
 </div>

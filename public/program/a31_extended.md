@@ -235,7 +235,7 @@ La política de dividendos afecta directamente la solvencia. Distribuir benefici
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 graph TD
     classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
     classDef acc fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
@@ -263,7 +263,7 @@ graph TD
     class CC,CF acc
     class SURG sur
     class DEF def
-```
+</pre>
 
     </div>
 </div>

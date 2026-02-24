@@ -154,3 +154,25 @@ Se aborda la dinámica de los seminarios académicos en economía: cómo respond
 3.  **Integración de Teoría y Datos:** Las herramientas informáticas y estadísticas son medios, no fines. Una regresión sin teoría es ciega. El investigador exitoso utiliza la teoría económica para guiar la especificación empírica e interpretar los resultados, asegurando que los hallazgos tengan sentido económico y no sean meros artefactos estadísticos.
 4.  **Versatilidad Técnica (Econometría + Machine Learning):** El economista actual debe ser híbrido. Debe dominar la inferencia causal clásica para evaluar políticas y, al mismo tiempo, incorporar herramientas de *Machine Learning* para mejorar predicciones y manejar datos masivos de alta dimensión, aprovechando lo mejor de ambas tradiciones ("Causal ML").
 5.  **Ética y Comunicación:** La excelencia técnica debe ir acompañada de integridad ética en el manejo de datos y citación fuentes. Asimismo, la capacidad de comunicar hallazgos de forma clara, escrita y oral, es determinante para que la investigación tenga impacto real en la política económica y la sociedad.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M3</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#14b8a6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>

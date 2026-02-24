@@ -338,6 +338,30 @@
 </div>
 </section>
 
+
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-fuchsia-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo MIC10</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#d946ef,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#701a75,stroke:#d946ef,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>
+
 <!-- GLOSARIO -->
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-10">

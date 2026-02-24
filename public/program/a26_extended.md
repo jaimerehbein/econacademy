@@ -191,14 +191,14 @@ El modelo lineal puede extenderse para incluir interacciones entre predictores (
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 stateDiagram-v2
     [*] --> Génesis
     Génesis --> Expansión : Inyección Empírica
     Expansión --> Cúspide : Maximización Asintótica
     Cúspide --> Contracción : Fricción Fáctica
     Contracción --> Génesis : Depuración
-```
+</pre>
 
     </div>
 </div>

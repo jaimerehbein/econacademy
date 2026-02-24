@@ -360,6 +360,30 @@
 </div>
 <p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">| Concepto | Fórmula | Descripción | | :--- | :--- | :--- | | <strong>Oferta Monetaria</strong> | $M = C + D$ | Suma de efectivo y depósitos | | <strong>Base Monetaria</strong> | $B = C + R$ | Pasivos del Banco Central | | <strong>Cociente Efectivo</strong> | $cr = C / D$ | Preferencia de liquidez del público | | <strong>Cociente Reservas</strong> | $rr = R / D$ | Política de reservas de los bancos | | <strong>Multiplicador</strong> | $m = \frac{cr + 1}{cr + rr}$ | Capacidad de creación de dinero | | <strong>Modelo Final</strong> | $M = m \times B$ | Determinación de la Oferta Monetaria | | <strong>Apalancamiento</strong> | $Lev = \frac{\text{Activos}}{\text{Capital}}$ | Riesgo de solvencia bancaria |</p>
 
+
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-cyan-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo MAC4</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#06b6d4,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#164e63,stroke:#06b6d4,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>
+
 <!-- GLOSARIO -->
 <section class="mb-24">
     <div class="flex items-center gap-3 mb-10">

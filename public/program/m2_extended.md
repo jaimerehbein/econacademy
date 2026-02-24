@@ -103,3 +103,25 @@ Es vital considerar la vulnerabilidad de ciertos grupos y las relaciones de pode
 3.  **Operacionalización Rigurosa:** En los estudios cuantitativos, la validez de las conclusiones depende enteramente de la correcta transición de constructos teóricos abstractos a variables e indicadores medibles. Una mala operacionalización genera datos espurios, sin importar la complejidad del modelo econométrico utilizado [20, 21].
 4.  **Profundidad Analítica:** El análisis cualitativo no es un resumen de anécdotas, sino un proceso sistemático de codificación (abierta, axial, selectiva) apoyado por software (CAQDAS), que debe culminar en la generación de teoría fundamentada o modelos explicativos densos, no solo en descripciones superficiales [83, 84].
 5.  **Rigor y Ética:** La calidad científica se evalúa mediante criterios de validez/confiabilidad (cuantitativa) o credibilidad/transferencia (cualitativa). Sin embargo, el rigor técnico carece de valor sin un compromiso ético que proteja a los participantes y asegure la integridad y utilidad social del conocimiento producido [110, 112].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M2</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#14b8a6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>

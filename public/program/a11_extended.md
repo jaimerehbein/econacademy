@@ -230,7 +230,7 @@ Es la revisión de la Cuenta Pública realizada por la Cámara de Diputados a tr
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 mindmap
   root((Tributos))
     Impuestos
@@ -252,7 +252,7 @@ mindmap
       Base Imponible
       Hecho Imponible
       Alicuota (Tasa %)
-```
+</pre>
 
     </div>
 </div>

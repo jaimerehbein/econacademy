@@ -132,3 +132,25 @@ Para garantizar la fiabilidad de los modelos internos de riesgo, los reguladores
 3.  **Gestión de Riesgo Asimétrico:** Los derivados (opciones) introducen perfiles de riesgo no lineales. Mientras que los futuros permiten fijar precios (simetría), las opciones permiten asegurar precios piso o techo (asimetría), lo cual es vital para la cobertura estratégica corporativa y la especulación apalancada.
 4.  **Evolución de las Métricas de Riesgo:** La industria ha reconocido las fallas de los supuestos de normalidad estadística (colas pesadas, curtosis). El desplazamiento regulatorio del VaR al Expected Shortfall (ES) refleja la necesidad de cuantificar no solo la probabilidad de pérdida, sino la severidad de las pérdidas en escenarios de crisis extrema.
 5.  **Infraestructura de Mercado y Contraparte:** La crisis de 2008 demostró que el riesgo de crédito de contraparte en el mercado OTC es un vector de contagio sistémico. La respuesta ha sido una mayor colateralización, la estandarización de contratos (ISDA) y la migración forzosa hacia Cámaras de Contrapartida Central (CCP) para mitigar el riesgo sistémico.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-teal-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo M9</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+        <pre class="mermaid bg-transparent flex justify-center">
+graph LR
+    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
+    B --> C{Análisis Crítico}
+    C -->|Evaluación| D[Validación Empírica]
+    C -->|Revisión| E[Ajuste de Modelo]
+    
+    classDef default fill:#111827,stroke:#14b8a6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#134e4a,stroke:#14b8a6,stroke-width:2px,color:#fff
+    class C decision
+        </pre>
+
+    </div>
+</div>

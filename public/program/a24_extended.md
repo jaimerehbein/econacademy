@@ -194,7 +194,7 @@ La tensión Glocalización vs. Globalización también refleja la reacción pol�
     </div>
     <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
         
-```mermaid
+<pre class="mermaid bg-transparent flex justify-center">
 mindmap
   root((Sistema Mundo))
     Centro Hegemónico
@@ -212,7 +212,7 @@ mindmap
       Deterioro Términos Intercambio
       Fuga de Ganancias
       Rentabilidad Asimétrica
-```
+</pre>
 
     </div>
 </div>
