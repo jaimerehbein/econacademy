@@ -326,32 +326,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Moral (Moral Hazard)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Falla abismal e infección prebendarista de arquitecturas asimétricas informacionales gestada post-contratación. El asegurado o agente delegado endógeno, habiéndose agenciado de escudos y garantías inmunizadoras blindadas por un principal ciego protector, muta su accionar perversamente relajando cuidados redentores incurriendo u arriesgando imprudente irracional temeraria extorsiva indolente o azarosamente sabiendo inescrutable su externalización eximente de toda purga castigadora punitiva ruinosa trasladándola y vampirizándola íntegramente deudas o expiaciones a las tesorerías lumbares del asegurador ciego e impotente indemnizador paralítico subsidiante y desvalijado redentor ineficiente.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Selección Adversa</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Infección y metástasis parasitaria corroyente estigmatizante de mercados asimétricamente nublados dislocados y pre-contractuales opacos donde la fracción indeseada estropeada devaluada nociva maculada riesgosa patológica defectuosa mermada estropeada encubierta y perversa (ej: limones cacharros o adictos terminales silentes engañosos desahuciados patológicos) expulsa excluyentamente canibalizando letal implacablemente agigantándose aniquilando e invisibilizando al porcentaje benévolo puro sano e incólume, arruinando colapsando asolando vaciando el ecosistema abismadoramente desfondando y paralizándolo liquidandolo asfixiando transacciones plenas simétricas justas.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Problema del Principal-Agente</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Dicotomía trágica irresoluble en matrices organizativas capitalistas divorciándose la titularidad de la praxis empírica operaria. Los propósitos utilitaristas altruistas corporativos capitalizadores supremos del amo financiador (Principal) colisionan despóticamente antagónicas y esquizofrénicas inelásticas irreparables desviándose frente a las pulsiones expoliadoras avariciosas vacacionistas de holgazanerías cortoplacistas expoliadoras parasitarias expropiadoras encubiertas egoístas frívolas fútiles del delegado y rentado lugarteniente testaferro o peón mánager ejecutivo (Agente), exigiéndole monitoreos extenuantes asfixiantes gravosos policiales carísimos paralizantes coactivos punitorios represivos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Señalización (Signaling)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mecanoreceptor paliativo salvataje o faro clarificador deslumbrante irrumpido por la facción pura aventajada del mercado opacado perverso. Para escindirse irrefutable destacarse asimétrica comprobable e inescrutable asintótica del vulgo degradado defectuoso falsificable mentiroso engañoso inferior o simulador patológico, el virtuoso inmola sacrifica invierte asumiendo quemaduras ostentosas de riquezas diplomas colosales publicitarias o garantías irrenunciables tan exorbitantes costosísimas exclusivas imposibles inalcanzables astronómicas abisales y empobrecedoras suicidas que un impostor fútil simulador estafador inoperante perdedor marginal defectuoso jamás emularía costear sin quebrar, purificando redimiendo clarificando y desnudando indiscutible la asimetría oculta revelando su real estatus subyacente prístino selecto.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Filtrado (Screening)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Aspiradora de testeo o colador inquisitorio perenne esgrimida despóticamente pero inquisitivamente inteligente y salvadora por la cohorte ciega principalista desvalida estafada o empleadora desahuciada. Diseñan menús retorcidos encrucijadas de elección discriminadoras test empíricos auto-reveladores ineludibles sutiles subyacentes o seguros auto-deducibles asimiladores que obligan subrepticia indomeñablemente inescrutable y coactivamente a la multitud enigmática aglomerada a desenmascararse revelando clasificándose por sus actos resolutivos descifrando asimétrica y segregando desnudando su verdadera matriz estirposa oculta interior praxeológica y purificando la ceguera contractual redentora empírica decodificadora desmitificadora resolutoria salvajemente eficaz infalible expósita.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Poder de mercado
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Capacidad de un agente económico para influir unilateralmente en los precios, distanciándolos del costo marginal para maximizar beneficios extraordinarios mediante la reducción de la cantidad producida.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Pérdida irrecuperable de eficiencia
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Reducción del excedente total de la sociedad causada por distorsiones de mercado que impiden transacciones mutuamente beneficiosas, situando el nivel de producción por debajo del óptimo social.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Interdependencia estratégica
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Situación competitiva propia del oligopolio donde los resultados de una firma dependen no solo de sus propias decisiones, sino también de las acciones y reacciones de sus rivales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Equilibrio de Nash
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Conjunto de estrategias en el cual cada agente elige su mejor respuesta ante las acciones de los demás, de modo que nadie tiene incentivos para desviarse unilateralmente.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Monopolio natural
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estructura de mercado donde una única empresa puede abastecer la demanda total a un costo medio inferior que múltiples firmas, debido a la existencia de economías de escala.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Colusión
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Acuerdo explícito o tácito entre empresas competidoras para coordinar precios o niveles de producción, con el fin de maximizar beneficios conjuntos y restringir la competencia efectiva.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Eficiencia asignativa
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición de mercado donde los recursos se distribuyen de tal forma que el precio de equilibrio iguala al costo marginal, maximizando el bienestar social total.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Precios predatorios
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Práctica anticompetitiva consistente en fijar precios por debajo de los costos marginales para expulsar competidores del mercado y asegurar una posición de dominio monopolístico futura.
+                </p>
+            </div>
         </div>
     </div>
 </section>
