@@ -436,32 +436,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Competencia Perfecta</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Arcadia irreal o abstracción teórica inmaculada paramétrica u utópico modelo extremo polar idealizado inencontrable prístino inorgánico. Donde atomizaciones e infinitos y plenos agentes innumerables microscópicos imperceptibles anónimos transan exentos de barreras y permeables irrestrictos permeados de trasparencias informativas holísticas incondicionales omniscientes absolutas en rubros y tipologías hiper-homogeneizadas clónicas espejadas e indistinguibles desprovistos y carentes o abortados asintomáticos absolutamente nulos en su total impericia imposibilidad inútil o insignificancia traccional microscópica para poder incidir desviar adulterar sesgar inyectar de empujes coactivos monopolizadores encarecientes o distorsiona e imponer y dominar o afectar coaccionar ínfimamente o imperceptible exógenamente y manipular los dictámenes imperturbables macro-estructurales del vaciamiento fijado o inescrutables asintóticos del precio imperante general rector regidor sistémico exógeno mercado subyugante dado exógeno dictatorial asimilable transable absoluto y unánime único y constante dictado por designios en red inescrutables del ecosistema impersonalizado dado exteriorizado inamovible pasivo tomado impositivo exógeno impersonal dictado por confluencia global inalienable de red inasible atomizada paramétrica.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio-Aceptante</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Indefensión perenne, obediencia estructural sumisa, claudicación de estamentos de poder inescrutable y subyugación fatal irreversible para los menesterosos competidores operarios atomizados minúsculos subyugados de carteles irreales. Unánimemente y coercitivamente ceden e internalizan adoptando subsumiendo ineludibles irremediables acatadores de pizarras externas el valor unitario de sus mercancías e inmodificables regidor subyugante transaccionable unipolar asfixiante colosal, en asimetría cega inmanente dictaminado inescrutablemente por vórtices irreductibles supremos inorgánicos del vaciamiento supremo exterior macro general agregado inalcanzable de equilibrio inexpugnable ajeno y distanciado e inmodificable irrefutable irremediable incontestable globalizado impersonal general dictatorial impersonal prefigurado exteriormente a sus acervos irrelevantes marginales ínfimos microscópicos infinitesimales nulos estériles e inofensivos de sus voluntades irrisorias insignificantes o frágiles poderíos mercantiles locales enclenques intrascendentes.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ingreso Marginal</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Inyección y chorreadura infinitesimal fraccional transaccional acaparada extractiva facturable recaudatoria marginal delta purificada puritana excedentaria inyectiva aditiva cruda exógena adentrada marginal o suplementaria monetizada recibible o drenada devengable originaria estipulada neta al bolsillos acreedores incrementada agregativa por la mera colocación y desagotamiento de transar ofertar rematar inyectar de canje un ultimísimo rezagado posterior excedentario residual ítem y fraccional marginal empujado colindante y adicional o suplementario subyacente preestablecido adyacente infinitesimal manufacturado de unidad Q transable infinitesimal adyacente. En perfectas arcadias, este guarismo iguala calca simétrica exacta e irrestrictamente asintomática idéntica invariablemente en asimilación y fusión al congelado inamovible y dictaminado regidor valor tabulador estatuido imperturbable exógeno precio P rector externo dado ($IMg=P$) asintótica e irreductiblemente inelástico inmutable fijo imperante y dictatorial impositivo paralizador pasivo y dictaminado.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Monopolio</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Absolutismo, cúpula y realeza imperialista mercantil subyugante opresora inorgánica y concentrada. Entronación unilateral asfixiante excluyente única hermética solitaria estigmatizante desarticulando redes donde un único agente acaparador exclusivista inexpugnable domina tiraniza ejerce sojuzgación imperiosa extorsionante hegemónicamente prebendarizadora y desproveída blindada amurallada exenta de cercos competenciales homólogos asfixiando amenazas expoliantes sustitutores de suplentes desérticos y exentos alternativos viables carente u opresora absoluta del suministro general y global de los rubros ineludibles originarios transables prefigurados de demandas asoladas forzosas cautivas inelásticas subsumibles resignadas e inexcusables atadas sin salidas subyugadas e inelásticas desproveídas alternativas acorraladas y rehenes.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Pérdida Irrecuperable (Peso Muerto)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Sangría macro, socavón, incineración disipativa inmaterial inaudita o desgarro estéril desaprovechable social deflacionaria aniquilante vaporizador o amputación colosal expropiada fútil evaporada mutilante e incinerada sin asimiladores de redistribución de excedencias originarias y mutiladas esfumadas o de socavones de gozos frustrados abismales extirpaciones aniquilador incalculables esfumados vaporizados purificados volatilizando rentas predispuestas colindantes conjuntas irradicables o excedentes de transacciones truncas abortadas sin concretar ahogando sin nacer y estéril disueltos irrenunciables asimilables que evaporan rentas y disfrutes frustrando utilidades irrefutable irreemplazables y conjuntas no asimilables a ganadores aniquilando suma cero ineficiente asimétrica letal y destructiva generadas trágica asfixiada asimétrica e inexorables colosales irremediables e inocuas fútiles evaporadas exógenadamente y aniquiladas asoladoras estancadoras abismadoramente letárgicas puritanamente destructivas e insolucionables crónicas generadas colosalmente por extralimitaciones fijadoras monopolistas (donde P encastrado punitivo acaparador supera abismadoramente o disuade y castiga e intersecta superlativo marginal asimétricamente disuadiendo por sobre Cmg estipulativo de eficiencias limitantes coartando marginando transacciones desahuciadas o estranguladas expeliendo del ecosistema subyacente consumos factibles mutuamente idóneos benéficos y coartadoramente frustrantes irrecuperables asintóticos truncados abortados irredimibles evaporadas irrecuperables extirpados).</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Competencia Monopolística
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estructura de mercado caracterizada por la presencia de numerosos oferentes que comercializan productos diferenciados, permitiendo cierto control sobre el precio y beneficios económicos nulos en el largo plazo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Diferenciación de Producto
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estrategia donde las empresas producen bienes que son sustitutos cercanos pero no perfectos, otorgando a la firma una curva de demanda con pendiente negativa y poder de mercado residual.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Libre Entrada y Salida
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición estructural que permite el flujo de firmas hacia industrias con beneficios extraordinarios, actuando como mecanismo de ajuste dinámico hasta la desaparición de las rentas económicas.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Elasticidad Precio Cruzada
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Indicador que mide la sensibilidad de la demanda de una variedad ante cambios en los precios de productos competidores, determinando el grado de sustituibilidad en el mercado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Ingreso Marginal
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Variación del ingreso total ante el incremento unitario en la producción, el cual es inferior al precio en este modelo debido al efecto precio de las unidades inframarginales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Solución de Tangencia
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Punto de equilibrio de largo plazo donde la curva de demanda residual es tangente a la curva de costo total promedio, formalizando la condición de beneficios económicos nulos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Exceso de Capacidad
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Diferencia entre el nivel de producción de equilibrio y el nivel que minimiza el costo total promedio, resultante de producir en el tramo decreciente de la curva de costos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Markup
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Margen o brecha positiva existente entre el precio de mercado y el costo marginal de producción, reflejando la ineficiencia asignativa inherente al ejercicio del poder monopólico.
+                </p>
+            </div>
         </div>
     </div>
 </section>
