@@ -369,3 +369,25 @@ Cómo el comercio electrónico ha borrado fronteras geográficas, permitiendo a 
 1.  **Integración Tecnológica y de Negocio:** El temario enfatiza que la tecnología (hardware, software, redes) no es un ente aislado, sino que debe estar alineada con los **procesos de negocio** y la estrategia empresarial para generar **ventaja competitiva**. La evolución va desde sistemas aislados hacia la integración total y plataformas colaborativas (Web 2.0).
 2.  **Gestión de Datos como Activo Estratégico:** Se destaca la importancia crítica del ciclo de vida de los datos: desde su captura y almacenamiento (bases de datos, almacenamiento masivo) hasta su análisis (minería de datos, indicadores de gestión) para alimentar los **Sistemas de Soporte a la Decisión (DSS)** y mejorar la toma de decisiones.
 3.  **Evolución hacia la Conectividad Global:** El estudio abarca la transformación de infraestructuras rígidas a modelos flexibles y conectados (virtualización, computación en la nube, internet), culminando en el **comercio electrónico** global y la empresa interconectada digitalmente.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A7</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

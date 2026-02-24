@@ -158,3 +158,25 @@ En series de tiempo, la heterocedasticidad puede manifestarse como volatilidad c
 1.  **Fundamentos de MCO y Supuestos:** El método de Mínimos Cuadrados Ordinarios es la herramienta central para estimar relaciones lineales, garantizando estimadores insesgados y eficientes (BLUE) solo si se cumplen los supuestos de Gauss-Markov (homocedasticidad, no autocorrelación, exogeneidad).
 2.  **Diagnóstico y Corrección:** La violación de supuestos (heterocedasticidad, autocorrelación, endogeneidad) invalida la inferencia estadística estándar. Es obligatorio realizar contrastes (Durbin-Watson, White, Hausman) y aplicar correcciones como Mínimos Cuadrados Generalizados, Variables Instrumentales o errores robustos.
 3.  **Flexibilidad del Modelo:** El modelo lineal general se adapta a variables cualitativas mediante *dummies* y a dinámicas temporales mediante retardos, permitiendo modelar fenómenos complejos como estacionalidad, cambios estructurales y efectos de políticas en datos de corte transversal, series de tiempo y panel.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A19</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

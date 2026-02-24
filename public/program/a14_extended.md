@@ -199,3 +199,25 @@ Se refiere al reconocimiento y ejecución (*exequatur*) de sentencias dictadas e
 1.  **Fuentes y Sujetos:** El Derecho Internacional Público se nutre principalmente de Tratados y Costumbre internacional, regidos por principios como *pacta sunt servanda*. Aunque el Estado es el sujeto soberano por excelencia, la evolución jurídica ha reconocido la subjetividad (limitada) de Organizaciones Internacionales e individuos (especialmente en Derechos Humanos y Derecho Penal Internacional).
 2.  **Soberanía y Responsabilidad:** La soberanía estatal es la base del sistema, pero no es absoluta; está limitada por los derechos humanos y las normas imperativas (*ius cogens*). El incumplimiento de obligaciones internacionales genera Responsabilidad Internacional, con el deber de reparar el daño causado. El uso de la fuerza está prohibido, salvo legítima defensa o autorización del Consejo de Seguridad.
 3.  **Dimensión Privada:** El Derecho Internacional Privado regula las relaciones entre particulares con elementos extranjeros a través de normas de conflicto que determinan la ley aplicable y la competencia judicial. La nacionalidad es el punto de conexión central, y la cooperación procesal internacional es esencial para la eficacia de las sentencias extranjeras.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A14</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

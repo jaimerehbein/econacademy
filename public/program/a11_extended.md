@@ -222,3 +222,37 @@ Es la revisión de la Cuenta Pública realizada por la Cámara de Diputados a tr
 1.  **Fundamento Constitucional:** El Derecho Fiscal mexicano se cimienta en el artículo 31, fracción IV de la Constitución, que establece la obligación de contribuir al gasto público bajo los principios de legalidad, proporcionalidad, equidad y destino al gasto público [74], [75].
 2.  **Facultad Coactiva del Estado:** El sistema fiscal dota a la autoridad (SAT/SHCP) de facultades extraordinarias, como la "facultad económico-coactiva", que le permite cobrar créditos fiscales embargando y rematando bienes sin necesidad de una sentencia judicial previa, a través del Procedimiento Administrativo de Ejecución [52].
 3.  **Defensa del Contribuyente:** Frente al poder fiscal, el contribuyente cuenta con derechos fundamentales (audiencia, legalidad) y medios de defensa específicos: el recurso administrativo (revocación), el juicio contencioso administrativo (nulidad ante el TFJA) y, en última instancia, el Juicio de Amparo ante el Poder Judicial Federal [60], [76].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Estructura del Sistema Tributario</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+mindmap
+  root((Tributos))
+    Impuestos
+      Directos
+        Renta (IRPF / IS)
+        Patrimonio
+      Indirectos
+        IVA / IGV
+        Tasas Específicas
+    Tasas
+      Uso de Dominio Público
+      Servicios Administrativos
+    Contribuciones Especiales
+      Mejoras de Infraestructura
+      Seguridad Social
+    Elementos Contractuales
+      Sujeto Activo (Estado)
+      Sujeto Pasivo (Contribuyente)
+      Base Imponible
+      Hecho Imponible
+      Alicuota (Tasa %)
+```
+
+    </div>
+</div>

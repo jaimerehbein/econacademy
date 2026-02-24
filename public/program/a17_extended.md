@@ -202,3 +202,25 @@ La valoración posterior al cierre del ejercicio depende del tipo de partida:
 1.  **Regulación Global:** El IASB emite las NIIF con el objetivo de crear un lenguaje contable único, de alta calidad y comparable a nivel mundial, estructurado en un Marco Conceptual (principios) y Normas específicas (reglas), que las empresas deben adoptar para reflejar fielmente su realidad económica.
 2.  **Valoración y Reconocimiento:** La contabilidad internacional prioriza el fondo económico sobre la forma legal (ej. arrendamientos financieros, instrumentos compuestos). Los activos y pasivos se valoran generalmente a costo amortizado (instrumentos financieros básicos) o valor razonable (instrumentos de negociación, derivados, biológicos), y se someten a pruebas estrictas de deterioro.
 3.  **Moneda Extranjera:** La distinción entre partidas monetarias y no monetarias es crítica para el tratamiento de las diferencias de cambio; las monetarias ajustan sus saldos al tipo de cierre impactando en resultados, mientras que las no monetarias a costo histórico mantienen su valoración original, protegiendo el balance de la volatilidad cambiaria no realizada.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A17</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

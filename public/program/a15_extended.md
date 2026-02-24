@@ -349,3 +349,35 @@ La política fiscal en una economía abierta altera la composición de la demand
 1.  **Fundamentos y Objetivos:** La Macroeconomía I estudia el comportamiento agregado de la economía, centrándose en la determinación de la producción, el empleo y los precios. Su objetivo es entender y gestionar variables clave como el PIB, la inflación y el desempleo mediante instrumentos de política fiscal y monetaria.
 2.  **Modelos de Equilibrio:** El núcleo analítico es el modelo IS-LM (para economía cerrada) y su extensión Mundell-Fleming (para economía abierta). Estos modelos explican cómo interactúan los mercados de bienes y financieros para determinar la renta y la tasa de interés de equilibrio, y cómo la apertura externa añade restricciones y canales de transmisión (tipo de cambio, balanza de pagos).
 3.  **Eficacia de las Políticas:** La efectividad de las políticas económicas depende crucialmente del régimen cambiario y la movilidad de capitales. En economía abierta, la política fiscal es potente bajo tipo de cambio fijo pero débil bajo flexible, mientras que la política monetaria es potente bajo tipo de cambio flexible pero ineficaz bajo tipo de cambio fijo.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Equilibrio IS-LM y Demanda Agregada</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph TD
+    %% Modelo IS-LM Simplificado
+    subgraph El Laberinto Macroeconómico
+        IS[Curva IS: Sector Real] --> EQ((Equilibrio<br>Simbiótico P, Y))
+        LM[Curva LM: Sector Monetario] --> EQ
+        
+        EQ --> DA[Demanda Agregada]
+        OA[Oferta Agregada] --> EQ2{Equilibrio General}
+        DA --> EQ2
+        
+        EQ2 --> Y[PIB / Renta]
+        EQ2 --> INFL[Nivel de Precios]
+    end
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef curve fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    classDef eq fill:#1e40af,stroke:#93c5fd,stroke-width:2px,color:#fff,font-weight:bold
+    class IS,LM,DA,OA curve
+    class EQ,EQ2 eq
+```
+
+    </div>
+</div>

@@ -211,3 +211,22 @@ La ejecución se facilita mediante la **Convención de Nueva York de 1958**, rat
 1.  **Centralidad de la Autonomía de la Voluntad:** La contratación internacional se fundamenta en la libertad de las partes para elegir la ley aplicable (*lex contractus*) y el foro de resolución de disputas. Instrumentos como los Principios UNIDROIT, la Convención de Viena y el Reglamento Roma I reconocen esta autonomía, aunque con límites imperativos como el orden público y las leyes de policía.
 2.  **Diversidad Normativa y Uniformidad:** Existe una tensión entre la aplicación de leyes nacionales y la creación de un derecho uniforme (*lex mercatoria*, Convenciones de la ONU). Organismos como la CNUDMI (UNCITRAL) y la CCI trabajan para armonizar reglas (ej. INCOTERMS, Leyes Modelo), facilitando el comercio y reduciendo la incertidumbre jurídica.
 3.  **Prevalencia del Arbitraje y Retos Digitales:** El arbitraje comercial internacional se ha consolidado como el método idóneo de resolución de conflictos debido a la facilidad de ejecución de laudos (Convención de Nueva York). Paralelamente, la economía digital y el uso de tecnologías post-COVID plantean nuevos desafíos regulatorios en la formación de contratos, pagos electrónicos y validez de activos digitales.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Conceptual A30</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

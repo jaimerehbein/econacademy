@@ -143,3 +143,50 @@ Es el armazón formal de la empresa. Define cómo se dividen, agrupan y coordina
 1.  **La Empresa como Sistema:** La empresa no es un ente aislado, sino un **sistema abierto** que interactúa constantemente con un entorno general y específico; su éxito depende de la gestión eficiente de sus subsistemas y de su adaptación a las fuerzas externas [1].
 2.  **El Proceso Administrativo:** La gestión se estructura en funciones clave interconectadas: **planificación** (definir objetivos), **organización** (estructurar recursos), **dirección** (liderar personas) y **control** (medir resultados), formando un ciclo continuo [2].
 3.  **Herramientas Estratégicas:** Para la toma de decisiones efectiva, es vital el uso de herramientas de análisis (como DAFO) y de control (como el **Cuadro de Mando Integral**), que permiten alinear las operaciones diarias con la visión estratégica a largo plazo [2].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Estructura Organizacional y Cadena de Valor</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph TD
+    %% Estructura Organizacional
+    subgraph Jerarquía Corporativa
+        CEO[Dirección General / CEO] --> DIR_FIN[Dir. Finanzas]
+        CEO --> DIR_OP[Dir. Operaciones]
+        CEO --> DIR_MKT[Dir. Marketing]
+        DIR_FIN --> CONT[Contabilidad]
+        DIR_FIN --> TES[Tesorería]
+        DIR_OP --> PROD[Producción]
+        DIR_OP --> LOG[Logística]
+        DIR_MKT --> VTAS[Ventas]
+        DIR_MKT --> PUB[Publicidad]
+    end
+
+    %% Flujo de Cadena de Valor de Porter Simplificada
+    subgraph Cadena de Valor
+        INFRA[Infraestructura] --> LOG_IN
+        RRHH[Recursos Humanos] --> LOG_IN
+        DES[Desarrollo Tecnológico] --> LOG_IN
+        COMPRAS[Compras] --> LOG_IN
+
+        LOG_IN[Logística de Entrada] --> OP[Operaciones]
+        OP --> LOG_OUT[Logística de Salida]
+        LOG_OUT --> MKT_VTAS[Marketing y Ventas]
+        MKT_VTAS --> SERV[Servicios Post-Venta]
+        
+        SERV -.-> MARGEN((MARGEN DE<br>GANANCIA))
+    end
+    
+    classDef default fill:#1e1e2f,stroke:#10b981,stroke-width:1px,color:#d1d5db
+    classDef main fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#fff
+    classDef accent fill:#8b5cf6,stroke:#a78bfa,stroke-width:2px,color:#fff,font-weight:bold
+    class CEO,MARGEN accent
+    class DIR_FIN,DIR_OP,DIR_MKT main
+```
+
+    </div>
+</div>

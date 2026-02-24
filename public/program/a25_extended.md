@@ -228,3 +228,22 @@ Las transacciones se someten a un escrutinio estricto de valoración. Se aplica 
 ### 25.10.3. Transparencia informativa como declaración de buena praxis
 
 La buena praxis exige la revelación voluntaria de las estructuras de propiedad y la cadena de control. Los intermediarios fiscales (asesores, abogados) están obligados en muchas jurisdicciones (como bajo la directiva DAC6 en Europa o normas similares inspiradas en BEPS Acción 12) a reportar esquemas de planificación fiscal agresiva que involucren paraísos fiscales, aumentando el riesgo reputacional y legal para quienes operan en la opacidad [75].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Conceptual A25</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

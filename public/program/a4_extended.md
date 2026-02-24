@@ -181,3 +181,47 @@ En el derecho mexicano, la interpretación debe buscar el sentido propio de las 
 1.  **Naturaleza del Derecho:** El derecho se define fundamentalmente como un sistema de normas bilaterales, externas, coercibles y heterónomas que regulan la conducta social, distinguiéndose claramente de la moral y los convencionalismos sociales.
 2.  **Estructura Estatal:** La vigencia y aplicación del derecho están intrínsecamente ligadas al Estado, el cual, mediante su poder soberano, crea las leyes (fuentes formales) y garantiza su cumplimiento a través de la coacción, organizando a la población en un territorio determinado.
 3.  **Técnica Jurídica:** La aplicación del derecho no es mecánica; requiere de una técnica jurídica rigurosa para interpretar las normas, integrar lagunas mediante métodos lógicos y analógicos, y resolver conflictos de leyes en el tiempo y el espacio, asegurando la justicia y seguridad jurídica.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Jerarquía de las Normas (Pirámide de Kelsen)</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph TD
+    classDef level1 fill:#4c1d95,stroke:#a78bfa,stroke-width:2px,color:#fff,font-weight:bold
+    classDef level2 fill:#312e81,stroke:#818cf8,stroke-width:1px,color:#e2e8f0
+    classDef level3 fill:#1e3a8a,stroke:#60a5fa,stroke-width:1px,color:#cbd5e1
+    classDef level4 fill:#1e1b4b,stroke:#4f46e5,stroke-width:1px,color:#94a3b8
+
+    CONST[I. Constitución Política / Bloque de Constitucionalidad]
+    CONST --> LEY[II. Leyes Normativas]
+    
+    subgraph Leyes
+        D_LEGISLATIVOS[Decretos Legislativos]
+        L_ORGANICAS[Leyes Orgánicas]
+        L_ORDINARIAS[Leyes Ordinarias]
+    end
+    LEY --> Leyes
+    
+    Leyes --> REG[III. Decretos y Reglamentos]
+    
+    subgraph Actos Administrativos
+        RES_SUP[Resoluciones Supremas]
+        RES_MIN[Resoluciones Ministeriales]
+        RES_DIR[Resoluciones Directorales]
+    end
+    REG --> Actos Administrativos
+    
+    Actos Administrativos --> SENT[IV. Sentencias, Contratos y Actos Jurídicos Individualizados]
+
+    class CONST level1
+    class LEY,D_LEGISLATIVOS,L_ORGANICAS,L_ORDINARIAS level2
+    class REG,RES_SUP,RES_MIN,RES_DIR level3
+    class SENT level4
+```
+
+    </div>
+</div>

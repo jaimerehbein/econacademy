@@ -253,3 +253,22 @@ En el modelo ricardiano simple con rendimientos constantes (costes constantes), 
 La principal limitación de asumir rendimientos constantes es que no permite explicar el comercio basado en economías de escala (comercio intraindustrial) ni los clústeres industriales. Si los rendimientos fueran siempre constantes, no habría incentivos para concentrar la producción en un solo lugar para abastecer al mercado mundial; la producción podría estar dispersa sin pérdida de eficiencia [72].
 
 Además, este supuesto ignora las dinámicas de aprendizaje ("learning by doing") y las externalidades de red que son cruciales en la economía moderna. Por ello, aunque los rendimientos constantes son útiles para modelos pedagógicos y de base (como H-O), son insuficientes para describir sectores de alta tecnología o industrias de redes donde el tamaño y la historia importan decisivamente para la competitividad internacional [53], [77].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Conceptual A29</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

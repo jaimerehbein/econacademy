@@ -160,3 +160,22 @@ La revolución tecnológica tiene implicaciones profundas en la productividad y 
 1.  **Fundamentos Teóricos y Modelos:** La política económica se sustenta en modelos teóricos (Keynesianos, Neoclásicos, Nueva Macroeconomía Clásica) que determinan el diagnóstico de problemas como el desempleo y la inflación. La elección del modelo es crucial, ya que define si la intervención estatal es vista como necesaria (para corregir fallos de mercado y coordinar la demanda) o ineficaz (debido a expectativas racionales y la neutralidad del dinero).
 2.  **Objetivos e Instrumentos:** Los objetivos centrales son el crecimiento sostenido, la estabilidad de precios y la redistribución equitativa. Para lograrlos, las autoridades utilizan instrumentos fiscales (gasto, impuestos) y monetarios (tasas de interés, oferta monetaria), enfrentando desafíos como la inconsistencia temporal, la necesidad de credibilidad y las restricciones impuestas por la globalización y los mercados financieros.
 3.  **Desafíos del Desarrollo y Sostenibilidad:** El desarrollo económico trasciende el mero crecimiento del PIB, integrando dimensiones sociales y ambientales. Las políticas actuales deben abordar la desigualdad, la vulnerabilidad externa de los países en desarrollo y la sostenibilidad ambiental mediante incentivos a la innovación, fiscalidad verde y cooperación internacional para la transferencia tecnológica.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Conceptual A27</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

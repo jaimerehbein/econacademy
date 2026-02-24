@@ -286,3 +286,25 @@ Préstamos donde el tipo de interés se revisa periódicamente según un índice
 1.  **Fundamentos y Equivalencia:** Las operaciones financieras se basan en el intercambio de capitales en diferentes momentos del tiempo. Para que sean viables, deben cumplir el principio de **equivalencia financiera**, donde el valor de la prestación y la contraprestación se igualan bajo una ley financiera (simple o compuesta) acordada.
 2.  **Leyes Financieras:** La **capitalización simple** se utiliza para operaciones a corto plazo (crecimiento lineal), mientras que la **capitalización compuesta** es la norma para el largo plazo y la valoración de rentas, caracterizándose por el carácter acumulativo de los intereses (crecimiento exponencial).
 3.  **Amortización de Préstamos:** Existen diversos métodos para devolver un capital ajeno. Destacan el **sistema francés** (pagos totales constantes, con interés decreciente y amortización creciente) y el **sistema americano** (pago periódico solo de intereses y devolución del capital al final).
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A16</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

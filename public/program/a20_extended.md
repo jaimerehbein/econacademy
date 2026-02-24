@@ -170,3 +170,25 @@ La Organización Internacional de Normalización (ISO) ha desarrollado estándar
 La Declaración tripartita de la Organización Internacional del Trabajo (OIT) es el único instrumento global sobre política social acordado por gobiernos, empleadores y trabajadores. Establece directrices para las empresas multinacionales, los gobiernos y las organizaciones de empleadores y trabajadores en áreas como el empleo, la formación, las condiciones de trabajo y vida, y las relaciones laborales.
 
 Este instrumento busca maximizar la contribución positiva de las empresas al progreso económico y social, y minimizar las dificultades que pueden derivarse de sus operaciones. Se alinea con los principios fundamentales de la RSC, exigiendo el respeto a la libertad de asociación, la negociación colectiva, la abolición del trabajo forzoso e infantil y la no discriminación en el empleo [72][73]. Es un pilar normativo internacional que guía el comportamiento ético en el ámbito laboral global.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A20</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

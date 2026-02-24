@@ -237,3 +237,22 @@ En cuanto a la comunicación y promoción, la publicidad internacional debe sort
 La gestión integral del marketing internacional requiere organización y control. Esto implica definir si la toma de decisiones será centralizada en la casa matriz (asegurando coherencia global) o descentralizada en las filiales (asegurando reactividad local) [63].
 
 El control se ejerce mediante indicadores clave de desempeño (KPIs) adaptados al contexto internacional, como cuota de mercado por país, rentabilidad por línea de producto global y retorno sobre la inversión en marketing. El presupuesto de marketing internacional debe asignar recursos eficientemente entre diversos mercados con diferentes potenciales y costos de medios [62], [64]. El uso de sistemas CRM (Customer Relationship Management) globales permite gestionar la relación con clientes a escala mundial, integrando datos para mejorar la oferta de valor [62].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Conceptual A23</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

@@ -153,3 +153,22 @@ En el enfoque competitivo moderno, el objetivo no es solo maximizar el beneficio
 1.  **Orientación a la Toma de Decisiones:** La Contabilidad Directiva se distingue de la financiera por su enfoque hacia los usuarios internos (directivos), priorizando la relevancia y oportunidad de la información para la planificación, el control y la toma de decisiones estratégicas y operativas, por encima de la estricta precisión legalista.
 2.  **Dualidad de Sistemas de Costes:** Existen metodologías diferenciadas según el objetivo perseguido; el **Costeo Directo** (útil para decisiones a corto plazo y análisis de márgenes) separa costes fijos y variables, mientras que el **Coste Completo** (necesario para valoración de inventarios externa) imputa la totalidad de los costes a los productos.
 3.  **Gestión y Control Presupuestario:** El ciclo de gestión se basa en la planificación (establecimiento de estándares y presupuestos) y el control posterior mediante el análisis de desviaciones, permitiendo a la organización corregir ineficiencias, evaluar el desempeño de los centros de responsabilidad y adaptarse a un entorno competitivo e incierto.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A37</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

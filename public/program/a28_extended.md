@@ -146,3 +146,22 @@ Un consorcio de exportación es una forma de cooperación donde varias empresas 
 1.  **Dicotomía Estandarización vs. Adaptación:** La estrategia de marketing internacional gira en torno a la decisión de estandarizar los elementos de la mezcla de marketing (producto, precio, plaza, promoción) para lograr economías de escala y una imagen global consistente, o adaptarlos para satisfacer las necesidades culturales, legales y económicas específicas de cada mercado local.
 2.  **Modos de Entrada y Compromiso:** La internacionalización es un proceso evolutivo. Las empresas suelen comenzar con modos de bajo compromiso como la exportación (directa o indirecta) y, a medida que adquieren experiencia y conocimientos, pueden avanzar hacia modos de mayor control y riesgo, como las licencias, empresas conjuntas (joint ventures) o la inversión directa extranjera.
 3.  **Importancia del Entorno y la Investigación:** El éxito en los mercados internacionales depende de un análisis profundo del entorno PEST (Político, Económico, Social, Tecnológico) y de una investigación de mercados rigurosa para evitar la miopía cultural. Esto incluye entender las barreras arancelarias y no arancelarias, las normativas de calidad (como el marcado CE) y la correcta aplicación de los Incoterms para la logística y fijación de precios.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Conceptual A28</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

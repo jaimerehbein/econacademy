@@ -188,3 +188,25 @@ La **Partida Doble** se basa en el principio de dualidad: no hay deudor sin acre
 1.  **Fundamento Científico y Dualidad:** La contabilidad es una ciencia social aplicada que trasciende el mero registro técnico. Su pilar metodológico es la **partida doble**, la cual, mediante el principio de dualidad (Activo = Pasivo + Patrimonio Neto), garantiza el equilibrio matemático y conceptual en el registro de todas las transacciones.
 2.  **Estructura Patrimonial y de Resultados:** El sistema contable diferencia claramente entre las **cuentas de balance** (Activo, Pasivo y Patrimonio), que reflejan la riqueza estática y financiera de la entidad, y las **cuentas de resultados** (Ingresos y Gastos), que explican la dinámica de la gestión y la generación de beneficios o pérdidas durante un período.
 3.  **Registro Sistemático y Normado:** El proceso contable requiere un registro cronológico y sistemático de las operaciones comerciales, soportado en documentación real y regido por principios (como el devengo) y reglas estrictas de cargo y abono, asegurando así una información fiable y relevante para la toma de decisiones.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A8</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

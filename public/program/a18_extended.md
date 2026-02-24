@@ -425,3 +425,25 @@ Focus groups, entrevistas a profundidad y observación etnográfica para obtener
 1.  **Fundamentos y Evolución:** La mercadotecnia ha evolucionado de un enfoque centrado en la producción y las ventas hacia una orientación total al mercado y al cliente, integrando actualmente la responsabilidad social y las herramientas digitales para crear valor y relaciones a largo plazo.
 2.  **Estrategia y Segmentación:** El éxito depende de dividir el mercado heterogéneo en segmentos homogéneos (geográficos, demográficos, psicográficos) para dirigir estrategias específicas (posicionamiento) y aplicar la mezcla de mercadotecnia (4Ps) de manera efectiva.
 3.  **Investigación y Decisión:** La toma de decisiones se sustenta en sistemas de información e investigación de mercados (cuantitativa y cualitativa) que permiten entender el comportamiento del consumidor y el entorno competitivo para minimizar riesgos.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A18</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

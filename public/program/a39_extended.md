@@ -113,3 +113,22 @@ Existen tipos específicos de conflictos psicológicos que afectan al individuo 
 En un entorno globalizado, la negociación intercultural se ha convertido en una competencia crítica. La cultura influye profundamente en cómo las personas comunican, cómo ven el tiempo, cómo entienden la jerarquía y cómo toman decisiones. Lo que en una cultura se considera una comunicación directa y honesta, en otra puede ser visto como grosería o agresividad. La negociación internacional requiere una "inteligencia cultural" que permita al directivo adaptar su estilo y decodificar correctamente las señales de la contraparte [64], [65].
 
 Factores como el protocolo, el uso del espacio, el significado del silencio, la importancia de las relaciones personales frente a los contratos escritos, y la percepción del tiempo (monocrónico vs. policrónico) son variables que pueden hacer fracasar una negociación si no se comprenden. El directivo debe desarrollar habilidades de interacción bicultural, aprender a reconocer las diferencias éticas y culturales, y poseer la flexibilidad para ajustar su estrategia de negociación para construir puentes de entendimiento y lograr acuerdos beneficiosos en contextos diversos [66], [67], [65].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A39</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

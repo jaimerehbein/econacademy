@@ -186,3 +186,33 @@ El reto es regular el "shadow banking" (banca en la sombra) y los paraísos fisc
 Este subtema aborda la tensión contemporánea entre lo global y lo local. La "Globalización" se refiere a la estandarización y la integración universal de mercados y culturas. En contraste, la "Glocalización" (término popularizado por el sociólogo Roland Robertson) describe la adaptación de productos y estrategias globales a las condiciones, culturas y regulaciones locales. En finanzas, esto implica que, aunque los bancos son globales, deben adaptarse a regulaciones y riesgos locales específicos ("pensar globalmente, actuar localmente") [5].
 
 La tensión Glocalización vs. Globalización también refleja la reacción política ante la pérdida de soberanía. Mientras la globalización financiera presiona por reglas uniformes, la política local exige control sobre el destino económico nacional. La glocalización surge como una síntesis necesaria: mantener la conectividad global pero respetando y adaptándose a las especificidades y necesidades de desarrollo locales, reconociendo que un modelo único ("one size fits all") rara vez funciona en macroeconomía internacional [5].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Geopolítica y Dependencia</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+mindmap
+  root((Sistema Mundo))
+    Centro Hegemónico
+      Capitales Tecnológicos
+      Financiarización Global
+      Monopolios Extractivos
+    Periferia (Subyugada)
+      Exportador Materias Primas
+      Mano de Obra Barata
+      Deuda Externa Asfixiante
+    Semi-Periferia
+      Industrialización Tardía
+      Amortiguador Sistémico
+    Mecanismos de Transferencia
+      Deterioro Términos Intercambio
+      Fuga de Ganancias
+      Rentabilidad Asimétrica
+```
+
+    </div>
+</div>

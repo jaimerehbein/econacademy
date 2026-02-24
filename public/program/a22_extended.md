@@ -143,3 +143,35 @@ La gestión tradicional de expatriados (asignaciones de largo plazo para control
 1.  **Estrategias Diversas:** La internacionalización no es lineal; varía desde modelos graduales (Uppsala) hasta acelerados (Born Global), requiriendo estrategias adaptadas (Global, Multidoméstica o Transnacional) según la presión por integración o adaptación local.
 2.  **Rol de los Activos Intangibles:** La tecnología, la reputación de marca y el conocimiento son los determinantes principales para que una empresa pueda competir en el exterior, ya sea exportando o invirtiendo directamente.
 3.  **Gestión del Talento Global:** La administración de recursos humanos es crítica y estratégica, evolucionando desde la simple reubicación de expatriados hacia una gestión flexible de la movilidad, el desarrollo de líderes globales y la subcontratación de servicios especializados (impuestos, inmigración) para manejar la complejidad regulatoria.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Diagrama del Crecimiento de Solow-Swan</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph TD
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef main fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    classDef output fill:#1e40af,stroke:#93c5fd,stroke-width:2px,color:#fff,font-weight:bold
+
+    K[Acervo de Capital] --> Y((Producción Total Y))
+    L[Fuerza Laboral] --> Y
+    A[Progreso Tecnológico] --> Y
+    
+    Y --> C[Consumo (C)]
+    Y --> S{Ahorro = Inversión (S=I)}
+    
+    S --> DEP[Depreciación]
+    S --> GRW[Aumento Poblacional]
+    
+    S -->|Inyección Neta| K
+    
+    class K,L,A main
+    class Y output
+```
+
+    </div>
+</div>

@@ -216,3 +216,25 @@ Tienen la forma $y_{t+1} + ay_t = c$. Su solución general consta de una soluci�
 1.  **Fundamentos Multivariables y Estáticos:** El temario comienza estableciendo la base matemática necesaria para la economía moderna mediante el cálculo en $\mathbb{R}^n$ (funciones vectoriales, cóncavas, homogéneas) y la teoría de optimización estática (multiplicadores de Lagrange y condiciones de Kuhn-Tucker), herramientas indispensables para modelar el comportamiento racional de agentes que maximizan utilidad o beneficios bajo restricciones.
 2.  **Integración y Dinámica Continua:** Se incorpora el cálculo integral (Riemann) no solo para mediciones de áreas (excedentes, probabilidad), sino como paso previo a la dinámica continua modelada por Ecuaciones Diferenciales Ordinarias (EDO), las cuales describen trayectorias de crecimiento, acumulación de capital y estabilidad de precios en tiempo continuo.
 3.  **Dinámica Discreta:** El estudio culmina con las Ecuaciones en Diferencias, la contraparte discreta de las EDO, cruciales para el análisis de datos económicos periódicos y modelos de ciclos económicos o expectativas adaptativas, permitiendo a los economistas trabajar con series de tiempo reales.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A9</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

@@ -207,3 +207,25 @@ Además, se observaron conflictos de interés, donde entidades asesoraban a clie
 Los paraísos fiscales jugaron un rol en la crisis al proporcionar opacidad y permitir la evasión de regulaciones financieras y fiscales. Estos territorios de baja tributación y alto secreto bancario fueron utilizados por instituciones financieras y grandes corporaciones para crear estructuras complejas fuera de balance (off-shore) donde alojar activos de riesgo o eludir requerimientos de capital [82].
 
 La existencia de estos "agujeros negros" financieros dificulta la supervisión global y la trazabilidad de los flujos de capital, facilitando también el lavado de dinero. Tras la crisis, ha habido una presión internacional creciente (liderada por el G20 y la OCDE) para aumentar la transparencia, el intercambio de información fiscal y reducir el uso de paraísos fiscales como refugio para prácticas financieras desestabilizadoras [82].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A6</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

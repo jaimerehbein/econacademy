@@ -370,3 +370,49 @@ Herramientas del Estado para influir en el comercio, como aranceles, cuotas, sub
 1.  **Escasez y Elección:** La economía gestiona recursos limitados para necesidades ilimitadas, utilizando el coste de oportunidad y modelos como la Frontera de Posibilidades de Producción para entender la asignación eficiente.
 2.  **Mecanismo de Mercado:** La interacción entre la Oferta y la Demanda determina los precios y cantidades de equilibrio; sin embargo, existen fallos de mercado (monopolios, externalidades) que justifican la intervención del sector público.
 3.  **Dimensiones Micro y Macro:** Mientras la microeconomía estudia las decisiones individuales y las estructuras de mercado, la macroeconomía analiza los agregados globales (PIB, inflación, empleo) y su regulación mediante políticas fiscales y monetarias.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Frontera de Posibilidades de Producción y Flujo Circular</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-12">
+    <div class="bg-gray-900/50 p-6 rounded-2xl border border-gray-700/50">
+        <h4 class="text-emerald-400 font-bold mb-4">Frontera de Posibilidades de Producción (FPP)</h4>
+        <div class="text-gray-300 text-sm mb-4">
+            Muestra las cantidades máximas de producción que puede obtener una economía, dados sus conocimientos tecnológicos y la cantidad de inputs disponibles.
+        </div>
+```mermaid
+xychart-beta
+    title "FPP: Trade-off entre dos bienes"
+    x-axis "Bienes de Consumo (X)" [0, 10, 20, 30, 40, 50]
+    y-axis "Bienes de Capital (Y)" 0 --> 50
+    line [50, 48, 42, 32, 18, 0]
+```
+        <p class="text-xs text-gray-500 mt-2 italic">A lo largo de la curva: Eficiencia. Por dentro: Ineficiencia. Por fuera: Inalcanzable.</p>
+    </div>
+    <div class="bg-gray-900/50 p-6 rounded-2xl border border-gray-700/50">
+        <h4 class="text-emerald-400 font-bold mb-4">Flujo Circular de la Renta</h4>
+```mermaid
+flowchart LR
+    HOG[Hogares] <-->|Gasto en Consumo| M_BS[Mercado de Bienes<br>y Servicios]
+    M_BS <-->|Ingresos| EMP[Empresas]
+    EMP <-->|Salarios, Rentas, Bº| M_FP[Mercado de Factores<br>de Producción]
+    M_FP <-->|Rentas (Ingreso)| HOG
+
+    HOG -.->|Trabajo, Tierra, Capital| M_FP
+    M_FP -.->|Factores productivos| EMP
+    EMP -.->|Bienes y Servicios| M_BS
+    M_BS -.->|Bienes comprados| HOG
+    
+    classDef default fill:#1e1e2f,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef market fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class M_BS,M_FP market
+```
+    </div>
+</div>
+
+    </div>
+</div>

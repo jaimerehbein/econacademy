@@ -195,3 +195,22 @@ Sin embargo, en el momento del rescate (jubilación, invalidez, etc.), las prest
 El marco tributario de las propias Instituciones de Inversión Colectiva (IIC) es un régimen especial dentro del Impuesto sobre Sociedades. Para garantizar la neutralidad fiscal y evitar la doble imposición (que el fondo tribute por los beneficios y luego el partícipe vuelva a tributar), los Fondos de Inversión y las SICAV que cumplen con los requisitos de número de partícipes (mínimo 100) y capital mínimo tributan a un tipo de gravamen reducido del **1%** en el Impuesto sobre Sociedades [91], [92], [93].
 
 Este régimen fiscal especial es fundamental para la competitividad de la industria de inversión colectiva, ya que permite que la rentabilidad bruta de los activos llegue casi íntegra al valor liquidativo, tributando el inversor final solo cuando retira su dinero. Además, la normativa contempla la eliminación del "peaje fiscal" para permitir los traspasos sin coste fiscal, fomentando la competencia y la movilidad de los inversores entre distintas gestoras y productos [41], [94].
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A40</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

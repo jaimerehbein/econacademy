@@ -227,3 +227,43 @@ Es un concepto central en la teoría del riesgo clásica (modelo de Cramér-Lund
 
 ### 31.10.4. Políticas de dividendos
 La política de dividendos afecta directamente la solvencia. Distribuir beneficios reduce el superávit disponible para absorber pérdidas futuras. Los modelos de solvencia optimizan esta decisión: buscan maximizar los dividendos entregados a los accionistas sujeto a la restricción de mantener la probabilidad de ruina por debajo de un umbral regulatorio o de apetito de riesgo interno. En regímenes modernos, el reparto de dividendos suele estar condicionado al cumplimiento de ratios de cobertura de capital de solvencia obligatorio (SCR).
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Balanza de Pagos y Tipo de Cambio</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph TD
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef acc fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    classDef def fill:#7f1d1d,stroke:#f87171,stroke-width:2px,color:#fff
+    classDef sur fill:#064e3b,stroke:#34d399,stroke-width:2px,color:#fff
+
+    BP[Balanza de Pagos Nacional] --> CC[Cuenta Corriente]
+    BP --> CF[Cuenta Financiera y de Capital]
+    BP --> ER[Errores y Omisiones]
+    
+    CC --> X[Exportaciones (Bienes y Servicios)]
+    CC --> M[Importaciones (Bienes y Servicios)]
+    CC --> R_P[Rentas Primarias y Secundarias]
+    
+    CF --> IED[Inversión Extranjera Directa]
+    CF --> ICP[Inversión de Cartera]
+    CF --> OTR[Otras Inversiones]
+    CF --> RES[Variación de Reservas Internacionales]
+    
+    X --> SURG(Superávit)
+    IED --> SURG
+    
+    M --> DEF(Déficit)
+    
+    class CC,CF acc
+    class SURG sur
+    class DEF def
+```
+
+    </div>
+</div>

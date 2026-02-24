@@ -195,3 +195,22 @@ La comunicación interna eficaz reduce la incertidumbre, combate los rumores y a
 A pesar de las herramientas disponibles, existen barreras persistentes que dificultan la comunicación empresarial. Estas pueden ser físicas (ubicación geográfica, ruido), semánticas (jergas técnicas, idiomas), psicológicas (desconfianza, prejuicios) o administrativas (exceso de burocracia, silos departamentales) [74]. Los silos, en particular, impiden que la información fluya entre departamentos, reduciendo la eficiencia y la colaboración.
 
 Superar estas barreras requiere un esfuerzo consciente de la dirección. Implica simplificar estructuras, fomentar una cultura de transparencia y formar a los empleados en habilidades comunicativas. La tecnología puede ayudar a derribar barreras físicas, pero las barreras culturales y psicológicas requieren liderazgo, empatía y una voluntad constante de construir puentes entre los diferentes niveles y áreas de la organización.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A34</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

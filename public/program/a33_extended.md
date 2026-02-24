@@ -165,3 +165,22 @@ A diferencia de otros países que privatizaron agresivamente, Brasil mantuvo un 
 1.  **La Trampa del Ingreso Medio:** El principal desafío para las economías emergentes (como las latinoamericanas) es superar la "trampa del ingreso medio", caracterizada por la incapacidad de sostener altas tasas de crecimiento a largo plazo y transitar hacia economías avanzadas. Esto requiere diversificar exportaciones, mejorar la calidad educativa y fortalecer instituciones, más allá de la simple acumulación de factores.
 2.  **Vulnerabilidad Externa y Macroeconomía:** Países como Perú, Chile y Brasil dependen fuertemente de las condiciones externas (precios de materias primas y demanda de China). La experiencia reciente sugiere que ante choques externos permanentes (caída de términos de intercambio), las políticas de "reactivación" de corto plazo son inefectivas y se deben priorizar políticas de crecimiento de largo plazo y ajustes estructurales.
 3.  **Reformas Inconclusas y Desigualdad:** A pesar de periodos de bonanza y reformas de mercado (apertura comercial en México, privatizaciones en Chile), la región mantiene altos niveles de desigualdad y sistemas de protección social segmentados. El éxito futuro depende de construir consensos políticos para reformas de "segunda generación" que mejoren la competitividad, la innovación y la cohesión social.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A33</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

@@ -173,3 +173,35 @@ La **Distribución Normal** (Campana de Gauss) es la más importante. Definida p
 1.  **Proceso Estadístico Integral:** La asignatura abarca desde la recolección descriptiva y visualización de datos (tablas, histogramas, medidas de tendencia central y dispersión) hasta el análisis inferencial, permitiendo transformar datos brutos en información estratégica para la toma de decisiones.
 2.  **Fundamento Probabilístico:** Se establece una base sólida en teoría de probabilidad (axiomas, variables aleatorias y funciones de distribución), diferenciando estrictamente entre modelos discretos (Binomial, Poisson) y continuos, con énfasis central en la Distribución Normal y el Teorema Central del Límite.
 3.  **Herramientas de Análisis:** Se integran herramientas analíticas para una y dos variables (regresión, correlación, tablas de contingencia), así como métodos para el análisis temporal (números índices y series temporales), apoyados por el uso de tecnologías como Excel y SPSS para el procesamiento eficiente.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Distribución Normal Estadística</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+<div class="my-10 bg-gray-900/60 p-8 rounded-3xl border border-blue-500/20">
+    <h3 class="text-blue-400 font-bold text-xl mb-6">La Campana de Gauss (Distribución Normal)</h3>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+        <div>
+            <div class="font-mono text-sm text-center py-4 bg-black/50 rounded-lg mb-4">
+                $$f(x) = \frac{1}{\sigma \sqrt{2\pi}} e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}$$
+            </div>
+            <p class="text-gray-300 text-sm mb-4">
+                El pilar paramétrico de la inferencia estadística cuantitativa. Su simetría absoluta dictamina probabilísticamente dónde orbita la manada muestral respecto a su centro de gravedad ($\mu$) y su esquizofrenia volátil ($\sigma$).
+            </p>
+        </div>
+        <div class="bg-black/40 rounded-xl p-4 border border-gray-700">
+            <h4 class="text-blue-300 font-bold text-sm mb-3">Postulados de Dispersión Empírica:</h4>
+            <ul class="space-y-2 text-sm text-gray-400 font-mono">
+                <li><span class="text-purple-400">[μ ± 1σ]</span> → Aglutina ≈ 68.2% del acervo.</li>
+                <li><span class="text-purple-500">[μ ± 2σ]</span> → Aglutina ≈ 95.4% del acervo.</li>
+                <li><span class="text-purple-600">[μ ± 3σ]</span> → Aglutina ≈ 99.7% del acervo.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>

@@ -239,3 +239,60 @@ Desde finales del siglo XX, la economía mundial ha experimentado una integraci�
 1.  **Evolución Estructural:** La historia económica traza la transformación de los sistemas productivos desde la revolución neolítica agraria, pasando por el feudalismo y el mercantilismo, hasta el capitalismo industrial y la globalización actual, destacando cómo la tecnología y las instituciones moldean el desarrollo.
 2.  **Hegemonía y Crisis:** El temario resalta el ascenso y caída de potencias económicas (desde los imperios antiguos hasta la hegemonía británica y luego estadounidense) y cómo las crisis (Bajomedieval, Crack del 29) actúan como catalizadores de cambios profundos en la política y estructura económica mundial.
 3.  **Integración Global:** Se evidencia una tendencia secular hacia la integración de mercados globales, desde las antiguas rutas comerciales hasta la moderna globalización financiera y comercial, proceso interrumpido solo por grandes conflictos bélicos que reconfiguran el orden internacional.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Fallas del Mercado e Intervención Pública</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+<div class="my-10 bg-gray-900/60 p-8 rounded-3xl border border-blue-500/20">
+    <h3 class="text-blue-400 font-bold text-xl mb-6">Taxonomía de las Fallas Arquitectónicas del Mercado</h3>
+    
+    <div class="space-y-6">
+        <div class="p-5 bg-black/40 rounded-xl border border-gray-700">
+            <h4 class="text-red-400 font-bold mb-2 flex items-center gap-2">
+                <span class="bg-red-500/20 px-2 py-0.5 rounded text-xs">1</span> 
+                Externalidades
+            </h4>
+            <p class="text-gray-300 text-sm">
+                Colisiones asimétricas no internalizadas en los precios. 
+                <span class="text-gray-400 italic">Ej: Contaminación exuda costos sociales marginales mayores al costo privado, forzando la inyección de **impuestos pigouvianos**.</span>
+            </p>
+        </div>
+        
+        <div class="p-5 bg-black/40 rounded-xl border border-gray-700">
+            <h4 class="text-yellow-400 font-bold mb-2 flex items-center gap-2">
+                <span class="bg-yellow-500/20 px-2 py-0.5 rounded text-xs">2</span> 
+                Bienes Públicos
+            </h4>
+            <p class="text-gray-300 text-sm">
+                Condenados por la **no-exclusión** y la **no-rivalidad**. El mercado libre falla letalmente por el incentivo parásito (free-rider), exigiendo la provisión asimiladora del Estado.
+            </p>
+        </div>
+        
+        <div class="p-5 bg-black/40 rounded-xl border border-gray-700">
+            <h4 class="text-purple-400 font-bold mb-2 flex items-center gap-2">
+                <span class="bg-purple-500/20 px-2 py-0.5 rounded text-xs">3</span> 
+                Información Asimétrica
+            </h4>
+            <p class="text-gray-300 text-sm">
+                Ceguera y opacidad fútil donde una parte ostenta presciencia sobre la otra. Detona **Selección Adversa** ex-ante y **Riesgo Moral** ex-post en mercados securitizadores o crediticios.
+            </p>
+        </div>
+        
+        <div class="p-5 bg-black/40 rounded-xl border border-gray-700">
+            <h4 class="text-cyan-400 font-bold mb-2 flex items-center gap-2">
+                <span class="bg-cyan-500/20 px-2 py-0.5 rounded text-xs">4</span> 
+                Poder de Mercado (Monopolios)
+            </h4>
+            <p class="text-gray-300 text-sm">
+                La tiranía del precio dictaminado. Destruye el excedente del consumidor asintóticamente al comprimir las cantidades (Q) por debajo del óptimo paretiano dictado en la alquimia de la Competencia Perfecta.
+            </p>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>

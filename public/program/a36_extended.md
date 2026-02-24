@@ -182,3 +182,22 @@ Un subconjunto del riesgo país. Se refiere específicamente al riesgo de que el
 1.  **Estructura del Sistema y Mercados:** Las finanzas internacionales se fundamentan en el **Sistema Monetario Internacional** y el **Mercado de Divisas**, los cuales proveen el marco institucional y operativo (tipos de cambio, regulación, instrumentos spot y forward) necesario para la ejecución de pagos y transferencias de capital a nivel global.
 2.  **Gestión de Riesgos con Derivados:** La volatilidad cambiaria es inherente a la actividad internacional; por ello, es crítico el uso de **derivados financieros** (futuros, opciones, swaps) para estrategias de cobertura que protejan los márgenes empresariales, o alternativamente para la especulación y arbitraje.
 3.  **Inversión y Financiación Global:** La expansión internacional requiere una gestión compleja del **presupuesto de capital** y fuentes de financiación (mercados de crédito y renta fija internacionales), considerando factores únicos como la exposición operativa, el riesgo país/soberano y la fiscalidad internacional.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Analítico de la Asignatura A36</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

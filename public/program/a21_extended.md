@@ -193,3 +193,37 @@ El descontento con los resultados sociales del neoliberalismo propició el surgi
 1.  **Evolución del Pensamiento Económico:** América Latina ha transitado desde el **estructuralismo** (Prebisch), que diagnosticó el deterioro de los términos de intercambio y promovió la industrialización (ISI), hacia el **neoliberalismo** (Consenso de Washington) enfocado en la apertura y el mercado, y finalmente hacia un **neoestructuralismo** que busca "transformación productiva con equidad" y sostenibilidad ambiental.
 2.  **Trampa del Ingreso Medio:** A diferencia de las economías asiáticas que han logrado converger hacia altos ingresos, América Latina se encuentra atrapada en una "trampa de ingreso medio" caracterizada por baja diversificación productiva, rezagos en innovación tecnológica y una inserción internacional basada en recursos naturales con bajo valor agregado.
 3.  **Heterogeneidad Estructural:** Un rasgo persistente de la región es su marcada heterogeneidad estructural (brechas de productividad entre sectores) y social (desigualdad y pobreza), lo que limita el crecimiento inclusivo y demanda políticas activas de protección social e inversión en capital humano más allá del simple crecimiento del PIB.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Análisis de Regresión Múltiple</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+<div class="my-10 bg-gray-900/60 p-8 rounded-3xl border border-blue-500/20">
+    <h3 class="text-blue-400 font-bold text-xl mb-6">El Motor Econométrico (MCO)</h3>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+        <div>
+            <div class="font-mono text-sm text-center py-4 bg-black/50 rounded-lg mb-4">
+                $$Y_i = \beta_0 + \beta_1 X_{1i} + \beta_2 X_{2i} + ... + \beta_k X_{ki} + u_i$$
+            </div>
+            <p class="text-gray-300 text-sm mb-4">
+                La ecuación suprema que desentraña el caos fáctico empírico. $Y_i$ (la variable dictaminada) es diseccionada asimétricamente por vectores de $X$ (los tenientes explicativos), aislando quirúrgicamente el efecto ceteris paribus de cada uno, relegando la ignorancia inescrutable al término de error $u_i$.
+            </p>
+        </div>
+        <div class="bg-black/40 rounded-xl p-4 border border-gray-700">
+            <h4 class="text-blue-300 font-bold text-sm mb-3">Supuestos Basales Clásicos:</h4>
+            <ul class="space-y-2 text-sm text-gray-400 font-mono">
+                <li><span class="text-green-400">[1]</span> Linealidad en parámetros.</li>
+                <li><span class="text-green-500">[2]</span> Muestreo aleatorio asombroso.</li>
+                <li><span class="text-green-600">[3]</span> Exogeneidad estricta ($E[u|X] = 0$).</li>
+                <li><span class="text-teal-400">[4]</span> Homocedasticidad (Varianza inquebrantable pura).</li>
+                <li><span class="text-teal-500">[5]</span> No autocorrelación de errores.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>

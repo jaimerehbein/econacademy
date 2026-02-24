@@ -206,3 +206,25 @@ Deben fijarse los términos, proporciones de interés (reparto de utilidades/pé
 1.  **Origen y Naturaleza:** El Derecho Mercantil surgió en la Edad Media como un derecho de clase (de los comerciantes) y evolucionó hacia un sistema objetivo basado en el "acto de comercio", caracterizado por la especulación, el lucro y la masividad, regulado principalmente por el Código de Comercio y leyes especiales.
 2.  **Sujetos y Obligaciones:** Los sujetos mercantiles incluyen a personas físicas y morales (sociedades). Sus obligaciones fundamentales para garantizar la seguridad jurídica son la publicidad de su calidad mercantil, la inscripción de actos en el Registro Público de Comercio, la conservación de contabilidad y correspondencia por 10 años.
 3.  **Contratos y Asociaciones:** Los contratos mercantiles se rigen por el principio de consensualismo y la búsqueda de lucro. Destaca la Asociación en Participación como una figura contractual que permite la inversión y reparto de utilidades sin crear una nueva persona jurídica, diferenciándose estrictamente de las sociedades mercantiles.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Esquema Conceptual Módulo A12</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+graph LR
+    A[Concepto Base] --> B(Aplicación Empírica)
+    B --> C{Resolución Analítica}
+    C -->|Óptimo| D[Equilibrio]
+    C -->|Falla| E[Intervención]
+    
+    classDef default fill:#111827,stroke:#3b82f6,stroke-width:1px,color:#d1d5db
+    classDef decision fill:#1e3a8a,stroke:#60a5fa,stroke-width:2px,color:#fff
+    class C decision
+```
+
+    </div>
+</div>

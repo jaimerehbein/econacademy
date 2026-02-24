@@ -183,3 +183,22 @@ El modelo lineal puede extenderse para incluir interacciones entre predictores (
 1.  **Fundamentos Probabilísticos y Muestrales:** El curso se cimienta en la teoría de probabilidad (axiomas, variables aleatorias discretas y continuas como la Binomial y Normal) y en la teoría de muestreo (Teorema del Límite Central), elementos indispensables para realizar inferencias válidas sobre una población a partir de datos muestrales.
 2.  **Inferencia Estadística (Estimación y Contraste):** Se desarrollan métodos para estimar parámetros poblacionales mediante estimación puntual e intervalos de confianza, y se aplican pruebas de hipótesis (paramétricas y no paramétricas, como Chi-cuadrado y Jarque-Bera) para tomar decisiones estadísticas rigurosas con base en la evidencia muestral.
 3.  **Modelos de Relación (Regresión):** El temario culmina con el estudio de modelos de regresión lineal (simple y múltiple), permitiendo analizar y predecir la relación entre variables, validando los supuestos del modelo y utilizando herramientas tecnológicas (TICs/R) para el cálculo y análisis.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Modelo Conceptual A26</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+stateDiagram-v2
+    [*] --> Génesis
+    Génesis --> Expansión : Inyección Empírica
+    Expansión --> Cúspide : Maximización Asintótica
+    Cúspide --> Contracción : Fricción Fáctica
+    Contracción --> Génesis : Depuración
+```
+
+    </div>
+</div>

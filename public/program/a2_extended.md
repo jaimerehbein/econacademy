@@ -199,3 +199,47 @@ Ha transitado desde el análisis de la formación del Estado posrevolucionario y
 1.  **Fundamentos y Evolución:** La sociología surge en el siglo XIX (Comte, Marx, Durkheim, Weber) para explicar la modernidad, evolucionando hacia un análisis multiparadigmático que integra estructura y agencia (Giddens, Bourdieu) para comprender la complejidad social.
 2.  **Estructura y Desigualdad:** La sociedad se organiza a través de instituciones (familia, estado, derecho) y relaciones sociales jerárquicas (clases, estratificación) donde el capital (económico, cultural, social) determina las oportunidades de vida y el poder de los agentes.
 3.  **Derecho y Sociedad:** La sociología jurídica analiza el derecho no como un sistema aislado, sino como un fenómeno social vivo, estudiando su eficacia, su relación con el poder político, y su función tanto en el control social como en el cambio social, con especial énfasis en el contexto mexicano contemporáneo.
+<!-- VISUAL_ENRICHMENT -->
+<div class="my-16">
+    <div class="flex items-center gap-3 mb-8">
+        <span class="text-blue-500 font-mono text-xs">[DIAGRAMA]</span>
+        <h3 class="text-white font-bold text-xl">Estratificación y Movilidad Social</h3>
+    </div>
+    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
+        
+```mermaid
+mindmap
+  root((Sociedad))
+    Estratificación
+      Clase Alta
+        Capital Económico
+        Capital Cultural
+        Élites de Poder
+      Clase Media
+        Profesionales
+        Burocracia
+      Clase Trabajadora
+        Proletariado Industrial
+        Servicios Básicos
+      Marginación
+        Lumpenproletariado
+        Exclusión Sistémica
+    Dimensiones Analíticas
+      Marxismo
+        Propiedad de Medios
+        Lucha de Clases
+      Weberianismo
+        Prestigio (Estatus)
+        Poder Político (Partido)
+        Clase Económica
+    Dinámicas
+      Movilidad Social
+        Ascendente
+        Descendente
+        Horizontal
+      Alienación
+      Anomia (Durkheim)
+```
+
+    </div>
+</div>
