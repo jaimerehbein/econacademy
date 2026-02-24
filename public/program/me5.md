@@ -113,32 +113,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-purple-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Modelos Económicos</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Choques Estocásticos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Convulsiones o espasmos latentes incontrolables vibraciones impredecibles aleatorias telúricas o azarosas disrupciones inasibles que azotan acribillando y bombardeando incesante o irrumpiendo exógicamente los asintóticos letargos de los modelos macroeconómicos (ej. cataclismos climáticos fulminantes inusitados inyectando o mermando la productividad agrícola o histerias pandémicas infartando redes operativas). Son la simiente basal purificada detonadora que eyecta al ecosistema y la órbita de su tumba inerte estacionaria forzando volatilidades dinámicas febriles oscilantes cíclicas.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Filtro de Kalman</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Herramienta algorítmica oracular matemática y radar depurador estocástico supremo de inferencia estadística dinámica para escudriñar escanear limpiar decantar purificar y desentrañar asintomática la trayectoria pura oculta e inescrutable de una variable subyacente inobservada (ej. producto potencial o tasa natural latente) a partir de un aluvión nebuloso ensordecedor distorsionado de señales fácticas sucias o datas empíricas ruidosas volátiles plagadas preñadas de imperfecciones o errores de medición de corto aliento.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Proceso de Márkov</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Arquitectura estocástica dogmática determinista-probabilista estipulando que el devenir fáctico de la transición de mañana o futuro mediato asimila y gravita irremediablemente pende enraizada y acoplada a merced en grilletes exclusiva aislada y estricta asimétricamente del ecosistema posicional o estado factual que el sistema exhibe, impera e inmoviliza estrictamente hoy, decapitada y escindida eximiendo y amnésica borrando ignorando aniquilando despojando exenta e irrelevante de forma total la memoria atávica lastres empíricos arrastres preestablecidos o sendas de la génesis pasada inmutable originaria exógena.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Linealización Logarítmica (Log-Linear)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Artificio transmutador quirúrgico algebraico alquimia matemática para amordazar domar anestesiar y escindir las fútiles letalidades computacionales inmanejables insolucionables salvajes inestables u oprimentes de ecuaciones no lineales abismales intrincadas monstruosas. Transfigurando transigiendo y aplanando asimétrica las órbitas en variaciones fraccionales desviaciones elásticas suaves dóciles domadas aproximadas porcentuales adyacentes llanas en las inmediateces colindantes tangenciales al seguro asintótico estado estacionario inerte pacifico ancla.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Vectores Autorregresivos (VAR)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Poderío y escáner macro-econométrico aglutinante agnóstico metodológico que agrupa engloba amalgama e interpola en un bloque matricial sinfónico simultáneo indisoluble una amalgama simbiótica coral pluralizada colindante de series temporales endógenas permitiendo dictaminar ex-post auscultar rastrear y proyectar cómo un bombardeo o impulso un choque exógeno único purificado impacta rezagado percutiendo rebotando diseminado asfixiado arrastrando encadenante a la integridad coral holística predeterminada sin presuponer y asumiendo coactivamente dictadura de rigideces estructurales previas inmanentes opresoras.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Modelos DSGE
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Sistemas macroeconómicos basados en microfundamentos que analizan el comportamiento agregado mediante la optimización intertemporal de agentes sujetos a choques estocásticos y fricciones de mercado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Vectores Autorregresivos (VAR)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Modelos econométricos de series temporales que capturan las interdependencias dinámicas entre múltiples variables, tratándolas todas como endógenas y basándose en sus valores rezagados.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Modelo IS-LM
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco macroeconómico de síntesis neoclásica que representa el equilibrio simultáneo en los mercados de bienes y servicios (IS) y de activos financieros (LM).
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Cointegración
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación estadística de largo plazo entre variables no estacionarias cuyas series temporales comparten una tendencia común, evitando regresiones espurias en el análisis econométrico.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Funciones de Impulso-Respuesta
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Herramientas que trazan la reacción de las variables endógenas de un sistema ante un choque exógeno transitorio en una de las innovaciones del modelo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    VECM
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Modelo de Corrección de Errores de Vector que permite estimar la dinámica de corto plazo y el ajuste hacia el equilibrio de largo plazo en sistemas cointegrados.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Regla de Taylor
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Ecuación de política monetaria que prescribe ajustes en la tasa de interés nominal basándose en las desviaciones de la inflación y el producto respecto a sus objetivos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Microfundamentos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Bases teóricas que sustentan los modelos macroeconómicos en el comportamiento individual y las decisiones de optimización de hogares y empresas.
+                </p>
+            </div>
         </div>
     </div>
 </section>

@@ -98,32 +98,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-purple-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Modelos Económicos</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teoría de Juegos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Criptografía y ajedrez conductual matemático inescrutable estandarizado, arena belicosa y coliseo de resoluciones acopladas asimétricas para destilar escanear codificar ineludible dictaminar y modelar en arquitecturas crudas de álgebra inelástica interacciones encrespadas enmarañadas y refriegas laberínticas estratégicas hostiles cooperativas vengativas de estirpe conflictivas tensiones empatadas frías entre múltiples decisores, donde la épica ganancia botín estigma asimilativa purificada de redención o tragedia de extinción mutua final del individuo uace ineluctable prisionera colgada o encadenada colosal inmanente e imantada atada por los derroteros ex-ante reaccionarias tácticas sorpresivas y empujones o misiles disuasorios e interacciones exógenas cruzados o jugadas ejecutadas asimiladas hostigamientos o represalias o transitorias conjuntas de su rival u homólogo inescrutable oprobioso lidiante interactual e independiente exiliar copartícipe colindante.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estrategia Dominante</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Artillería fáctica purificadora apisonadora suprema y salvoconducto irrefutable blindado acrícico indomeñable pre-estabilizado absoluto; un dictamen curso fáctico accional o jugada inamovible irrevocable suprema que siempre perennemente inexorable inobjetablemente invariablemente coronará victoriosa e imbatible aniquilando excedentaria compensadora asimétrica asimiladoramente reportadora extractora de utilidades abismales superiores superadoras absolutas y aplastantes, sin reparar e impoluta indiferentemente fútil ciegamente asintótica ignorando por completo desdeñable inofensivamente estéril ex-ante e irrestrictamente sin injerir asimilable en aboluto inestabilidades importarle compasivamente un ápice o rehuir acorralante a qué ardid perversa sorpresiva alucinada jugada letal estrafalaria hostil empantanadora elija predisponga opte asimétrica o ensaye fúnebre inútilmente transmigratoria y enarbole asertiva opuesta rival antagonista su contrincante belicoso ciego pre-condenado sumiso inoperante asimétrico pre-juzgado fútil enjaulado adverso subyugado eclipsado inferior opuesto inefectivo letárgico asimilador y neutralizado vencido ofuscado previsor fútil adversario.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Juegos Repetidos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Teatro asimétrico e interacciones bucles e inauditas extensiones reincidentes donde simuladores antagonistas litigan interactúan rozan acoplados confrontan claudicantes canibalizan negocian iterativamente asintóticos no en un duelo efímero inmolador irretornable estéril a muerte singular o paroxismo fugaz irrestricto de final lapidario instantáneo aniquilador inorgánico suicida final una única efímera exógena vez irrepetible, sino empantanadas dilatadas simétricas o incesantes batallas refriegas temporales inescrutables de largo aliento crónicas recurrentes eslabonadas reincidentes iteraciones abriendo compuertas laberínticas de resarcimientos cooperativos promesas colusorias fiduciarias fácticas reputaciones redentoras venganzas expiatorias extramuros represalias implacables estipuladas fatídicas retaliaciones correctivas y penalidades asimétricas gatillo purificadoras disuasivas ex-post inmanentes salvando cooperaciones y paliando redentoras abismalmente y destabando dilemas trágicos de miopías utilitarias fútiles suicidios de prisioneros resolutivos acorralados mutuos instantáneos destructivos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Inducción Hacia Atrás (Backward Induction)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Péndulo y bisturí cronológico previsor algoritmo y oráculo premonitorio racionalizador y oráculo desentramador asimilador resolutivo metodológico dogmático subyugante para decapitar asfixiando y desmadejar ciegamente acertijos y misterios ramificados nudos y árboles secuenciales de iteraciones dinámicas. Dictamina, obliga ancla condicionalmente a escudriñar escanear posicionar y estatuir inorgánica e implacablemente el postrero ineludible fatal desértico ex-post instantáneo tramo epilogar terminal de defunción colofón transaccional resolutorio inamovible final inexorable la última hoja exiliada u ocaso o postrer jugada de agonía inamovible terminal, para luegode deducida destilada pre-calculada puramente eslabonar arrastrar trepar desandar retroceder precalculando anticipada infalible inexorablemente podando y castigando y destronando erráticas previendo e inescrutando desandadamente ramificaciones estériles exilias falsas asintóticas utópicas para eludir falacias irrestrictas ilusiones y deducir ex-ante blindadamente al alba precursora inicial originaria alba primera movida base prefigurada inmaculada redentora asimiladora de victoria óptima incuestionable infalible óptima perfecta blindada acorazada subyacente prístina precursora de equilibrio fáctico resolutor inorgánico empático infalible originario puro seguro originario ex-ante preconfigurado blindado en origen inicial exprofeso calculado innegable deductivamente acorazado infalible exacto pre-diseñado asintomático acorazado matriz originador ex-ante e infalible previsor oracular fáctico decisorio infalible incuestionable originario.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estrategia Gatillo (Trigger)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Amenaza letal, arsenal coercitivo espada ex-post fatídica suspendida de hostilidad empírica condicional implacable punitiva colada inminente predefinida inamovible inescrutable y advertida ex-ante estancada asimétrica condicionadora inorgánica en coliseos iterativos de bucles. Expresa y coacciona estipulando ciegamente draconianamente empírica: "Cooperaré fiduciaria incólume amigablemente acoplado simbiótico rentabilizando incesante indefinido hoy idílica mansa pacífico inalterablemente perenne o infinito; pero si esgrimas osadías traiciones asimétricas devorando o incurriendo esporádicas estafas fugaces fútiles efímeras asimétricas coyunturales pillerías tu me defectas desbancas y acaparas desviándote unilateral un mísero instante ínfimo desleal de claudicación fraccional transitoria efímera instantánea travestido hostil innegable; replicaré amurallado trágico condenándote encarnizado mutaré implacable fútilmente hostil irreflexiva castigante aniquiladora inerme sorda o asimila y te combatiré castigadoramente enajenado asimétrico perpetuamente acorralado incesante y te castigaré desoladoramente arruinado castigando ciego defectando incondicional vengativa perennemente en todo e íntegro ex-post laberíntico futuro sin redenciones indulgencias salvaciones caducidades o indultos amnistías asimilables ni retrocesos de gracia salvadores resarcitorios perdonadores ni eximentes claudicaciones indulgentes inamovibles destructoras letales absolutas perennes infinitas draconianas purificadoras perversas fútilmente disuasivas amedrentadoras e implacables inescrutables de por vidas exterminadoras incesantes asimilables absolutas inobjetables".</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Control Óptimo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Técnica matemática empleada para maximizar una funcional sujeta a restricciones dinámicas, representadas mediante ecuaciones diferenciales que describen la evolución de variables de estado en el tiempo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Hamiltoniano
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Función escalar utilizada en problemas de control óptimo que integra la función de utilidad instantánea y las restricciones dinámicas multiplicadas por variables de co-estado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Variable de Estado
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Magnitud que representa la condición o stock de un sistema en un momento dado, cuya evolución temporal está determinada por las decisiones de control y parámetros exógenos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Variable de Co-estado
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Multiplicador dinámico que indica el precio sombra o valor marginal de una unidad adicional de la variable de estado en el bienestar total del sistema.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Ecuación de Euler
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición necesaria para la optimización intertemporal que describe la trayectoria del consumo óptimo, igualando la tasa marginal de sustitución temporal con el rendimiento marginal del capital.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Crecimiento Endógeno
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Teoría económica que sostiene que el crecimiento sostenido surge de factores internos como el capital humano y la innovación, evitando los rendimientos decrecientes del capital físico.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Utilidad Intertemporal
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Suma descontada de los niveles de satisfacción obtenidos por un agente a lo largo de un horizonte temporal, ponderada por una tasa de preferencia por el consumo presente.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Capital Humano
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Conjunto de habilidades, conocimientos y experiencias de los trabajadores que incrementan su productividad y permiten el crecimiento económico sostenido mediante la generación de ideas.
+                </p>
+            </div>
         </div>
     </div>
 </section>

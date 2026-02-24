@@ -116,20 +116,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-purple-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Modelos Económicos</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Expectativas Racionales</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Axioma asfixiante y pre-estatuido oráculo y canon dogmático subyugante y purificador postulado implacable donde muchedumbres estadistas e individuos no son entes miopes ciegos desinformados inermes bobos desprovios aturdidos engañabobos fútiles manipulables. Asimilan devoran decodifican integran y sopesan inórganica eficientes exactas simétricas escudriñando esotéricas en sus cálculos neurales absolutamente toda variable exógena filtración anticipación estadística dato historial fútil patente macro predecible arsenal subyacente o filtrada publicitado o empíricamente inferida modelo disponible pública información asintótica ex-ante, imposibilitando fútil y anulando vaciando castigadora esterilizando inofensivamente nula fútil cualquier estéril ilusión política trampa expansiva coyuntural prebendaria subrepticia sorpresa fiduciaria macro populista ingenieril ex-ante inyectada intencionalmente del emisor para distorsionar empujar espasmos o licuar exprimir abismal y desestabilizar real extorsionadora y macro productiva la senda originaria en inyecciones subrepticias nulas irrelevantes absorbidas estériles inoperantes esterilizadas vaciadas ciegamente neutralizadas por blindajes pre-ajustados defensivos auto-ajustados previstos de anticipados contratos y de corazas paritarias o de precios auto-ajustados previsor anticipables blindados neutralizadores elásticos de indexación ex-ante reajustes paralelos blindadores esterilizantes disolventes nulos esterilizadores inmediatos y de disueltas nulas ilusiones previsoras exactas inmunes blindadas y vaciadas.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Múltiples Equilibrios</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Pantanos y ciénagas laberínticas fractales de indeterminación topográfica ex-ante y abismales lagunas engranajes de indecisión teórica de modelajes no lineales o circulares de expectativas simbióticas conjuntas asimilativas (profecías auto-cumplidas espirales) en que las corazonadas coordinadas conjuncionales empáticas o manadas inorgánicas acopladas sinérgicas de asambleas actitudinales agentes puros derivan y desembocan canalizan arrastran gravitacional asintóticamente al sistema cíclicamente empantanado o arrojado a encallar colisionando anclando dislocándose estabilizado en diversas heterogéneas divergentes polarizadas plurales mesetas atractoras o clímax estabilizadores estáticos pre-dictaminados (ej: euforias esplendorosas de trances exultantes idílicos optimistas utópicos puros estabilizados o abismos dantescos catastróficos fúnebres de corridas lúgubres depresiones pánicos deflacionistas arrastrados pánicos bancarios caóticos deflativos estancados asfixiantes pánicos de corridas bancarias caóticas o postraciones letárgicas estériles y pánicos masivos paralizantes de corralitos ruinosos catastróficos letales absolutos anquilosadores fijos fútiles depresivos trágicos resolutivos irreversibles finales asintóticos subyacentes destructivos aniquiladores).</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Equilibrio de Nash
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Situación en la cual ningún jugador puede mejorar su utilidad mediante un cambio unilateral de estrategia, dadas las estrategias de los demás participantes.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Competencia de Bertrand
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Modelo de oligopolio donde las empresas compiten fijando precios. En equilibrio, el precio iguala al coste marginal, eliminando los beneficios económicos extraordinarios.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Modelo de Stackelberg
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Juego secuencial donde una empresa líder elige su nivel de producción primero, condicionando la respuesta de las empresas seguidoras en el mercado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Inducción hacia atrás
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Procedimiento de resolución de juegos dinámicos que consiste en determinar las acciones óptimas desde el último periodo hacia el inicio para hallar equilibrios creíbles.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Diseño de mecanismos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Rama de la teoría de juegos que busca crear reglas e instituciones que incentiven a los agentes a revelar información privada para alcanzar objetivos sociales.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Compatibilidad de incentivos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición que asegura que los agentes maximicen su propia utilidad al actuar de acuerdo con los objetivos previstos por el diseñador del mecanismo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Racionalidad individual
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Requisito de participación que garantiza que los agentes obtengan una utilidad al menos tan alta como su mejor alternativa externa al aceptar un contrato o mecanismo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Equilibrio perfecto en subjuegos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Refinamiento del equilibrio de Nash aplicable a juegos dinámicos, que exige que las estrategias constituyan un equilibrio de Nash en cada etapa o subjuego posible.
+                </p>
+            </div>
         </div>
     </div>
 </section>
