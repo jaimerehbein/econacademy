@@ -140,6 +140,56 @@ graph TD
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Hipoteca</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Préstamo garantizado por un inmueble. Si el deudor incumple, el acreedor puede ejecutar el bien. Base de toda la cadena de titulización MBS.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Titulización</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso de agrupar activos ilíquidos (hipotecas) y convertirlos en títulos negociables en el mercado de capitales, transfiriendo el riesgo del originador al inversor.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">MBS</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Mortgage-Backed Security. Bono respaldado por un pool de hipotecas. Los pagos mensuales de los deudores (principal + interés) fluyen hacia los tenedores del MBS.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Riesgo de Prepago</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Posibilidad de que los deudores paguen anticipadamente cuando las tasas bajan. El inversor en MBS recibe el principal antes de lo esperado a un momento inconveniente para reinvertir.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">SMM / CPR</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Single Monthly Mortality / Conditional Prepayment Rate. Métricas de velocidad de prepago. CPR anual se relaciona con SMM mediante: $CPR = 1 - (1-SMM)^{12}$.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">PSA Benchmark</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Modelo estándar del mercado americano de hipotecas. Asume que los prepagos crecen 0.2% mensual durante los primeros 30 meses hasta alcanzar el 6% CPR anual constante.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">CMO</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Collateralized Mortgage Obligation. Estructura que reempaqueta MBS en tramos (tranches) con distintas prioridades de pago, riesgo y rendimiento esperado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Tramo Senior</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El primer tramo en recibir los pagos del pool. Tiene la mayor protección crediticia (credit enhancement). Por ello, recibe el menor retorno.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Tramo Equity</span>
+            <p class="text-slate-400 text-sm leading-relaxed">First Loss Piece. Absorbe las primeras pérdidas del pool. Alto riesgo, alto retorno potencial. Generalmente retenido por el originador como señal de alineación de incentivos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Waterfall</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Regla de distribución de flujos de caja en un CMO. Los pagos fluyen de Senior a Mezzanine a Equity en order estricto de prioridad, como el agua cayendo por una cascada.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Ingenieria Financiera IF9</p>

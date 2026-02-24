@@ -141,6 +141,56 @@ stateDiagram-v2
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Plusvalía</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Valor creado por el trabajador más allá del valor de su fuerza de trabajo. Fuente del beneficio capitalista. Puede ser absoluta (jornada más larga) o relativa (mayor productividad).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Plusvalía</span>
+            <p class="text-slate-400 text-sm leading-relaxed">$m' = \frac{pv}{v}$ donde $pv$ es plusvalía y $v$ capital variable (salarios). Mide el grado de explotación del trabajo. Tasa alta supone jornadas largas o baja remuneración relativa.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Composición Orgánica</span>
+            <p class="text-slate-400 text-sm leading-relaxed">$q = \frac{c}{v}$: relación entre capital constante (maquinaria/materias primas) y capital variable (salarios). La tendencia al alza de $q$ es la clave de la caída tendencial de la tasa de ganancia.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Ganancia</span>
+            <p class="text-slate-400 text-sm leading-relaxed">$r = \frac{pv}{c+v} = \frac{m'}{1+q}$. Tendencia secular a caer debido al aumento de la composición orgánica. La caída de $r$ genera presiones de sobreacumulación y crisis periódicas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sobreproducción</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Crisis donde se produce más de lo que el mercado puede absorber a precios rentables. No implica exceso respecto a necesidades reales sino ausencia de poder de compra (demanda efectiva insuficiente).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Contradicción Fundamental</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tensión entre la producción socializada y la apropiación privada del excedente. Los capitalistas maximizan ganancias comprimiendo salarios, reduciendo a largo plazo la demanda que necesitan para realizarlas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ciclo Económico</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Secuencia recurrente: expansión → sobreacumulación → crisis → depresión → saneamiento → nueva expansión. En el marxismo, el ciclo no es accidental sino estructuralmente necesario para el capitalismo.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Ficticio</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Capital presente en forma de títulos financieros (acciones, bonos) que representa una demanda sobre la plusvalía futura pero no constituye capital real productivo. Su expansión genera fragilidad sistémica.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Financiarización</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso por el cual el sector financiero crece desproporcionadamente respecto a la economía real, subordinando la inversión productiva a los rendimientos de los mercados de capitales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-rose-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Minsky Moment</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Punto en el ciclo financiero donde la deuda acumulada en fases especulativas se vuelve insostenible, detonando un colapso de precios de activos y una contracción crediticia abrupta.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Economía Política EP6</p>

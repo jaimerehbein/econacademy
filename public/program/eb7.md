@@ -114,6 +114,61 @@ graph LR
         </ul>
     </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-amber-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sistema de Precios</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Mecanismo descentralizado de coordinación económica. Los precios transmiten información dispersa sobre escasez relativa y preferencias con una eficiencia que ningún planificador central puede replicar.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Incentivos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Fuerzas que moldean el comportamiento económico. Sowell enfatiza que los agentes responden a incentivos reales, no a intenciones declaradas. Las políticas bien intencionadas con malos incentivos fracasan siempre.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Escasez</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Principio fundamental: los recursos son limitados frente a necesidades ilimitadas. Toda decisión económica implica un trade-off. El precio es la señal que raciona los recursos escasos entre usos alternativos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costo de Oportunidad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El verdadero costo de una decisión es lo que se sacrifica al no elegir la mejor alternativa disponible. No aparece en ninguna factura, pero es el costo más real de la economía.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control de Precios</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Regulación gubernamental que fija precios por debajo (precio máximo) o por encima (precio mínimo) del equilibrio de mercado. Genera escasez o excedentes respectivamente, y distorsiona la asignación de recursos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salario Mínimo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Precio mínimo del trabajo. Si se fija por encima del salario de equilibrio, reduce la cantidad demandada de trabajo (desempleo) y puede sustituir mano de obra joven/poco calificada por automatización.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control de Rentas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Precio máximo para el alquiler de viviendas. Beneficia a los inquilinos actuales pero reduce la oferta futura, deteriora el mantenimiento de inmuebles y crea mercados negros. Historia universal de fracaso documentado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Consecuencias No Previstas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Efectos no intencionados de las intervenciones, frecuentemente contrarios al objetivo buscado. Principio central de Sowell: juzgar las políticas por sus resultados, no por sus intenciones.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Visión Constrained</span>
+            <p class="text-slate-400 text-sm leading-relaxed">En "A Conflict of Visions" de Sowell: perspectiva que reconoce las limitaciones inherentes de la naturaleza humana. Las instituciones (mercado, derecho, tradición) canalizan intereses egoístas hacia resultados sociales positivos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Conocimiento Disperso</span>
+            <p class="text-slate-400 text-sm leading-relaxed">En Hayek: el conocimiento económico relevante está disperso entre millones de individuos y no puede ser centralizado. El mercado lo agrega eficientemente a través de precios; la planificación central no puede reemplazarlo.</p>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="pt-10 border-t border-white/10 text-center">
+    <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">EconAcademy · Economía Básica EB7</p>
+</footer>
+
 </div>
 
 </div>
