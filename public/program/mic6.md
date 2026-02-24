@@ -411,32 +411,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Oligopolio</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Estructura intermedia e imperfecta de tensión asfixiante donde un puñado excluyente y selecto de corporaciones colosales acapara la dictadura oferente. Sus determinaciones resolutivas (precios $P$ o volúmenes $Q$) no son aisladas ni asintóticas, sino que detonan repercusiones y contramedidas cruzadas vengativas colaterales o empatías tácticas (interdependencia estratégica) en sus pocos rivales supervivientes.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Cartel</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Sindicación o entramado mafioso colusorio táctico y amurallado explícito donde la trinidad u oligopolistas claudican a su hostilidad sangrienta competencial para fusionarse utópica y clandestinamente en un ente supra-corporativo emulando la dictadura absolutista de un Monopolio puro, pactando y seccionando cuotas inelásticas y encareciendo asfixiantemente los márgenes $P$ extorsionando al mercado unificado.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Equilibrio de Nash</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Punto de fuga estancado y resolución empantanada lógicamente irresoluble praxeológica de la Teoría de Juegos. Es la intersección paralizante donde ningún estratega u oligopolista, conociendo retrospectivamente y prefigurando la inamovible hostil o pacífica decisión del rival, encuentra incentivo, lucro marginal o salvación individual alguna en desviarse unilateralmente o traicionar su postura tomada sin inmolarse.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Dilema del Prisionero</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Alegoría sociológica y matriz letal de sub-optimización donde la racionalidad pura calculadora avariciosa egoísta inescrutable y desconfiada de individuos escindidos los condena ineludible e inexorablemente a claudicar y encallarse en la traición mutua y peor condena (subóptimo de Pareto) lapidando la redentora salvación cooperativa colectivista que, aunque utópicamente idónea y superior, los exalta asimétricamente a riesgos letales de engaño aniquilador.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Liderazgo en Precios (Stackelberg)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Asimetría temporal e imperiosa en oligopolios o arenas de juego donde un coloso pionero o alfa corporativo estipula, golpea, enarbola o ancla anticipada y primero unilateralmente sus vectores u ofertas, forzando coartantemente a la comparsa de seguidores dóciles pasivos o subyugados a acomodarse, internalizar y pivotar constreñidamente sus lógicas reaccionarias a merced del dictamen inamovible ya pre-jugado del líder imperante.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Oligopolio
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estructura de mercado con pocos vendedores y altas barreras de entrada, donde las acciones de cada firma afectan significativamente los resultados y beneficios de sus competidores.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Interdependencia estratégica
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Situación competitiva donde la decisión óptima de un agente económico depende necesariamente de las acciones elegidas por sus rivales, condicionando el equilibrio del mercado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Equilibrio de Nash
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Conjunto de estrategias donde cada agente elige su mejor opción dadas las estrategias de los demás, resultando en una situación donde nadie tiene incentivos para desviarse unilateralmente.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Modelo de Cournot
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Marco analítico de competencia oligopólica donde las empresas determinan de forma simultánea sus niveles de producción de bienes homogéneos, considerando fija la producción de sus competidores.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Modelo de Stackelberg
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Modelo de competencia secuencial en el que una empresa líder elige primero su cantidad de producción, anticipando la respuesta racional de una empresa seguidora en el mercado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Modelo de Bertrand
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Teoría de competencia donde las empresas fijan precios simultáneamente; en productos homogéneos, el equilibrio iguala el precio al costo marginal, replicando resultados de competencia perfecta.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Razón de concentración
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Indicador cuantitativo que mide el grado de dominio de mercado mediante el porcentaje de producción total generado por las firmas más grandes de una industria.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Función de Reacción
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación matemática que define la decisión óptima de producción o precio de una empresa como respuesta al comportamiento o elección esperada de sus rivales.
+                </p>
+            </div>
         </div>
     </div>
 </section>
