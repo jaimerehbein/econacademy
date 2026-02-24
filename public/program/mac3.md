@@ -387,52 +387,104 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Función de Producción</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Relación matemática $Y = F(K,L)$ que detalla y asocia estrictamente de qué modo técnico los factores combinados y la tecnología aglutinada detonan o restringen a la cuantía nacional final.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-fuchsia-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Factores de Producción</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Batería clásica de los ingresos primordiales en economías básicas (Tierra, Trabajo $L$ y Capital $K$) empleados y agotados secuencialmente para engrosar el flujo contable del acervo servicial productivo.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rendimientos Constantes as Escala</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Hipótesis donde duplicar o expandir pro-porcional simultáneamente todos y acoplados los factores rinde asimétricamente un aumento general de idéntica proporción e igual cuantía absoluta de producto final ($zY = F(zK, zL)$).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Producto Marginal del Trabajo (PML)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La cuota fraccionaria puramente física de producto extraordinario incremental devengado al añadir una hora cruda final laboral de obrero adicional o peón marginal ceteris paribus congelado inamovible.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salario Real</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Remuneración transaccional o pago en equivalentes adquisitivos efectivos crudos; calculado en base del producto marginal ($W/P = PML$), expresado no en dinero billete inane sino en cuantía tangible real de cosas medibles equivalentes.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Beneficio Económico vs Contable</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mide el saldo después del pago a los factores, restando o drenando a priori no solo desembolsos patentes monetarios y operativos corrientes directos, sino detrayendo también íntegramente todo costo oportunidad indirecto escondido sacrificado intrínsecamente del inversor originario aportante directriz decisor puro.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teorema de Euler</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Derivación matemática en mercados perfectos bajo rendimientos constantes, donde si los factores crudos obreros (L) o prestamistas (K) son remunerados implacablemente por sus productos marginales limpios netos en punto asintótico marginal óptimo y purgado, la suma exacta total macroeconómica salda $Y$ exahustivamente, y el beneficio originario puramente económico puro puro residual es devengado exhaustivamente cero exacto neutralizado vaciado puro.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Consumo Autónomo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Gasto endoliente base existencial constante basal y natural incomprensible disociada independientemente apartada e inesquivable a pesar de rentas nulificadas asumiendo expropiación pasiva descapitalizadora liquidable de activos o recurriendo a empréstitos deudos asimétricos desmedidos deudas exacerbadísimas paliativas extremas urgentes transicionales.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Propensión Marginal al Consumo (PMC)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La sensibilidad, inclinación, o declive y ratio exacto de derivación en gastos que consume privadamente perennemente una familia urbana promedia empírica estadística de cada eventual unidad (ej, dólar extra exógeno inyectado marginal incremental recibido originario puro).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Expulsión (Crowding Out)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mecánica del tipo de interés macro. Si el aparato gobernante eleva su inmersión asfixiante y expoliadora demandando exorbitadamente deuda ($G$ o bonos), desplaza y contrae asfixiantemente encarecida excluyentamente secantemente drenando secamente irrecuperable asfixiante por sequía crediticia paralizadora total y asimétricamente la Inversión ($I$) real productista fabril y de riesgo expansiva originaria puramente capitalista empresarial pujante vanguardista emprendedurista privada de la esfera originaria civil de transacciones.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Modelo Clásico de Largo Plazo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Análisis macroeconómico que asume flexibilidad total de precios y salarios, donde la producción está determinada por los factores y tecnología, y las variables reales se ajustan para alcanzar el equilibrio.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Renta Nacional
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Valor total de bienes y servicios finales producidos en una economía durante un período. Representa el ingreso total generado y distribuido entre los factores de producción.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Factores de Producción
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Insumos utilizados para producir bienes y servicios, como el capital (herramientas, maquinaria) y el trabajo (esfuerzo humano). Su disponibilidad y uso determinan la capacidad productiva.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Función de Producción
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación matemática que describe cómo los factores de producción (capital y trabajo) se combinan eficientemente con una tecnología dada para generar la producción total de una economía.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Rendimientos Constantes a Escala
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Propiedad de una función de producción donde multiplicar todos los factores por un escalar positivo "z" resulta en la multiplicación de la producción por el mismo escalar "z".
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Producto Marginal
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Cantidad adicional de producción obtenida al utilizar una unidad extra de un factor de producción, manteniendo los demás factores constantes. Es clave para la demanda de factores.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Salario Real
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Remuneración del trabajo expresada en términos de bienes y servicios que puede comprar, calculada como el salario nominal dividido por el nivel de precios (W/P).
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tipo de Interés Real
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Costo real de pedir prestado o el rendimiento real de prestar, ajustado por la inflación. Es el principal determinante de la inversión en el modelo clásico.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Propensión Marginal al Consumo (PMC)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La fracción de un euro adicional de renta disponible que los hogares deciden gastar en consumo. Mide la sensibilidad del consumo a cambios en la renta.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Ahorro Nacional
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    La porción de la renta nacional que no se gasta en consumo ni en compras del Estado. Es la suma del ahorro privado y el ahorro público, financiando la inversión.
+                </p>
+            </div>
         </div>
     </div>
 </section>

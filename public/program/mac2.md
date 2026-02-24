@@ -446,52 +446,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-fuchsia-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Macroeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">PIB (Producto Interior Bruto)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Valor de mercado de todos los bienes y servicios finales producidos en la economía doméstica durante un periodo. Mide tanto la renta total como el gasto total de la economía.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-fuchsia-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">PIB Nominal</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Valor monetario corriente de la producción de una economía empleando los precios actuales del momento de medición, sin haber sido ajustado o purgado por la inflación reciente acumulada.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">PIB Real</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Medición de los bienes producidos y valorados a precios constantes y anclados de un año base. Refleja fielmente el volumen físico de la actividad marginando y aislando las distorsiones de los precios.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Deflactor del PIB</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Índice o ratio (PIB Nominal / PIB Real) que mide de manera implícita la variación promedio e íntegra de precios de todos, y exclusivamente, los bienes de la economía doméstica nacional producida.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">IPC (Índice de Precios de Consumo)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Indicador estadístico fundamental del coste de una cesta representativa de bienes y servicios fijos comprados por un consumidor promedio metropolitano representativo frente al año base encuestado.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Identidad Macroeconómica</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La contabilidad nacional formal que reza que el total del Gasto $Y = C + I + G + NX$, estableciendo irrefutablemente que cada moneda gastada es simultáneamente una renta recibida correspondida íntegra.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Consumo (C)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Componente mayoritario e inercial estable de la demanda agregada; gasto continuo que realizan los hogares en bienes duraderos, no duraderos o de servicios directos privados no comerciales.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Inversión (I)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Expendios destinados deliberadamente a engrosar el stock capitalista empresarial. Maquinarias, instalaciones, inventarios o viviendas de hogares. Extremadamente volátil a ciclos económicos y coyuntura.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Desempleo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Porcentaje medido correspondiente estrictamente a la fuerza laboral activa que, sin poseer trabajo real transitorio, busca ocupación rentada formal pero fallando incesantemente en obtenerlo de pleno.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Actividad</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El ratio absoluto de la población civil adulta en edad de laborar que decide participar visiblemente en la Población Económicamente Activa (PEA), estén estos ocupados operantes o desocupados postulantes.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Producto Interior Bruto (PIB)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Medida del valor de mercado de todos los bienes y servicios finales producidos dentro de las fronteras de un país en un periodo determinado, representando la renta y el gasto total.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Índice de Precios al Consumo (IPC)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Medida estadística del coste de una cesta fija de bienes y servicios adquiridos por un consumidor representativo, utilizada para cuantificar la inflación y el poder adquisitivo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Tasa de Paro
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Porcentaje de la población activa que no tiene empleo, está disponible para trabajar y ha buscado activamente trabajo, indicando la subutilización del factor trabajo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Macroeconomía
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Rama de la economía que estudia el comportamiento de la economía en su conjunto, analizando fenómenos agregados como la producción, el empleo, la inflación y el crecimiento económico.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Identidad Fundamental de la Contabilidad Nacional
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Axioma que establece que, para el conjunto de la economía, la renta total debe ser igual al gasto total, reflejando la naturaleza transaccional.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Variables de Flujo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Cantidades económicas que se miden por unidad de tiempo, como el Producto Interior Bruto o la inversión, representando la tasa a la que algo cambia o se produce.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Valor Añadido
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Diferencia entre el valor de la producción de una empresa y el coste de los bienes intermedios que utiliza, esencial para evitar la doble contabilización en el PIB.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-fuchsia-500/50 hover:shadow-2xl hover:shadow-fuchsia-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-fuchsia-500 transition-colors">
+                    Deflactor del PIB
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Medida del nivel de precios calculada como el cociente entre el PIB nominal y el PIB real, reflejando los precios de todos los bienes y servicios producidos internamente.
+                </p>
+            </div>
         </div>
     </div>
 </section>
