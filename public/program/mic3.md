@@ -325,32 +325,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Sustitución</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Migración táctica u órbita compensatoria resolutiva asimilativa defensiva estricta de migración predileccional o resguardo hacia horizontes o bienes abaratados homólogos en detrimento purificador descartable e intercamio asintomático del abaratado descartando lo encarecido colindante ante mutaciones del vector exógeno $P$, simulando abstracciones exentas destiladas aisladas o purificando teóricamente sin injerencias aditivas colaterales mutativas e impurezas empobrecedoras simultáneas previsoras compensatorias inamovibles congeladoras pre-estabilizadoras y restitutivas de ingresos idénticos subyacentes compensaciones hicksianas utilitarias del umbral neutro inobjetable irreal basal pre-establecido de utilidad anclada o invariable compensada inamovible.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Renta</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Secuela macro colateral empobrecedora implícita o inyección puramente empujada de empoderamiento adquisitorio colindante indirecta virtual subyugante paralela o residual transaccional emanante y residual subproducente colateral e inintencionada adyacente inercial transicional de cualquier vaivén fluctuacional de encarecimientos $P$, donde el mismo estático e inamovible y crudo estanco cheque o bolsa nominal de salarios pre-asignada inamovible acusa y devela perversas depreciativas asfixiantes licuadoras caídas o rebosantes asimétricas exultantes excedentarias dilataciones ficticias del caudal fáctico transable palpable fraccional poder real de apropiaciones en el mundo físico de cuotas unitarias crudas palpadoras adquisitorias subyacentes.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bien Normal</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Estructura ontológica mercantil o catálogo resolutivo predeterminado cuya elástica propensión correlativa estadística asimila subyugadamente sin rebeldías empujes ascendentes demandantes ávidos colaterales emparejados alineados paralelos inescrutables correspondientes ante empoderamientos u óbolos e inyecciones de incrementales sustanciosas u opulencias abultadas de tesoros bolsillos o alzas dotacionales de haberes de ingresos engrosando alicientes pre-ordenados $I \\uparrow \\implies Q \\uparrow$.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bien Inferior</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Clasificación paradójica contraintuitiva pero recurrente empírica de productos estigmatizables arcaicos vulgares rudimentarios menesterosos de pobrezas o calidades empobrecidas degradadas sustituibles cuya ansia o apetito estadístico asimétrico consumidor se disuelve extinguiendo descarta expulsa en picada trágicamente o reduce en fuga repelente o exilios compensadores repudios asimétricos marginantes decrece $Q \\downarrow$ a expensas compensadas o en la eventualidad de riquezas o empujes fortificados rentísticos enriquecedores opulencias bonanzas ascendentes empoderamientos bolsillos engrosados ascendentes aliviadores $I \\uparrow$.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bien Giffen</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Quimera teórica estrafalaria anómala insólita exótica inaudita irrestricta o atipicidad estadística abismalmente contra-teórica paradojal incomprensible irlandesa patológica rarísima donde la pre-ordenanza o propensión invertida destrozando simetrías clásicas de lógicas de curva $D$ estipula absurdamente inverosímil subyugante y demencialmente alicientes devoradores correlativos inescrutables de $Q \\uparrow$ si casualidades exógenas perversas elevan asfixiantes asoladores encareciendo letales agudas los índices de valores tasadores $P \\uparrow$. Esto por el devastador y canibalizador ultra-efecto abismal empobrecedor rentístico asimilador colosal letal asfixiador acaparador aniquilador de pauperización crudo inmanente extremo hiperempobrecedor asimétrico inmenso abrumador que opaca al sustitutorio inoperante e inferior hipertrofiado superándolo opacándolo avasallándolo eclipsante aniquilando excedentario superatriz aplastante insoslayable absorbente inusitado.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Interdependencia Estratégica
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Situación analítica donde el bienestar de un agente económico depende no solo de sus decisiones individuales, sino también de las acciones adoptadas por el resto de los participantes.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Equilibrio de Nash
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Perfil de estrategias en el cual la acción de cada jugador es la mejor respuesta ante las estrategias de los demás, eliminando incentivos para desviarse unilateralmente.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Estrategia Dominante
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Acción que proporciona al jugador el mayor pago posible, independientemente de las estrategias o decisiones que elijan el resto de los agentes involucrados en el juego.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Forma Extensiva
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Representación de un juego mediante un árbol de decisión que especifica la secuencialidad, los nodos de decisión, los conjuntos de información y los pagos finales de los agentes.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Racionalidad Secuencial
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Principio que exige que la estrategia de un jugador sea óptima en cada nodo de decisión, independientemente de la historia previa que condujo a dicho punto del juego.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Equilibrio de Nash Perfecto en Subjuegos
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Refinamiento del equilibrio de Nash que requiere que las estrategias constituyan un equilibrio en cada subjuego, eliminando así soluciones basadas en amenazas no creíbles.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Inducción Hacia Atrás
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Algoritmo de resolución para juegos dinámicos que consiste en determinar las acciones óptimas desde los nodos finales hacia el inicio para asegurar la consistencia temporal.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Modelo de Stackelberg
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Modelo de competencia oligopólica en cantidades donde existe una jerarquía temporal, permitiendo que una empresa líder mueva primero y las seguidoras reaccionen a dicha acción.
+                </p>
+            </div>
         </div>
     </div>
 </section>
