@@ -333,32 +333,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-indigo-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Microeconomía</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Externalidad</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Infección, onda expansiva desatada o secuela colateral residual implacable y esquirlar fugada exenta u omitida subrepticiamente letal o beneficiosa del corset de precios transaccional tarifado contabilizado, impactando percutiendo bendiciendo fertilizante o lacerando castigadora amputando irremediablemente la hacienda salud pulmones o haberes cívicos de terceros adyacentes inertes excluidos ajenos no inmersos voluntarios en el contrato transaccional bilateral focal.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-indigo-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Pigou (Impuesto/Subsidio)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Ingeniería exógena estatal quirúrgica expropiatoria o inyectiva monetaria de peajes e impuestos correctivos recargados amputativos o subsidios compensadores aliviadores dictaminada autocráticamente inyectiva inescrutable y calibrada impositivamente ex-ante para encarecer disuasorio asfixiante o abaratando asimilable acoplada calco fidedigna exacta milimétrica espejada al costo punitivo trágico o al goce providencial inintencionado desbocado y escindido fugitivo de la externalidad subyugante marginada.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teorema de Coase</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Acertijo revolucionario mitigador anarcoliberal estipulando que si las actas matrices originarias expropiatorias titulaciones y derechos fácticos propietarios de propiedad cruda e irrestricta subyacente yerran delimitadas cristalinas inquebrantables irrevocables pre-asignadas inobjetables estipuladas y los rozamientos burocráticos costes litigantes legales interinos transaccionales operantes exógenos mutuos friccionales resolutivos son inexistentes irrisorios estériles o infinitesimales irrisorios nulos abismales asintóticos a cero; el ecosistema pactante de individuos plebeyos colindantes resolverá y pactará resarcimientos internos asimétricos negociables aniquilando esfumando la secuela ineficiente internalizándola endógena resolviéndola inmaculada redentora pareto-eficiente siempre invariablemente inmune sin injerencia ajena absolutista inoperante exógena estatista intrometida burócrata dictaminadora paternal.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bienes Públicos</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Entidades supra-mercantiles conceptuales estigmatizadas u ofertadas exentas y despojadas ontológicamente empíricas y naturales puritanas absolutas de rivalidad destructiva excluyente y de exclusión peajera segregacionista barrera amurallada (ej: faros navales luminarias o milicias fronterizas). Si alguien exprime o recaba la gracia usufructora no desgasta roe o margina ni en fracciones menguantes el goce adyacente intacto de sus conciudadanos y simultáneamente es quimérica operante inviable imposible restringir aduaneramente o arancelariamente asfixiatoria su lluvia providencial benéfica a réprobos o polizones esquivadores de cuotas tributarias retributivas evasores morosos elusores crudos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tragedia de los Comunes</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Destino fatídico fútil holocausto dantesco letal y depredación canibalizadora voraz apocalíptica irremediable colosal y aniquiladora de acervos biológicos recursos o patos indivisos praderas inagotables en apariencia pero vaciables explotables (bienes comunes carentes exentos de amuralla alambrado propietario ineluctable barrera expropiable defensiva). El egoísmo ciego cortoplacista exultante predador asimétrico maximizador irreflexivo frívolo subyugante de las muchedumbres pastorales sin dueño succiona expolia exaurie arranca extingue aniquiladora sobreexplotando el vergel desértico exterminando y esquilmando arruinando colapsando y deforestando exterminadora la cuenca desolando empírica la fuente matriz madre aniquilando desabastecedora irremisible asolando perenne el recurso desfondando desolando para el devenir trágico universal fútil aniquilante asimilador colapsante colosal agobiador terminal infructuoso asolador y extintivo.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Información Asimétrica
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Situación en la que las partes de una transacción poseen distintos niveles de información relevante, alterando la asignación eficiente de recursos y las condiciones de equilibrio del mercado.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Selección Adversa
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Falla de mercado precontractual que surge cuando una parte posee información privada sobre características ocultas, provocando la expulsión de bienes de alta calidad por el precio promedio.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Riesgo Moral
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Fenómeno postcontractual donde un agente realiza acciones inobservables que afectan la utilidad del principal, incentivado por la falta de monitoreo perfecto y la transferencia de riesgos.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Utilidad Esperada
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Valoración ponderada de los resultados posibles de una lotería por sus probabilidades, criterio central en la toma de decisiones bajo condiciones de incertidumbre y riesgo.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Aversión al Riesgo
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Preferencia de un agente por un resultado cierto frente a una lotería con igual valor esperado, representada matemáticamente por una función de utilidad de Bernoulli estrictamente cóncava.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Señalización
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Mecanismo mediante el cual la parte informada incurre en acciones costosas y observables para revelar de manera creíble sus características privadas a la parte no informada.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Cribado (Screening)
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estrategia de la parte no informada consistente en diseñar un menú de contratos que induce a los agentes a revelar su información privada mediante la autoselección.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-indigo-500/50 hover:shadow-2xl hover:shadow-indigo-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-indigo-500 transition-colors">
+                    Relación Principal-Agente
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Vínculo contractual donde el bienestar de una parte depende del esfuerzo no observable de otra, generando incentivos para el incumplimiento o la reducción del esfuerzo.
+                </p>
+            </div>
         </div>
     </div>
 </section>
