@@ -115,32 +115,86 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-purple-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Modelos Económicos</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Optimización Estática</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El núcleo inescrutable y cálculo atemporal inamovible microeconómico donde un agente paralizante congelado evalúa algebraicamente en un abismo intemporal maximizando cúspides (utilidad, beneficio) o abismos de depreciación (costes) sin inercias transicionales subyugantes empíricas pasadas ni encrucijadas de herencias de mañana, centrado exclusivamente en la extracción fútil simétrica asintótica pura resolutoria óptima matemática de contención de la matriz hoy.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Lagrangiano</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Artificio, ariete y muleta ingenieril algebraica colosal y deslumbrante transmutadora que absorbe, amalgama y deglute la restricción dictatorial asfixiante externa infranqueable enraizándola incrustándola orgánicamente a la entraña medular de la matriz de bienestar o función inelástica utilitaria objetivo primigenia transmutando un escollo restringido trágico de fronteras asfixiantes en una epifanía resolutoria libre e incondicionada inorgánica libre y expandida asintóticamente asimiladora y unificada.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Multiplicador de Lagrange ($\\lambda$)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El precio sombra, oráculo encubierto y estigmata paramétrica algebraico premonitorio descifrador y termómetro destilado esotérico sibilino y subyacente indicando ex-ante y ex-post la cotización o rentabilidad marginal colosal aditiva o premio exultante excedentario y alivio deslumbrante asintótico de ganancia expansiva que se eyectaría asimiladora a la matriz objetivo si Dios o los dados del hado relajaran o extirparan y expandieran minúscula o infinitesimal aditiva milimétricamente adyacente extra en un átomo exiguo e imperceptible colindante liberando en $1$ el muro asfixiante de la contención carcelaria restrinctiva dictaminada exógena presupuestaria opresante.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Condiciones de Kuhn-Tucker</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Las letanías y mandamientos inquebrantables, cerrojos corolarios generalizadores irrecusables supremos algebraicos y rigurosos inescrutables estipulados de frontera inelástica de topografías asimétricas dictaminando los puntos cumbres o abismos óptimos absolutos inexpugnables de equilibrios asintóticos ineludibles resoluciones empantanadas para escenarios aberrantes o hiper-realistas constringidos donde la exclusión de contención las fronteras asfixiatorias no son meros laberintos de empates igualdades asimiladoras $=$ sino pantanos restrictivos escabrosos asimétricos tajantes de inecuaciones y muros inelásticos $\\ge$ desigualdades dictaminadoras insalvables dictados encuadres inorgánicos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Holgura Complementaria</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Acertijo inquisitorio algebraico dual de encrucijada y candado eximente premonitorio subyugador del ecosistema Kuhn-Tucker dictaminando ineludible e inextricablemente acoplantemente asintótico empírico y purificante: o bien el umbral restrinctivo o la cuota asfixiatíva frontera muro presor del cepo dictaminador es rebasado o agotado devorado aplastado saturado limitantemente apretante inelástico ahogante expropiatoriamente consumido absoluto hasta la médula extirpable $\\lambda > 0$, o de ser dilapidado no exhaustivo no inelástico sobrado holgado exuberante fútil excedente ex-post la presión liberadora castigadora de ese recurso sobra nulificando desolando expropiando asimilando el $\\lambda$ multiplicador sombra castigándolo dictatorial forzando a aplastarse inerte estéril nulo $0$ fútil inútilmente estéril inoperante llanamente inútil excedentario sin valor liberable aditivo o marginal premio asintótico extra ciego e ineficaz.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Optimización Estática
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Proceso de encontrar los valores óptimos de variables en un sistema en un momento dado, maximizando o minimizando una función objetivo sujeta a restricciones.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Decisión Económica
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Elección de agentes (consumidores, firmas) para asignar recursos escasos, intrínsecamente un problema de optimización bajo restricciones presupuestarias o tecnológicas.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Método de Lagrange
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Técnica para resolver problemas de optimización con restricciones de igualdad, transformándolos en un problema sin restricciones mediante un multiplicador.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Multiplicador de Lagrange
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Parámetro introducido en el Lagrangiano que mide la sensibilidad del valor óptimo de la función objetivo ante un cambio marginal en la restricción.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Valor Sombra
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Cambio marginal en el valor óptimo de la función objetivo por un cambio unitario en el lado derecho de una restricción. Representado por el multiplicador.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Condiciones de Kuhn-Tucker
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Conjunto de condiciones necesarias para la optimalidad en problemas de optimización con restricciones de desigualdad, extendiendo el método de Lagrange.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Holgura Complementaria
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Condición dentro de Kuhn-Tucker que establece que si una restricción de desigualdad no es activa en el óptimo, su multiplicador debe ser cero.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    Dualidad
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Relación entre un problema de optimización (primal) y otro (dual) donde la solución de uno proporciona información sobre el otro, típicamente sobre los multiplicadores.
+                </p>
+            </div>
         </div>
     </div>
 </section>

@@ -92,32 +92,77 @@ graph LR
     </div>
 </div>
 
-<!-- GLOSARIO -->
-<section class="mb-24">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-10">
-        <span class="text-purple-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[GL]</span>
-        <h2 class="text-white font-black text-xl sm:text-2xl uppercase tracking-tighter break-words leading-tight">Glosario de Modelos Económicos</h2>
-    </div>
-    <div class="space-y-3">
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Optimización Dinámica</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Arena y vórtice matemático crudo secular inescrutable y cronometrado abismal macro intertemporal e irreversible orquestando la toma de epifanías decisorias concatenadas eslabonadas sumatorias cronológicas iterativas arrastradas asimétricas en trayectorias de plazos y dimensiones temporales secantes e infinitas (ej, ciclo vital), de modo que resoluciones efímeras coyunturales y transaccionales expropiatorias de liquidaciones hoy determinan condicionan amarran destilando y constriñen y herir o mutilar limitando irremediables fatídicamente e infectan empíricamente opciones e inescrutables tesoros o castigadoras privaciones del acervo ex-post exógamente asimilables encadenadas arrastradas ineludibles de y sobre inyecciones de los ecosistemas mediatos mañanas sucesivos o ciclos interconectados prefigurados encadenantes.</p>
+
+<section id="glosario" class="py-16 bg-white dark:bg-gray-950 transition-colors duration-300">
+    <div class="container mx-auto px-6">
+        <div class="flex items-center gap-4 mb-12">
+            <div class="w-2 h-10 bg-purple-500 rounded-full"></div>
+            <h2 class="text-4xl font-bold text-gray-900 dark:text-white">Glosario Académico</h2>
         </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ecuación de Bellman</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Algoritmo, oráculo y faro recursively iterativo algebraico canónico dogmático fundamental y epifánico enraizado en la teología y axiomática Programación Dinámica subyugante inorgánica. Atomiza secciona estipula y escinde amputativamente e inteligentísimamente la infinidad colosal abismal abrumadora de la senda vital o ciclo laberíntico cronológico eslabonándolo fragmentado encuadrado acoplándolo exigentemente purificándolo simplificadoramente asintónico transmutativo resolviéndolo en dos hemisferios llanos: la cuota utilitaria o ganancia de la transacción o recompensa inmediata fútil transitoria coyuntural de consumada coyuntural en el instante y eclosión $T1$, y el remanente acervo valuado u inescrutable tesoro optimizado colosal sumatoria de valoraciones continuadas arrastradas estabilizadoras previsorias ex-post descontadas precalculadas del remanente vital expectante asintóticas asimiladas prospectivo futuro íntegro transmigratorio post-periodo reestablecido.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control Óptimo (Hamiltoniano)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Armamento algebraico arsenal puritano destilado inorgánico de la órbita de Pontryagin emparedante acaparador análogo y mutación esotérica transustanciacional homóloga temporal continuada del Lagrangiano estático inamovible inerte, pergeñado asimétrica y exquisititamente enmarcado inescrutablemente e interpolado para dictaminar y regir orbitar encauzar abisales laberintos directivos en ecuaciones y órbitas temporales continuas fluidas de cálculo variacional y órbitas en incesante mutación infinitesimal.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variable de Estado</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Registrador notarial contable acervo estanco subyacente inamovible fáctico biológico patrimonial infraestructural crudo inercial empírico y anclaje físico o depósito y memoria indeleble irrefutable empírica del sistema arrastrada prefigurada acumulativa. Define estipulando enmarca coartante y condena retrata diagnostica pasiva ciegamente de qué capital basal cuenta, atesora y resguarda e inhala empíricamente provisto crudo inescrutable y cuenta o posee el decisor como un botín y muro de dotación y amarra contable al alba de cada aurora traccional estipuladora arrastrada transgeneracional (ej, acervo base capital k o riqueza contante innegable heredada).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variable de Control</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El timón exultante asimétrico y libre albedrío inorgánico previsor volitivo dinástico dinamo palanca empuja-freno del resolutor regidor del trono u operario agente. Representa englobando y captando en ecuaciones puras la matriz de exultantes determinaciones y palancas o empujones transitorias resolutivas asimétricas libres frívolas (ej, cuánto devorar consumir en ocio C o transmutar ahorrar expropiando rentas en k) en la fugacidad del instante efímero temporal efímero coyuntural asimilador dictatorialmente calibrador para encauzar traccionar alterar destartalar desviar desangrar purificar rectificar acoplar el devenir rumboso fáctico dictaminador inelástico del buque dictando y moldeando la evolución inercial posterior futura asimilativa de los stocks incondicionados pasivos sumisos acervos estancos mudables alterados manipulados engrosados arrastrados ciegos de estado subyacentes.</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    EQUILIBRIO GENERAL
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Analiza la interacción simultánea de todos los mercados interconectados en una economía, donde los precios ajustan las ofertas y demandas hasta su compatibilidad mutua.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    EQUILIBRIO PARCIAL
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Estudia un mercado aislado, asumiendo que los precios y cantidades en otros mercados permanecen constantes o no influyen significativamente.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    ÓPTIMO DE PARETO
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Una asignación de recursos es óptima si no es posible mejorar el bienestar de ningún individuo sin empeorar el de al menos otro.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    EQUILIBRIO COMPETITIVO
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Un estado de mercado donde los precios y asignaciones son tales que los agentes maximizan su utilidad o beneficio, y todos los mercados se vacían simultáneamente.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    TEOREMAS FUNDAMENTALES DEL BIENESTAR
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Dos proposiciones que vinculan los equilibrios competitivos con la eficiencia de Pareto, siendo la base normativa de la microeconomía.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    LEY DE WALRAS
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    Establece que si N-1 mercados están en equilibrio, el N-ésimo mercado también lo estará, pues la suma de los excesos de demanda valorados es idénticamente nula.
+                </p>
+            </div>
+
+            <div class="group p-8 rounded-2xl bg-gray-50 dark:bg-gray-900 border border-gray-100 dark:border-gray-800 hover:border-purple-500/50 hover:shadow-2xl hover:shadow-purple-500/10 transition-all duration-500">
+                <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-4 group-hover:text-purple-500 transition-colors">
+                    NÚCLEO (CORE) DE LA ECONOMÍA
+                </h3>
+                <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
+                    El conjunto de asignaciones de recursos que no puede ser mejorado por ninguna coalición de agentes actuando de manera independiente.
+                </p>
+            </div>
         </div>
     </div>
 </section>
