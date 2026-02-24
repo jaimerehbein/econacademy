@@ -102,6 +102,56 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">CAPM</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Capital Asset Pricing Model. Modelo que describe la relación entre el riesgo sistemático y el rendimiento esperado de los activos. $E(R_i) = R_f + \\beta_i (E(R_m) - R_f)$.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Beta (β)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Medida de la volatilidad o riesgo de un activo en relación con el mercado en general. Un Beta de 1 implica que el activo se mueve junto con el mercado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Alfa de Jensen (α)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Rendimiento excesivo ajustado por riesgo en comparación con la ganancia predictiva del modelo CAPM. Un Alfa positivo indica un rendimiento superior al esperado para su nivel de riesgo sistemático.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">CML (Capital Market Line)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Representa las carteras que combinan óptimamente riesgos y retornos cuando el activo libre de riesgo se une con la cartera de mercado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">SML (Security Market Line)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Línea que representa gráficamente el modelo CAPM. Muestra la relación entre riesgo sistemático (Beta) y retorno esperado para valores individuales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Arbitrage Pricing Theory (APT)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Modelo alternativo al CAPM para la fijación de precios de activos que postula retornos como función lineal de múltiples factores macroeconómicos estructurales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia Débil</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Nivel de la Hipótesis del Mercado Eficiente que sostiene que los precios reflejan toda la información histórica; el análisis técnico no genera alfa continuo.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia Semifuerte</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Nivel donde los precios reflejan instantáneamente toda la información pública (balances, noticias). Invalida el análisis fundamental tradicional para lograr alfa.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia Fuerte</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Postulado empíricamente cuestionado donde los precios reflejan toda información pública y privada (insider trading).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Anomalías de Mercado</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Patrones empíricos inexplicados por el CAPM (ej. efecto tamaño, valor vs crecimiento, momentum) que abrieron paso a la ampliación factorial (Fama-French).</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Ingenieria Financiera IF4</p>

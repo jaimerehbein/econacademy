@@ -440,6 +440,56 @@
 <div class="my-16 border-t border-white/10"></div>
 <p class="text-slate-300 text-base md:text-lg leading-relaxed my-4"><strong>FIN DE LA GUÍA</strong> <em>Nota para el estudiante: Asegúrese de practicar la derivación gráfica del desplazamiento de la curva $S-I$ vertical y su impacto en la intersección con la curva $XN$. Este es el mecanismo gráfico central para la evaluación.</em></p>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Economía Abierta</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Sistema interconectado sin autarquías, interactuando irrestrictamente y fluidamente con el resto de geografías mundiales mediante intensos transfronterizos tráficos de exportaciones, importaciones e incesantes radicaciones e inyecciones o fugas de portafolios de flujos internacionales de capitales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Exportaciones Netas (NX)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El saldo arrojado riguroso por la Balanza Comercial de una nación (Exportaciones restadas de Importaciones). Determina si un país gasta o financia globalmente o acumula rentas superavitarias.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salida Neta de Capitales (SNC)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Aquisiciones e inyecciones de activos físicos o papel extranjero domiciliado en exterior ejecutada y abonada por residentes nacionales neteada contra y menos las adquisiciones de activos domésticos detraída a foráneos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Identidad S - I = NX</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Igualación macro contable universal de economías abiertas vinculando indisolublemente y hermanadamente los ahorros nacionales excedentes canalizados al exterior frente al saldo o cuenta comercial gemela paralela idéntica.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tipo de Cambio Nominal</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Precio relativo nominal, fraccionario o multiplicado, estableciendo y acordando empíricamente la pura conversión fiduciaria y proporción neta permutable o ratio exacto de transacciones entre dos divisas físicas de dos naciones distintas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tipo de Cambio Real</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tasa y radar fidedigno del valor y competitividad transfronteriza subyugante, expresando rigurosamente a qué ratio los bienes físicos palpables y canastas mercantiles originarias equivalentes de un país se trocan paritariamente frente a idéntica foránea.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Paridad de Poder Adquisitivo (PPP)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Teoría tendencial fundamental indicando que, expurgadas las trabas formales logísticas, una unidad monetaria unívoca idéntica detentará universal y mundialmente el mismo potencial y vigor poder adquisitivo homologado a la red de igualaciones de arbitraje de la ley de un solo precio total.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ventaja Comercial Absoluta</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Potencialidad logística u operaria de una entidad de fabricar genérica unídireccionalmente un bien final invirtiendo y quemando intrínsecamente inferiores sumas de factores horas o dotaciones que rivales extranjeros geográficos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Déficit Gemelos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Incidencia fatal asimétrica y empírica comprobada donde irresponsables dilapidaciones y socavones de cuentas tesoreras Estatales (Déficit presupuestario originario) traccionan irremediablemente al país a devorar forzosamente financiaciones capitales externas hundiendo (Déficits de Cuenta Corriente asociados paralelos).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Apreciación / Depreciación</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Alzas o encarecimientos unitarios del valor convalidado cambiario o recortes relativos y depreciativos de una moneda frente a sus pares flotantes extranjeras puras en los regímenes desregulados y transables y cruzados internacionales de forex mundiales continuos.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

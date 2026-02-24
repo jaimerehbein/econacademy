@@ -83,6 +83,56 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bono</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Instrumento de deuda emitido por una entidad (gobierno o corporación) para financiarse. El emisor promete devolver el principal y pagar intereses (cupones).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Cupón</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El pago periódico de intereses que el emisor de un bono realiza a los tenedores. Típicamente expresado como un porcentaje del valor nominal.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Valor Nominal (Face Value)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La cantidad que el emisor acuerda devolver al inversor en la fecha de vencimiento del bono. Generalmente base para el cálculo del cupón.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">YTM (Yield to Maturity)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La tasa de retorno total anticipada en un bono si se mantiene hasta el vencimiento. Iguala el precio actual con el valor presente de los flujos futuros.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio Sucio vs Limpio</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El Precio Limpio es el precio del bono sin los intereses devengados. El Precio Sucio (invoice price) incluye el interés acumulado desde el último pago de cupón.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bono a Descuento</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Un bono que se negocia por debajo de su valor nominal. Ocurre cuando su tasa cupón es menor que el YTM exigido por el mercado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bono con Prima</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Bono que se negocia por encima de su valor nominal. Ocurre cuando su tasa cupón es mayor que la tasa de rendimiento requerida (YTM).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Duración de Macaulay</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Media ponderada del tiempo en que se reciben los flujos de caja del bono. Medida del riesgo de tasa de interés.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Duración Modificada</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Aproximación de la sensibilidad asintótica del precio de un bono ante cambios porcentuales en el YTM. Ecuación: $\\Delta P/P pprox -D_{mod} \\cdot \\Delta y$.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Convexidad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La curvatura de la relación entre el precio de un bono y su rendimiento. La duración es una aproximación tangencial (lineal); la convexidad corrige la curvatura para grandes cambios de tasas.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Ingenieria Financiera IF2</p>

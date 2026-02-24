@@ -107,6 +107,56 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Interés Simple</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Cálculo de intereses basándose únicamente en el capital inicial prestado. Fórmula: $I = C \\cdot i \\cdot t$. Los intereses no generan nuevos intereses.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Interés Compuesto</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Cálculo de intereses donde los intereses generados se suman al capital principal para generar nuevos rendimientos. Fórmula: $VF = VA(1+i)^n$. Core del crecimiento exponencial.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Valor Presente (VA)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El valor actual de una cantidad de dinero que se recibirá o pagará en el futuro, descontada a una tasa de interés específica. Refleja el valor temporal del dinero.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Valor Futuro (VF)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El valor que alcanzará una inversión después de acumular interés compuesto durante un período determinado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Nominal</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La tasa de interés declarada sin tener en cuenta la frecuencia de capitalización. Por ej. '12% anual compuesto mensualmente'.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Efectiva</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La verdadera tasa de rendimiento anual que toma en cuenta el efecto de la capitalización compuesta. $TEA = (1 + i/m)^m - 1$.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Anualidad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Serie de pagos o cobros constantes realizados en intervalos iguales de tiempo. Ejemplos: pagos de hipotecas, cuotas de préstamos de autos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">VAN (Valor Actual Neto)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Diferencia entre el valor presente de los flujos de caja futuros generados por una inversión y el desembolso inicial. Criterio clave en evaluación de proyectos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">TIR (Tasa Interna de Retorno)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La tasa de descuento que hace que el VAN de un proyecto sea exactamente cero. Medida de rentabilidad de una inversión en porcentaje.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capitalización Continua</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Límite matemático cuando la frecuencia de capitalización tiende a infinito. El valor futuro es $VF = VA \\cdot e^{r\\cdot t}$. Usado extensivamente en finanzas continuas.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Ingenieria Financiera IF1</p>

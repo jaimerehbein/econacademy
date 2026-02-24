@@ -84,6 +84,56 @@
         </ul>
     </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-amber-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sistema de Precios</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La red neurálgica invisible de semáforos o radares dinámicos y sinfonías comunicativas mudas. Revela lo inexpresable en tiempo real disipando neblinas y racionando en pacífica eficiencia incontestables apetitos y faltantes geográficos distantes al instante.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio Funcional</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Rechazo contundente e impecable moral a catalogar precios como avaricias inmorales fijadas unilateral extorsionadoramente egoístas perversas, reivindicándolos termómetros urgentes imparciales y puros equilibradores pragmáticos del déficit circundante local urgente demandante real constatable.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Mensajero de Escasez</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Visión del precio que no fija castigos siniestros abstractos clasistas prefabricados ideológicos ficticios arbitrariamente maliciosos, sino que transmite alertas asépticas de emergencias o superávits de abundancias desbordadas logísticas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Racionamiento Pasivo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Fenómeno naturalísimo auto-impuesto exógenamente al consumidor medio mediante alzas preventivas transitorias mitigantes disuasorias disuadiendo y refrenando caprichos extravagantes para redistribuir materiales a nichos medulares hiper-críticos de extrema supervivencia o capitalización profunda urgente requerida existencial salvadora.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Señal de Inversión</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Alza abrupta coyuntural efímera atractiva en lucros que atrae fulminantemente éxodos e inyecciones masivas acortadoras del tiempo de innovaciones de reabastecedores competidores externos seducidos hambrientamente, los cuales convergen inundando e incidentalmente re-derumbando las cotizaciones originarias coyunturales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sustitución Marginal</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Efecto inmediato reflejado cuando precios avisan alteraciones geográficas. El comprador gira, adaptando y modulando compras en reemplazos alternantes análogos protegiendo presupuestos personales sin directrices ni regulaciones coercitivas policiales forzosas impositivas directivas externas imperativas autoritarias.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Leyes de Ganancias</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Cicatrización equilibrante auto-limitante inescrutable y disciplinaria para industrias rentables monopólicamente circunstanciales. Exuberancias y esplendores efímeros incitan el calco imitativo masivo ajeno derruyendo sin excepciones perrrogativas iniciales transicionales lucrativas exageradísimas prolongadas eternamente.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Soberanía del Consumidor</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El voto unánime irrefutable plebiscitario cotidiano de la polis ciudadana depositando fracciones ínfimas fraccionarias de sus jornadas en sufragios de monedas sobre manufacturas aprobadas aniquilando silenciosamente empresarios displicentes o productos de inferior obsolescencias y calidades relativas subóptimas perjudiciales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costes Hundidos (Sunk Cost)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Trampas e inversiones espectaculares irreversibles históricas preteritas fenecidas y ya incurablemente inyectadas ciegamente a pasados, irrelevantes lógicamente y estricto y sin incidencias reales operativas a futuras tomas y revaluaciones puras proyectivas decisionales continuas e inminentes contemporáneas frías utilitarista matemáticas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia Asignativa</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Idealización empíricamente aproximada constante iterativa donde recursos vírgenes convergen inexorablemente a los portafolios, tecnologías, capitales ingenieriles e insdustrialistas de máximo potencial intrínseco destilado y redituable desintegrándose manos inútiles derrochadoras inexpertamente despilfarradoras preasignadas históricas.</p>
+        </div>
+    </div>
+</section>
+
 </div>
 
 </div>

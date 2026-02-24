@@ -466,6 +466,56 @@
 </section>
 <p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">El módulo "" establece la distinción epistemológica crítica entre el <strong>largo plazo</strong> (mundo clásico, precios flexibles, neutralidad monetaria, oferta vertical) y el <strong>corto plazo</strong> (mundo keynesiano, precios rígidos, no neutralidad, demanda agregada). Dominar las identidades contables (Cap. 2), la distribución neoclásica de la renta (Cap. 3) y la teoría cuantitativa (Cap. 5) es el prerrequisito matemático indispensable para modelar posteriormente el crecimiento (Solow) y las fluctuaciones cíclicas (IS-LM).</p>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Macroeconomía</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El estudio de la economía en su conjunto. Examina fenómenos que afectan a toda la economía, como el desempleo, la inflación y el crecimiento económico general, desde una perspectiva agregada.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Microeconomía</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estudio de las decisiones que toman los hogares y las empresas, y de cómo interactúan en mercados específicos. Base micro-fundacional de gran parte de la macroeconomía moderna.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Modelos Económicos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Representaciones simplificadas de la realidad matemática o gráfica utilizadas por economistas para explicar variables económicas, prediciendo cómo cambios exógenos afectan variables endógenas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variables Endógenas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Aquellas variables que el modelo económico intenta explicar; su valor se determina dentro del propio sistema del modelo al alcanzar el equilibrio (ej. el precio de equilibrio del mercado).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variables Exógenas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Variables cuyos valores se toman como dados desde fuera del modelo. Actúan como causas o choques que alteran el equilibrio del modelo, induciendo cambios en las variables endógenas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Limpieza de Mercado (Market Clearing)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Supuesto analítico central donde los precios y los salarios son completamente flexibles y se ajustan rápidamente para igualar la cantidad ofrecida con la cantidad demandada de manera continua.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rigidez de Precios (Sticky Prices)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Imperfección o fricción del mercado a corto plazo donde precios y salarios tardan en reaccionar a choques de oferta o demanda, dando origen al ciclo económico y al desempleo temporal.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Enfoque de Largo Plazo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Perspectiva clásica donde se asume flexibilidad total de precios (market clearing). Permite que el producto converja a su nivel natural dictado por factores reales de la oferta.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Enfoque de Corto Plazo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Perspectiva keynesiana aplicable cuando los precios son pegajosos. La demanda agregada puede desviarse de la oferta agregada, provocando recesiones o expansiones sobrecalentadas transitorias.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Agregación</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El proceso de sumar y condensar millones de decisiones microeconómicas individuales en indicadores estadísticos amplios y únicos como el PIB o el IPC, diluyendo particularidades en pro de tendencias.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

@@ -307,6 +307,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Preferencia Revelada</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Axioma praxeológico purista empirico destilado y sin asunciones utópicas metafísicas intangibles interiores neuropsicológicas inescrutables de cerebros ciegos dictaminando e infiriendo consistencias lógicas ordinales o rankings de jerarquizaciones inamovibles inescrutables basándose exclusivamente asimétrica rigurosa observablemente empírica o fáctica y contundentemente decodificable y rastreable empíricamente en las liquidaciones tangibles y billeteras de acciones facturadas transadas ejecutadas palpablemente innegables evidentes manifestadas o exhibidas o plasmadas accionales irrefutables materializadas operativas externas reales expuestas exteriorizadas o manifestadas fácticamente palpables.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Indiferencia</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Lugar geométrico o valle de nivel isocuántico isotensional sopesando combinatorias interrelacionadas compensatorias transaccionales de dos fungibles $x,y$ delineando e igualando o atemperando unívocamente empíricamente o conceptualmente idénticos colmados exultantes techos absolutos inestables inasibles idénticos escalafones o mesetas topográficas de goces orgánicos y utilidades y asimilables cumbres de euforia simétricas psicológicas constantes inmutables empáticas o satisfactores homólogos subyacentes de utilitarismos neutras para acaparadores y hedonismos puros estables inmutables del consumidor resolutivo neutral frente a permutaciones mutables compensatorias interinas equilibrantes asimilativas transitorias compensables asintóticas simétricas neutras.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Relación Marginal de Sustitución (RMS)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Inclinación matemática y ratio fraccional o tangente de disposición claudicante compensable del dolor sustitutorio sopesable subjetiva sacrificable dictaminadora de la curva delineando exactamente cuántas e irrisorias o asimétricas fraccionales o enteras unidades fútiles de un satisfactor secundario $y$ condesciende claudicantemente y exige irrenunciable asintóticamente o compensante resignativo abdicar por acaparar marginal interfecto o inyectivo infinitesimal adicional del factor central predilecto unitario primario $x$ sin trastocar o devaluar su umbral empírico topográfico orgánico absoluto y estandar inamovible de idéntica plenitud isotópica incesante neutral inmutable idéntica preestablecida utilitaria o goce inestable basal pre-fijado neutral inafectado inalteable conservando invariable clímax.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Restricción Presupuestaria</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Muro inescrutable y arista aritmética de contención o clausura de fronteras infranqueables del vector dictatorial opresor excluyente contable de posibilidades de billetera anclando e inexorable delimitante cercenante y tajante estipulado asimétricamente de adquisiciones tangibles asumiendo e invirtiendo limitadas incondicionales rentas preasignadas deudoras finitas o bolsillos ingresos preestablecidos dados enfrentadas forzosamente en las combinatorias aditivas tasables transaccionales imponderables unitarias fraccionales por el régimen de etiquetados pre-asignados o escalafones del sistema mercado inelásticos exógenamente determinantes coercitivos limitantes dictaminados abisales nominalizados transables coartadores tasadores externos inobjetables objetivos fríos invariables restrictivos infranqueables inamovibles asintóticos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Óptimo del Consumidor</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Intersección clímax euclídeo y cenit utilitarista tangente de coincidencia suprema de vaciamiento equilibrador donde el ratio de sacrificio sopesable individual asimétrico inmutable caprichoso y anhelo biológico (RMS) acopla matemáticamente clona irrestrictamente abraza comulgando y empatando milimétricamente el ratio inflexible de canje dictatorial o tasa marginal objetiva exógena inescrutable exterior transmutatoria de precios impuestos subyugador del mercado $(P_x/P_y)$ maximizando en tope eclosión coronada asintótica plena el límite superior máximo inelástico coronador factible del contorno adquisitivo fraccional delimitado presupuesto basal de frontera disponible estricta fraccional totalizante absoluta suprema alcanzable cumbre resolutiva.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

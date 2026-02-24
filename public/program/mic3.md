@@ -301,6 +301,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Sustitución</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Migración táctica u órbita compensatoria resolutiva asimilativa defensiva estricta de migración predileccional o resguardo hacia horizontes o bienes abaratados homólogos en detrimento purificador descartable e intercamio asintomático del abaratado descartando lo encarecido colindante ante mutaciones del vector exógeno $P$, simulando abstracciones exentas destiladas aisladas o purificando teóricamente sin injerencias aditivas colaterales mutativas e impurezas empobrecedoras simultáneas previsoras compensatorias inamovibles congeladoras pre-estabilizadoras y restitutivas de ingresos idénticos subyacentes compensaciones hicksianas utilitarias del umbral neutro inobjetable irreal basal pre-establecido de utilidad anclada o invariable compensada inamovible.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Renta</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Secuela macro colateral empobrecedora implícita o inyección puramente empujada de empoderamiento adquisitorio colindante indirecta virtual subyugante paralela o residual transaccional emanante y residual subproducente colateral e inintencionada adyacente inercial transicional de cualquier vaivén fluctuacional de encarecimientos $P$, donde el mismo estático e inamovible y crudo estanco cheque o bolsa nominal de salarios pre-asignada inamovible acusa y devela perversas depreciativas asfixiantes licuadoras caídas o rebosantes asimétricas exultantes excedentarias dilataciones ficticias del caudal fáctico transable palpable fraccional poder real de apropiaciones en el mundo físico de cuotas unitarias crudas palpadoras adquisitorias subyacentes.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bien Normal</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estructura ontológica mercantil o catálogo resolutivo predeterminado cuya elástica propensión correlativa estadística asimila subyugadamente sin rebeldías empujes ascendentes demandantes ávidos colaterales emparejados alineados paralelos inescrutables correspondientes ante empoderamientos u óbolos e inyecciones de incrementales sustanciosas u opulencias abultadas de tesoros bolsillos o alzas dotacionales de haberes de ingresos engrosando alicientes pre-ordenados $I \\uparrow \\implies Q \\uparrow$.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bien Inferior</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Clasificación paradójica contraintuitiva pero recurrente empírica de productos estigmatizables arcaicos vulgares rudimentarios menesterosos de pobrezas o calidades empobrecidas degradadas sustituibles cuya ansia o apetito estadístico asimétrico consumidor se disuelve extinguiendo descarta expulsa en picada trágicamente o reduce en fuga repelente o exilios compensadores repudios asimétricos marginantes decrece $Q \\downarrow$ a expensas compensadas o en la eventualidad de riquezas o empujes fortificados rentísticos enriquecedores opulencias bonanzas ascendentes empoderamientos bolsillos engrosados ascendentes aliviadores $I \\uparrow$.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bien Giffen</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Quimera teórica estrafalaria anómala insólita exótica inaudita irrestricta o atipicidad estadística abismalmente contra-teórica paradojal incomprensible irlandesa patológica rarísima donde la pre-ordenanza o propensión invertida destrozando simetrías clásicas de lógicas de curva $D$ estipula absurdamente inverosímil subyugante y demencialmente alicientes devoradores correlativos inescrutables de $Q \\uparrow$ si casualidades exógenas perversas elevan asfixiantes asoladores encareciendo letales agudas los índices de valores tasadores $P \\uparrow$. Esto por el devastador y canibalizador ultra-efecto abismal empobrecedor rentístico asimilador colosal letal asfixiador acaparador aniquilador de pauperización crudo inmanente extremo hiperempobrecedor asimétrico inmenso abrumador que opaca al sustitutorio inoperante e inferior hipertrofiado superándolo opacándolo avasallándolo eclipsante aniquilando excedentario superatriz aplastante insoslayable absorbente inusitado.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

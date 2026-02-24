@@ -309,6 +309,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Externalidad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Infección, onda expansiva desatada o secuela colateral residual implacable y esquirlar fugada exenta u omitida subrepticiamente letal o beneficiosa del corset de precios transaccional tarifado contabilizado, impactando percutiendo bendiciendo fertilizante o lacerando castigadora amputando irremediablemente la hacienda salud pulmones o haberes cívicos de terceros adyacentes inertes excluidos ajenos no inmersos voluntarios en el contrato transaccional bilateral focal.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Pigou (Impuesto/Subsidio)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Ingeniería exógena estatal quirúrgica expropiatoria o inyectiva monetaria de peajes e impuestos correctivos recargados amputativos o subsidios compensadores aliviadores dictaminada autocráticamente inyectiva inescrutable y calibrada impositivamente ex-ante para encarecer disuasorio asfixiante o abaratando asimilable acoplada calco fidedigna exacta milimétrica espejada al costo punitivo trágico o al goce providencial inintencionado desbocado y escindido fugitivo de la externalidad subyugante marginada.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teorema de Coase</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Acertijo revolucionario mitigador anarcoliberal estipulando que si las actas matrices originarias expropiatorias titulaciones y derechos fácticos propietarios de propiedad cruda e irrestricta subyacente yerran delimitadas cristalinas inquebrantables irrevocables pre-asignadas inobjetables estipuladas y los rozamientos burocráticos costes litigantes legales interinos transaccionales operantes exógenos mutuos friccionales resolutivos son inexistentes irrisorios estériles o infinitesimales irrisorios nulos abismales asintóticos a cero; el ecosistema pactante de individuos plebeyos colindantes resolverá y pactará resarcimientos internos asimétricos negociables aniquilando esfumando la secuela ineficiente internalizándola endógena resolviéndola inmaculada redentora pareto-eficiente siempre invariablemente inmune sin injerencia ajena absolutista inoperante exógena estatista intrometida burócrata dictaminadora paternal.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bienes Públicos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Entidades supra-mercantiles conceptuales estigmatizadas u ofertadas exentas y despojadas ontológicamente empíricas y naturales puritanas absolutas de rivalidad destructiva excluyente y de exclusión peajera segregacionista barrera amurallada (ej: faros navales luminarias o milicias fronterizas). Si alguien exprime o recaba la gracia usufructora no desgasta roe o margina ni en fracciones menguantes el goce adyacente intacto de sus conciudadanos y simultáneamente es quimérica operante inviable imposible restringir aduaneramente o arancelariamente asfixiatoria su lluvia providencial benéfica a réprobos o polizones esquivadores de cuotas tributarias retributivas evasores morosos elusores crudos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tragedia de los Comunes</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Destino fatídico fútil holocausto dantesco letal y depredación canibalizadora voraz apocalíptica irremediable colosal y aniquiladora de acervos biológicos recursos o patos indivisos praderas inagotables en apariencia pero vaciables explotables (bienes comunes carentes exentos de amuralla alambrado propietario ineluctable barrera expropiable defensiva). El egoísmo ciego cortoplacista exultante predador asimétrico maximizador irreflexivo frívolo subyugante de las muchedumbres pastorales sin dueño succiona expolia exaurie arranca extingue aniquiladora sobreexplotando el vergel desértico exterminando y esquilmando arruinando colapsando y deforestando exterminadora la cuenca desolando empírica la fuente matriz madre aniquilando desabastecedora irremisible asolando perenne el recurso desfondando desolando para el devenir trágico universal fútil aniquilante asimilador colapsante colosal agobiador terminal infructuoso asolador y extintivo.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

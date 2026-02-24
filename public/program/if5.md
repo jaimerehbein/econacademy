@@ -79,6 +79,56 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Derivado</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Contrato financiero cuyo valor estipulado se deriva de un activo subyacente (acciones, índices, materias primas, tasas).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Contrato Forward</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Acuerdo privado bilateral para comprar o vender un activo en una fecha futura a un precio pactado hoy. No estandarizado y con riesgo de contraparte.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Contrato Futuro</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Acuerdo estandarizado y negociado en un mercado organizado (Exchange). Mitiga el riesgo de crédito mediante el uso de una cámara de compensación y márgenes diarios.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Opción Call</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Contrato que otorga al comprador el DERECHO (no obligación) de COMPRAR el activo subyacente a un precio específico en o antes de una fecha predeterminada.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Opción Put</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Contrato que otorga al comprador el DERECHO (no obligación) de VENDER el activo subyacente a un precio especificado en o antes de una fecha futura.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio de Ejercicio (Strike)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El precio preestablecido al que el activo subyacente puede ser comprado (call) o vendido (put) al ejercer la opción.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Prima</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El costo inicial de adquirir un contrato de opciones pagado por el comprador al vendedor/emisor (Writer).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">In The Money (ITM)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Condición de una opción que tiene valor intrínseco positivo. Una Call es ITM si Spot > Strike. Una Put es ITM si Spot < Strike.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Moneyness</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La clasificación del estado de la opción frente a su ejercicio económico actual: In-the-money (ITM), At-the-money (ATM) u Out-of-the-money (OTM).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Griegas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Medidas de la sensibilidad del precio de la opción frente a diversas variables. Delta (precio), Gamma (convexidad de Delta), Theta (tiempo), Vega (volatilidad) y Rho (tasa de interés).</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Ingenieria Financiera IF5</p>

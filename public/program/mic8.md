@@ -343,6 +343,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Equilibrio General</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Cúspide inmaculada paramétrica euclídea y arquitectura suprema holística y totalizante cénit de Walras donde la infinidad inescrutable astronómica incesante colosal multiplicidad atomizada interdependiente de millones de ecosistemas subyacentes mercantiles plazas laberínticas se concatenan vaciándose inelásticas e irreductiblemente purificadas simultánea y milimétricamente plenas intersectando estáticas vaciadoras sinérgicas simbióticas de compensaciones P y Q interconectadas unánimes globalizadas estabilizadas absolutistas eximiendo dislocaciones residuales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Caja de Edgeworth</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Recinto gráfico claustro y mapa topográfico cuadrangular bidimensional inmaculado analógico para diagramar la colisión simbiótica bilateral cruda y la arena resolutiva de dos agentes exógenos canjeando una dotación fija finita inelástica amurallada prefabricada inalterable estática y agotable de dos puros bienes, interceptándose en laberintos topográficos de compensaciones hicksianas y revelando ineludibles negociaciones.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Óptimo de Pareto</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estado celestial clímax supremo intocable e irreductible resolutivo y distributivo dictaminador dogmático paralizador donde ya cualquier ingeniería de transmutación mudanza o expropiatoria recanalización asimétrica de riquezas o cuotas redistributivas expoliadoras transaccionales que ose engrosar u optimizar compensaciones a un ciudadano enaltecido derivará forzosa punitiva trágica letal e ineluctablemente inexorable y sin resguardo en el hundimiento merma destitución pauperización amputación y flagelo expropiador devorador asfixiante irremediable del bienestar utilitarista del vecino marginado adyacente en la red.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Contrato</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Cordillera topográfica y espina dorsal estática inamovible de la Caja de Edgeworth engarce aglutinando e interconectando tangencial resolutiva todas plenas incontables inifinitas asignaciones eficientes inmaculadas óptimas supremas paretianas donde las laderas cóncavas RMS de los bandos litigantes en la arena empatan plenas asintóticas clónicas neutralizantes compensadoras matemáticas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teoremas del Bienestar</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Dogmas capitales y epifanías matemáticas subyacentes cardinales inescrutables de la economía teorética puros: 1° Que toda arcadia competitiva libre de impurezas y opacidades encabrita ineludiblemente resolviéndose empíricamente decantando arrastrada de mercado decantándose invariablemente un clímax Pareto Eficiente absoluto puro e incondicionado; y 2° Que si re-orquestas expropiantemente dictatorial las herencias dotacionales originarias, un mercado puro libre puede re-vaciarse encauzándose a estabilizar milagrosamente asintótico empíricamente cualquier deseado anhelo equitativo punto paretiano social utópico dictaminado.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

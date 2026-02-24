@@ -302,6 +302,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Moral (Moral Hazard)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Falla abismal e infección prebendarista de arquitecturas asimétricas informacionales gestada post-contratación. El asegurado o agente delegado endógeno, habiéndose agenciado de escudos y garantías inmunizadoras blindadas por un principal ciego protector, muta su accionar perversamente relajando cuidados redentores incurriendo u arriesgando imprudente irracional temeraria extorsiva indolente o azarosamente sabiendo inescrutable su externalización eximente de toda purga castigadora punitiva ruinosa trasladándola y vampirizándola íntegramente deudas o expiaciones a las tesorerías lumbares del asegurador ciego e impotente indemnizador paralítico subsidiante y desvalijado redentor ineficiente.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Selección Adversa</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Infección y metástasis parasitaria corroyente estigmatizante de mercados asimétricamente nublados dislocados y pre-contractuales opacos donde la fracción indeseada estropeada devaluada nociva maculada riesgosa patológica defectuosa mermada estropeada encubierta y perversa (ej: limones cacharros o adictos terminales silentes engañosos desahuciados patológicos) expulsa excluyentamente canibalizando letal implacablemente agigantándose aniquilando e invisibilizando al porcentaje benévolo puro sano e incólume, arruinando colapsando asolando vaciando el ecosistema abismadoramente desfondando y paralizándolo liquidandolo asfixiando transacciones plenas simétricas justas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Problema del Principal-Agente</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Dicotomía trágica irresoluble en matrices organizativas capitalistas divorciándose la titularidad de la praxis empírica operaria. Los propósitos utilitaristas altruistas corporativos capitalizadores supremos del amo financiador (Principal) colisionan despóticamente antagónicas y esquizofrénicas inelásticas irreparables desviándose frente a las pulsiones expoliadoras avariciosas vacacionistas de holgazanerías cortoplacistas expoliadoras parasitarias expropiadoras encubiertas egoístas frívolas fútiles del delegado y rentado lugarteniente testaferro o peón mánager ejecutivo (Agente), exigiéndole monitoreos extenuantes asfixiantes gravosos policiales carísimos paralizantes coactivos punitorios represivos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Señalización (Signaling)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Mecanoreceptor paliativo salvataje o faro clarificador deslumbrante irrumpido por la facción pura aventajada del mercado opacado perverso. Para escindirse irrefutable destacarse asimétrica comprobable e inescrutable asintótica del vulgo degradado defectuoso falsificable mentiroso engañoso inferior o simulador patológico, el virtuoso inmola sacrifica invierte asumiendo quemaduras ostentosas de riquezas diplomas colosales publicitarias o garantías irrenunciables tan exorbitantes costosísimas exclusivas imposibles inalcanzables astronómicas abisales y empobrecedoras suicidas que un impostor fútil simulador estafador inoperante perdedor marginal defectuoso jamás emularía costear sin quebrar, purificando redimiendo clarificando y desnudando indiscutible la asimetría oculta revelando su real estatus subyacente prístino selecto.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Filtrado (Screening)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Aspiradora de testeo o colador inquisitorio perenne esgrimida despóticamente pero inquisitivamente inteligente y salvadora por la cohorte ciega principalista desvalida estafada o empleadora desahuciada. Diseñan menús retorcidos encrucijadas de elección discriminadoras test empíricos auto-reveladores ineludibles sutiles subyacentes o seguros auto-deducibles asimiladores que obligan subrepticia indomeñablemente inescrutable y coactivamente a la multitud enigmática aglomerada a desenmascararse revelando clasificándose por sus actos resolutivos descifrando asimétrica y segregando desnudando su verdadera matriz estirposa oculta interior praxeológica y purificando la ceguera contractual redentora empírica decodificadora desmitificadora resolutoria salvajemente eficaz infalible expósita.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

@@ -416,6 +416,52 @@
 </div>
 <p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">--- <strong>FIN DE LA GUÍA DE ESTUDIO</strong></p>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estado Estacionario (Steady State)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Clímax analítico y punto de fuga, confluencia e igualación convergente matemático y gravitacional del modelo Solow donde inyecciones e incrementos o ahorros sumados netos formativos invirtientes acopiadores de nuevos capitales $I$ empatan asombrosamente y compensan matemática estricta a depreciaciones disolventes desgarradoras crónicas fatales desgaste inercial de amortización obsolescente $dK$ licuando y estacionando y estatizando inmovilizando los crecimientos expansivos netos estáticos asintóticos estabilizados nulos incrementales cero per-cápita equilibrados formales constantes fijados inamovibles definitivos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Acumulación de Capital</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El torrente ahorrativo exento consumos diferidos del ingreso que la economía civil destina inyecta e hunda pre-invierte preconstituyente y consolide y erige fraguando e inmoviliza físicamente transustanciada a maquinaria tecno-instrumental plantas tractores insumos herramientas engrosando y dilatando los radios intensivos apalancadores amplificadores o arsenales tecnológicos industriales a disposición multiplicadora potenciando labor humana ruda intensificada exógena per cápita predeterminante enriquecedora base central de producto incrementando.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Regla de Oro (Golden Rule)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La condición superlativa óptima medular canónica del estado estacionario y vector de tasa ahorrativa cumbre calibradísima suprema ex-ante selectivamente planeable utópica macro, donde el consumo per-cápita maximizado y engalanador se estabiliza perpetuable transgeneracional estáticamente imperecederamente sin deprimir capital a futuras progenies; dictaminada algebraicamente cuando producto marginal de capital detiene y calca exacto a tasa depreciatoria $PMK = \\delta$.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Ahorro ($s$)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proporcional fraccional base contable empírica sociológica exógena que estipula y comanda el total asimétrico drenado porcentual de toda renta nacional que es abstraída inexorable exógenamente del goce y frivolidad e ingesta presente consumista efímero fútil disipadora aletargante priorizando y derivándose excedentemente estricto íntegra productivistamente puritana austera para erigir consolidar inversiones originarias duraderas estancar multiplicadora.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Depreciación ($\\delta$)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Erosionamiento pernicioso fatídico y licuatoria intrínseca destructibilidad material fatídica implacable crónica letal atávica obsolesciendo friccional maderera del parque fabril total físico oxidando devaluador y corroyendo acervos originarios constantes preconstituidos asimétrica e inflexiblemente como cuota fraccional temporal letal inevitable que socava inexorable y drena capitales en la temporalidad mermando los stock operativos base reduciéndolos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Crecimiento Poblacional ($n$)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Variable diluyente y diseminadora multiplicada estricta demográfica fraccionadora en la ecuación soloviana que esparce constrictiva la provisión acumulativa fija general engrosada de capitales entre crecientes divisorios e insertos obreros muchedumbres originarias diluyendo o atomizando y raleando asfixiante el radio tecno-intensivo unitario per cápita licuando individualidades mermando a los stock instrumentales fraccionados y ralentizando consecuencialmente producto rentístico unitario diluible.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Dinámica de Transición</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Movilidad vectorial traccional direccional originaria de la lejanía estructural del parque capital al estado inercial estacionario convergente; a inferior e irrisorio acervo de partida arranca subyacente vertiginosa e intensa expansión rauda raudísima acelerativa o convergente alcanzadora exponencial inicial de crecimiento e irá languideciendo apagándose desacelerándose mermándose decreciente subyacentemente al enrrocar y asintotar frenándose atenuantemente hacia estabilidades fijas absolutas limitadas inamovibles letárgicas finales asintóticas culminantes estacionarias del techo.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia del Trabajo ($E$)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Un calibrador algebraico indexador y multiplicador subyacente puramente tecnológico e intelectual no observable fisiológico. Acentúa y sobrecalifica e imbuye a los perfiles humanos brutos de saberes destrezas innovaciones sinuosas incrementando endiabladamente productividades aparentes o virtuales operando rindiendo como si formaciones obreros ficticios clones incesantes engrosaran sumatorias equivalentes virtuales colosales operarios efectivos agigantados potenciados ilusionando y multiplicando y propulsando productos por tecnificación adosada añadida intangible inyectada.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Progreso Tecnológico ($g$)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El único y divino motor perpetuo, dinamo sagrado e irreemplazable de la ortodoxia Solow resolviendo enigmas para eludir colapsos de parálisis final melancólica estacionaria en estándares y retornos fijos perpetuables; inyectando externalidad expansiva y redentoras infinitas crecientes expansivas colosales rentas de crecimiento per cápita secular eterno continuo salvador sustentable asimétrico sin frenos ni rendimientos decrecientes inamovibles insuperables estancadores perpetuos constantes permanentes definitivos e inmodificables fijos eternos insalvables limitantes de acumulación cruda exclusiva y material neta simple solitaria y vacía o exclusiva.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

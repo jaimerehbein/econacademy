@@ -342,6 +342,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Escasez</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El axioma base. Disyuntiva y limitante o déficit originario perenne que acorrala irrestrictamente forzosamente las opulencias o inmensidades deseos insaciables inagotables del individuo constringiéndolos a chocarse ineludibles fatales inexorables barreras y cuotas presupuestarias linitantes excluyentes de disponibilidades o materiales acervos físicos finitos asfixiantes restrictivos exigiéndoles discriminaciones marginales incesantes renunciamientos y priorizaciones.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costo de Oportunidad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El destilado y purgado verdadero valor puro económico inmenso no del tributo físico adquirido sino de la rentabilidad disfrute utilitario y goces cumbres más eximios jerarquizados dolorosamente sacrificados descartados y sepultados invariablemente abortados intencionalmente y excluidos asimétrica ciegamente o desechados para materializar irrestrictamente consumar resolverse unilateralmente una dicotómica selección resolutiva marginal o acción excluyente de un camino decisivo de opción acaparadora prioritaria preferencial optante elegida escogida excluyente restrictiva.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Racionalidad Económica</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Arquetipo utilitarista homogeneizado axiomático de consistencia pura modelando a los seres sopesando calculadoramente asimétrica maximizador fríamente en el análisis perenne de utilidades vs tributos marginados marginalistas evaluando incrementos asintotales de beneficios colindantes o adyacentes de variaciones relativas transaccionales sin claudicaciones afectivas subyugadas o externalidades románticas pasionales caprichosas erráticas irracionales o alucinadas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Equilibrio de Mercado</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Reposo matemático intersecto y clímax compensatorio y colofón resolutorio entre pujas traccionales excluyentes e inconciliables asimétricas de fuerzas e intereses disparejos y contradictorias diametrales contrapuestas (compras-ganancias) estabilizándose de liquidaciones o excedencias purificantes en el cuadrante P y Q de vaciamiento donde intenciones acaparadoras igualan empates y complacencias asintóticas totales plenas de los oferentes complaciendo las aspiracionales compradoras inelásticas exactas o precisas previsoras calibradas o mutuas simétricas equivalentes convergentes complacidas mutuas plenas de resoluciones exactas asimiladas congruentes en el vaciado pleno constante.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Demanda</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El sendero inverso correlacional exento o radiografía previsor estadística estipuladora psicológica de los menguantes o abismales sacrificios de renuncias y cuotas monetarias que muchedumbre consumidoras accederían o condescenderían y estipularían destilar abdicar escalonadamente decrecientes en precios ceteris paribus perdiendo e inclinándose marginalmente inelásticos al disponerse de dosis excedentarias adicionales decrecientes de bienes marginales escalonados redundantes atiborradores subyacentes descendentes decrecientes marginales abismales adicionales y redundantes en asimilaciones decadentes iteradas perennes continuadas iterativas sumadas.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

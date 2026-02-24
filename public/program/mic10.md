@@ -338,6 +338,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Mecanismo de Subasta</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Protocolos ingenieriles arquitecturas de licitación subyacentes y arenas resolutorias pre-ensayadas artificiales de puja canónica acaparadora destiladoras extractivas asimétricas empedernidas e inquisidoras para rematar acervos raros o concesiones estatales donde la meta utilitarista del rematador expropiador maximizador no es meramente claudicar la cosa final adjudicadora asintótica sino extraer extirpar desnudar arrancar abismal subrepticia y empíricamente exprimir asfixiantemente inquisitiva ex-post implacable inescrutable estrujar dictatorial subyugando extorsiva el valor e inmenso anhelo oculto hermético inescrutable subjetivo resguardado opaco silenciado predispuesto celosamente inconfensable del rematante y bolsillos del adjudicatario estrujando y drenando asimilándole y arrebatándole su renuente escondida colosal y máxima renuente fáctica inconfesa ineluctable y velada valoración cruda.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Subasta Inglesa</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Liturgia teatral rematadora en escalada exultante viva aural ascendente coral donde las proferencias pujan incesantes desafiantes agigantando en estentóreas sobrepujas crecientes abismadoras desatadas el umbral P hasta destilar marginar diezmar ahogar espantar excluir e inhabilitar desbancar asfixiar desplomar y desfondar exhaustivamente a todos los lidiadores competentes contendientes acorralados cediendo la victoria y excedentario al último estoico sobreviviente titán impasible asimilado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Subasta Holandesa</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Inquisición inversa tensa aural cronómetro depresivo fútil descendente agónico licuador vertiginosa y de pánico relámpago ineluctable precipitando precios exultantes abismales estrafalarios exorbitantes en picada asfixiante declinante licuacionista asimétrica ferial hasta que el inaguantable silencio asimilador se quiebra por un postor desesperado claudicando precipitado rompiendo el vacío aterrorizado aterrorizante de extraviar perder el lote parando frenando y asimilando el reloj anclando asimétrica su precio victorioso y acaparador.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Maldición del Ganador</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Resaca fatal inmoladora tragedia y escarmiento letal pírrico castigador ex-post del victorioso exultante rematador en subastas de lotes de valores ignotos o hidrocarburos ciegos yacimientos inescrutables empíricos opacos objetivos subyacentes donde, al adjudicarse la plaza, infiere aterrorizadamente abismal y dolorosamente desoladora y certera innegable fútilmente abismadora y colosalmente que su tasación inusitada ganadora fue la más desvariada absurda irracional descabellada y distorsionada optimista asintótica de la manada encumbrada exacerbada y distorsionada sobreestimada perdiendo y quemando irremediablemente expropiando asfixiado rentabilidades fútiles asimilando su ruinosa inmersión quebrando abismada y destartaladamente abultada ruina o pérdida implacable.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Diseño de Mecanismos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Alquimia teórica ingeniería inversa ex-ante o arquitectura matriz praxeológica empírica regidora inquisitoria manipuladora coercitiva suprema. En vez de tomar empíricas estáticas fijas las normativas y esperar claudicantes apacibles qué ecosistema o resolutivas clímax resultan, el demiurgo legislador estipulador matriz supremo bosqueja ingenia teje laberínticamente reenseña pergeña enmarca perversa o idónea subyugante acoplante diseña inscribe traza implanta primero alocada el clímax Pareto o desiderátum que anhela recabar socialmente inelástico y modela forja transmutador fiduciaria e implacable las normativas laberintos alicientes encrucijadas encuadres coactivas inorgánicas paramétricas que acorralen y encaucen indefectible encarrilada matemáticamente obligando forzosamente a que el tropel racional maximizador reaccionario des emboque irremediablemente cayendo asimilable esclavo ex-post inexorable y colusoria irrefutable y asintóticamente infalible abocado al anhelado pre-estatuido y concebido fin meta objetivo dictaminado o dictado supremo original inamovible previsor absoluto manipulador subyugador.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

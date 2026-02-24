@@ -89,6 +89,36 @@
     </p>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-purple-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Modelos Económicos</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Choques Estocásticos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Convulsiones o espasmos latentes incontrolables vibraciones impredecibles aleatorias telúricas o azarosas disrupciones inasibles que azotan acribillando y bombardeando incesante o irrumpiendo exógicamente los asintóticos letargos de los modelos macroeconómicos (ej. cataclismos climáticos fulminantes inusitados inyectando o mermando la productividad agrícola o histerias pandémicas infartando redes operativas). Son la simiente basal purificada detonadora que eyecta al ecosistema y la órbita de su tumba inerte estacionaria forzando volatilidades dinámicas febriles oscilantes cíclicas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Filtro de Kalman</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Herramienta algorítmica oracular matemática y radar depurador estocástico supremo de inferencia estadística dinámica para escudriñar escanear limpiar decantar purificar y desentrañar asintomática la trayectoria pura oculta e inescrutable de una variable subyacente inobservada (ej. producto potencial o tasa natural latente) a partir de un aluvión nebuloso ensordecedor distorsionado de señales fácticas sucias o datas empíricas ruidosas volátiles plagadas preñadas de imperfecciones o errores de medición de corto aliento.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Proceso de Márkov</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Arquitectura estocástica dogmática determinista-probabilista estipulando que el devenir fáctico de la transición de mañana o futuro mediato asimila y gravita irremediablemente pende enraizada y acoplada a merced en grilletes exclusiva aislada y estricta asimétricamente del ecosistema posicional o estado factual que el sistema exhibe, impera e inmoviliza estrictamente hoy, decapitada y escindida eximiendo y amnésica borrando ignorando aniquilando despojando exenta e irrelevante de forma total la memoria atávica lastres empíricos arrastres preestablecidos o sendas de la génesis pasada inmutable originaria exógena.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Linealización Logarítmica (Log-Linear)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Artificio transmutador quirúrgico algebraico alquimia matemática para amordazar domar anestesiar y escindir las fútiles letalidades computacionales inmanejables insolucionables salvajes inestables u oprimentes de ecuaciones no lineales abismales intrincadas monstruosas. Transfigurando transigiendo y aplanando asimétrica las órbitas en variaciones fraccionales desviaciones elásticas suaves dóciles domadas aproximadas porcentuales adyacentes llanas en las inmediateces colindantes tangenciales al seguro asintótico estado estacionario inerte pacifico ancla.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Vectores Autorregresivos (VAR)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Poderío y escáner macro-econométrico aglutinante agnóstico metodológico que agrupa engloba amalgama e interpola en un bloque matricial sinfónico simultáneo indisoluble una amalgama simbiótica coral pluralizada colindante de series temporales endógenas permitiendo dictaminar ex-post auscultar rastrear y proyectar cómo un bombardeo o impulso un choque exógeno único purificado impacta rezagado percutiendo rebotando diseminado asfixiado arrastrando encadenante a la integridad coral holística predeterminada sin presuponer y asumiendo coactivamente dictadura de rigideces estructurales previas inmanentes opresoras.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Modelos Macroeconométricos ME5</p>

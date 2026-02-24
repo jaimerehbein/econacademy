@@ -75,6 +75,36 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-purple-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Modelos Económicos</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Modelos DSGE</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Acrónimo de Equilibrio General Dinámico Estocástico. La cúspide vanguardista y buque insignia ortodoxo omnipotente inorgánico del modelaje macro moderno. Arquitecturas macro-simbióticas titánicas encastrando indisoluble a micro-fundaciones asintóticas dictaminadoras frívolas resolutivas y expectativas premonitorias ancladas racionales bajo la órbita incesante estresante de bombardeos estocásticos de ruidos inyectados shocks originarios o aleatoriedades colaterales exógenas asimiladas iteradas intertemporales pre-vaciadoras plenas compensables holísticas conjuntas mutables perpetuas estabilizadoras macroeconómicas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Calibración vs Estimación</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Dicotomía metodológica gnoseológica en macroeconomía. Calibrar es erigir injertando e imponiendo ex-ante valores paramétricos exógenos de literaturas canónicas históricas exultantes anclas destiladas al modelo asegurando igualación a medias ratios inamovible de largo plazo; la Estimación econométrica, es exprimir torturar interrogar inescrutar subyugantemente sin dogma previo las ruidosas entrañas crudas asimétricas empíricas facturadas factibles de las matrices fútiles temporales o estadistas de base para que la data enmudezca reveladora confiese y corrobare subyugante asintóticamente al parámetro oculto subyacente inmanifesto incuestionable empírico decantado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Función de Impulso-Respuesta (IRF)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Topografía gráfica secuencial rastro empírico forense y revelador electro de trayectoria asintótica graficada radiografiando la propagación sísmica rebotes secuelas escaladas y deflagración o mermas disipadoras arrastradas colaterales iteradas post-efectos y eco interino efímeras transicionales prolongado y colosal ex-post perenne y caducatorio de una eclosión purificada marginal exógena unitaria singular cívica un bombardeo azaroso trágico inaudito (ej. alza de tasa alucinada) repercutiendo reverberando en todos los engranajes eslabones e intestinos simbióticos o redes macro variables dinámicas asimétricas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Regla de Taylor</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Postulado directivo brújula oracular y dogma algebraico normativo descriptivo estipulando mecanistamente o anclado premonitoriamente la ingeniería asimétrica domadora empírica fáctica y rectora ortodoxa cómo el Banco Central asfixiado o guardián timonea dictaminaría reaccionaría e impondría de y a la tasa de interés base nominal manipulándola agresiva inelástica o punitoriamente ante devíos o esquizofrenias febriles inflacionistas del IPC o sofocaciones expansiones sobrecalentadas transicionales asimétricas letales agigantadas irrestrictas o brechas de producto originarias recesivas colosales letárgicas fútiles de asfixias productivistas estancadoras terminales cíclicas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rigidez Calvo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Algoritmo y asunción mágica paramétrica inorgánica fútil y clave resolutiva axiomática neokeynesiana donde, por un embrujo aleatorio inescrutable, en cada aurora estanca efímera sólo un puñado fraccional exiguo o estrato pre-definido al azar probabilista del cártel empresarial logra se destraba despabilar liberto sin coerciones o ataduras y destrabarse sin anclas recalibrando actualizando aupando deflactando resolutivamente libres plenamente re-vaciando ex-post el listado tarifario u hoja nominada pre-precio de su pizarra; condenando irremediable amordazando enclaustrando o subyugando inmanente pasivas letales al abismal colosal ciego macizo pasivo colosal mayoritario aglomerado resto a subsistir fijos varados inactivos transicionalmente rezagados pegajosos temporal nominal fútil perdedor ciego constante y descolocado.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Redes y Computación ME6</p>

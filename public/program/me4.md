@@ -92,6 +92,24 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-purple-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Modelos Económicos</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Expectativas Racionales</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Axioma asfixiante y pre-estatuido oráculo y canon dogmático subyugante y purificador postulado implacable donde muchedumbres estadistas e individuos no son entes miopes ciegos desinformados inermes bobos desprovios aturdidos engañabobos fútiles manipulables. Asimilan devoran decodifican integran y sopesan inórganica eficientes exactas simétricas escudriñando esotéricas en sus cálculos neurales absolutamente toda variable exógena filtración anticipación estadística dato historial fútil patente macro predecible arsenal subyacente o filtrada publicitado o empíricamente inferida modelo disponible pública información asintótica ex-ante, imposibilitando fútil y anulando vaciando castigadora esterilizando inofensivamente nula fútil cualquier estéril ilusión política trampa expansiva coyuntural prebendaria subrepticia sorpresa fiduciaria macro populista ingenieril ex-ante inyectada intencionalmente del emisor para distorsionar empujar espasmos o licuar exprimir abismal y desestabilizar real extorsionadora y macro productiva la senda originaria en inyecciones subrepticias nulas irrelevantes absorbidas estériles inoperantes esterilizadas vaciadas ciegamente neutralizadas por blindajes pre-ajustados defensivos auto-ajustados previstos de anticipados contratos y de corazas paritarias o de precios auto-ajustados previsor anticipables blindados neutralizadores elásticos de indexación ex-ante reajustes paralelos blindadores esterilizantes disolventes nulos esterilizadores inmediatos y de disueltas nulas ilusiones previsoras exactas inmunes blindadas y vaciadas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Múltiples Equilibrios</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Pantanos y ciénagas laberínticas fractales de indeterminación topográfica ex-ante y abismales lagunas engranajes de indecisión teórica de modelajes no lineales o circulares de expectativas simbióticas conjuntas asimilativas (profecías auto-cumplidas espirales) en que las corazonadas coordinadas conjuncionales empáticas o manadas inorgánicas acopladas sinérgicas de asambleas actitudinales agentes puros derivan y desembocan canalizan arrastran gravitacional asintóticamente al sistema cíclicamente empantanado o arrojado a encallar colisionando anclando dislocándose estabilizado en diversas heterogéneas divergentes polarizadas plurales mesetas atractoras o clímax estabilizadores estáticos pre-dictaminados (ej: euforias esplendorosas de trances exultantes idílicos optimistas utópicos puros estabilizados o abismos dantescos catastróficos fúnebres de corridas lúgubres depresiones pánicos deflacionistas arrastrados pánicos bancarios caóticos deflativos estancados asfixiantes pánicos de corridas bancarias caóticas o postraciones letárgicas estériles y pánicos masivos paralizantes de corralitos ruinosos catastróficos letales absolutos anquilosadores fijos fútiles depresivos trágicos resolutivos irreversibles finales asintóticos subyacentes destructivos aniquiladores).</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Teoría de Juegos ME4</p>

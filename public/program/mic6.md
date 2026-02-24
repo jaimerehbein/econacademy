@@ -387,6 +387,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Oligopolio</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estructura intermedia e imperfecta de tensión asfixiante donde un puñado excluyente y selecto de corporaciones colosales acapara la dictadura oferente. Sus determinaciones resolutivas (precios $P$ o volúmenes $Q$) no son aisladas ni asintóticas, sino que detonan repercusiones y contramedidas cruzadas vengativas colaterales o empatías tácticas (interdependencia estratégica) en sus pocos rivales supervivientes.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Cartel</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Sindicación o entramado mafioso colusorio táctico y amurallado explícito donde la trinidad u oligopolistas claudican a su hostilidad sangrienta competencial para fusionarse utópica y clandestinamente en un ente supra-corporativo emulando la dictadura absolutista de un Monopolio puro, pactando y seccionando cuotas inelásticas y encareciendo asfixiantemente los márgenes $P$ extorsionando al mercado unificado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Equilibrio de Nash</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Punto de fuga estancado y resolución empantanada lógicamente irresoluble praxeológica de la Teoría de Juegos. Es la intersección paralizante donde ningún estratega u oligopolista, conociendo retrospectivamente y prefigurando la inamovible hostil o pacífica decisión del rival, encuentra incentivo, lucro marginal o salvación individual alguna en desviarse unilateralmente o traicionar su postura tomada sin inmolarse.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Dilema del Prisionero</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Alegoría sociológica y matriz letal de sub-optimización donde la racionalidad pura calculadora avariciosa egoísta inescrutable y desconfiada de individuos escindidos los condena ineludible e inexorablemente a claudicar y encallarse en la traición mutua y peor condena (subóptimo de Pareto) lapidando la redentora salvación cooperativa colectivista que, aunque utópicamente idónea y superior, los exalta asimétricamente a riesgos letales de engaño aniquilador.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Liderazgo en Precios (Stackelberg)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Asimetría temporal e imperiosa en oligopolios o arenas de juego donde un coloso pionero o alfa corporativo estipula, golpea, enarbola o ancla anticipada y primero unilateralmente sus vectores u ofertas, forzando coartantemente a la comparsa de seguidores dóciles pasivos o subyugados a acomodarse, internalizar y pivotar constreñidamente sus lógicas reaccionarias a merced del dictamen inamovible ya pre-jugado del líder imperante.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

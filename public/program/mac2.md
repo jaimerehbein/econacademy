@@ -422,6 +422,56 @@
 <div class="my-16 border-t border-white/10"></div>
 <p class="text-slate-300 text-base md:text-lg leading-relaxed my-4"><strong>Fin de la Guía de Estudio.</strong> Esta guía condensa la estructura analítica, matemática y empírica requerida para el dominio del módulo de Datos Macroeconómicos según la obra de N. Gregory Mankiw.</p>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">PIB (Producto Interior Bruto)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Valor de mercado de todos los bienes y servicios finales producidos en la economía doméstica durante un periodo. Mide tanto la renta total como el gasto total de la economía.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">PIB Nominal</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Valor monetario corriente de la producción de una economía empleando los precios actuales del momento de medición, sin haber sido ajustado o purgado por la inflación reciente acumulada.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">PIB Real</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Medición de los bienes producidos y valorados a precios constantes y anclados de un año base. Refleja fielmente el volumen físico de la actividad marginando y aislando las distorsiones de los precios.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Deflactor del PIB</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Índice o ratio (PIB Nominal / PIB Real) que mide de manera implícita la variación promedio e íntegra de precios de todos, y exclusivamente, los bienes de la economía doméstica nacional producida.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">IPC (Índice de Precios de Consumo)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Indicador estadístico fundamental del coste de una cesta representativa de bienes y servicios fijos comprados por un consumidor promedio metropolitano representativo frente al año base encuestado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Identidad Macroeconómica</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La contabilidad nacional formal que reza que el total del Gasto $Y = C + I + G + NX$, estableciendo irrefutablemente que cada moneda gastada es simultáneamente una renta recibida correspondida íntegra.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Consumo (C)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Componente mayoritario e inercial estable de la demanda agregada; gasto continuo que realizan los hogares en bienes duraderos, no duraderos o de servicios directos privados no comerciales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Inversión (I)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Expendios destinados deliberadamente a engrosar el stock capitalista empresarial. Maquinarias, instalaciones, inventarios o viviendas de hogares. Extremadamente volátil a ciclos económicos y coyuntura.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Desempleo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Porcentaje medido correspondiente estrictamente a la fuerza laboral activa que, sin poseer trabajo real transitorio, busca ocupación rentada formal pero fallando incesantemente en obtenerlo de pleno.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Actividad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El ratio absoluto de la población civil adulta en edad de laborar que decide participar visiblemente en la Población Económicamente Activa (PEA), estén estos ocupados operantes o desocupados postulantes.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

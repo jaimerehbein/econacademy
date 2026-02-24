@@ -91,6 +91,56 @@
         </ul>
     </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-amber-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Economía</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El estudio de la asignación de recursos escasos para necesidades ilimitadas, analizando los incentivos y el intercambio y sus consecuencias, más que de procesos o contabilidad pura.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Escasez Natural</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Restricción inherente infranqueable fundamental. El mundo natural no alberga infinitas cuotas de aire, comida o tierra; demandando metodologías selectivas sistemáticamente forzadas discriminatorias racionales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Trade-Off (Sacrificio)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">En EB: la cruda certeza inerradicable de la ciencia y el vivir racional general pragmático; nunca hay resoluciones a la utopía irrestricta sino intercambios incoloros permanentes de cosas tolerablemente mejores por cosas dolorosamente peores pero descartables.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sistemas de Coordinación</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Mecanismos macroestructurales formales para organizar divisiones del conocimiento: Planificaciones dictatoriales (Estado) o arquitecturas horizontales difusas subyacentes libres (Mercado).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Conocimiento Disperso</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Postulado capital hayekiano base asumida por Sowell. Es la constatación rotunda epistemológica a que datos incesantes productivos e intangibles temporo-espaciales no habitan cabezas privilegiadas planificadas nunca, residiendo únicamente a pie de agentes fragmentariamente.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Asignación Centralizada</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Peligro histórico que asume en demagogias e irresoluciones absolutas centralizar decisiones de qué y cuánto cultivar mediante paneles jerárquicos dogmáticos desestabilizados al abismo dislocado real careciendo métricas inmediatas innegables verosímiles de incentivos locales micro.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Lógica de Mando vs Lógica de Intercambio</span>
+            <p class="text-slate-400 text-sm leading-relaxed">O se ejerce fuerza estatal monolítica burocratizada para arrancar conformaciones estáticas sociales o se delega dinamo-transacciones sinérgicas en red descentralizada recíprocamente beneficiosa al unísono.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Visión Tragica Constrained</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Perspectiva analítica estipulada como columna de honestidad insobornable por T. Sowell. Advirtiendo a no prescribir quimeras legislativas ilusas si contravienen regularidades y flaquezas intrínsecamente psicológicas probadas repetidamente fallidamente crónicas perennes inalterables.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Intenciones vs Consecuencias</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La principal lejanía que divide el buenismo emocional popular del intelecto analítico empírico duro perito, enfocándose excluyentísimamente en efectos medibles expost reales en contraste al espíritu utópico inspirador promulgado ingenuamente original exante.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Más allá de termodinámicas ingenieriles llanas o cronometradas superficiales físicas, la valoración estricta inalcanzable de ensambles óptimos sociológicamente y en capitalización evaluando las jerarquizaciones máximas anheladas del soberano consumidor insustituible final del mercado.</p>
+        </div>
+    </div>
+</section>
+
 </div>
 
 </div>

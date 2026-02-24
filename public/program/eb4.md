@@ -78,6 +78,56 @@
         </ul>
     </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-amber-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bienes Complementarios</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Artículos hermanados por uso, la penalización fiscal o distorsión arancelaria artificial impositiva de uno devasta colateral e insensible colateralmente la proyección productiva demanda estructural del otro (ej. gasolina y automóviles de alta cilindrada expansivos).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bienes Sustitutos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Reemplazos dinámicos competentes. Intervencionismos torpes en encarecimientos inducidos regulatoriamente estatizados precipitan refugios a fugas masivas elásticas predecibles rebasando y sobrecalentando el canal vicario alternativo colindante auxiliar.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Incidencia Subterránea Fiscal (Tax Incidence)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Falsedad teórica de la politización burocrática del gravamen o contribución de equidad fingida popular. Tributos y puniciones estatizadas impuestas jurídicamente en industrias pesadas transustan sin obstáculos irónica indirecta ineludiblemente invisibles escurridas a precios subidas consumidor o precarizando obreros sin elásticos poderíos contractuales y nulos escudos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Externalidad Regulada</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Ceguera perniciosa legislativa que omite asimilar en panoramas y cuadros abarcadores holísticos totales sistémicos inter-industriales e imprevistos, donde las directivas hiperfocalizadas de ministerios ahogan asfixiantes a colosales engranajes ajenos foráneos en derrame dominó de burocracias colaterales estrafalarias.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Elusión y Evasión Adaptativa</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Plasticidad y resiliencia humana frente y reaccionario evasor instintiva ante gravámenes asfixiatorios. Se metamorfosean estructuras en jurisdicciones, offshore, transmutando el dinero transaccional contramercados y trueques soterrados grises desmaterializados evadiéndose e invisibilizándose opacos fugaces.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Laffer</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Representación conceptual fundamental teórica irrebatible donde incrementos salvajes draconianos y expoliaciones impositivas en tasas tributarias desangran la recaudación total global deprimida absoluta final, desencentivando e invalidando la inversión extinguiendo producciones por agotamientos absolutos abdicables huelgales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Proteccionismo y Aranceles</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tributo invisible a la ineficiencia subsidiando la caducidad y retraso monopólico vernáculo y local oligopólico interno en franco desmedro del ciudadano de a pie encareciendo inalterable inexorablemente su cesta basal castigándolo para salvar empleos moribundos en sectores zombis decadentes apañados y enclavados estatizados.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rent-Seeking (Búsqueda de Rentas)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Patología o enfermedad de camarillas y cárteles industriales extorsionando parasitariamente a parlamentos y comités coaccionando subsidios, exenciones, protecciones u óbolos succionadores redistributivos expoliando inmerecidamente presupuestos en cabildeos nulos y estériles en productividad real innovadora tangibilizada aportable competitiva.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Leyes Antimonopolio (Antitrust Contradiction)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Supuestas defenzas al competidor que se degradan trágicamente mutando y degenerando para amparar castigadoramente en parodia punitiva las ineficiencias crónicas de corporaciones desplazadas y resentidas arremetiendo estatalmente contra eficiencias abrumadoras, caídas dramáticas benéficas de precios de vanguardias invictas competentes arrolladoras superiores triunfales aplastantes.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Cobra</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La apoteosis metafórica suprema de la consecuencia inintencionada estrafalaria ex-post funesta estigmatizada desbordada de los estamentos de política y legislación central. Subsidios creados y pagados para menguar plagas venenosas inducen intencionalmente la cría intensiva masiva exarcerbada en granjas clandestinas de las mismas plagas agravando inintencionadamente exacerbadamente el saldo desfasado originario agudizado.</p>
+        </div>
+    </div>
+</section>
+
 </div>
 
 </div>

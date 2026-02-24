@@ -349,6 +349,56 @@
 </div>
 <p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">--- <em>Fin de la Guía de Estudio . Referencias basadas en Mankiw 8va Edición y fuentes académicas complementarias proporcionadas.</em></p>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Natural de Paro</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Umbral sistémico crónico promedio empírico persistente normativo fluctuante subyacente de la desocupación. Rango gravitacional e inercial donde colapsa o retorna predeterminadamente secular el desempleo en largos horizontes, eludiendo transitoriedades ilusorias efímeras cíclicas pasajeras o coyunturas sobrecalentadas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Paro Friccional</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Desocupación efímera o inercial coyuntural innegable transicional y temporal o inevitable natural intrínseco resultante e injertada en los retrasos y lentitudes y asimetrías de tiempo entre dimisiones y búsqueda acopladora relocalizadora y emparejamientos en rotaciones demográficas puras entre ofertantes aptos laborales y nuevas eclosiones corporativas de rubros dinámicos nacientes incipientes productivos incesantes recambios.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Paro Estructural</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Rigidez o cristalización sistémica irreductible del desempleo crónico cuando coaccionadas imposiciones de legisladores inflexibles distópicos fijan los tabuladores de remuneraciones de salarios base coactivos artificiales autoritarios y prebendarios draconianos sustancialmente y dictatorialmente elevadísimos inalcanzables inaccesible excluyentemente colosales superadores en exorbitancias del mercado del equilibrio asintótico del vaciado pleno salarial productivo demandante excluyendo en el ostracismo excluyente letal legal general forzosamente a inoperantes o masas obreras primarias originarias sin formación técnica demandable insertable rentabilizable.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salarios de Eficiencia</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Racionalidad e ingenieril e intrínseca e imperativa de los capitalistas optando libre, unilateral y deliberadamente de abonar y encumbrar de propia voluntad sueldos exuberantes sobrepromedios al margen basal para forjar, incentivar e inmunizar y atar lealtades operarias en salud laboral y repeler sangrías de rotaciones inestabilidades y maximizar rendimientos leales esforzados óptimos atrincherados funcionales en sus obreros dependientes fidelizados optimizados selectos insobornables alineando estímulos puros preventivos productivistas directos disuasorios motivacionales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rigidez Salarial</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Inflexibilidades perversas nominales paralizantes, resistencias inamovibles gremiales sindicalizadas atávicas o contratos estáticos fosilizados impidiendo reajustes deflacionarios lógicos correctivos ante mermas productivas recesivas, originando desempleos colosales y marginando y cesando o expidiendo a operarios por asfixia en la carga insostenida inviable estructural invendible incosteable imposibilitando reabastecidas absorciones flexibles reactivadoras salivadoras asimétricas de reactivaciones elásticas sanadoras orgánicas reequilibradoras puras.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curva de Phillips de Corto Plazo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Un trade-off temporal empírico fraccionado o encrucijada y disyuntiva macro transitoria efímera perversa donde políticas inyectoras o calentamientos recalentadores espasmódicos expansionarios consiguen engañosamente o fiduciariamente disminuir los desocupados fugazmente, asumiendo o cobrando inflaciones encarecedoras impositivas y destructivas asimétricas generalizadas en contraprestación compensatoria letal engañosa distorsionadora inestable fútil aparente temporal.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Seguro de Desempleo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Asistencia amortiguadora provista centralmente por colectas fiscales a desempleados, que si bien suaviza letalidades de subsistencia temporal humanas, empíricamente engendra y magnifica el paro friccional exacerbándolo en morosidades selectivas o holgazanerías transicionales mermando desesperaciones urgentes de inmediata abdicadora desesperada reinsercional en salarios base disminuidos forzosos de reencauzamientos subóptimos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Leyes de Salario Mínimo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Intervencionismo puro en techos artificiales garantizados en imposiciones punitivas para el empleo y contrataciones formales basales exógenas en legalidades. Causa y acentúa estructural y endémicamente de forzada exclusión de desempleo excluyente absoluto cruel asimétrico para estratos jóvenes inexpertos crónicos estigmatizantes formales si la cuantía supera su valor productivo real aportable originario productivista medible utilitario marginal compensador directo subyacente.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Población Inactiva</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Demografías civiles excluidas o auto-abdicadas disueltas o sin incursiones ni en el renglón operario laboral ocupado actual ni en el padrón desesperante y contable activo de peticionantes insistentes rastreadores en búsqueda de empleos formales en encuestas (ej: estudiantes crónicos, amas, pensionados o dimitentes rendidos inactivos exiliados frustrados desistidos).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Demanda Insatisfecha Oculta</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Necesidades corporativas latentes reprimidas paralizadas o vacantes sin ofertante de postulantes o que corporaciones renuncian o retiran forzosamente sus aperturas en plazas asfixiantes o paralizadas ante cargas colosales asfixiatorias laborales o arriesgamientos asimétricos despido-penas judiciales o inusitadas disfuncionales imposiciones formales rigorisadas exentas paralizadas inviables en encarecimientos directos inoportunos irracionales perversos castigadores preventivos de inacción conservadora defensiva paralizadora del empresariado precavido.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

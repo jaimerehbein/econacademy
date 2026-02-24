@@ -91,6 +91,36 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-purple-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Modelos Económicos</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Optimización Estática</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El núcleo inescrutable y cálculo atemporal inamovible microeconómico donde un agente paralizante congelado evalúa algebraicamente en un abismo intemporal maximizando cúspides (utilidad, beneficio) o abismos de depreciación (costes) sin inercias transicionales subyugantes empíricas pasadas ni encrucijadas de herencias de mañana, centrado exclusivamente en la extracción fútil simétrica asintótica pura resolutoria óptima matemática de contención de la matriz hoy.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Lagrangiano</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Artificio, ariete y muleta ingenieril algebraica colosal y deslumbrante transmutadora que absorbe, amalgama y deglute la restricción dictatorial asfixiante externa infranqueable enraizándola incrustándola orgánicamente a la entraña medular de la matriz de bienestar o función inelástica utilitaria objetivo primigenia transmutando un escollo restringido trágico de fronteras asfixiantes en una epifanía resolutoria libre e incondicionada inorgánica libre y expandida asintóticamente asimiladora y unificada.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Multiplicador de Lagrange ($\\lambda$)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El precio sombra, oráculo encubierto y estigmata paramétrica algebraico premonitorio descifrador y termómetro destilado esotérico sibilino y subyacente indicando ex-ante y ex-post la cotización o rentabilidad marginal colosal aditiva o premio exultante excedentario y alivio deslumbrante asintótico de ganancia expansiva que se eyectaría asimiladora a la matriz objetivo si Dios o los dados del hado relajaran o extirparan y expandieran minúscula o infinitesimal aditiva milimétricamente adyacente extra en un átomo exiguo e imperceptible colindante liberando en $1$ el muro asfixiante de la contención carcelaria restrinctiva dictaminada exógena presupuestaria opresante.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Condiciones de Kuhn-Tucker</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Las letanías y mandamientos inquebrantables, cerrojos corolarios generalizadores irrecusables supremos algebraicos y rigurosos inescrutables estipulados de frontera inelástica de topografías asimétricas dictaminando los puntos cumbres o abismos óptimos absolutos inexpugnables de equilibrios asintóticos ineludibles resoluciones empantanadas para escenarios aberrantes o hiper-realistas constringidos donde la exclusión de contención las fronteras asfixiatorias no son meros laberintos de empates igualdades asimiladoras $=$ sino pantanos restrictivos escabrosos asimétricos tajantes de inecuaciones y muros inelásticos $\\ge$ desigualdades dictaminadoras insalvables dictados encuadres inorgánicos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Holgura Complementaria</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Acertijo inquisitorio algebraico dual de encrucijada y candado eximente premonitorio subyugador del ecosistema Kuhn-Tucker dictaminando ineludible e inextricablemente acoplantemente asintótico empírico y purificante: o bien el umbral restrinctivo o la cuota asfixiatíva frontera muro presor del cepo dictaminador es rebasado o agotado devorado aplastado saturado limitantemente apretante inelástico ahogante expropiatoriamente consumido absoluto hasta la médula extirpable $\\lambda > 0$, o de ser dilapidado no exhaustivo no inelástico sobrado holgado exuberante fútil excedente ex-post la presión liberadora castigadora de ese recurso sobra nulificando desolando expropiando asimilando el $\\lambda$ multiplicador sombra castigándolo dictatorial forzando a aplastarse inerte estéril nulo $0$ fútil inútilmente estéril inoperante llanamente inútil excedentario sin valor liberable aditivo o marginal premio asintótico extra ciego e ineficaz.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Optimización Estática ME1</p>

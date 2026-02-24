@@ -118,6 +118,56 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-emerald-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Cero (Risk-Free)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tasa de rendimiento de una inversión que se asume sin riesgo de default, generalmente asociada a bonos del Tesoro de EE.UU.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Prima de Riesgo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El rendimiento adicional que un inversor espera recibir por asumir el riesgo de invertir en un activo en comparación con uno libre de riesgo.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Varianza y Desviación Estándar</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Medidas de dispersión de los retornos de un activo. En finanzas clásicas, asimiladas directamente al riesgo total del activo.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Diversificación</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estrategia de gestión de riesgos que mezcla una amplia variedad de inversiones. Reduce el riesgo no sistemático (idiosincrático) del portafolio.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Sistemático</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Riesgo inherente al mercado en su conjunto. No se puede eliminar mediante diversificación. Medido por Beta.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Idiosincrático</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Riesgo específico de una empresa o industria. Puede ser eliminado mediante diversificación eficiente.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Covarianza y Correlación</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Métricas de cómo dos activos se mueven juntos. Una correlación negativa es el motor principal para la drástica reducción del riesgo de la cartera en Markowitz.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Frontera Eficiente</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Curva de los portafolios óptimos de Markowitz que ofrecen el mayor rendimiento esperado para un nivel definido de riesgo o el menor riesgo para un retorno dado.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Allocation Line (CAL)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Gráfico de todas las combinaciones posibles de carteras de un activo libre de riesgo y el portafolio óptimo de activos riesgosos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sharpe Ratio</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Métrica para evaluar el rendimiento ajustado al riesgo. Calculada como el exceso de retorno sobre la tasa libre de riesgo dividido por la desviación estándar del portafolio.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Ingenieria Financiera IF3</p>

@@ -363,6 +363,56 @@
     <div class="text-slate-200 text-base leading-snug pt-1"><strong>Política:</strong> En el largo plazo, el gasto público desplaza a la inversión privada (crowding out), alterando la composición de la demanda pero no el nivel total de renta (que está fijo en el pleno empleo).</div>
 </div>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Función de Producción</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Relación matemática $Y = F(K,L)$ que detalla y asocia estrictamente de qué modo técnico los factores combinados y la tecnología aglutinada detonan o restringen a la cuantía nacional final.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Factores de Producción</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Batería clásica de los ingresos primordiales en economías básicas (Tierra, Trabajo $L$ y Capital $K$) empleados y agotados secuencialmente para engrosar el flujo contable del acervo servicial productivo.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Rendimientos Constantes as Escala</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Hipótesis donde duplicar o expandir pro-porcional simultáneamente todos y acoplados los factores rinde asimétricamente un aumento general de idéntica proporción e igual cuantía absoluta de producto final ($zY = F(zK, zL)$).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Producto Marginal del Trabajo (PML)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La cuota fraccionaria puramente física de producto extraordinario incremental devengado al añadir una hora cruda final laboral de obrero adicional o peón marginal ceteris paribus congelado inamovible.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Salario Real</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Remuneración transaccional o pago en equivalentes adquisitivos efectivos crudos; calculado en base del producto marginal ($W/P = PML$), expresado no en dinero billete inane sino en cuantía tangible real de cosas medibles equivalentes.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Beneficio Económico vs Contable</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Mide el saldo después del pago a los factores, restando o drenando a priori no solo desembolsos patentes monetarios y operativos corrientes directos, sino detrayendo también íntegramente todo costo oportunidad indirecto escondido sacrificado intrínsecamente del inversor originario aportante directriz decisor puro.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teorema de Euler</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Derivación matemática en mercados perfectos bajo rendimientos constantes, donde si los factores crudos obreros (L) o prestamistas (K) son remunerados implacablemente por sus productos marginales limpios netos en punto asintótico marginal óptimo y purgado, la suma exacta total macroeconómica salda $Y$ exahustivamente, y el beneficio originario puramente económico puro puro residual es devengado exhaustivamente cero exacto neutralizado vaciado puro.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Consumo Autónomo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Gasto endoliente base existencial constante basal y natural incomprensible disociada independientemente apartada e inesquivable a pesar de rentas nulificadas asumiendo expropiación pasiva descapitalizadora liquidable de activos o recurriendo a empréstitos deudos asimétricos desmedidos deudas exacerbadísimas paliativas extremas urgentes transicionales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Propensión Marginal al Consumo (PMC)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">La sensibilidad, inclinación, o declive y ratio exacto de derivación en gastos que consume privadamente perennemente una familia urbana promedia empírica estadística de cada eventual unidad (ej, dólar extra exógeno inyectado marginal incremental recibido originario puro).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Expulsión (Crowding Out)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Mecánica del tipo de interés macro. Si el aparato gobernante eleva su inmersión asfixiante y expoliadora demandando exorbitadamente deuda ($G$ o bonos), desplaza y contrae asfixiantemente encarecida excluyentamente secantemente drenando secamente irrecuperable asfixiante por sequía crediticia paralizadora total y asimétricamente la Inversión ($I$) real productista fabril y de riesgo expansiva originaria puramente capitalista empresarial pujante vanguardista emprendedurista privada de la esfera originaria civil de transacciones.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

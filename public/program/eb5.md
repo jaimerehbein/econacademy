@@ -79,6 +79,56 @@
         </ul>
     </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-amber-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario del Módulo</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control de Precios Mínimos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Alteración forzada superior imponiendo barreras arancelarias de sueldo (ej. salario mínimo agrícola), resultando implacablemente excluyente y cercenador expoliando de empleos incipientes a principiantes y de marginalidad educativa desamparados crónicos, despidiéndolos fulminantemente inexcrutablemente de legalidades dignificantes originarias accesibles a mercado real laboral.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control de Precios Máximos</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Legislación destructiva aniquiladora estipulando techos a la libre oferta-demanda (ej. leyes de congelamiento ininmobiliario habitacional). Reduciendo asoladoramente suministros y devastando y depauperando mantenimientos edilicios progresivamnente e incentivando corrupciones y mercado negros escaseando y pauperizando alicientes e inversiones nuevas constructoras habitacionales expandidas para siempre perennemente.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Racionamiento no monetario</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Cuando las tarifas son pisadas congeladas coercitivamente y mutiladas del equilibrio, los filtros de distribución mutan discriminante asimétrica injustificadamente en sobornos directos de camarilla corruptela favoritismos raciales, colas extenuantes interminables, listados y preeminencias mafiosas apadrinadas extorsionadoras o trueques asimétricos.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Fuga de Capital Físico</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Depreciación, abandono premeditado racional y liquidación pasiva paulatina sigilosa y sostenida intencionalmente estricto decaimiendo de las infraestructuras sometidas irrentablemente forzosas rentas y precios paralizantes dictados por centralización; hasta su derruición y demolición irreparable fatídica escombrada yermo final caduco inhabilitado irreparable ruinas cenizas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Subvenciones Estructurales</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Intervenciones distorsionadoras en aparente salvataje en encarecimiento de bienes. Desvían capital desde focos prometedores orgánicos de alta productividad intrínseca a cloacas insostenibles zombis moribundas y abismos negros desincentivantes artificialmente engordadas e infundiéndolas respiración artificial dependiente sinergias crónicas políticas parásitas improductivas irredimibles.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Acaparamiento Defensivo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Fobia, psicosis y pánico hiperracional natural y pragmático estricto del consumidor de mercado o ciudadano presintiendo fijamientos u ordenanzas tope y consecuentes inminencias y profecías ciertas y crónicas futuras veraces de sequías estacionales y cortes escasez o hambrunas definitivas desabasteciéndolo todo en previsión acumulativa logística previsional colosal individual protectora acopiadora autárquica personalísima.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sustitución en Calidad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Si la numeración nominal del precio es incólume y estática por vigilancia gubernamental o control de carteleras congeladas preestablecidas dictatoriales foráneas de secretarías, el empresario se adecua y defiende sus flujos erosionando y degradando y desmantelando encubiertamente en subterfugios imperceptibles ingredientes, empaques, atenciones logísticas postventa o tallas disminuidas camufladas elusivamente (shrinkflation o skimpflation) silenciosas.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Demanda Inducida Subsidiada</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Excesos absurdos consumistas despilfarradores dilapidando al absurdo en sistemas sanitarios, farmacéuticos prebendarios o educativos becados, provistos artificiosa e irrealisticamente por debajo o cero costo ilusorio, generando hipercongestiones absurdas letales cuellos colapsados embotellamientos asfixiantes desproporcionados infinitos y colapsando calidades atencionales originarios promedios de todos unánimemente empeorándoles integral y sistemáticamente a universalidad total global.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Desempleo Estructural Inducido</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Por leyes hiperrigidas, imposibilidades despido, cuñas fiscales agigantadas prejubilacionales coactivas forzadas y recargos exorbitantes gravosos patronales inmovilizantes estatutarias desincentivadoras paralizantes precarizando al trabajador en negreos y encadenando de facto barreras ciclópeas inquebrantables infranqueables a juventud para incursionar en faenas e insertos formativos incipientes primarios escalafonables.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-amber-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Cárteles Estatales</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Sindicalismos avalados en blindajes o uniones apañadas por burocracias oficiales coactivas gubernamentales de la legislativa central proteccionista. Estableciendo monopolios absolutos intocables mafiosos blindados y extorsivos legalizados para peajes perversos de privilegios extractivos anquilosados eternamente e imposibles de desintegrar mediante libre y espontánea sana superación competencia e innovación técnica desarticuladora pacifica productiva desestabilizadora externa desafiante libre.</p>
+        </div>
+    </div>
+</section>
+
 </div>
 
 </div>

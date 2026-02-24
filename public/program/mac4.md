@@ -360,6 +360,56 @@
 </div>
 <p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">| Concepto | Fórmula | Descripción | | :--- | :--- | :--- | | <strong>Oferta Monetaria</strong> | $M = C + D$ | Suma de efectivo y depósitos | | <strong>Base Monetaria</strong> | $B = C + R$ | Pasivos del Banco Central | | <strong>Cociente Efectivo</strong> | $cr = C / D$ | Preferencia de liquidez del público | | <strong>Cociente Reservas</strong> | $rr = R / D$ | Política de reservas de los bancos | | <strong>Multiplicador</strong> | $m = \frac{cr + 1}{cr + rr}$ | Capacidad de creación de dinero | | <strong>Modelo Final</strong> | $M = m \times B$ | Determinación de la Oferta Monetaria | | <strong>Apalancamiento</strong> | $Lev = \frac{\text{Activos}}{\text{Capital}}$ | Riesgo de solvencia bancaria |</p>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Dinero</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El activo transaccional altamente fungible, aceptado y estandarizado con elocuente suprema preeminencia liquidable universalizada y fluida que se erige como catalizador supremo general subyugante y perenne dinamo de permutas e intercambio mercantil y macrooperaciones sociales generalizadas de trueques en red total interpares civil de intercambios recurrentes difusos y anónimos en transacciones cotidianas mundiales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Dinero Fiduciario (Fiat)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Impresiones, denominaciones de cuentas crediticias, acrícilos nominales estandarizados por mandato del Estado sin ningún intrínseco respaldo en aleación u oro duro contante y real sino cimentado sostenidamente anclado por fe en aparatos y aparatajes expropiatorios de coacción recaudadora legal y coactitva fiscal exclusiva centralista institucional.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Funciones del Dinero</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tres ejes: 1) Unidad de cuenta (termómetro referencial asintótico). 2) Medio líquido de cambio puro transaccional elástico lubricante total libre. 3) Dispositivo atesorador protector reserva temporal refugio acumulativo diferido y amortiguable o previsor previsor acopiador preservador proyectivos de patrimonios e inversiones.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Oferta Monetaria (M)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Acopio circulante expandido aglutinador. Conforma efectivo billetes físicos y también subcategorías expansivas exponenciales o endógenas ($M1, M2$, etc); en conjunción a depósitos a la vista fiduciarios u operaciones subyacentes inmediatas plásticas bancarias de libre transabilidad instantánea veloz en chequeras instantáneas cotidianas generalizadas totales.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Banco Central</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Órgano regulador, emisior institucional director estatutario macro rector monolítico controlador que interviene dictatorialmente la oferta nominal primaria macro circulante base, las exigencias bancarias multiplicadoras perfiles de tasas prestatitarias anclas directrices base fundamentales en la geografía soberana monetizada nacional imperante abrumadoramente determinante innegable y totalizante absoluta en mandatos fiduciarios dictaminadores del rubro financiero total y mercado divisa total paralizante asimétrica o estipulativa macro expansiva crediticia expansiva en general cíclica.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Operaciones de Mercado Abierto (OMA)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Vehículo instrumental ejecutor. Banco Central interviene comprando/vendiendo bonos; en compra (imprimiendo liquidez o engrosando balances de encajes bancos), insufla asimétricamente M al torrente civil crediticio encendificador alza multiplicadora monetizada o recesora drenando y retirando aspiradora deflacionante.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Reserva Bancaria Fraccionaria</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Sistema crediticio bancario operante asimétricamente elástico subyacente que reingresa prestándolo colosalmente reiterativa un colosal mayor fracción o saldo a deudores prestamistas terceros desfondando fraccionablemente el acopio originario estricto primario conservando solo una franja de base restrictiva basal requerida de precaución legalizada para no iliquidez sistémica prevenida operativa de corridas sistémicas previsibles matemáticas estadísticamente probables medias esperadas de cajeros de la masa total ahorrista cliente en global normal de flujo de salidas estándar de normal media.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Multiplicador Monetario ($m$)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Ecuación y propensión estacional amplificadora empírica $m = (cr+1)/(cr+rr)$ estipulando en cuántas dimensiones fractales o subyacentes agregativas y colosales expansiones piramidales una inyección de un dólar crudo basal primario por emisor $1/$ del encaje impacta exponenciablemente y piramidalmente total aglutinado inmaterial engrosado real prestatitariamente y agregativo colosal multiplicativo ampliado desmedidamente transado indirecto virtualizado englobado en $M$, o de cuentas expansivas contables.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Base Monetaria ($B$)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Los pasivos estancos férreos duros de Banco Centrales; la circulación papel física billetes de la ciudadanía civil más las sumas depositarias congeladas de bóvedas bancarias como pasivos de la matriz, deudas directas exógenas primarias irrestrictas matrices matrices emisoras del tesoro matriz, su crecimiento es directo por inyecciones OMA o flexibilizaciones masivas cuantitativas extraordinarias QE exclusivas rectoras asimétricas puras de inyección en cuentas crediticias directas matrices centralizadas dictadas en cuentas computacionales oficiales centrales asimétricas de monopolio rector expansivo creador originario del ciclo creados asimétricamente por apuntes expansivos de origen.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Apalancamiento Bancario</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Utilización exultante asimétrica exponencial aglutinadora y piramidal maximizando ratios frágil de equidad del balance bancario; operando masivamente el dinero ageno endeudado apalancador prestamista masivo acreedor acrecentando astronómicamente ratios ROE, pero subyugan agigantando en hiperfragilidades al riesgo sistémico sistémico ante desfalco e incobrables en estampidas incobrables arrastrando y devaluando cascada insolventaciones dominó letales en masa cíclicas crónicas paralizadoras liquidantes asoladoras asfixiantes o quiebras masivas de rescates masivas en insolvencias globales crónicas periódicas recurrentes generalizadas absolutas inevitables frágiles inestables pendulares trágicas desfondadas abismales catastróficas desarticuladoras sistémicas devaluadores licuadores destructores implacables endémicas irreparables crónicas estructurales atávicas implacables letales inoportunas inexorables fatídicas funestas desdichadas recurrentes abisales de pánico terminal sistémicos irreparables masivos recurrentemente endémicas sistémicas frágiles crónicas colapsando insolventados encadenados fatalmente fatídicos implacables inestables endémicas estructurales cíclicas.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

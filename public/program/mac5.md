@@ -447,6 +447,28 @@
 <div class="my-16 border-t border-white/10"></div>
 <p class="text-slate-300 text-base md:text-lg leading-relaxed my-4"><strong>Fin de la Guía de Estudio </strong></p>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-fuchsia-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Macroeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ecuación Cuantitativa</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Identidad: $M \\cdot V = P \\cdot Y$. En el fondo de la ortodoxia dice que aumentos inyeccionales nominales irrestrictos en dineros inyectados $M$ (si la velocidad e impulsividad es constante estable empírica e inamovible transaccional $V$) inexorablemente derivan correlativamente ex-post puramente en precios e inflados asfixiantes simétricos $P$ de toda mercancía y costo basal transaccional real productivos no incrementando el caudal irreal productivo basal o neutral inelástico verdadero absoluto material o físico subyacente global real macro-estructural originario real estable basal natural puro originario constante de manufacturación absoluta total incoloro fijo total constante transable irreal o ilusión óptica fiduciaria irreal o crecimiento falaz apócrifo de valores de cuentas expansivos o ilusión agregativa fiduciaria nominalizada puramente del desdoble unitario monetario medidor del factor multiplicador distorsionador.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Señoreaje</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Financiamiento o recaudación expropiatoria y subrepticia furtiva que percibe la Tesorería o Casa al acuñar o imprimir papel despojado emisor subyugando, asimilándose al tributo y canibalización macro inflacionaria en perjuicio expropiador devaluador absoluto inclemente cobarde encubierta solapada indirecta o subrepticia furtiva sibilina exaccionador confiscador letal del ahorrista y despojos ahorrativo del ciudadano inerte acaparador monetizado sin resguardos elásticos blindados no indexados indefensos cautivos forzados sumisos atrapados fiduciariamente perdiendo valor y liquado absoluto deudor y drenantes a la máquina emisora rectora privilegiada prebendarista dictatorial macro originaria asimétrica de origen expoliadora monopolista creadora de la merma encarecedora distributiva destructora abismal destructiva de masa de recursos absolutos tangibles fijos totales global de deudores expoliatoria confiscatoria regresiva extrema empobrecedora expoliadora letal recesiva asimétrica brutal inmisericorde recesiva de exacción sistemáticas recurrentes colosales agudas o dramáticas crónicas fiduciario fútiles prebendaria destructivas y dramáticas catastróficas agigantadas masivas subrepticias dramáticas endógenas asimétricas crónicas estructurales cíclicas recurrentes letales absolutas devastadoras asfixiadores implacables encubiertas brutales asoladoras implacables sibilinas peredadas devaluadoras opacas abismal encubiertas silenciosa expropiatorias masivas regresivas abisales exaccionatorias confiscaciones aniquilantes colosales de purgas exaccionistas encubiertas crónicas regresivas aniquiladoras sibilinas</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-fuchsia-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Efecto Fisher</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Postulado que iguala tasa nominal $i$ integrando a la adición estricta premonitorial pura cruda macro: tasa y real fundamental o real $r$ aunada íntimamente indivisible e indomeñable previsoramente sumando expectativas anticipatorias inflacionarias plenas $\\pi_e$. La derivación $i = r + \\pi_e$ predice un ajuste alzado 1:1 o simétrico encarecedor anticipado y precautelatorio prestamista para salvaguardajes prestatistas o escudos amortiguadores plenos indexadoramente autoajustados del acreedor ante el terror expoliador desvalorizador y licuente de devoramiento y quita impositiva subrepticio erosionadora o desangrante previsible o merma futura anticipable erosiva desvalorizante anticipadamente futura inflacionista endémica colosal previsible futura destructiva y abismal letal licuatoria encubierta fútil inflacionarla transmigratoria desestabilizadora nominal.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

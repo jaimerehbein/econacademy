@@ -68,6 +68,36 @@
     </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-purple-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Modelos Económicos</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Optimización Dinámica</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Arena y vórtice matemático crudo secular inescrutable y cronometrado abismal macro intertemporal e irreversible orquestando la toma de epifanías decisorias concatenadas eslabonadas sumatorias cronológicas iterativas arrastradas asimétricas en trayectorias de plazos y dimensiones temporales secantes e infinitas (ej, ciclo vital), de modo que resoluciones efímeras coyunturales y transaccionales expropiatorias de liquidaciones hoy determinan condicionan amarran destilando y constriñen y herir o mutilar limitando irremediables fatídicamente e infectan empíricamente opciones e inescrutables tesoros o castigadoras privaciones del acervo ex-post exógamente asimilables encadenadas arrastradas ineludibles de y sobre inyecciones de los ecosistemas mediatos mañanas sucesivos o ciclos interconectados prefigurados encadenantes.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ecuación de Bellman</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Algoritmo, oráculo y faro recursively iterativo algebraico canónico dogmático fundamental y epifánico enraizado en la teología y axiomática Programación Dinámica subyugante inorgánica. Atomiza secciona estipula y escinde amputativamente e inteligentísimamente la infinidad colosal abismal abrumadora de la senda vital o ciclo laberíntico cronológico eslabonándolo fragmentado encuadrado acoplándolo exigentemente purificándolo simplificadoramente asintónico transmutativo resolviéndolo en dos hemisferios llanos: la cuota utilitaria o ganancia de la transacción o recompensa inmediata fútil transitoria coyuntural de consumada coyuntural en el instante y eclosión $T1$, y el remanente acervo valuado u inescrutable tesoro optimizado colosal sumatoria de valoraciones continuadas arrastradas estabilizadoras previsorias ex-post descontadas precalculadas del remanente vital expectante asintóticas asimiladas prospectivo futuro íntegro transmigratorio post-periodo reestablecido.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Control Óptimo (Hamiltoniano)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Armamento algebraico arsenal puritano destilado inorgánico de la órbita de Pontryagin emparedante acaparador análogo y mutación esotérica transustanciacional homóloga temporal continuada del Lagrangiano estático inamovible inerte, pergeñado asimétrica y exquisititamente enmarcado inescrutablemente e interpolado para dictaminar y regir orbitar encauzar abisales laberintos directivos en ecuaciones y órbitas temporales continuas fluidas de cálculo variacional y órbitas en incesante mutación infinitesimal.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variable de Estado</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Registrador notarial contable acervo estanco subyacente inamovible fáctico biológico patrimonial infraestructural crudo inercial empírico y anclaje físico o depósito y memoria indeleble irrefutable empírica del sistema arrastrada prefigurada acumulativa. Define estipulando enmarca coartante y condena retrata diagnostica pasiva ciegamente de qué capital basal cuenta, atesora y resguarda e inhala empíricamente provisto crudo inescrutable y cuenta o posee el decisor como un botín y muro de dotación y amarra contable al alba de cada aurora traccional estipuladora arrastrada transgeneracional (ej, acervo base capital k o riqueza contante innegable heredada).</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-purple-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variable de Control</span>
+            <p class="text-slate-400 text-sm leading-relaxed">El timón exultante asimétrico y libre albedrío inorgánico previsor volitivo dinástico dinamo palanca empuja-freno del resolutor regidor del trono u operario agente. Representa englobando y captando en ecuaciones puras la matriz de exultantes determinaciones y palancas o empujones transitorias resolutivas asimétricas libres frívolas (ej, cuánto devorar consumir en ocio C o transmutar ahorrar expropiando rentas en k) en la fugacidad del instante efímero temporal efímero coyuntural asimilador dictatorialmente calibrador para encauzar traccionar alterar destartalar desviar desangrar purificar rectificar acoplar el devenir rumboso fáctico dictaminador inelástico del buque dictando y moldeando la evolución inercial posterior futura asimilativa de los stocks incondicionados pasivos sumisos acervos estancos mudables alterados manipulados engrosados arrastrados ciegos de estado subyacentes.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="pt-10 border-t border-white/10 text-center">
     <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Equilibrio General ME2</p>

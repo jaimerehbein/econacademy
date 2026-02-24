@@ -326,6 +326,36 @@
 </div>
 </section>
 
+<!-- GLOSARIO -->
+<section class="mb-24">
+    <div class="flex items-center gap-3 mb-10">
+        <span class="text-indigo-500 font-mono text-xs">[GL]</span>
+        <h2 class="text-white font-black text-2xl uppercase tracking-tighter">Glosario de Microeconomía</h2>
+    </div>
+    <div class="space-y-3">
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Largo Plazo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Dimensión y horizonte espectral teórico conceptual irreal analítico resolutivo no temporal de exenciones sin anclajes ineludibles forzados inmutables asfixiantes pegajosos fijos o pre-estatuídos crónicos inflexibles o irrevocables. Dimensión emancipadora exenta y transitable sin nudos ni ataduras infraestructurales donde enteramente omnímodamente todos y en sumatoria amalgamada total e impolutos la universalidad completa de insumos factores basales originarios preasignados asimétricos constantes ($K, L, etc$) devienen, licuan, metamorfosean transustancian y transmutan en maleabilidad elástica sin restricciones y mutabilidades mudables variables acopladas escalables plásticas adaptables expandibles contraíbles al unísono.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Corto Plazo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Limitante cronológico infranqueable empírico constringente asfixiante emparedador amurallado transicional o subyugante e interino dictaminador restrictivo y coartador resolutivo donde en su seno el emprendedor experimenta celdas o dogales insoldables inquebrantables estipulando e induciendo inexorable o irrevocables ciegos invariables estamentos productivistas colosales constantes en que, al menos insalvablemente, uno o múltiples enraizados de sus aristas basales troncales originarias dotacionales o infraestructurales pesados ($K$ tierra hornos matrices fijas) yace irrevocablemente petrificado estático inamovible fijos atascado congelado paralizado inabordables en inmutabilidad inelástica ciega imposibilitado a licuarse acomodarse modificarse desinvertirse o expandirse forzando distorsivos estrangulamientos en los reacomodos pre-ordenados.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costo Marginal</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Acentuación o diferencial purificado extra derivativo puritano delta exógeno aditivo adicional adyacente infinitesimal unitario asimétrico contable extra compensante colindante recargable aditivo puramente incrementado sobre los acumulados incurridos pasivos originarios arrojando el excedente exacto y alícuota sobreesfuerzo punitivo asimétrico devengable o sangría inyectable asimétrica erogable o desangrante del bolsillo excedentario y drenante que cuesta y penaliza asimétrica adicional unitario manufacturar o producir fabricando y eyectando un solo pre-engrane unitario originario infinitesimal adyacente o estipulado ítem fraccional o pieza indivisible excedente posterior subsiguiente adicional pre marginal extra purificado adicionalizado exacto infinitesimal subyacente subsiguiente.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Costo Medio</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Ratio dispersor u homogenizador estadístico prorrateado llanamente globalizado asimétrico distributivo global amortiguador donde universalidades agregativas de bolsas punitivas pasivas globales de gastos, tanto irrenunciables pesados abismales estáticos $CF$ como maleables $CV$, son derramados llanamente esparcidos atenuadamente recayendo en la dilución fraccionada divisoria y prorrateable aritmética distributivamente y de media per cápita equitativa por sobre abultadas numeraciones crudas inmensas fraccionarias acopiadoras estipuladas cuantificadas de la globalidad volumen manufacturado extraído eyectado Q de ítems eyectados preestablecidos extraídos prefigurados fabricados extraídos totales prorrateados.</p>
+        </div>
+        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
+            <span class="text-indigo-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Retornos Decrecientes</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Cicatriz implacable de ineficiencias entrópicas de la naturaleza estigmatizante en aglomeraciones o hacinamientos asimétricos operarios constringidos subyugados perversos ineficientes productivos empíricos e inescrutables de fatalidades organizativas físicas subyacentes. Cuando asfixiados en corralitos fijos $K$, adiciones sobrecargantes excesivas agigantadas de nóminas jornaleras atiborradoras de peones incesantes $L$ aportan asimétricas insignificancias menguantes insignificantes declinantes irrelevantes excedentarias puras irrisorias diluidas o efímeras de productos unitarios colindantes adicionales fraccionales adicionales e infinitesimales de volumen declinante irrisorio abismales descendentes $PMg$ mermantes abismales minúsculos decadentes y eventualmente asintóticos y contraproducentes o nulificantes obstruccionistas residuales restativos inoperantes y nulos e insignificantes inanes o caducos decrecientes menguantes reducidos irrisorios ínfimos restativos en incesantes adicionales diluidos en atascos asfixiantes espurios.</p>
+        </div>
+    </div>
+</section>
+
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">
