@@ -140,44 +140,36 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Proceso Estocástico</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Colección de variables aleatorias indexadas por el tiempo $\{X_t\}_{t\geq 0}$. Base matemática para modelar precios de activos, tasas de interés y cualquier variable financiera incierta.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Martingala</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso estocástico cuya esperanza condicional futura, dada la información disponible en el presente, es idéntica a su valor actual, fundamental para la modelización de mercados sin arbitraje.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Movimiento Browniano</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Proceso continuo $W_t$ con incrementos independientes y normalmente distribuidos: $W_t - W_s \sim N(0, t-s)$. Piedra angular de las finanzas matemáticas modernas.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Medida de Probabilidad Neutral al Riesgo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Medida bajo la cual el valor esperado descontado de un activo financiero es una martingala, permitiendo valuar derivados utilizando la tasa de interés libre de riesgo.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Filtraciones $\mathcal{F}_t$</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Familia creciente de sigma-álgebras que representa la información disponible hasta el tiempo $t$. Un proceso es adaptado si $X_t$ es $\mathcal{F}_t$-medible.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Arbitraje</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Operación financiera que genera beneficios sin riesgo ni inversión neta inicial mediante el aprovechamiento de ineficiencias de precios en diferentes mercados o instrumentos.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Martingala</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Proceso donde el mejor estimador futuro dado la información actual es el valor presente: $E[X_t | \mathcal{F}_s] = X_s$. En finanzas sin arbitraje, los precios descontados son martingalas bajo $Q$.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Numeraire</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Activo financiero negociable y estrictamente positivo cuyo precio se utiliza para normalizar el valor de otros activos, facilitando el cálculo de expectativas bajo distintas medidas de probabilidad.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Medida $P$ vs. $Q$</span>
-            <p class="text-slate-400 text-sm leading-relaxed">$P$: medida de probabilidad histórica (real). $Q$: medida neutral al riesgo. Bajo $Q$, todos los activos tienen rendimiento esperado igual a la tasa libre de riesgo, permitiendo valorar por descuento.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Teorema de Girsanov</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Resultado matemático que especifica cómo se transforma la deriva de un proceso estocástico al cambiar de medida de probabilidad, manteniendo la equivalencia entre dichas medidas.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Derivada de Radon-Nikodym</span>
-            <p class="text-slate-400 text-sm leading-relaxed">$\frac{dQ}{dP}$: función densidad que relaciona dos medidas de probabilidad equivalentes. En finanzas, es el factor de descuento estocástico (SDF o pricing kernel).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Derivada de Radon-Nikodym</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Función que describe la tasa de cambio entre dos medidas de probabilidad, permitiendo la transición matemática entre la medida estadística real y la medida neutral al riesgo.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Teorema de Girsanov</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Establece que si $W_t^P$ es BM bajo $P$, entonces $\tilde{W}_t = W_t^P + \int_0^t \theta_s ds$ es BM bajo $Q$. El drift cambia, la volatilidad no. Fundamental para derivar PDEs de valoración.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Fórmula de Feynman-Kac</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Teorema que establece un vínculo formal entre las ecuaciones diferenciales parciales parabólicas y los procesos estocásticos, representando soluciones de EDP como valores esperados condicionales.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Precio del Riesgo (θ)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Parámetro $\theta = \frac{\mu - r}{\sigma}$ que cuantifica el exceso de retorno por unidad de volatilidad. En CAPM corresponde al Sharpe ratio. En Girsanov, es el ajuste del drift al cambiar de medida.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Integral de Itô</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Extensión del cálculo a procesos estocásticos: $\int_0^T X_t dW_t$. Regla clave: $(dW_t)^2 = dt$. La fórmula de Itô permite derivar la dinámica de funciones de procesos estocásticos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Representación de Martingala</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Teorema que establece que toda martingala cuadrado-integrable puede escribirse como una integral estocástica. Justifica la existencia de estrategias de cobertura (hedge) perfectas bajo completud del mercado.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio de Mercado del Riesgo</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Relación entre el exceso de rentabilidad esperada de un activo sobre la tasa libre de riesgo y su volatilidad, utilizada para ajustar la deriva en cambios de medida.</p>
         </div>
     </div>
 </section>

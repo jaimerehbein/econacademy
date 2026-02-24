@@ -139,44 +139,36 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Interés Simple</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Cálculo de intereses basándose únicamente en el capital inicial prestado. Fórmula: $I = C \\cdot i \\cdot t$. Los intereses no generan nuevos intereses.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Instrumento Sintético</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Activo financiero diseñado para replicar los flujos de efectivo y perfiles de riesgo de otro instrumento mediante la combinación de diversos componentes básicos del mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Interés Compuesto</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Cálculo de intereses donde los intereses generados se suman al capital principal para generar nuevos rendimientos. Fórmula: $VF = VA(1+i)^n$. Core del crecimiento exponencial.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ingeniería Financiera</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Disciplina que emplea métodos cuantitativos y herramientas matemáticas para el diseño, desarrollo e implementación de instrumentos y procesos financieros innovadores con fines de gestión de riesgos.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Valor Presente (VA)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El valor actual de una cantidad de dinero que se recibirá o pagará en el futuro, descontada a una tasa de interés específica. Refleja el valor temporal del dinero.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Factor de Descuento</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Valor actual de una unidad monetaria pagadera en una fecha futura, determinado por una tasa de interés específica y un convencionalismo de conteo de días definido.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Valor Futuro (VF)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El valor que alcanzará una inversión después de acumular interés compuesto durante un período determinado.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Arbitraje</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Práctica financiera que consiste en la compra y venta simultánea de activos para beneficiarse de discrepancias en los precios, asegurando la eficiencia y el equilibrio del mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Nominal</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La tasa de interés declarada sin tener en cuenta la frecuencia de capitalización. Por ej. '12% anual compuesto mensualmente'.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Base de Días</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Convención técnica que establece cómo se cuenta el tiempo para el cálculo de intereses devengados, definiendo el número de días por mes y por año comercial.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Efectiva</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La verdadera tasa de rendimiento anual que toma en cuenta el efecto de la capitalización compuesta. $TEA = (1 + i/m)^m - 1$.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Replicación Estática</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Técnica de ingeniería financiera que utiliza una combinación fija de instrumentos financieros para igualar los flujos de caja de una posición compleja sin requerir reequilibrios constantes.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Anualidad</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Serie de pagos o cobros constantes realizados en intervalos iguales de tiempo. Ejemplos: pagos de hipotecas, cuotas de préstamos de autos.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Valor Inicial Cero</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Propiedad de ciertos contratos financieros, como los swaps, donde el valor presente de los flujos de entrada y salida es idéntico en el momento de la contratación.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">VAN (Valor Actual Neto)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Diferencia entre el valor presente de los flujos de caja futuros generados por una inversión y el desembolso inicial. Criterio clave en evaluación de proyectos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">TIR (Tasa Interna de Retorno)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La tasa de descuento que hace que el VAN de un proyecto sea exactamente cero. Medida de rentabilidad de una inversión en porcentaje.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capitalización Continua</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Límite matemático cuando la frecuencia de capitalización tiende a infinito. El valor futuro es $VF = VA \\cdot e^{r\\cdot t}$. Usado extensivamente en finanzas continuas.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">ACT/360</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Convencionalismo de mercado donde los intereses se calculan sobre los días reales transcurridos divididos por un año base de trescientos sesenta días, estándar en el mercado monetario.</p>
         </div>
     </div>
 </section>

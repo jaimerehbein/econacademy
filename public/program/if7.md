@@ -138,44 +138,36 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Curva de Rendimiento</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Relación entre el rendimiento (YTM) de bonos sin riesgo y sus distintos plazos de vencimiento. Su forma (normal, plana, invertida) revela expectativas del mercado sobre tasas futuras.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Estructura Temporal de Tasas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Relación entre los rendimientos de activos de deuda y sus plazos de vencimiento, representada técnicamente por la curva de tasas forward o de rendimientos en un momento dado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Tasa Forward</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tasa interés implícita entre dos fechas futuras derivada de la curva spot actual. $f(t_1,t_2) = \frac{r_2 \cdot t_2 - r_1 \cdot t_1}{t_2 - t_1}$. Base del modelo HJM.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Modelo Heath-Jarrow-Merton (HJM)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Marco matemático que describe la evolución estocástica de toda la curva de tasas forward instantáneas, garantizando consistencia plena con la estructura temporal inicial observada en el mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Modelo HJM</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Heath-Jarrow-Morton. Marco teórico que modela directamente la dinámica de la curva de tasas forward completa. Arbitrage-free por construcción gracias a su condición de drift.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Modelo Hull-White</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Extensión del modelo de Vasicek con parámetros dependientes del tiempo, diseñada para ajustar la curva de rendimiento actual e incorporar el fenómeno de reversión a la media.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Condición HJM</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Restricción de no-arbitraje: $\mu(t,T) = \sigma(t,T)\int_t^T \sigma(t,s)ds$ bajo la medida $Q$. Conecta el drift de los forwards con la suma de su estructura de volatilidad.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Libor Market Model (BGM)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Modelo financiero que simula la dinámica de tasas forward discretas y observables, utilizado como estándar para la valoración de derivados complejos como caps, floors y swaptions.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Modelo Hull-White</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Extensión de Vasicek que calibra perfectamente la curva inicial: $dr_t = (\theta(t) - ar_t)dt + \sigma dW_t$. $\theta(t)$ es determinista y permite recuperar exactamente los precios de mercado.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Swap de Volatilidad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Instrumento derivado financiero cuyo pago final se determina por la diferencia entre la volatilidad realizada del activo subyacente y un nivel de volatilidad fija o strike.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Reversión a la Media</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Propiedad estocástica donde el proceso tiende a volver a un nivel de largo plazo. En tasas de interés, el parámetro $a$ (velocidad de reversión) determina la vida media efectiva del shock de tasa.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Reversión a la Media</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Propiedad de ciertos procesos estocásticos donde las tasas de interés tienden a regresar hacia un nivel promedio de largo plazo tras desviaciones causadas por la volatilidad.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Cap / Floor</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Opciones sobre tasas de interés. Un cap protege contra subidas (comprador recibe si LIBOR > tasa strike). Un floor protege contra bajadas. Cada período en un cap/floor se llama caplet/floorlet.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Volatilidad Estocástica</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Enfoque de modelado donde la varianza de un activo no es constante, sino que sigue un proceso aleatorio propio para capturar el smile y skew de mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Swaption</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Opción sobre un swap de tasas. Payer swaption: derecho a pagar fijo. Receiver swaption: derecho a recibir fijo. Valorados con el modelo de Black o mediante árboles bajo Hull-White.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Volatilidad Realizada</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Desviación estándar de los log-retornos del activo observada ex-post. $\sigma_R = \sqrt{\frac{252}{n}\sum_{i=1}^n r_i^2}$. Diferente de la volatilidad implícita, que es forward-looking.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Variance Swap</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Contrato donde las partes intercambian la varianza realizada por la strike de varianza pactada. Payoff: $N_{var}(\sigma_R^2 - K_{var})$. Permite exposición pura a volatilidad sin delta hedging.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Swaption</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Opción financiera que otorga al tenedor el derecho, pero no la obligación, de entrar en un contrato de swap de tasas de interés en una fecha futura específica.</p>
         </div>
     </div>
 </section>

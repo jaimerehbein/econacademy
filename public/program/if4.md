@@ -134,44 +134,32 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">CAPM</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Capital Asset Pricing Model. Modelo que describe la relación entre el riesgo sistemático y el rendimiento esperado de los activos. $E(R_i) = R_f + \\beta_i (E(R_m) - R_f)$.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Replicación dinámica</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estrategia de cobertura que requiere ajustes continuos en las proporciones de activos para igualar las sensibilidades de un derivado ante variaciones en el subyacente y el tiempo.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Beta (β)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Medida de la volatilidad o riesgo de un activo en relación con el mercado en general. Un Beta de 1 implica que el activo se mueve junto con el mercado.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Portafolio autofinanciado</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Cartera donde los rebalanceos de posición se financian exclusivamente mediante la reasignación interna de activos, sin requerir inyecciones o retiros de capital externo tras su constitución.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Alfa de Jensen (α)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Rendimiento excesivo ajustado por riesgo en comparación con la ganancia predictiva del modelo CAPM. Un Alfa positivo indica un rendimiento superior al esperado para su nivel de riesgo sistemático.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Método Vanna-Volga</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Técnica de valoración que ajusta el precio de Black-Scholes para capturar riesgos de segundo orden y el costo de replicar la convexidad de la volatilidad en mercados reales.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">CML (Capital Market Line)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Representa las carteras que combinan óptimamente riesgos y retornos cuando el activo libre de riesgo se une con la cartera de mercado.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Vanna</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Indicador de riesgo de segundo orden que cuantifica la sensibilidad del Vega de una opción o portafolio ante cambios en el precio del activo subyacente.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">SML (Security Market Line)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Línea que representa gráficamente el modelo CAPM. Muestra la relación entre riesgo sistemático (Beta) y retorno esperado para valores individuales.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Volga</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Medida de sensibilidad de segundo orden que representa la tasa de cambio del Vega de una opción respecto a variaciones en la volatilidad implícita del mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Arbitrage Pricing Theory (APT)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Modelo alternativo al CAPM para la fijación de precios de activos que postula retornos como función lineal de múltiples factores macroeconómicos estructurales.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Modelo de Leland</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Extensión del modelo Black-Scholes que incorpora los costos de transacción mediante un ajuste al alza de la volatilidad, considerando el impacto del intervalo de rebalanceo.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia Débil</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Nivel de la Hipótesis del Mercado Eficiente que sostiene que los precios reflejan toda la información histórica; el análisis técnico no genera alfa continuo.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia Semifuerte</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Nivel donde los precios reflejan instantáneamente toda la información pública (balances, noticias). Invalida el análisis fundamental tradicional para lograr alfa.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Eficiencia Fuerte</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Postulado empíricamente cuestionado donde los precios reflejan toda información pública y privada (insider trading).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Anomalías de Mercado</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Patrones empíricos inexplicados por el CAPM (ej. efecto tamaño, valor vs crecimiento, momentum) que abrieron paso a la ampliación factorial (Fama-French).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Delta Hedging</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estrategia de gestión de riesgos dirigida a neutralizar la exposición de un portafolio ante movimientos marginales en el precio del activo subyacente mediante ajustes de posición.</p>
         </div>
     </div>
 </section>

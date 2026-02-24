@@ -111,44 +111,36 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Derivado</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Contrato financiero cuyo valor estipulado se deriva de un activo subyacente (acciones, índices, materias primas, tasas).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Procesos de Lévy</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Procesos estocásticos de tiempo continuo con incrementos independientes y estacionarios que generalizan el movimiento browniano integrando componentes de salto y difusión.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Contrato Forward</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Acuerdo privado bilateral para comprar o vender un activo en una fecha futura a un precio pactado hoy. No estandarizado y con riesgo de contraparte.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Jump-Diffusion</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Modelo estocástico que combina una trayectoria de difusión continua con saltos discretos aleatorios, capturando discontinuidades bruscas en las series de precios financieros.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Contrato Futuro</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Acuerdo estandarizado y negociado en un mercado organizado (Exchange). Mitiga el riesgo de crédito mediante el uso de una cámara de compensación y márgenes diarios.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Proceso de Poisson</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso estocástico de conteo utilizado para modelar la frecuencia y ocurrencia aleatoria de eventos independientes, como los saltos de precio, en un intervalo temporal.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Opción Call</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Contrato que otorga al comprador el DERECHO (no obligación) de COMPRAR el activo subyacente a un precio específico en o antes de una fecha predeterminada.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Colas Pesadas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Propiedad de las distribuciones de probabilidad donde la densidad en los extremos es superior a la normal, indicando una mayor probabilidad de eventos extremos.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Opción Put</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Contrato que otorga al comprador el DERECHO (no obligación) de VENDER el activo subyacente a un precio especificado en o antes de una fecha futura.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Movimiento Browniano Geométrico</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso estocástico donde el logaritmo de la variable sigue un proceso de Wiener con deriva, asumiendo trayectorias continuas y retornos log-normales.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio de Ejercicio (Strike)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El precio preestablecido al que el activo subyacente puede ser comprado (call) o vendido (put) al ejercer la opción.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Variance Gamma</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso de Lévy obtenido mediante la subordinación de un movimiento browniano con un proceso gamma, permitiendo modelar excesos de curtosis y asimetría.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Prima</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El costo inicial de adquirir un contrato de opciones pagado por el comprador al vendedor/emisor (Writer).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Normal Inverse Gaussian</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Proceso estocástico de actividad infinita con gran capacidad para capturar colas pesadas y ajustar la sonrisa de volatilidad en mercados de derivados.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">In The Money (ITM)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Condición de una opción que tiene valor intrínseco positivo. Una Call es ITM si Spot > Strike. Una Put es ITM si Spot < Strike.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Moneyness</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La clasificación del estado de la opción frente a su ejercicio económico actual: In-the-money (ITM), At-the-money (ATM) u Out-of-the-money (OTM).</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Griegas</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Medidas de la sensibilidad del precio de la opción frente a diversas variables. Delta (precio), Gamma (convexidad de Delta), Theta (tiempo), Vega (volatilidad) y Rho (tasa de interés).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Curtosis</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Medida estadística que determina el grado de concentración de los valores en las colas de una distribución en relación con una distribución normal.</p>
         </div>
     </div>
 </section>

@@ -150,44 +150,36 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Cero (Risk-Free)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tasa de rendimiento de una inversión que se asume sin riesgo de default, generalmente asociada a bonos del Tesoro de EE.UU.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Swap de Tasas de Interés (IRS)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Contrato derivado donde las partes intercambian flujos de intereses de tasa fija por tasa flotante sobre un capital nocional durante un periodo determinado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Prima de Riesgo</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El rendimiento adicional que un inversor espera recibir por asumir el riesgo de invertir en un activo en comparación con uno libre de riesgo.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Reporto (Repo)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Operación financiera de venta de valores con el compromiso simultáneo de recomprarlos a un precio y fecha futuros, funcionando como un préstamo colateralizado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Varianza y Desviación Estándar</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Medidas de dispersión de los retornos de un activo. En finanzas clásicas, asimiladas directamente al riesgo total del activo.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">OIS Discounting</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Metodología de valoración que utiliza la tasa de los Overnight Index Swaps para descontar flujos de caja, considerada un proxy preciso de la tasa libre de riesgo.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Diversificación</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Estrategia de gestión de riesgos que mezcla una amplia variedad de inversiones. Reduce el riesgo no sistemático (idiosincrático) del portafolio.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Basis Swap</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Contrato de permuta financiera donde se intercambian dos flujos de intereses calculados sobre tasas variables distintas, permitiendo gestionar riesgos de tenor o divisas.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Sistemático</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Riesgo inherente al mercado en su conjunto. No se puede eliminar mediante diversificación. Medido por Beta.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Ajuste de Convexidad</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Corrección técnica aplicada en la valoración de derivados cuando la frecuencia de pago de los intereses no coincide con el periodo de referencia de la tasa.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Riesgo Idiosincrático</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Riesgo específico de una empresa o industria. Puede ser eliminado mediante diversificación eficiente.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Swap Par</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tasa fija que iguala el valor presente de los pagos fijos con el valor presente de los pagos flotantes al inicio del contrato de swap.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Covarianza y Correlación</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Métricas de cómo dos activos se mueven juntos. Una correlación negativa es el motor principal para la drástica reducción del riesgo de la cartera en Markowitz.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Cross-Currency Basis</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Diferencial de costo que surge al intercambiar flujos y nominales en distintas divisas, reflejando la escasez relativa de liquidez entre diversos mercados monetarios.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Frontera Eficiente</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Curva de los portafolios óptimos de Markowitz que ofrecen el mayor rendimiento esperado para un nivel definido de riesgo o el menor riesgo para un retorno dado.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Capital Allocation Line (CAL)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Gráfico de todas las combinaciones posibles de carteras de un activo libre de riesgo y el portafolio óptimo de activos riesgosos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Sharpe Ratio</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Métrica para evaluar el rendimiento ajustado al riesgo. Calculada como el exceso de retorno sobre la tasa libre de riesgo dividido por la desviación estándar del portafolio.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Valuación Multicurva</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Marco analítico que separa la curva utilizada para proyectar flujos de caja futuros (tasas forward) de la curva empleada para el descuento de dichos flujos (OIS).</p>
         </div>
     </div>
 </section>

@@ -115,44 +115,36 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bono</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Instrumento de deuda emitido por una entidad (gobierno o corporación) para financiarse. El emisor promete devolver el principal y pagar intereses (cupones).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio Forward de Divisas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Precio de intercambio de monedas en una fecha futura, determinado por el diferencial de tasas de interés entre dos divisas bajo la condición de no-arbitraje.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Cupón</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El pago periódico de intereses que el emisor de un bono realiza a los tenedores. Típicamente expresado como un porcentaje del valor nominal.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">No-arbitraje</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Principio financiero que establece que, en mercados eficientes, no es posible obtener beneficios consistentes sin riesgo mediante la combinación de instrumentos financieros con precios desalineados.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Valor Nominal (Face Value)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La cantidad que el emisor acuerda devolver al inversor en la fecha de vencimiento del bono. Generalmente base para el cálculo del cupón.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Paridad de Tasas de Interés</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Relación teórica que iguala el diferencial de tasas de interés entre dos países con la diferencia porcentual entre el tipo de cambio spot y el tipo de cambio forward.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">YTM (Yield to Maturity)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La tasa de retorno total anticipada en un bono si se mantiene hasta el vencimiento. Iguala el precio actual con el valor presente de los flujos futuros.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Forward Rate Agreement (FRA)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Contrato derivado donde las partes fijan una tasa de interés para un periodo futuro, liquidándose mediante el pago de la diferencia entre la tasa pactada y la de mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Precio Sucio vs Limpio</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El Precio Limpio es el precio del bono sin los intereses devengados. El Precio Sucio (invoice price) incluye el interés acumulado desde el último pago de cupón.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Forward Implícita</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tasa de interés proyectada para un periodo futuro, calculada a partir de las tasas spot actuales para que el rendimiento total sea indiferente entre plazos cortos y largos.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bono a Descuento</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Un bono que se negocia por debajo de su valor nominal. Ocurre cuando su tasa cupón es menor que el YTM exigido por el mercado.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Arbitraje Cash and Carry</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estrategia financiera que consiste en comprar un activo en el mercado spot y vender simultáneamente un contrato forward para aprovechar discrepancias en los precios de mercado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Bono con Prima</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Bono que se negocia por encima de su valor nominal. Ocurre cuando su tasa cupón es mayor que la tasa de rendimiento requerida (YTM).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa Spot</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Tipo de cambio o precio de mercado vigente para la liquidación inmediata de un activo financiero o divisa en el momento de la operación.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Duración de Macaulay</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Media ponderada del tiempo en que se reciben los flujos de caja del bono. Medida del riesgo de tasa de interés.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Duración Modificada</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Aproximación de la sensibilidad asintótica del precio de un bono ante cambios porcentuales en el YTM. Ecuación: $\\Delta P/P pprox -D_{mod} \\cdot \\Delta y$.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Convexidad</span>
-            <p class="text-slate-400 text-sm leading-relaxed">La curvatura de la relación entre el precio de un bono y su rendimiento. La duración es una aproximación tangencial (lineal); la convexidad corrige la curvatura para grandes cambios de tasas.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Diferencial de Tasas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Diferencia aritmética entre los tipos de interés de dos economías distintas, que constituye el factor determinante en la valoración de contratos forward de divisas.</p>
         </div>
     </div>
 </section>

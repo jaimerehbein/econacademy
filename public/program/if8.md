@@ -143,44 +143,36 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Riesgo de Crédito</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Posibilidad de que una contraparte incumpla sus obligaciones contractuales. Comprende el riesgo de default, de migración de rating y el riesgo de spread.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Credit Default Swap (CDS)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Contrato derivado de crédito donde el comprador paga una prima periódica a cambio de una compensación económica del vendedor ante el incumplimiento de una entidad de referencia.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">CDS</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Credit Default Swap. Contrato donde el comprador paga un spread periódico (prima) y el vendedor compensa la pérdida si ocurre un evento de crédito (default, reestructuración, quiebra).</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Hazard Rate</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Parámetro que mide la intensidad o probabilidad instantánea de incumplimiento de un emisor en un intervalo de tiempo infinitesimal, asumiendo que el evento no ha ocurrido previamente.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Spread CDS</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Prima anual expresada en puntos base que paga el comprador de protección. Aproximación: $s \approx (1-R)\cdot\lambda$, donde $R$ es tasa de recuperación y $\lambda$ el hazard rate.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Volatility Smile</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Patrón que describe cómo la volatilidad implícita de las opciones varía respecto al precio de ejercicio, contradiciendo el supuesto de volatilidad constante del modelo estándar de Black-Scholes.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Hazard Rate (λ)</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Tasa de incumplimiento instantánea condicional en supervivencia hasta ese momento. La probabilidad de sobrevivir hasta tiempo $T$ es $P(\tau>T) = e^{-\lambda T}$.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Modelo de Merton</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Modelo estructural que valúa el patrimonio de una empresa como una opción de compra sobre sus activos totales, estableciendo el default cuando el valor de estos cae.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Tasa de Recuperación</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Fracción del valor nominal que el acreedor recupera tras el default. Históricamente, bonos senior recuperan ~40 centavos por dólar. Loss Given Default (LGD) = 1 - R.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Cópulas Gaussianas</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Funciones matemáticas utilizadas para modelar la estructura de dependencia y correlación entre los tiempos de incumplimiento de múltiples activos dentro de una cartera o derivado multi-nombre.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Volatility Smile</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Patrón donde las opciones OTM y ITM tienen mayor volatilidad implícita que las ATM, contrariamente al supuesto de vol constante de Black-Scholes. Indica asimetría en la distribución real de los retornos.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Tasa de Recuperación</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Porcentaje del valor nominal de una deuda que el acreedor logra rescatar tras la ocurrencia de un evento de crédito, inversamente relacionado con la severidad de la pérdida.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Modelo de Merton</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Modelo estructural que trata las acciones de la empresa como una call sobre sus activos. Default ocurre si $V_T < D$. Permite extraer PD implícita del mercado de renta variable.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Probabilidad de Incumplimiento (PD)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Medida estadística que cuantifica la posibilidad de que un deudor sea incapaz de cumplir con sus obligaciones contractuales de pago en un horizonte temporal específico.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Distancia al Default</span>
-            <p class="text-slate-400 text-sm leading-relaxed">En el modelo de Merton, $d_2 = \frac{\ln(V_0/D)+(r - \sigma^2/2)T}{\sigma\sqrt{T}}$. Mide cuántas desviaciones estándar separan el valor actual de los activos del umbral de quiebra.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">Cópula Gaussiana</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Función que une distribuciones marginales de default para modelar su dependencia conjunta. $C(u,v;\rho) = \Phi_2(\Phi^{-1}(u),\Phi^{-1}(v);\rho)$. Base del modelo one-factor para CDOs.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[130px] pt-0.5">CDO</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Collateralized Debt Obligation. Instrumento estructurado con tranches que redistribuye el riesgo de crédito de un pool de bonos o préstamos. La cópula gaussiana fue el modelo estándar de valoración pre-2008.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Spread de CDS</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Prima o diferencial anualizado, expresado generalmente en puntos básicos, que el comprador de protección debe pagar para transferir el riesgo de crédito al vendedor.</p>
         </div>
     </div>
 </section>

@@ -172,44 +172,32 @@ graph LR
     </div>
     <div class="space-y-3">
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Hipoteca</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Préstamo garantizado por un inmueble. Si el deudor incumple, el acreedor puede ejecutar el bien. Base de toda la cadena de titulización MBS.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Swaption</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Contrato financiero que otorga al tenedor el derecho, pero no la obligación, de entrar en un swap de tasas de interés en una fecha y términos específicos.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Titulización</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Proceso de agrupar activos ilíquidos (hipotecas) y convertirlos en títulos negociables en el mercado de capitales, transfiriendo el riesgo del originador al inversor.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Mortgage-Backed Securities (MBS)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Títulos de deuda cuyo colateral y flujos de efectivo provienen de un conjunto de préstamos hipotecarios, transformando activos ilíquidos en valores negociables en mercados secundarios.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">MBS</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Mortgage-Backed Security. Bono respaldado por un pool de hipotecas. Los pagos mensuales de los deudores (principal + interés) fluyen hacia los tenedores del MBS.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Convexidad Negativa</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Propiedad de ciertos activos de renta fija donde el aumento del precio es limitado ante caídas en las tasas de interés debido a la opcionalidad de pago anticipado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Riesgo de Prepago</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Posibilidad de que los deudores paguen anticipadamente cuando las tasas bajan. El inversor en MBS recibe el principal antes de lo esperado a un momento inconveniente para reinvertir.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Constant Proportion Portfolio Insurance (CPPI)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Estrategia dinámica de gestión de carteras diseñada para garantizar un valor mínimo del capital mediante la reasignación periódica entre activos con riesgo y activos sin riesgo.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">SMM / CPR</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Single Monthly Mortality / Conditional Prepayment Rate. Métricas de velocidad de prepago. CPR anual se relaciona con SMM mediante: $CPR = 1 - (1-SMM)^{12}$.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Conditional Prepayment Rate (CPR)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Métrica anualizada que representa la proporción del saldo principal de un conjunto de préstamos que se liquida anticipadamente antes de su vencimiento programado.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">PSA Benchmark</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Modelo estándar del mercado americano de hipotecas. Asume que los prepagos crecen 0.2% mensual durante los primeros 30 meses hasta alcanzar el 6% CPR anual constante.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Collateralized Mortgage Obligation (CMO)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Producto estructurado que segmenta los flujos de caja de un pool de hipotecas en tramos con diferentes niveles de riesgo, prioridad de pago y vencimiento.</p>
         </div>
         <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">CMO</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Collateralized Mortgage Obligation. Estructura que reempaqueta MBS en tramos (tranches) con distintas prioridades de pago, riesgo y rendimiento esperado.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Tramo Senior</span>
-            <p class="text-slate-400 text-sm leading-relaxed">El primer tramo en recibir los pagos del pool. Tiene la mayor protección crediticia (credit enhancement). Por ello, recibe el menor retorno.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Tramo Equity</span>
-            <p class="text-slate-400 text-sm leading-relaxed">First Loss Piece. Absorbe las primeras pérdidas del pool. Alto riesgo, alto retorno potencial. Generalmente retenido por el originador como señal de alineación de incentivos.</p>
-        </div>
-        <div class="flex gap-4 p-5 bg-white/3 border border-white/8 rounded-2xl hover:bg-white/5 transition-colors">
-            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[120px] pt-0.5">Waterfall</span>
-            <p class="text-slate-400 text-sm leading-relaxed">Regla de distribución de flujos de caja en un CMO. Los pagos fluyen de Senior a Mezzanine a Equity en order estricto de prioridad, como el agua cayendo por una cascada.</p>
+            <span class="text-emerald-500 font-mono font-black text-[10px] uppercase tracking-widest min-w-[150px] pt-0.5">Single Monthly Mortality (SMM)</span>
+            <p class="text-slate-400 text-sm leading-relaxed">Indicador que mide el porcentaje mensual de reducción del saldo principal de una hipoteca derivado de pagos anticipados, neto de los pagos programados de capital.</p>
         </div>
     </div>
 </section>
