@@ -20,6 +20,8 @@
   /* Patagon/WhatsApp Green */
   --color-accent-soft: #d3c3a3;
   /* Champagne Sand */
+
+  --shadow-success-glow: 0 0 40px rgba(37, 211, 102, 0.15);
 }
 
 @layer base {
@@ -45,7 +47,7 @@
   }
 
   .glass-panel-success {
-    @apply bg-accent-success/5 backdrop-blur-[24px] border border-accent-success/20 shadow-[0_0_40px_rgba(37, 211, 102, 0.1)];
+    @apply bg-accent-success/5 backdrop-blur-[24px] border border-accent-success/20 shadow-success-glow;
   }
 
   .glass-button {
@@ -151,7 +153,7 @@
 
 /* Responsive Content Safety */
 .katex-display {
-  @apply overflow-x-auto overflow-y-hidden py-4 custom-scrollbar;
+  @apply overflow-x-auto overflow-y-hidden py-4;
   max-width: 100%;
 }
 
