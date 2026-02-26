@@ -1,20 +1,25 @@
-@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
 
 @theme {
-  --color-indigo-50: #eef2ff;
-  --color-indigo-100: #e0e7ff;
-  --color-indigo-400: #818cf8;
-  --color-indigo-500: #6366f1;
-  --color-indigo-600: #4f46e5;
-  --color-indigo-900: #312e81;
-  /* Ultra Premium Dark Theme */
-  --color-study-bg: #0B0F19; /* Deep futuristic navy/black */
-  --color-study-panel: #111827; /* Slightly lighter gray/blue for panels */
+  --color-amber-500: #f59e0b;
+  --color-amber-600: #d97706;
+  --color-orange-500: #f97316;
+  --color-orange-600: #ea580c;
+
+  /* Patagon-Inspired Elite Theme */
+  --color-study-bg: #05070a;
+  /* True pitch black/navy */
+  --color-study-panel: #0a0d14;
+  /* Deep glassy slate */
   --color-study-text: #f8fafc;
-  --color-study-muted: #94a3b8;
-  --color-accent-cyan: #06b6d4;
-  --color-accent-purple: #8b5cf6;
+  --color-study-muted: #64748b;
+  --color-accent-main: #f59e0b;
+  --color-accent-secondary: #f97316;
+  --color-accent-success: #25d366;
+  /* Patagon/WhatsApp Green */
+  --color-accent-soft: #d3c3a3;
+  /* Champagne Sand */
 }
 
 @layer base {
@@ -22,8 +27,13 @@
     @apply bg-study-bg text-study-text antialiased;
     font-family: 'Inter', system-ui, -apple-system, sans-serif;
   }
-  
-  h1, h2, h3, h4, h5, h6 {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-family: 'Outfit', sans-serif;
   }
 }
@@ -31,13 +41,27 @@
 /* Custom Glassmorphism Utilities */
 @layer utilities {
   .glass-panel {
-    @apply bg-slate-900/40 backdrop-blur-xl border border-white/10 shadow-2xl;
+    @apply bg-black/40 backdrop-blur-[20px] border border-white/10 shadow-2xl;
   }
+
+  .glass-panel-success {
+    @apply bg-accent-success/5 backdrop-blur-[24px] border border-accent-success/20 shadow-[0_0_40px_rgba(37, 211, 102, 0.1)];
+  }
+
   .glass-button {
-    @apply bg-white/5 hover:bg-white/10 backdrop-blur-md border border-white/10 transition-all duration-300;
+    @apply bg-white/5 hover:bg-amber-500/10 backdrop-blur-md border border-white/10 transition-all duration-300 hover:border-amber-500/30;
   }
+
   .neon-text {
-    text-shadow: 0 0 20px rgba(99, 102, 241, 0.5);
+    text-shadow: 0 0 20px rgba(245, 158, 11, 0.4);
+  }
+
+  .neon-text-green {
+    text-shadow: 0 0 20px rgba(37, 211, 102, 0.4);
+  }
+
+  .patagon-gradient {
+    background: linear-gradient(135deg, var(--color-amber-500) 0%, var(--color-orange-600) 100%);
   }
 }
 
@@ -51,45 +75,98 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  @apply bg-slate-700 rounded-full hover:bg-indigo-500 transition-colors;
+  @apply bg-slate-800 rounded-full hover:bg-amber-500 transition-colors;
 }
 
 /* Base Prose Override (Now Dark) */
 .prose {
-    font-family: 'Inter', sans-serif;
-    font-size: 1.05rem;
-    line-height: 1.8;
-    color: #cbd5e1;
+  font-family: 'Inter', sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--color-accent-soft);
+  opacity: 0.9;
 }
-.prose h1, .prose h2, .prose h3, .prose h4 {
-    font-family: 'Outfit', sans-serif;
-    color: #f8fafc;
-    font-weight: 700;
-    letter-spacing: -0.025em;
+
+.prose h1 {
+  @apply text-3xl md:text-5xl mb-6;
+  font-family: 'Outfit', sans-serif;
+  color: #f8fafc;
+  font-weight: 800;
+  letter-spacing: -0.05em;
+  line-height: 1.1;
 }
+
+.prose h2 {
+  @apply text-2xl md:text-3xl mb-4 mt-10;
+  font-family: 'Outfit', sans-serif;
+  color: #f8fafc;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.prose h3 {
+  @apply text-xl md:text-2xl mb-3 mt-8;
+  font-family: 'Outfit', sans-serif;
+  color: #f1f5f9;
+  font-weight: 600;
+}
+
+.prose h4 {
+  @apply text-lg md:text-xl mb-2 mt-6;
+  font-family: 'Outfit', sans-serif;
+  color: #e2e8f0;
+  font-weight: 600;
+}
+
 .prose strong {
-    color: #f8fafc;
-    font-weight: 600;
+  color: #f8fafc;
+  font-weight: 600;
 }
+
 .prose blockquote {
-    border-left-color: #334155;
-    color: #94a3b8;
-    background: rgba(15, 23, 42, 0.5);
-    padding: 1rem;
-    border-radius: 0 0.5rem 0.5rem 0;
-    font-style: italic;
+  border-left-color: #334155;
+  color: #94a3b8;
+  background: rgba(15, 23, 42, 0.5);
+  padding: 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  font-style: italic;
 }
+
 .prose a {
-    color: #818cf8;
-    text-decoration: none;
-    border-bottom: 1px solid rgba(129, 140, 248, 0.3);
-    transition: all 0.2s ease-in-out;
+  color: #f59e0b;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(245, 158, 11, 0.3);
+  transition: all 0.2s ease-in-out;
 }
+
 .prose a:hover {
-    color: #a5b4fc;
-    border-bottom-color: #a5b4fc;
-    text-shadow: 0 0 8px rgba(165, 180, 252, 0.4);
+  color: #fbbf24;
+  border-bottom-color: #fbbf24;
+  text-shadow: 0 0 8px rgba(251, 191, 36, 0.4);
 }
+
 .prose code {
-    @apply bg-slate-800 text-indigo-300 px-1.5 py-0.5 rounded font-mono text-sm border border-slate-700;
+  @apply bg-slate-800 text-indigo-300 px-1.5 py-0.5 rounded font-mono text-sm border border-slate-700;
+}
+
+/* Responsive Content Safety */
+.katex-display {
+  @apply overflow-x-auto overflow-y-hidden py-4 custom-scrollbar;
+  max-width: 100%;
+}
+
+.mermaid {
+  @apply flex justify-center my-8 overflow-x-auto max-w-full;
+}
+
+.mermaid svg {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+@media (max-width: 640px) {
+  .prose {
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
 }

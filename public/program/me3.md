@@ -1,209 +1,118 @@
+---
+titulo: "Modelos de Crecimiento Económico"
+modulo: "ME3"
+---
+
 <div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
     <div class="flex items-center gap-4 mb-8">
-        <div class="w-8 h-0.5 bg-violet-500 rounded-full"></div>
-        <span class="text-violet-400 font-black text-[10px] uppercase tracking-[0.4em]">ME3 · Módulo Temporal</span>
+        <div class="w-8 h-0.5 bg-amber-500 rounded-full"></div>
+        <span class="text-amber-300 font-black text-[10px] uppercase tracking-[0.4em]">Master en Modelos Económicos</span>
     </div>
     <h1 class="text-4xl sm:text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8 break-words hyphens-auto">
-        MODELOS<br/>DINÁMICOS
+        ME3
     </h1>
     <div class="flex flex-wrap gap-3">
-        <span class="bg-violet-500/15 text-violet-300 border border-violet-500/25 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Hamiltoniano</span>
-        <span class="bg-cyan-500/15 text-cyan-300 border border-cyan-500/25 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Crecimiento Endógeno</span>
+        <span class="bg-amber-500/10 text-amber-300 border border-amber-500/20 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Zero-Noise UX</span>
+        <span class="bg-white/5 text-slate-400 border border-white/10 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">v9.5 · Modelos de Crecimiento Económico</span>
     </div>
 </header>
 
-<!-- INTRO -->
-<p class="text-slate-300 text-lg leading-relaxed mb-16">
-    La economía no es estática. Las decisiones de hoy afectan las posibilidades de mañana. Este módulo introduce las herramientas de cálculo variacional y control óptimo para modelar el crecimiento económico y la acumulación de capital a través del tiempo.
-</p>
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">A diferencia de la Macroeconomía de fluctuaciones, los Modelos de Crecimiento trazan la expansión fundamental del nivel de producción tendencial ($Y_t$). Desplazan el horizonte temporal hacia las décadas, cuantificando la acumulación demográfica de factores físicos y el milagro del salto tecnológico.</p>
 
-<!-- SECTION 1 -->
-<section class="mb-24">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-violet-500 font-mono text-xs">[01]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter text-balance">Control Óptimo</h2>
+<!-- DIAGRAMA INICIAL -->
+<div class="bg-slate-900/50 border border-white/5 rounded-3xl p-8 my-12 shadow-2xl relative overflow-hidden group">
+    <div class="absolute top-0 right-0 p-4 opacity-20 group-hover:opacity-40 transition-opacity">
+        <span class="text-4xl">📊</span>
     </div>
+    <h3 class="text-xl font-bold text-white mb-6 flex items-center gap-3">
+        Archivonomía Visual del Modelo
+    </h3>
+    <div class="overflow-hidden rounded-xl border border-white/5 bg-slate-950/50 p-6 flex justify-center">
+        <pre class="mermaid w-full flex justify-center">
+flowchart TD
+    A["Crecimiento"] --> B["Exógeno (Solow)"]
+    A --> C["Endógeno (Romer/Lucas)"]
+    B --> B1["Estado Estacionario"]
+    B --> B2["Progreso Técnico Exógeno"]
+    C --> C1["Capital Humano"]
+    C --> C2["I+D y Conocimiento"]
     
-    <div class="space-y-6 text-slate-400 leading-relaxed">
-        <p>
-            Maximizar una funcional integral (como la utilidad intertemporal) sujeta a una ley de movimiento para una variable de estado (como el capital).
-        </p>
-        <div class="bg-white/5 border border-white/10 rounded-3xl p-10">
-            <div class="text-violet-400 font-mono text-xs mb-4 uppercase tracking-widest">El Hamiltoniano</div>
-            <div class="text-white text-2xl md:text-4xl font-mono text-center mb-8">
-                $H = u(c) e^{-\rho t} + \mu [f(k) - (n+\delta)k - c]$
-            </div>
-            <p class="text-[10px] text-slate-500 italic text-center uppercase tracking-widest">Donde $u(c)$ es la utilidad, $k$ la variable de estado y $\mu$ la variable de co-estado.</p>
-        </div>
-    </div>
-</section>
-
-<!-- SECTION 2 (MODELO RAMSEY) -->
-<section class="mb-24 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-    <div class="p-8 border border-white/10 rounded-3xl bg-violet-900/10">
-        <h4 class="text-violet-500 font-black text-[10px] uppercase tracking-widest mb-4">Ramsey-Cass-Koopmans</h4>
-        <p class="text-white text-xs leading-relaxed">
-            A diferencia del modelo de Solow (tasa de ahorro exógena), aquí los agentes eligen su consumo de forma óptima a lo largo del tiempo, derivando la <strong>Ecuación de Euler</strong>:
-        </p>
-        <div class="mt-6 font-mono text-cyan-400 text-lg">
-            $\frac{\dot{c}}{c} = \frac{1}{\theta} [f'(k) - \rho]$
-        </div>
-    </div>
-    <div class="grayscale opacity-30 select-none">
-        <!-- SVG Placeholder for Phase Diagram -->
-        <svg viewBox="0 0 100 80" class="w-full h-auto text-violet-500">
-            <path d="M10,70 L90,70" stroke="currentColor" stroke-width="0.5" />
-            <path d="M10,10 L10,75" stroke="currentColor" stroke-width="0.5" />
-            <path d="M20,60 Q50,10 80,60" fill="none" stroke="currentColor" stroke-width="1" />
-            <line x1="50" y1="10" x2="50" y2="70" stroke="currentColor" stroke-width="0.5" stroke-dasharray="2" />
-            <text x="92" y="72" fill="currentColor" font-size="4">k</text>
-            <text x="5" y="10" fill="currentColor" font-size="4">c</text>
-        </svg>
-    </div>
-</section>
-
-<!-- SECTION 3 (CRECIMIENTO) -->
-<section class="mb-24 px-8 py-10 bg-white/5 rounded-[3rem] border border-white/10 text-center">
-    <h4 class="text-cyan-400 font-black text-[10px] uppercase tracking-[0.4em] mb-4">Crecimiento Endógeno</h4>
-    <h3 class="text-white text-3xl font-black tracking-tighter mb-4">Capital Humano e Ideas</h3>
-    <p class="text-slate-400 text-sm leading-relaxed max-w-xl mx-auto italic">
-        "El crecimiento sostenido es posible gracias a la acumulación de conocimiento que evita los rendimientos decrecientes del capital físico."
-    </p>
-</section>
-
-
-<!-- VISUAL_ENRICHMENT -->
-<div class="my-16">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
-        <span class="text-lime-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo ME3</h3>
-    </div>
-    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
-        
-        <pre class="mermaid bg-transparent flex justify-center">
-graph LR
-    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
-    B --> C{Análisis Crítico}
-    C -->|Evaluación| D[Validación Empírica]
-    C -->|Revisión| E[Ajuste de Modelo]
-    
-    classDef default fill:#111827,stroke:#84cc16,stroke-width:1px,color:#d1d5db
-    classDef decision fill:#3f6212,stroke:#84cc16,stroke-width:2px,color:#fff
-    class C decision
+    style A fill:#451a03,stroke:#f59e0b,stroke-width:2px,color:#fffbeb
+    style B fill:#451a03,stroke:#d97706,stroke-width:1px,color:#fef3c7
+    style C fill:#451a03,stroke:#d97706,stroke-width:1px,color:#fef3c7
         </pre>
-
     </div>
 </div>
 
-
-
-<!-- GLOSARIO -->
-<!-- GLOSARIO v9.5 -->
-<section id="glosario" class="mt-24 mb-16 relative">
-    <div class="flex items-center gap-4 mb-10">
-        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
-        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+<section class="mb-16 last:mb-0">
+<div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
+    <span class="text-2xl md:text-3xl drop-shadow-md">📌</span>
+    <div>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-amber-300 to-orange-400 bg-clip-text text-transparent break-words leading-tight">Evolución Exógena: Modelo de Solow-Swan</h2>
+        <div class="w-10 md:w-14 h-1 bg-amber-500 rounded-full mt-2 opacity-80"></div>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Modelos Dinámicos
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Herramientas analíticas utilizadas para estudiar cómo las decisiones económicas actuales influyen en las posibilidades futuras y para modelar la evolución del crecimiento económico y la acumulación de capital a lo largo del tiempo.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Cálculo Variacional
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Rama de las matemáticas que se ocupa de encontrar funciones que maximizan o minimizan funcionales, a menudo integrales, y es fundamental en la resolución de problemas de optimización dinámica.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Control Óptimo
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Metodología para maximizar una funcional integral (como la utilidad intertemporal) sujeta a una ley de movimiento que rige la evolución de una variable de estado (como el capital) a lo largo del tiempo.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Funcional Integral
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Una función de funciones, típicamente una integral que evalúa una trayectoria o secuencia de decisiones a lo largo del tiempo, cuyo valor se busca maximizar o minimizar en problemas de optimización dinámica.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Variable de Estado
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Una variable que describe el estado de un sistema en un momento dado (ej. capital físico) y cuya evolución a lo largo del tiempo está sujeta a una ley de movimiento o ecuación diferencial.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Hamiltoniano
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                En control óptimo, es una función auxiliar que combina la función objetivo instantánea (utilidad) con la ley de movimiento de la variable de estado, ponderada por una variable de co-estado, para facilitar la optimización intertemporal.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Variable de Co-estado
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                En el contexto del Hamiltoniano, representa el valor marginal de la variable de estado en el tiempo, o el precio sombra del capital, indicando cuánto aumentaría el valor total de la funcional si la variable de estado aumentara marginalmente.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Modelo Ramsey-Cass-Koopmans
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Un modelo de crecimiento económico neoclásico donde los agentes económicos optimizan su consumo a lo largo del tiempo, determinando endógenamente la tasa de ahorro y la acumulación de capital.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Ecuación de Euler
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Una condición necesaria para la optimización intertemporal en problemas de cálculo variacional y control óptimo, que describe la trayectoria óptima de una variable de control (ej. consumo) a lo largo del tiempo.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Crecimiento Endógeno
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Teoría económica que explica el crecimiento económico sostenido a través de factores internos al sistema, como la acumulación de capital humano y el progreso tecnológico (ideas), que contrarrestan los rendimientos decrecientes del capital físico.
-            </p>
-        </div>
+</div>
+
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">Robert Solow estructuró la primera calibración matemática del crecimiento convergente. Demostró que por culpa de los rendimientos marginales decrecientes del capital, toda acumulación física choca asintóticamente contra un muro de depreciación.</p>
+
+<div class="bg-white/5 border border-white/10 p-4 md:p-8 my-8 rounded-2xl text-center overflow-x-auto text-slate-100 font-mono">
+    $$ \dot{k} = s f(k) - (n + g + \delta)k $$
+</div>
+
+<div class="flex items-start gap-5 p-5 bg-amber-500/10 rounded-2xl my-3 border border-amber-500/20 hover:bg-amber-500/15 transition-all">
+    <div class="bg-amber-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">1</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Ahorro y Depreciación:** El motor temporal del crecimiento físico lucha contra la obsolescencia de las máquinas.</div>
+</div>
+<div class="flex items-start gap-5 p-5 bg-amber-500/10 rounded-2xl my-3 border border-amber-500/20 hover:bg-amber-500/15 transition-all">
+    <div class="bg-amber-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">2</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Estado Estacionario:** Punto de gravedad donde $\dot{k} = 0$, requiriendo tecnología externa para crecer.</div>
+</div>
+
+</section>
+<section class="mb-16 last:mb-0">
+<div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
+    <span class="text-2xl md:text-3xl drop-shadow-md">📌</span>
+    <div>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-amber-300 to-orange-400 bg-clip-text text-transparent break-words leading-tight">Segunda Generación: Crecimiento Endógeno</h2>
+        <div class="w-10 md:w-14 h-1 bg-amber-500 rounded-full mt-2 opacity-80"></div>
     </div>
+</div>
+
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">La Revolución Endógena de 1990 transmutó el milagro inexplicable de Solow convirtiéndolo en un producto interno voluntario. Modelaron la mente humana y las externalidades como motores inagotables.</p>
+
+<div class="bg-white/5 border border-white/10 p-4 md:p-8 my-8 rounded-2xl text-center overflow-x-auto text-slate-100 font-mono">
+    $$ \dot{H} = H_t \cdot \delta(1 - u) $$
+</div>
+
+<div class="flex items-start gap-5 p-5 bg-amber-500/10 rounded-2xl my-3 border border-amber-500/20 hover:bg-amber-500/15 transition-all">
+    <div class="bg-amber-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">1</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Capital Humano:** La educación es un factor que no padece rendimientos decrecientes.</div>
+</div>
+<div class="flex items-start gap-5 p-5 bg-amber-500/10 rounded-2xl my-3 border border-amber-500/20 hover:bg-amber-500/15 transition-all">
+    <div class="bg-amber-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">2</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Conocimiento:** Las ideas son bienes no rivales que permiten crecimiento perpetuo.</div>
+</div>
+
 </section>
 
-<!-- FOOTER -->
-<footer class="pt-10 border-t border-white/10 text-center">
-    <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Modelos Dinámicos ME3</p>
-</footer>
+
+<div class="bg-gradient-to-br from-slate-900/90 to-black border border-amber-500/20 p-6 md:p-10 rounded-2xl md:rounded-[2rem] my-8 md:my-14 shadow-xl relative overflow-hidden">
+    <div class="absolute top-0 right-0 w-32 md:w-40 h-32 md:h-40 bg-white/5 -mr-16 md:-mr-20 -mt-16 md:-mt-20 rounded-full pointer-events-none"></div>
+    <div class="relative z-10">
+        <h5 class="text-amber-300 text-[9px] md:text-[10px] uppercase tracking-[0.4em] font-black mb-6 flex items-center gap-3">
+            <span class="w-6 h-px inline-block opacity-60"></span>
+            Puntos Clave del Módulo
+        </h5>
+        <ul class="space-y-4">
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-amber-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>Solow demostró los límites de la acumulación bruta de infraestructura física.</span></li>
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-amber-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>Romer y Lucas elevaron el crecimiento al ámbito de las ideas y la educación.</span></li>
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-amber-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>El crecimiento de largo plazo depende de la capacidad de innovación tecnológica.</span></li>
+
+        </ul>
+    </div>
+</div>
 
 </div>

@@ -1,210 +1,118 @@
+---
+titulo: "Modelos Informáticos de Optimización"
+modulo: "ME6"
+---
+
 <div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
     <div class="flex items-center gap-4 mb-8">
-        <div class="w-8 h-0.5 bg-violet-500 rounded-full"></div>
-        <span class="text-violet-400 font-black text-[10px] uppercase tracking-[0.4em]">ME6 · Módulo Computacional</span>
+        <div class="w-8 h-0.5 bg-cyan-500 rounded-full"></div>
+        <span class="text-cyan-300 font-black text-[10px] uppercase tracking-[0.4em]">Master en Modelos Económicos</span>
     </div>
     <h1 class="text-4xl sm:text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8 break-words hyphens-auto">
-        REDES Y<br/>COMPUTACIÓN
+        ME6
     </h1>
     <div class="flex flex-wrap gap-3">
-        <span class="bg-violet-500/15 text-violet-300 border border-violet-500/25 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Network Theory</span>
-        <span class="bg-cyan-500/15 text-cyan-300 border border-cyan-500/25 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Algoritmos</span>
+        <span class="bg-cyan-500/10 text-cyan-300 border border-cyan-500/20 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Zero-Noise UX</span>
+        <span class="bg-white/5 text-slate-400 border border-white/10 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">v9.5 · Modelos Informáticos de Optimización</span>
     </div>
 </header>
 
-<!-- INTRO -->
-<p class="text-slate-300 text-lg leading-relaxed mb-16">
-    La economía no ocurre en el vacío, sino a través de conexiones. Este módulo introduce la ciencia de redes y los métodos computacionales para analizar el contagio financiero, la difusión de innovación y las interacciones sociales complejas.
-</p>
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">Los modelos de Optimización computan normativamente el protocolo definitivo máximo matemático a seguir imperativamente por una entidad logística bajo escasez fatal de recursos.</p>
 
-<!-- SECTION 1 -->
-<section class="mb-24">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-violet-500 font-mono text-xs">[01]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter text-balance">Topología de Redes Económicas</h2>
+<!-- DIAGRAMA INICIAL -->
+<div class="bg-slate-900/50 border border-white/5 rounded-3xl p-8 my-12 shadow-2xl relative overflow-hidden group">
+    <div class="absolute top-0 right-0 p-4 opacity-20 group-hover:opacity-40 transition-opacity">
+        <span class="text-4xl">📊</span>
     </div>
+    <h3 class="text-xl font-bold text-white mb-6 flex items-center gap-3">
+        Archivonomía Visual del Modelo
+    </h3>
+    <div class="overflow-hidden rounded-xl border border-white/5 bg-slate-950/50 p-6 flex justify-center">
+        <pre class="mermaid w-full flex justify-center">
+flowchart LR
+    A["Optimización"] --> B["Programación Lineal"]
+    A --> C["Gestión de Inventarios"]
+    B --> B1["Simplex de Dantzig"]
+    B --> B2["Modelos de Transporte"]
+    C --> C1["Lote Económico (EOQ)"]
+    C --> C2["Just-In-Time"]
     
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
-        <div class="p-8 border border-white/10 rounded-3xl hover:bg-white/5 transition-all">
-            <h4 class="text-violet-400 font-black text-[9px] uppercase tracking-widest mb-4">Redes de Suministro</h4>
-            <p class="text-white text-xs leading-relaxed font-medium">Modelado de la producción global como un grafo dirigido donde los choques se propagan a través de nodos críticos.</p>
-        </div>
-        <div class="p-8 border border-white/10 rounded-3xl hover:bg-white/5 transition-all">
-            <h4 class="text-cyan-400 font-black text-[9px] uppercase tracking-widest mb-4">Interbancario y Contagio</h4>
-            <p class="text-white text-xs leading-relaxed font-medium">Análisis de estabilidad sistémica: Cómo la quiebra de un nodo central puede desencadenar una cascada de insolvencia.</p>
-        </div>
-    </div>
-</section>
-
-<!-- SECTION 2 (ADJACENCY) -->
-<section class="mb-24 px-8 py-12 bg-stone-950 border border-white/5 rounded-[3rem] overflow-hidden relative">
-    <div class="absolute -top-10 -left-10 w-48 h-48 bg-cyan-500/10 rounded-full blur-3xl"></div>
-    <h4 class="text-violet-500 font-black text-[10px] uppercase tracking-[0.4em] mb-10 text-center uppercase">Formalización del Grafo</h4>
-    <div class="max-w-md mx-auto aspect-video bg-black/40 rounded-2xl border border-white/5 flex items-center justify-center text-white font-mono text-lg overflow-hidden">
-        <div class="grid grid-cols-3 gap-4 opacity-50">
-            <span>0</span> <span>1</span> <span>0</span>
-            <span>1</span> <span>0</span> <span>1</span>
-            <span>0</span> <span>1</span> <span>0</span>
-        </div>
-    </div>
-    <p class="text-slate-500 text-[10px] font-bold leading-relaxed mt-10 text-center uppercase tracking-[0.2em]">Matriz de Adyacencia: Capturando la arquitectura de las interacciones económicas.</p>
-</section>
-
-<!-- SECTION 3 (ALGORITHMS) -->
-<section class="mb-24">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-violet-500 font-mono text-xs">[02]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter text-balance">Algoritmos en Economía</h2>
-    </div>
-    <div class="space-y-4">
-        <div class="p-6 bg-white/5 rounded-2xl border border-white/10 flex justify-between items-center group hover:border-violet-500/50 transition-all">
-            <span class="text-white font-bold text-sm">Gale-Shapley (Matching)</span>
-            <span class="text-slate-600 text-[10px] font-black group-hover:text-violet-400">ESTABLE</span>
-        </div>
-        <div class="p-6 bg-white/5 rounded-2xl border border-white/10 flex justify-between items-center group hover:border-violet-500/50 transition-all">
-            <span class="text-white font-bold text-sm">Vickrey-Clarke-Groves (VCG)</span>
-            <span class="text-slate-600 text-[10px] font-black group-hover:text-violet-400">REVELACIÓN</span>
-        </div>
-        <div class="p-6 bg-white/5 rounded-2xl border border-white/10 flex justify-between items-center group hover:border-violet-500/50 transition-all">
-            <span class="text-white font-bold text-sm">Centralidad de PageRank Económico</span>
-            <span class="text-slate-600 text-[10px] font-black group-hover:text-violet-400">INFLUENCIA</span>
-        </div>
-    </div>
-</section>
-
-
-<!-- VISUAL_ENRICHMENT -->
-<div class="my-16">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
-        <span class="text-lime-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo ME6</h3>
-    </div>
-    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
-        
-        <pre class="mermaid bg-transparent flex justify-center">
-graph LR
-    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
-    B --> C{Análisis Crítico}
-    C -->|Evaluación| D[Validación Empírica]
-    C -->|Revisión| E[Ajuste de Modelo]
-    
-    classDef default fill:#111827,stroke:#84cc16,stroke-width:1px,color:#d1d5db
-    classDef decision fill:#3f6212,stroke:#84cc16,stroke-width:2px,color:#fff
-    class C decision
+    style A fill:#083344,stroke:#06b6d4,stroke-width:2px,color:#ecfeff
+    style B fill:#083344,stroke:#0891b2,stroke-width:1px,color:#cffafe
+    style C fill:#083344,stroke:#0891b2,stroke-width:1px,color:#cffafe
         </pre>
-
     </div>
 </div>
 
-
-
-<!-- GLOSARIO -->
-<!-- GLOSARIO v9.5 -->
-<section id="glosario" class="mt-24 mb-16 relative">
-    <div class="flex items-center gap-4 mb-10">
-        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
-        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+<section class="mb-16 last:mb-0">
+<div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
+    <span class="text-2xl md:text-3xl drop-shadow-md">📌</span>
+    <div>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-cyan-300 to-blue-400 bg-clip-text text-transparent break-words leading-tight">Programación Lineal y Simplex</h2>
+        <div class="w-10 md:w-14 h-1 bg-cyan-500 rounded-full mt-2 opacity-80"></div>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Ciencia de redes
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Disciplina que estudia las conexiones y estructuras de sistemas complejos, aplicando métodos computacionales para analizar fenómenos como el contagio financiero, la difusión de innovación y las interacciones sociales.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Métodos computacionales
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Herramientas y técnicas basadas en la computación utilizadas para analizar y modelar sistemas complejos, como las interacciones económicas y la propagación de fenómenos.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Contagio financiero
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Propagación de crisis o inestabilidad financiera a través de las conexiones de una red económica, donde la falla de un componente puede afectar a otros, desencadenando una cascada de insolvencia.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Difusión de innovación
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Proceso mediante el cual las nuevas ideas, tecnologías o prácticas se propagan a través de las conexiones dentro de un sistema o red.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Topología de Redes Económicas
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Estudio de la estructura y organización de las conexiones dentro de sistemas económicos, como las redes de suministro o interbancarias.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Redes de Suministro
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Modelado de la producción global como un grafo dirigido, donde los choques pueden propagarse a través de sus nodos críticos.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Grafo dirigido
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Estructura matemática utilizada para modelar sistemas, donde las conexiones entre nodos tienen una dirección específica, indicando un flujo o relación unidireccional.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Matriz de Adyacencia
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Representación matricial que describe la conectividad entre los nodos de un grafo, capturando la arquitectura de las interacciones económicas.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Estabilidad sistémica
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Capacidad de un sistema económico para resistir choques y evitar la propagación de fallas, como la quiebra de un nodo central que desencadena una cascada de insolvencia.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Algoritmos en Economía
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Conjunto de reglas computacionales utilizadas para resolver problemas económicos, optimizar procesos o analizar interacciones, como el emparejamiento (Gale-Shapley), la revelación de preferencias (VCG) o la evaluación de influencia (PageRank).
-            </p>
-        </div>
+</div>
+
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">Asignación de recursos (capital, horas, materiales) para maximizar beneficios o minimizar costos dentro de un polítopo de restricciones.</p>
+
+<div class="bg-white/5 border border-white/10 p-4 md:p-8 my-8 rounded-2xl text-center overflow-x-auto text-slate-100 font-mono">
+    $$ \max Z = C^T X \quad \text{s.t.} \quad A X \leq B $$
+</div>
+
+<div class="flex items-start gap-5 p-5 bg-cyan-500/10 rounded-2xl my-3 border border-cyan-500/20 hover:bg-cyan-500/15 transition-all">
+    <div class="bg-cyan-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">1</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Frontera Viable:** El conjunto de todas las soluciones que cumplen las restricciones.</div>
+</div>
+<div class="flex items-start gap-5 p-5 bg-cyan-500/10 rounded-2xl my-3 border border-cyan-500/20 hover:bg-cyan-500/15 transition-all">
+    <div class="bg-cyan-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">2</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Vértices Óptimos:** El Simplex recorre los vértices del poliedro para hallar el máximo.</div>
+</div>
+
+</section>
+<section class="mb-16 last:mb-0">
+<div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
+    <span class="text-2xl md:text-3xl drop-shadow-md">📌</span>
+    <div>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-cyan-300 to-blue-400 bg-clip-text text-transparent break-words leading-tight">Modelo de Transporte e Inventarios</h2>
+        <div class="w-10 md:w-14 h-1 bg-cyan-500 rounded-full mt-2 opacity-80"></div>
     </div>
+</div>
+
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">Optimización del flujo logístico desde orígenes a destinos y cálculo del lote óptimo de pedido para minimizar costos de almacenamiento.</p>
+
+<div class="bg-white/5 border border-white/10 p-4 md:p-8 my-8 rounded-2xl text-center overflow-x-auto text-slate-100 font-mono">
+    $$ Q^* = \sqrt{\frac{2 \cdot D \cdot C_p}{C_h}} $$
+</div>
+
+<div class="flex items-start gap-5 p-5 bg-cyan-500/10 rounded-2xl my-3 border border-cyan-500/20 hover:bg-cyan-500/15 transition-all">
+    <div class="bg-cyan-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">1</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Minimización de Flete:** Distribución que reduce el costo total de envío trans-fronterizo.</div>
+</div>
+<div class="flex items-start gap-5 p-5 bg-cyan-500/10 rounded-2xl my-3 border border-cyan-500/20 hover:bg-cyan-500/15 transition-all">
+    <div class="bg-cyan-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">2</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Wilson (EOQ):** Equilibrio perfecto entre el costo de pedir y el costo de guardar.</div>
+</div>
+
 </section>
 
-<!-- FOOTER -->
-<footer class="pt-10 border-t border-white/10 text-center">
-    <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Redes y Computación ME6</p>
-</footer>
+
+<div class="bg-gradient-to-br from-slate-900/90 to-black border border-cyan-500/20 p-6 md:p-10 rounded-2xl md:rounded-[2rem] my-8 md:my-14 shadow-xl relative overflow-hidden">
+    <div class="absolute top-0 right-0 w-32 md:w-40 h-32 md:h-40 bg-white/5 -mr-16 md:-mr-20 -mt-16 md:-mt-20 rounded-full pointer-events-none"></div>
+    <div class="relative z-10">
+        <h5 class="text-cyan-300 text-[9px] md:text-[10px] uppercase tracking-[0.4em] font-black mb-6 flex items-center gap-3">
+            <span class="w-6 h-px inline-block opacity-60"></span>
+            Puntos Clave del Módulo
+        </h5>
+        <ul class="space-y-4">
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-cyan-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>La programación lineal guía los megaproyectos logísticos mundiales.</span></li>
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-cyan-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>El algoritmo EOQ es el pilar de la eficiencia industrial SAP ERP.</span></li>
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-cyan-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>La optimización es la ventaja competitiva final en un mundo de recursos finitos.</span></li>
+
+        </ul>
+    </div>
+</div>
 
 </div>

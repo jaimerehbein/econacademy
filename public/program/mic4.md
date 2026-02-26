@@ -444,6 +444,105 @@ graph LR
 </section>
 
 <!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Poder de mercado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Capacidad técnica y estratégica de una firma para influir de manera deliberada en el precio de equilibrio de un bien o servicio mediante la manipulación unilateral de la cantidad ofrecida, alejándose de la condición de tomador de precios característica de la competencia perfecta.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Barreras a la entrada
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Conjunto de impedimentos económicos, legales o tecnológicos, tales como economías de escala, patentes gubernamentales o control exclusivo de recursos críticos, que restringen el ingreso de nuevos competidores a una industria, permitiendo la persistencia de beneficios extraordinarios a largo plazo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Función inversa de demanda
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Representación matemática que expresa el precio de un bien como una función de la cantidad demandada, permitiendo al monopolista internalizar cómo sus decisiones de producción afectan el nivel de precios del mercado, siendo fundamental para el cálculo del ingreso marginal.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Ingreso marginal
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Cambio en el ingreso total derivado de la venta de una unidad adicional de producto, el cual en una estructura monopólica es estrictamente menor al precio debido a la necesidad de reducir el precio de todas las unidades anteriores para incrementar las ventas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Efecto precio
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Componente del cambio en el ingreso total que resulta de la reducción del precio unitario necesaria para vender una cantidad adicional, lo que genera una pérdida de ingresos sobre las unidades que ya se estaban comercializando a un precio superior anteriormente.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Efecto producto
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Incremento positivo en el ingreso total de una firma que se produce exclusivamente por la venta de una unidad adicional al nuevo precio de mercado, el cual debe ser contrastado con el efecto precio para determinar el ingreso marginal neto resultante.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Relación Amoroso-Robinson
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Formulación analítica que vincula formalmente el ingreso marginal con el precio y la elasticidad precio de la demanda, demostrando que la capacidad de fijación de precios está intrínsecamente ligada a la sensibilidad de los consumidores ante variaciones en el costo del bien.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Elasticidad precio de la demanda
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Medida de la sensibilidad de la cantidad demandada de un bien ante cambios en su precio, definida técnicamente como la variación porcentual de la cantidad dividida por la variación porcentual del precio, crucial para determinar el tramo operativo del monopolista.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Índice de Lerner
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Indicador cuantitativo del poder de monopolio que mide la diferencia proporcional entre el precio de mercado y el costo marginal de producción, siendo inversamente relacionado con el valor absoluto de la elasticidad precio de la demanda en el punto de equilibrio.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Regla de optimalidad IMg = CMg
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Condición de primer orden necesaria para la maximización de beneficios donde el monopolista iguala el ingreso adicional de la última unidad producida con su costo marginal, determinando así la cantidad óptima de producción que maximiza la función de beneficios.
+            </p>
+        </div>
+    </div>
+</section>
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

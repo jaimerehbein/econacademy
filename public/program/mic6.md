@@ -496,6 +496,105 @@ graph LR
 </section>
 
 <!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Oligopolio
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El oligopolio es una estructura de mercado imperfectamente competitiva caracterizada por la existencia de un número reducido de grandes empresas que dominan la oferta de un producto o servicio, ya sea homogéneo o diferenciado. Esta configuración implica que las decisiones de una empresa afectan significativamente a las demás, generando una interdependencia estratégica crucial en la fijación de precios y cantidades, y la presencia de barreras a la entrada que impiden la libre concurrencia de nuevos competidores.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Interdependencia Estratégica
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La interdependencia estratégica se refiere a la situación en la que las decisiones de una empresa en un mercado oligopólico, como la fijación de precios, el nivel de producción o las estrategias de marketing, tienen un impacto directo y predecible en los beneficios y las decisiones de sus competidores. Esta característica obliga a cada firma a anticipar y reaccionar a las acciones de sus rivales, lo que convierte la Teoría de Juegos en una herramienta analítica fundamental para comprender su comportamiento.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Barreras a la Entrada
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Las barreras a la entrada son obstáculos económicos, tecnológicos, legales o estratégicos que dificultan o impiden el ingreso de nuevas empresas a un mercado. En el contexto del oligopolio, estas barreras son sustanciales y permiten a las firmas existentes mantener su poder de mercado y obtener beneficios económicos extraordinarios a largo plazo, protegiéndolas de la presión competitiva de potenciales entrantes.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Oligopolio Puro o Concentrado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El oligopolio puro o concentrado es una tipología de estructura de mercado oligopólica donde las empresas producen bienes o servicios que son percibidos como homogéneos o idénticos por los consumidores. En este escenario, la competencia entre las firmas tiende a centrarse principalmente en variables como los costos de producción y el volumen de la oferta, ya que la diferenciación del producto no es un factor distintivo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Oligopolio Diferenciado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El oligopolio diferenciado se caracteriza por la producción de bienes o servicios que, aunque son sustitutos cercanos, presentan algún grado de diferenciación en la percepción del consumidor, ya sea por marca, calidad, diseño, características adicionales o estrategias de marketing. En este tipo de oligopolio, la competencia se extiende más allá del precio, incluyendo también la publicidad y la innovación como elementos clave.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Razón de Concentración
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La razón de concentración es una medida utilizada en economía industrial para cuantificar el grado de poder de mercado o la concentración de la oferta en una industria específica. Se calcula como el porcentaje de la producción total, las ventas o los activos que es controlado por un número determinado de las empresas más grandes del sector, comúnmente las cuatro o las ocho mayores, indicando el nivel de dominio de mercado.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Teoría de Juegos
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La Teoría de Juegos es una rama de las matemáticas y la economía que estudia la toma de decisiones estratégicas en situaciones donde el resultado de las elecciones de un agente depende de las elecciones de otros agentes. Es la herramienta analítica por excelencia para modelar el comportamiento de las empresas en un oligopolio, permitiendo analizar las interacciones y predecir los resultados de sus estrategias competitivas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Equilibrio de Nash
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El Equilibrio de Nash es un concepto fundamental en la Teoría de Juegos que describe una situación en la que cada jugador, conociendo las estrategias de los demás, elige su mejor estrategia posible y no tiene incentivos para desviarse unilateralmente de ella. En este equilibrio, la estrategia de cada jugador es la respuesta óptima a las estrategias de los otros, lo que implica una estabilidad en las decisiones.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Colusión
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La colusión se refiere a un acuerdo secreto o explícito entre empresas competidoras en un mercado oligopólico para limitar la competencia, generalmente con el objetivo de aumentar los precios, restringir la producción o dividir el mercado. Al actuar de manera coordinada, las empresas coludidas buscan emular el comportamiento de un monopolio para maximizar sus beneficios conjuntos, a menudo en detrimento del bienestar del consumidor.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Dilema del Prisionero
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El Dilema del Prisionero es un concepto de la Teoría de Juegos que ilustra por qué dos individuos racionales podrían no cooperar, incluso si la cooperación fuera en su mejor interés mutuo. En el contexto del oligopolio, este dilema explica cómo el incentivo individual de cada empresa para maximizar su beneficio propio puede llevar a un resultado subóptimo para el grupo en su conjunto, incluso cuando la colusión sería más beneficiosa colectivamente.
+            </p>
+        </div>
+    </div>
+</section>
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

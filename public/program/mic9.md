@@ -418,6 +418,105 @@ graph LR
 </section>
 
 <!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Información Asimétrica
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Situación estructural en los mercados donde los agentes económicos poseen conjuntos de información diferenciados y desiguales sobre las características de un bien o las acciones de una contraparte, invalidando el supuesto neoclásico de información perfecta y alterando la asignación eficiente de recursos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Selección Adversa
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Falla de mercado de carácter ex-ante donde la presencia de características ocultas permite que los agentes con información privada participen desproporcionadamente en transacciones, provocando que el precio de equilibrio expulse a los bienes de alta calidad y degrade la calidad promedio del mercado.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Riesgo Moral
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Fenómeno de información asimétrica ex-post que ocurre cuando una de las partes realiza acciones ocultas que afectan la probabilidad de un evento riesgoso, debido a que no asume las consecuencias totales de sus actos tras la firma de un contrato o seguro.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Utilidad Esperada
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Marco axiomático de Von Neumann-Morgenstern para la toma de decisiones bajo incertidumbre, donde un individuo maximiza la suma ponderada por probabilidades de las utilidades de los resultados posibles, en lugar de maximizar simplemente el valor monetario esperado de una lotería.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Aversión al Riesgo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Preferencia conductual caracterizada por una función de utilidad de Bernoulli estrictamente cóncava, donde el agente prefiere el valor esperado de una lotería con certeza frente a la ejecución de la lotería misma, cumpliendo matemáticamente con la desigualdad de Jensen.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Modelo de los Limones
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Formalización teórica de George Akerlof que demuestra cómo la incertidumbre sobre la calidad de un bien (como autos usados) genera un proceso de selección adversa que puede llevar al colapso total del mercado debido a la salida sistemática de los vendedores de alta calidad.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Desigualdad de Jensen
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Propiedad matemática fundamental en economía de la incertidumbre que establece que, para una función cóncava, la utilidad del valor esperado es mayor que el valor esperado de la utilidad, sirviendo como base teórica para la existencia de primas de riesgo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Equilibrio General Competitivo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Estado ideal de la economía neoclásica donde todos los mercados se vacían simultáneamente bajo supuestos de competencia perfecta e información completa, asumiendo que los precios actúan como estadísticos suficientes para resumir toda la información relevante del sistema económico.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Lotería (Activo Riesgoso)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Representación formal de una situación de incertidumbre compuesta por un conjunto de resultados posibles y una distribución de probabilidades asociada, cuya evaluación por parte del agente depende de su actitud frente al riesgo y su función de utilidad.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Pérdida Irrecuperable de Eficiencia
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Reducción del bienestar social total que ocurre cuando las fallas de mercado, como la selección adversa, impiden la realización de intercambios mutuamente beneficiosos, generando una brecha entre la asignación de recursos alcanzada y el óptimo de Pareto.
+            </p>
+        </div>
+    </div>
+</section>
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

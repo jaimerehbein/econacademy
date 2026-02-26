@@ -465,6 +465,105 @@ graph LR
 </section>
 
 <!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Equilibrio General
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El equilibrio general es un marco teórico en microeconomía neoclásica que busca integrar el comportamiento de todos los agentes económicos, como consumidores y productores, en un sistema interconectado de mercados simultáneos. A diferencia del equilibrio parcial, este enfoque endogeniza los precios y las cantidades de todos los bienes, permitiendo analizar las complejas interdependencias y los efectos de retroalimentación en la economía en su conjunto.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Equilibrio Parcial
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El equilibrio parcial es un método de análisis económico que se enfoca en un mercado específico o un subconjunto de mercados, asumiendo que las condiciones en otros mercados permanecen constantes (ceteris paribus). Este enfoque simplifica el análisis al aislar un sector, pero ignora las interacciones y los efectos de retroalimentación que podrían surgir en una economía más amplia.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Modelo Walrasiano
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El Modelo Walrasiano, formalizado por Gérard Debreu, describe una economía mediante los conjuntos de consumo, las preferencias y las dotaciones iniciales de los agentes, así como los conjuntos de producción de las firmas. Un equilibrio walrasiano o competitivo se caracteriza por un vector de precios y una asignación de bienes donde se cumplen la maximización de utilidad, la maximización de beneficios y el vaciado de mercados.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Maximización de la Utilidad
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La maximización de la utilidad es el principio fundamental del comportamiento del consumidor en el modelo walrasiano, donde cada consumidor busca alcanzar el mayor nivel de satisfacción posible. Esto se logra eligiendo una cesta de bienes que maximice su función de utilidad, sujeta a la restricción presupuestaria impuesta por sus ingresos y los precios de los bienes disponibles en el mercado.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Maximización del Beneficio
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La maximización del beneficio es el objetivo principal de las firmas en el modelo walrasiano, donde cada productor busca obtener la mayor ganancia económica posible. Esto implica seleccionar un plan de producción que maximice la diferencia entre los ingresos totales y los costos totales, dado el vector de precios de los bienes y los insumos, y dentro de los límites de su conjunto de producción tecnológicamente factible.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Vaciado de Mercados
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                El vaciado de mercados es una condición esencial para el equilibrio en el modelo walrasiano, que establece que la demanda neta agregada para cada bien debe ser cero. Esto significa que la cantidad total demandada por los consumidores es igual a la cantidad total ofrecida por los productores, o menor o igual a cero si los bienes son libres y su precio es nulo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Ley de Walras
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La Ley de Walras es un teorema fundamental en la teoría del equilibrio general que establece que el valor del exceso de demanda agregado es idénticamente nulo para cualquier sistema de precios. Esto implica que si en una economía con L mercados, L-1 mercados están en equilibrio, el mercado L-ésimo también debe estarlo, garantizando la coherencia del sistema de precios.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Economía Abierta
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una economía abierta es un sistema económico que interactúa con otras economías a través del comercio internacional de bienes y servicios, así como de flujos de capital. A diferencia de una economía de autarquía, permite la separación entre la producción y el consumo doméstico, lo que puede generar ganancias de bienestar al expandir las posibilidades de consumo de un país.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Precios Mundiales
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Los precios mundiales son los precios de los bienes y servicios que prevalecen en el mercado internacional. En el contexto de una economía abierta pequeña, un país es considerado tomador de precios, lo que significa que no tiene la capacidad de influir en estos precios. La comparación de los precios mundiales con los precios de autarquía determina si un país exportará o importará un bien.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Eficiencia de Pareto
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La Eficiencia de Pareto es un concepto normativo central en la teoría del equilibrio general que describe una asignación de recursos en la cual no es posible mejorar el bienestar de un individuo sin empeorar simultáneamente el bienestar de al menos otro individuo. Es un criterio de optimalidad que indica que no hay reasignaciones de recursos que puedan hacer que todos estén mejor o que alguien esté mejor sin que nadie esté peor.
+            </p>
+        </div>
+    </div>
+</section>
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

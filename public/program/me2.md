@@ -1,203 +1,118 @@
+---
+titulo: "Modelos Microeconómicos"
+modulo: "ME2"
+---
+
 <div class="max-w-4xl mx-auto px-4 py-14 md:px-12 font-sans overflow-hidden">
 
 <!-- HERO -->
 <header class="mb-24">
     <div class="flex items-center gap-4 mb-8">
-        <div class="w-8 h-0.5 bg-violet-500 rounded-full"></div>
-        <span class="text-violet-400 font-black text-[10px] uppercase tracking-[0.4em]">ME2 · Módulo Sistémico</span>
+        <div class="w-8 h-0.5 bg-emerald-500 rounded-full"></div>
+        <span class="text-emerald-300 font-black text-[10px] uppercase tracking-[0.4em]">Master en Modelos Económicos</span>
     </div>
     <h1 class="text-4xl sm:text-5xl md:text-7xl font-black text-white tracking-tighter leading-none mb-8 break-words hyphens-auto">
-        EQUILIBRIO<br/>GENERAL
+        ME2
     </h1>
     <div class="flex flex-wrap gap-3">
-        <span class="bg-violet-500/15 text-violet-300 border border-violet-500/25 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Walrasian</span>
-        <span class="bg-cyan-500/15 text-cyan-300 border border-cyan-500/25 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Pareto Optimality</span>
+        <span class="bg-emerald-500/10 text-emerald-300 border border-emerald-500/20 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">Zero-Noise UX</span>
+        <span class="bg-white/5 text-slate-400 border border-white/10 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.3em]">v9.5 · Modelos Microeconómicos</span>
     </div>
 </header>
 
-<!-- INTRO -->
-<p class="text-slate-300 text-lg leading-relaxed mb-16">
-    A diferencia del equilibrio parcial, el equilibrio general analiza la interacción simultánea de todos los mercados en una economía. Es el corazón de la microeconomía moderna y la base de los teoremas fundamentales del bienestar.
-</p>
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">La Microeconomía modela el comportamiento individual de los agentes optimizadores (consumidores y empresas) sometidos a restricciones tangibles. Se centra en el mecanismo de fijación de precios y la asignación eficiente de recursos limitados mediante cálculo marginal.</p>
 
-<!-- SECTION 1 -->
-<section class="mb-24">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-violet-500 font-mono text-xs">[01]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter text-balance">Los Dos Teoremas del Bienestar</h2>
+<!-- DIAGRAMA INICIAL -->
+<div class="bg-slate-900/50 border border-white/5 rounded-3xl p-8 my-12 shadow-2xl relative overflow-hidden group">
+    <div class="absolute top-0 right-0 p-4 opacity-20 group-hover:opacity-40 transition-opacity">
+        <span class="text-4xl">📊</span>
     </div>
+    <h3 class="text-xl font-bold text-white mb-6 flex items-center gap-3">
+        Archivonomía Visual del Modelo
+    </h3>
+    <div class="overflow-hidden rounded-xl border border-white/5 bg-slate-950/50 p-6 flex justify-center">
+        <pre class="mermaid w-full flex justify-center">
+flowchart LR
+    A["Microeconomía"] --> B["Producción"]
+    A --> C["Consumo"]
+    B --> B1["Cobb-Douglas"]
+    B --> B2["Leontief"]
+    C --> C1["Maximización Utilidad"]
+    C --> C2["Restricción Presupuestaria"]
     
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div class="p-8 bg-white/5 border border-white/10 rounded-3xl relative">
-            <span class="absolute top-4 right-4 text-violet-500/20 font-black text-4xl">1</span>
-            <h4 class="text-violet-400 font-black text-[9px] uppercase tracking-widest mb-4">Primer Teorema</h4>
-            <p class="text-white text-sm leading-relaxed">Todo equilibrio competitivo es un Óptimo de Pareto. El mercado agota todas las ganancias del intercambio bajo competencia perfecta.</p>
-        </div>
-        <div class="p-8 bg-white/5 border border-white/10 rounded-3xl relative">
-            <span class="absolute top-4 right-4 text-cyan-500/20 font-black text-4xl">2</span>
-            <h4 class="text-cyan-400 font-black text-[9px] uppercase tracking-widest mb-4">Segundo Teorema</h4>
-            <p class="text-white text-sm leading-relaxed">Cualquier Óptimo de Pareto puede alcanzarse como un equilibrio competitivo mediante una redistribución inicial de los recursos.</p>
-        </div>
-    </div>
-</section>
-
-<!-- SECTION 2 (BOX DE EDGWORTH) -->
-<section class="mb-24 px-8 py-14 bg-stone-950 border border-white/5 rounded-[3rem] text-center">
-    <h4 class="text-violet-500 font-black text-[10px] uppercase tracking-[0.4em] mb-10 text-center uppercase">Vaciado de Mercados</h4>
-    <div class="text-white text-3xl md:text-5xl font-mono mb-8">
-        $\sum z_i(p) = 0$
-    </div>
-    <p class="text-slate-500 text-[10px] font-bold leading-relaxed max-w-xl mx-auto uppercase tracking-[0.2em]">
-        Ley de Walras: Si $n-1$ mercados están en equilibrio, el mercado $n$ también debe estarlo. La suma de los excesos de demanda valorados a precios de equilibrio es idénticamente nula.
-    </p>
-</section>
-
-<!-- SECTION 3 (CORE) -->
-<section class="mb-24">
-    <div class="flex items-center gap-3 mb-8">
-        <span class="text-violet-500 font-mono text-xs">[02]</span>
-        <h2 class="text-white font-black text-2xl uppercase tracking-tighter text-balance">El Núcleo (Core) de la Economía</h2>
-    </div>
-    <div class="space-y-6 text-slate-400 leading-relaxed">
-        <p>
-            El Núcleo representa el conjunto de asignaciones que ninguna coalición de agentes puede mejorar por sí misma. Se demuestra que a medida que el número de agentes tiende a infinito, el Núcleo colapsa en el conjunto de equilibrios competitivos.
-        </p>
-        <div class="bg-violet-500/5 p-8 rounded-2xl border border-violet-500/10 text-center italic text-white text-sm font-medium">
-            "La competencia perfecta es el límite asintótico de la negociación estratégica entre múltiples agentes."
-        </div>
-    </div>
-</section>
-
-
-<!-- VISUAL_ENRICHMENT -->
-<div class="my-16">
-    <div class="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-3 mb-8">
-        <span class="text-lime-500 font-mono text-xs shrink-0 self-start sm:self-auto mt-1 sm:mt-0">[DIAGRAMA]</span>
-        <h3 class="text-white font-bold text-lg sm:text-xl break-words leading-tight">Esquema Conceptual Módulo ME2</h3>
-    </div>
-    <div class="bg-black/30 p-2 md:p-6 rounded-2xl border border-white/5 overflow-x-auto">
-        
-        <pre class="mermaid bg-transparent flex justify-center">
-graph LR
-    A[Fundamentos Teóricos] --> B(Aplicación Práctica)
-    B --> C{Análisis Crítico}
-    C -->|Evaluación| D[Validación Empírica]
-    C -->|Revisión| E[Ajuste de Modelo]
-    
-    classDef default fill:#111827,stroke:#84cc16,stroke-width:1px,color:#d1d5db
-    classDef decision fill:#3f6212,stroke:#84cc16,stroke-width:2px,color:#fff
-    class C decision
+    style A fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5
+    style B fill:#064e3b,stroke:#059669,stroke-width:1px,color:#d1fae5
+    style C fill:#064e3b,stroke:#059669,stroke-width:1px,color:#d1fae5
         </pre>
-
     </div>
 </div>
 
-
-
-<!-- GLOSARIO -->
-<!-- GLOSARIO v9.5 -->
-<section id="glosario" class="mt-24 mb-16 relative">
-    <div class="flex items-center gap-4 mb-10">
-        <div class="w-1.5 h-8 bg-violet-500 rounded-full"></div>
-        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+<section class="mb-16 last:mb-0">
+<div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
+    <span class="text-2xl md:text-3xl drop-shadow-md">📌</span>
+    <div>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-emerald-300 to-teal-400 bg-clip-text text-transparent break-words leading-tight">Topologías de la Función de Producción</h2>
+        <div class="w-10 md:w-14 h-1 bg-emerald-500 rounded-full mt-2 opacity-80"></div>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Equilibrio General
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Análisis de la interacción simultánea de todos los mercados en una economía.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Óptimo de Pareto
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Una asignación de recursos donde el mercado agota todas las ganancias del intercambio bajo competencia perfecta.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Equilibrio Competitivo
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Un estado de mercado que es un Óptimo de Pareto y que puede alcanzarse a partir de cualquier Óptimo de Pareto mediante una redistribución inicial de los recursos.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Primer Teorema del Bienestar
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Establece que todo equilibrio competitivo es un Óptimo de Pareto, indicando que el mercado agota todas las ganancias del intercambio bajo competencia perfecta.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Segundo Teorema del Bienestar
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Afirma que cualquier Óptimo de Pareto puede alcanzarse como un equilibrio competitivo mediante una redistribución inicial de los recursos.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Ley de Walras
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Principio que establece que si n-1 mercados están en equilibrio, el mercado n también debe estarlo, y que la suma de los excesos de demanda valorados a precios de equilibrio es idénticamente nula.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Vaciado de Mercados
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Condición de mercado donde la suma de los excesos de demanda valorados a precios de equilibrio es idénticamente nula, implicando que los mercados están en equilibrio.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Núcleo (Core) de la Economía
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                El conjunto de asignaciones que ninguna coalición de agentes puede mejorar por sí misma.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Competencia Perfecta
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Un estado de mercado bajo el cual se agotan todas las ganancias del intercambio y que representa el límite asintótico de la negociación estratégica entre múltiples agentes.
-            </p>
-        </div>
-        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-violet-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-violet-500/5">
-            <h3 class="text-sm font-black text-violet-400 mb-2 uppercase tracking-widest flex items-center gap-2">
-                <span class="w-1.5 h-1.5 rounded-full bg-violet-500 animate-pulse"></span>
-                Redistribución Inicial de los Recursos
-            </h3>
-            <p class="text-slate-400 text-sm leading-relaxed font-medium">
-                Mecanismo mediante el cual cualquier Óptimo de Pareto puede alcanzarse como un equilibrio competitivo, según el Segundo Teorema del Bienestar.
-            </p>
-        </div>
+</div>
+
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">La función de producción abstracta abstrae cómo la tecnología combina inputs físicos (Capital $K$, Trabajo $L$) para generar valor económico. El modelo de Cobb-Douglas es la especificación más utilizada debido a sus propiedades algebraicas de elasticidad de sustitución constante.</p>
+
+<div class="bg-white/5 border border-white/10 p-4 md:p-8 my-8 rounded-2xl text-center overflow-x-auto text-slate-100 font-mono">
+    $$ Q = A \cdot K^\alpha L^\beta $$
+</div>
+
+<div class="flex items-start gap-5 p-5 bg-emerald-500/10 rounded-2xl my-3 border border-emerald-500/20 hover:bg-emerald-500/15 transition-all">
+    <div class="bg-emerald-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">1</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Rendimientos a Escala:** Si $\alpha + \beta = 1$, la firma exhibe rendimientos constantes a escala.</div>
+</div>
+<div class="flex items-start gap-5 p-5 bg-emerald-500/10 rounded-2xl my-3 border border-emerald-500/20 hover:bg-emerald-500/15 transition-all">
+    <div class="bg-emerald-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">2</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Coeficientes Fijos (Leontief):** $Q = \min (K/a, L/b)$ para procesos industriales sin sustitución.</div>
+</div>
+
+</section>
+<section class="mb-16 last:mb-0">
+<div class="flex items-center gap-4 md:gap-5 mt-10 md:mt-16 mb-6">
+    <span class="text-2xl md:text-3xl drop-shadow-md">📌</span>
+    <div>
+        <h2 class="text-xl md:text-2xl sm:text-3xl font-black tracking-tight bg-gradient-to-r from-emerald-300 to-teal-400 bg-clip-text text-transparent break-words leading-tight">Estructuras de Fallo: Monopolio</h2>
+        <div class="w-10 md:w-14 h-1 bg-emerald-500 rounded-full mt-2 opacity-80"></div>
     </div>
+</div>
+
+<p class="text-slate-300 text-base md:text-lg leading-relaxed my-4">La firma controla monopólicamente la variable precio reconociendo la demanda agregada inversa del mercado $P(Q)$. Esto genera una brecha ineficiente entre el precio y el costo marginal.</p>
+
+<div class="bg-white/5 border border-white/10 p-4 md:p-8 my-8 rounded-2xl text-center overflow-x-auto text-slate-100 font-mono">
+    $$ \frac{P - CMg}{P} = \frac{1}{|\epsilon_d|} $$
+</div>
+
+<div class="flex items-start gap-5 p-5 bg-emerald-500/10 rounded-2xl my-3 border border-emerald-500/20 hover:bg-emerald-500/15 transition-all">
+    <div class="bg-emerald-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">1</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Índice de Lerner:** Mide el poder de mercado como el margen sobre el costo marginal.</div>
+</div>
+<div class="flex items-start gap-5 p-5 bg-emerald-500/10 rounded-2xl my-3 border border-emerald-500/20 hover:bg-emerald-500/15 transition-all">
+    <div class="bg-emerald-500 text-white w-9 h-9 rounded-full flex items-center justify-center font-black flex-shrink-0 text-sm shadow-md">2</div>
+    <div class="text-slate-200 text-base leading-snug pt-1">**Pérdida de Bienestar:** El monopolio reduce el excedente total de la sociedad comparado con la competencia perfecta.</div>
+</div>
+
 </section>
 
-<!-- FOOTER -->
-<footer class="pt-10 border-t border-white/10 text-center">
-    <p class="text-slate-600 text-[10px] font-bold uppercase tracking-[0.5em]">LiceCon Portal · Equilibrio General ME2</p>
-</footer>
+
+<div class="bg-gradient-to-br from-slate-900/90 to-black border border-emerald-500/20 p-6 md:p-10 rounded-2xl md:rounded-[2rem] my-8 md:my-14 shadow-xl relative overflow-hidden">
+    <div class="absolute top-0 right-0 w-32 md:w-40 h-32 md:h-40 bg-white/5 -mr-16 md:-mr-20 -mt-16 md:-mt-20 rounded-full pointer-events-none"></div>
+    <div class="relative z-10">
+        <h5 class="text-emerald-300 text-[9px] md:text-[10px] uppercase tracking-[0.4em] font-black mb-6 flex items-center gap-3">
+            <span class="w-6 h-px inline-block opacity-60"></span>
+            Puntos Clave del Módulo
+        </h5>
+        <ul class="space-y-4">
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-emerald-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>La optimización restringida es el núcleo de las decisiones del agente representativo.</span></li>
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-emerald-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>Bajo competencia perfecta, los teoremas del bienestar garantizan asignaciones Pareto-eficientes.</span></li>
+<li class="flex items-start gap-3 text-slate-200 text-sm leading-relaxed"><span class="text-emerald-400 flex-shrink-0 mt-0.5 font-black">✦</span><span>El monopolio desvía el equilibrio competitivo, forzando la intervención normativa.</span></li>
+
+        </ul>
+    </div>
+</div>
 
 </div>

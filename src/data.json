@@ -3,6 +3,14 @@
   "institucion": "Tech Institute",
   "asignaturas": [
     {
+      "id": 1600,
+      "codigo": "MAP1",
+      "nombre": "Atlas de Modelos Mentales",
+      "descripcion": "Cartografía definitiva de los modelos económicos, sociopolíticos e históricos destilados en topologías de red neuronales (Mindmaps).",
+      "programa": "Compendio Visual de Modelos",
+      "dificultad": "Avanzado"
+    },
+    {
       "id": 1,
       "codigo": "A1",
       "nombre": "Administración de empresas",
@@ -797,7 +805,7 @@
     {
       "id": 7001,
       "codigo": "ME1",
-      "nombre": "Optimización Estática",
+      "nombre": "Modelos Macroeconómicos",
       "categoria": "Modelado · Módulo 1",
       "dificultad": "Extrema",
       "programa": "Master en Modelos Económicos"
@@ -805,7 +813,7 @@
     {
       "id": 7002,
       "codigo": "ME2",
-      "nombre": "Equilibrio General",
+      "nombre": "Modelos Microeconómicos",
       "categoria": "Modelado · Módulo 2",
       "dificultad": "Extrema",
       "programa": "Master en Modelos Económicos"
@@ -813,7 +821,7 @@
     {
       "id": 7003,
       "codigo": "ME3",
-      "nombre": "Modelos Dinámicos",
+      "nombre": "Modelos de Crecimiento Económico",
       "categoria": "Modelado · Módulo 3",
       "dificultad": "Extrema",
       "programa": "Master en Modelos Económicos"
@@ -821,7 +829,7 @@
     {
       "id": 7004,
       "codigo": "ME4",
-      "nombre": "Teoría de Juegos",
+      "nombre": "Modelos de Desarrollo Económico",
       "categoria": "Modelado · Módulo 4",
       "dificultad": "Extrema",
       "programa": "Master en Modelos Económicos"
@@ -829,7 +837,7 @@
     {
       "id": 7005,
       "codigo": "ME5",
-      "nombre": "Modelos Macroeconométricos",
+      "nombre": "Modelos Estadísticos",
       "categoria": "Modelado · Módulo 5",
       "dificultad": "Extrema",
       "programa": "Master en Modelos Económicos"
@@ -837,16 +845,8 @@
     {
       "id": 7006,
       "codigo": "ME6",
-      "nombre": "Redes y Computación",
+      "nombre": "Modelos de Optimización",
       "categoria": "Modelado · Módulo 6",
-      "dificultad": "Extrema",
-      "programa": "Master en Modelos Económicos"
-    },
-    {
-      "id": 7007,
-      "codigo": "ME7",
-      "nombre": "Modelado Estocástico",
-      "categoria": "Modelado · Módulo 7",
       "dificultad": "Extrema",
       "programa": "Master en Modelos Económicos"
     },
@@ -913,6 +913,190 @@
       "categoria": "Política · Módulo 7",
       "dificultad": "Alta",
       "programa": "Master en Economía Política"
+    },
+    {
+      "id": 9000,
+      "codigo": "ei_master",
+      "nombre": "Economía Internacional (MASTER)",
+      "categoria": "Master · Macro Abierta",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9001,
+      "codigo": "EI1",
+      "nombre": "Comercio Mundial y Ventaja Comparativa",
+      "categoria": "Internacional · Módulo 1",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9002,
+      "codigo": "EI2",
+      "nombre": "Factores Específicos y Heckscher-Ohlin",
+      "categoria": "Internacional · Módulo 2",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9003,
+      "codigo": "EI3",
+      "nombre": "Modelo Estándar y Economías de Escala",
+      "categoria": "Internacional · Módulo 3",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9004,
+      "codigo": "EI4",
+      "nombre": "Empresas Multinacionales en la Economía Global",
+      "categoria": "Internacional · Módulo 4",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9005,
+      "codigo": "EI5",
+      "nombre": "Instrumentos de Política Comercial",
+      "categoria": "Internacional · Módulo 5",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9006,
+      "codigo": "EI6",
+      "nombre": "Política Comercial en Países en Desarrollo",
+      "categoria": "Internacional · Módulo 6",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9007,
+      "codigo": "EI7",
+      "nombre": "Contabilidad Nacional y Mercado de Divisas",
+      "categoria": "Internacional · Módulo 7",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9008,
+      "codigo": "EI8",
+      "nombre": "Dinero, Tipos de Interés y Precios a Largo Plazo",
+      "categoria": "Internacional · Módulo 8",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9009,
+      "codigo": "EI9",
+      "nombre": "Producción Nacional y Tipos de Cambio a Corto Plazo",
+      "categoria": "Internacional · Módulo 9",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9010,
+      "codigo": "EI10",
+      "nombre": "Sistemas Monetarios y Áreas Óptimas",
+      "categoria": "Internacional · Módulo 10",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 9011,
+      "codigo": "EI11",
+      "nombre": "Globalización Financiera y Crisis",
+      "categoria": "Internacional · Módulo 11",
+      "dificultad": "Extrema",
+      "programa": "Master en Economía Internacional"
+    },
+    {
+      "id": 10000,
+      "codigo": "mat_master",
+      "nombre": "Matemáticas Económicas (MASTER)",
+      "categoria": "Master · Cuantitativo",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10001,
+      "codigo": "ME1",
+      "nombre": "Fundamentos de Análisis Multivariable",
+      "categoria": "Matemáticas · Módulo 1",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10002,
+      "codigo": "ME2",
+      "nombre": "Cálculo Diferencial Marginalista",
+      "categoria": "Matemáticas · Módulo 2",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10003,
+      "codigo": "ME3",
+      "nombre": "Funciones Homogéneas e Implícitas",
+      "categoria": "Matemáticas · Módulo 3",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10004,
+      "codigo": "ME4",
+      "nombre": "Regla de la Cadena y Estática",
+      "categoria": "Matemáticas · Módulo 4",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10005,
+      "codigo": "ME5",
+      "nombre": "Optimización y Convexidad",
+      "categoria": "Matemáticas · Módulo 5",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10006,
+      "codigo": "ME6",
+      "nombre": "Integración y Bienestar Económico",
+      "categoria": "Matemáticas · Módulo 6",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10007,
+      "codigo": "ME7",
+      "nombre": "Integrales Impropias y Flujos",
+      "categoria": "Matemáticas · Módulo 7",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10008,
+      "codigo": "ME8",
+      "nombre": "Ecuaciones Diferenciales",
+      "categoria": "Matemáticas · Módulo 8",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10009,
+      "codigo": "ME9",
+      "nombre": "Variables Aleatorias Continuas",
+      "categoria": "Matemáticas · Módulo 9",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
+    },
+    {
+      "id": 10010,
+      "codigo": "ME10",
+      "nombre": "Álgebra Lineal Aplicada",
+      "categoria": "Matemáticas · Módulo 10",
+      "dificultad": "Extrema",
+      "programa": "Master en Matemáticas Económicas"
     }
   ]
 }

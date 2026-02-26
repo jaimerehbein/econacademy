@@ -521,6 +521,105 @@ graph LR
 </section>
 
 <!-- GLOSARIO -->
+<!-- GLOSARIO v9.5 -->
+<section id="glosario" class="mt-24 mb-16 relative">
+    <div class="flex items-center gap-4 mb-10">
+        <div class="w-1.5 h-8 bg-indigo-500 rounded-full"></div>
+        <h2 class="text-2xl font-black text-white tracking-tight uppercase italic">Glosario Técnico</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 relative z-10">
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Competencia Monopolística
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una estructura de mercado híbrida que se caracteriza por la existencia de un gran número de empresas que compiten, cada una ofreciendo un producto diferenciado que le otorga cierto poder de mercado para fijar precios, pero enfrentando una demanda elástica y la libre entrada de nuevas firmas, lo que conduce a beneficios económicos nulos a largo plazo.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Diferenciación del Producto
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Estrategia mediante la cual una empresa dota a su producto de características únicas o percibidas como tales por los consumidores, ya sea a través de atributos físicos, marca, calidad, diseño, ubicación o servicio, permitiéndole distinguirse de los competidores y ejercer un control limitado sobre su precio en el mercado.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Atomicidad del Mercado
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Característica de un mercado donde existe un número significativamente grande de empresas vendedoras, cada una de las cuales es relativamente pequeña en comparación con el tamaño total del mercado. Esto implica que las acciones de una empresa individual tienen un impacto insignificante en el mercado global y en las decisiones de sus competidores.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Libre Entrada y Salida
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Condición de un mercado que permite a nuevas empresas ingresar o a las existentes salir sin enfrentar barreras significativas, ya sean legales, tecnológicas o económicas. Esta característica es crucial para el ajuste a largo plazo en mercados competitivos, ya que la entrada de nuevas firmas erosiona los beneficios extraordinarios y la salida reduce las pérdidas.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Poder de Mercado Residual
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                La capacidad limitada que posee una empresa para influir en el precio de su producto debido a la diferenciación, a pesar de la presencia de numerosos competidores. Este poder se manifiesta en una curva de demanda con pendiente negativa para la empresa individual, a diferencia de la demanda perfectamente elástica en competencia perfecta.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Curva de Demanda con Pendiente Negativa
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Representación gráfica de la relación inversa entre el precio de un bien o servicio y la cantidad demandada por los consumidores. En el contexto de la competencia monopolística, esta curva para una empresa individual indica que, a medida que aumenta el precio de su producto diferenciado, la cantidad demandada disminuye, aunque no de forma infinitamente elástica.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Elasticidad Precio Cruzada de la Demanda
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Medida de la sensibilidad de la cantidad demandada de un bien ante un cambio en el precio de otro bien. En la competencia monopolística, los productos diferenciados tienen una alta, pero finita, elasticidad precio cruzada, lo que significa que son sustitutos cercanos pero no perfectos.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Tomador de Precios (Price Taker)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una empresa que opera en un mercado perfectamente competitivo y no tiene la capacidad de influir en el precio de mercado de su producto. Debe aceptar el precio determinado por la oferta y la demanda del mercado, vendiendo toda su producción a ese precio.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Hacedor de Precios (Price Maker)
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Una empresa que tiene la capacidad de influir en el precio de mercado de su producto. Esto ocurre en mercados donde hay diferenciación de productos, monopolios u oligopolios, permitiendo a la empresa establecer precios por encima del costo marginal para maximizar sus beneficios.
+            </p>
+        </div>
+        <div class="group p-6 rounded-2xl bg-slate-900/40 backdrop-blur-sm border border-white/5 hover:border-indigo-500/30 transition-all duration-500 hover:shadow-2xl hover:shadow-indigo-500/5">
+            <h3 class="text-sm font-black text-indigo-400 mb-2 uppercase tracking-widest flex items-center gap-2">
+                <span class="w-1.5 h-1.5 rounded-full bg-indigo-500 animate-pulse"></span>
+                Equilibrio a Corto Plazo
+            </h3>
+            <p class="text-slate-400 text-sm leading-relaxed font-medium">
+                Situación en un mercado donde el número de empresas es fijo y cada empresa maximiza sus beneficios al producir una cantidad donde el ingreso marginal es igual al costo marginal. En competencia monopolística, esto puede resultar en beneficios económicos positivos, negativos o nulos, ya que no hay tiempo para la entrada o salida de empresas.
+            </p>
+        </div>
+    </div>
+</section>
 <!-- FOOTER -->
 <footer class="mt-28 pt-10 border-t border-white/10">
     <div class="flex flex-col md:flex-row justify-between items-center gap-6">

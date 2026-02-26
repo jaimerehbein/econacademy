@@ -131,6 +131,48 @@ const PROGRAMS = [
         barColor: 'bg-rose-500',
         hasSortToggle: false,
     },
+    {
+        key: 'Master en Economía Internacional',
+        label: 'Master',
+        sublabel: 'Economía Internacional',
+        badge: 'EI',
+        color: 'teal',
+        from: 'from-teal-600',
+        to: 'to-cyan-600',
+        accent: 'text-teal-300',
+        accentBg: 'bg-teal-500/15',
+        accentBorder: 'border-teal-500/25',
+        barColor: 'bg-teal-500',
+        hasSortToggle: false,
+    },
+    {
+        key: 'Master en Matemáticas Económicas',
+        label: 'Master',
+        sublabel: 'Matemáticas Económicas',
+        badge: 'ME',
+        color: 'fuchsia',
+        from: 'from-fuchsia-600',
+        to: 'to-pink-600',
+        accent: 'text-fuchsia-300',
+        accentBg: 'bg-fuchsia-500/15',
+        accentBorder: 'border-fuchsia-500/25',
+        barColor: 'bg-fuchsia-500',
+        hasSortToggle: false,
+    },
+    {
+        key: 'Compendio Visual de Modelos',
+        label: 'Visual',
+        sublabel: 'Modeloteca',
+        badge: 'MAP',
+        color: 'slate',
+        from: 'from-slate-600',
+        to: 'to-gray-600',
+        accent: 'text-slate-300',
+        accentBg: 'bg-slate-500/15',
+        accentBorder: 'border-slate-500/25',
+        barColor: 'bg-slate-500',
+        hasSortToggle: false,
+    },
 ];
 
 function sortByProgramNumber(subjects) {
@@ -147,7 +189,7 @@ const SubjectLink = ({ sub, onClick }) => (
             <div className={`
                 group flex items-center justify-between px-4 py-2.5 rounded-lg text-sm transition-all duration-300 border
                 ${isActive
-                    ? 'bg-gradient-to-r from-indigo-600/90 to-purple-600/90 text-white shadow-lg shadow-indigo-500/25 border-white/10 translate-x-1'
+                    ? 'bg-gradient-to-r from-amber-600/90 to-orange-600/90 text-white shadow-lg shadow-amber-500/25 border-white/10 translate-x-1'
                     : 'border-transparent hover:bg-white/5 hover:text-slate-100 hover:translate-x-1'}
             `}>
                 <div className="flex items-center gap-3 overflow-hidden flex-1 min-w-0 mr-2">
@@ -265,7 +307,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
             {/* Logo */}
             <div className="p-4 md:p-6 border-b border-white/5 flex items-center justify-between gap-4 relative overflow-hidden flex-shrink-0">
                 <div className="flex items-center">
-                    <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-emerald-500/5 to-transparent pointer-events-none" />
+                    <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-amber-500/5 to-transparent pointer-events-none" />
                     <img
                         src="/assets/logo.png"
                         alt="EconAcademy"
@@ -288,14 +330,14 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
                         onClick={handleLinkClick}
                         className={({ isActive }) =>
                             `flex items-center gap-3 px-4 py-3 rounded-xl transition-all duration-300 ${isActive
-                                ? 'bg-white/10 text-indigo-300 font-semibold border border-white/10 shadow-[inset_0_1px_0_rgba(255,255,255,0.1)]'
+                                ? 'bg-white/10 text-amber-500 font-semibold border border-white/10 shadow-[inset_0_1px_0_rgba(255,255,255,0.1)]'
                                 : 'hover:bg-white/5 hover:text-white text-slate-400'
                             }`
                         }
                     >
                         {({ isActive }) => (
                             <>
-                                <Home size={18} className={isActive ? 'text-indigo-400' : ''} />
+                                <Home size={18} className={isActive ? 'text-amber-500' : ''} />
                                 <span className="text-sm tracking-wide">Explorador General</span>
                             </>
                         )}
@@ -315,8 +357,8 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
                 <div className="flex items-center justify-between mb-2">
                     <span className="text-[10px] font-bold text-slate-300 uppercase tracking-widest">Sincronización</span>
                     <div className="relative flex h-2.5 w-2.5">
-                        <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                        <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
+                        <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75"></span>
+                        <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-amber-500"></span>
                     </div>
                 </div>
                 <p className="text-[11px] text-slate-400 flex items-center gap-1.5">

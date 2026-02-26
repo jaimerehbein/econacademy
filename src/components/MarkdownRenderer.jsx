@@ -42,15 +42,24 @@ const MarkdownRenderer = ({ content }) => {
 
   if (!content) return null;
 
-  // If the file is pre-built HTML (starts with <div or <article),
+  // Strip YAML frontmatter
+  let cleanContent = content;
+  if (content.trimStart().startsWith('---')) {
+    const parts = content.trimStart().split('---');
+    if (parts.length >= 3) {
+      cleanContent = parts.slice(2).join('---').trimStart();
+    }
+  }
+
+  // If the file is pre-built HTML (starts with <div, <article, or <section),
   // inject it directly so tags are not shown as raw text.
-  const trimmed = content.trimStart();
-  if (trimmed.startsWith('<div') || trimmed.startsWith('<article')) {
+  const trimmed = cleanContent.trimStart();
+  if (trimmed.startsWith('<div') || trimmed.startsWith('<article') || trimmed.startsWith('<section')) {
     return (
       <div
         ref={containerRef}
         className="markdown-content"
-        dangerouslySetInnerHTML={{ __html: content }}
+        dangerouslySetInnerHTML={{ __html: cleanContent }}
       />
     );
   }
@@ -68,7 +77,7 @@ const MarkdownRenderer = ({ content }) => {
           }
         }}
       >
-        {content}
+        {cleanContent}
       </ReactMarkdown>
     </div>
   );

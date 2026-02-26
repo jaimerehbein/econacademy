@@ -1,0 +1,27 @@
+flowchart LR
+    classDef root fill:#0f172a,stroke:#3b82f6,stroke-width:2px,color:#eff6ff,font-weight:bold
+    classDef main fill:#1e293b,stroke:#64748b,stroke-width:1px,color:#e2e8f0
+    classDef sub fill:#020617,stroke:#3f3f46,stroke-dasharray: 3 3,color:#a1a1aa
+    classDef alert fill:#be185d,stroke:#fbcfe8,stroke-width:1px,color:#fff
+    classDef bright fill:#0ea5e9,stroke:#bae6fd,stroke-width:1px,color:#fff
+
+    A["KEYNESIANISMO (Corto Plazo)"] :::root
+
+    A --> B["Demanda Agregada"] :::main
+    B --> B1["Consumo (C)"] :::sub
+    B --> B2["Inversión (I)"] :::sub
+    B --> B3["Gasto Público (G)"] :::bright
+
+    B1 -.-> B1a["Propensión Marginal"] :::sub
+    B2 -.-> B2a["Espíritus Animales"] :::sub
+    B3 -.-> B3a["Multiplicador Keynesiano"] :::bright
+
+    A --> C["Modelo IS-LM"] :::main
+    C --> C1["Curva IS (Bienes)"] :::sub
+    C --> C2["Curva LM (Dinero)"] :::sub
+    C2 -.-> C2a["Trampa de Liquidez"] :::alert
+
+    A --> D["Mercado Laboral"] :::main
+    D --> D1["Rigidez Salarial"] :::sub
+    D --> D2["Desempleo Involuntario"] :::alert
+    D --> D3["Ilusión Monetaria"] :::sub

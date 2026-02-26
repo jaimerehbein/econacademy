@@ -7,16 +7,18 @@ import subjectsData from '../data.json';
 
 // Color map for program badges
 const PROGRAM_COLORS = {
-    'Licenciatura en Economía': { accent: 'text-indigo-400', bg: 'bg-indigo-500/10', border: 'border-indigo-500/25' },
-    'Maestría en Ciencias Económicas': { accent: 'text-emerald-400', bg: 'bg-emerald-500/10', border: 'border-emerald-500/25' },
-    'Master en Macroeconomía': { accent: 'text-fuchsia-400', bg: 'bg-fuchsia-500/10', border: 'border-fuchsia-500/25' },
-    'Master en Microeconomía': { accent: 'text-amber-400', bg: 'bg-amber-500/10', border: 'border-amber-500/25' },
-    'Master en Ingeniería Financiera': { accent: 'text-cyan-400', bg: 'bg-cyan-500/10', border: 'border-cyan-500/25' },
-    'Master en Economía Política': { accent: 'text-rose-400', bg: 'bg-rose-500/10', border: 'border-rose-500/25' },
-    'Master en Economía Básica': { accent: 'text-orange-400', bg: 'bg-orange-500/10', border: 'border-orange-500/25' },
+    'Licenciatura en Economía': { accent: 'text-amber-500', bg: 'bg-amber-500/10', border: 'border-amber-500/25' },
+    'Maestría en Ciencias Económicas': { accent: 'text-orange-500', bg: 'bg-orange-500/10', border: 'border-orange-500/25' },
+    'Master en Matemáticas Económicas': { accent: 'text-accent-success', bg: 'bg-accent-success/10', border: 'border-accent-success/25' },
+    'Compendio Visual de Modelos': { accent: 'text-accent-success', bg: 'bg-accent-success/10', border: 'border-accent-success/25' },
+    'Master en Macroeconomía': { accent: 'text-amber-400', bg: 'bg-amber-400/10', border: 'border-amber-400/25' },
+    'Master en Microeconomía': { accent: 'text-orange-400', bg: 'bg-orange-400/10', border: 'border-orange-400/25' },
+    'Master en Ingeniería Financiera': { accent: 'text-amber-600', bg: 'bg-amber-600/10', border: 'border-amber-600/25' },
+    'Master en Economía Política': { accent: 'text-orange-600', bg: 'bg-orange-600/10', border: 'border-orange-600/25' },
+    'Master en Economía Básica': { accent: 'text-amber-300', bg: 'bg-amber-300/10', border: 'border-amber-300/25' },
 };
 
-const DEFAULT_COLOR = { accent: 'text-slate-400', bg: 'bg-slate-500/10', border: 'border-slate-500/25' };
+const DEFAULT_COLOR = { accent: 'text-amber-500', bg: 'bg-amber-500/10', border: 'border-amber-500/25' };
 
 const SubjectPage = () => {
     const { id } = useParams();
@@ -51,14 +53,19 @@ const SubjectPage = () => {
     return (
         <div className="animate-in fade-in slide-in-from-bottom-8 duration-700 min-h-screen">
             {loading ? (
-                <div className="flex flex-col items-center justify-center py-40 space-y-6">
-                    <div className="relative">
-                        <div className="absolute inset-0 bg-indigo-500 blur-xl opacity-20 rounded-full animate-pulse"></div>
-                        <Loader2 size={48} className="text-indigo-400 animate-spin relative z-10" />
+                <div className="flex flex-col items-center gap-6">
+                    <div className="relative group">
+                        <div className="absolute inset-0 bg-accent-success blur-xl opacity-20 rounded-full animate-pulse"></div>
+                        <Loader2 size={48} className="text-accent-success animate-spin relative z-10" />
                     </div>
-                    <p className="text-indigo-300/80 font-bold font-mono text-[11px] uppercase tracking-[0.4em] animate-pulse">
-                        Descifrando Conocimiento...
-                    </p>
+                    <div className="space-y-2 text-center items-center flex flex-col">
+                        <p className="text-accent-success/80 font-bold font-mono text-[11px] uppercase tracking-[0.4em] animate-pulse">
+                            Iniciando Transmisión Neuronal...
+                        </p>
+                        <div className="h-0.5 w-32 bg-white/5 rounded-full overflow-hidden relative">
+                            <div className="absolute inset-0 bg-gradient-to-r from-transparent via-accent-success to-transparent animate-[shimmer_2s_infinite]"></div>
+                        </div>
+                    </div>
                 </div>
             ) : error ? (
                 <div className="bg-red-500/10 backdrop-blur-md border-l-4 border-red-500/50 p-8 rounded-xl shadow-lg shadow-red-500/5 my-10">
@@ -72,8 +79,8 @@ const SubjectPage = () => {
                 <article className="max-w-4xl mx-auto bg-transparent relative z-10">
 
                     {/* ── Breadcrumb ── */}
-                    <div className="mb-8 flex items-center gap-2 text-[11px] font-bold text-slate-500 uppercase tracking-widest font-mono flex-wrap">
-                        <Link to="/" className="hover:text-slate-300 transition-colors flex items-center gap-1">
+                    <div className="mb-6 md:mb-8 flex items-center gap-1.5 md:gap-2 text-[9px] md:text-[11px] font-bold text-slate-500 uppercase tracking-widest font-mono flex-wrap">
+                        <Link to="/" className="hover:text-slate-300 transition-colors flex items-center gap-1 shrink-0">
                             <LayoutGrid size={10} /> EconAcademy
                         </Link>
                         <ChevronRight size={10} className="text-slate-700" />
@@ -140,11 +147,11 @@ const SubjectPage = () => {
                                 <span className={`text-[10px] font-mono ${colors.accent}`}>{nextSubject.codigo}</span>
                             </button>
                         ) : (
-                            <div className="flex flex-col gap-1.5 p-5 bg-emerald-500/5 border border-emerald-500/15 rounded-2xl text-right sm:items-end">
-                                <span className="text-[10px] font-mono font-bold text-emerald-500/60 uppercase tracking-widest">
+                            <div className="flex flex-col gap-1.5 p-5 bg-amber-500/5 border border-amber-500/15 rounded-2xl text-right sm:items-end group hover:border-amber-500/30 transition-all">
+                                <span className="text-[10px] font-mono font-bold text-amber-500/60 uppercase tracking-widest">
                                     ✓ Programa completado
                                 </span>
-                                <Link to="/" className="text-sm font-bold text-emerald-400 hover:text-emerald-300 transition-colors">
+                                <Link to="/" className="text-sm font-bold text-amber-500 hover:text-amber-400 transition-colors">
                                     Explorar otros programas →
                                 </Link>
                             </div>
